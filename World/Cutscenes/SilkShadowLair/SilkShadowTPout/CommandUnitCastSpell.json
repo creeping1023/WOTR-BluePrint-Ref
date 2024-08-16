@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Hilor/SilkShadowInDrezen/HilorSpeakWithSilkShadow"], ["Data.m_SpellBlueprint", "Spells/CutsceneSpells/DimensionDoor_Cutscene"]], "referenced": [["Data.m_Tracks[2].m_Commands[1]", "World/Cutscenes/SilkShadowLair/SilkShadowTPout/SilkShadowTPout"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Armies/Leaders/Abilities/RangerAbilities/RangerFlareFact"], ["Data.Components[1].m_Ability", "Armies/Leaders/Abilities/RangerAbilities/RangerFlareAbility"]], "referenced": [["Data.m_Skills[2]", "Armies/Leaders/Progression/AbilityRangerChoice1"], ["Data.m_baseSkills[1]", "Armies/Leaders/Warlords/WarlordLeaderRanger4"]]}

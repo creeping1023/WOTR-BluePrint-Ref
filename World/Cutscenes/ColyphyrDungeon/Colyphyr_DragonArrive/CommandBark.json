@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/Chapter04/ColyphyrStory/ColyphyrStates/PrisonerOfKestoglyr"], ["Data.Unit.m_SummonPool", "World/Encounters/ColyphyrDungeon/SummonPools/Colyphyr_Melazmera"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/ColyphyrDungeon/Colyphyr_DragonArrive/gate 2"]]}

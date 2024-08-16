@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Spells/CutsceneSpells/FireballCutsceneQuickened"]]}
+{"referencing": [["Data.Components[1].m_Projectiles[0]", "FX/Cutscenes/AshGiantCatapult01"], ["Data.m_Description.m_OwnerString", "Spells/CutsceneSpells/FireballCutsceneQuickened"]], "referenced": [["Data.Action.Actions[0].m_Spell", "World/Cutscenes/DrezenCitadel_Level1/RightGiantAttack/CommandAction"]]}

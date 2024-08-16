@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_MainHand", "Weapons/Items/Masterwork/MasterworkHeavyPick"]], "referenced": [["Data.Components[3].m_Facts[0]", "Units/Monsters/Ecorche/Colyphyr/Colyphyr_BloodyUrod"], ["Data.Action.Actions[0].m_Buff", "World/Cutscenes/ColyphyrDungeon/Colyphyr_SlavesFromFleshMarket/CommandAction"]]}

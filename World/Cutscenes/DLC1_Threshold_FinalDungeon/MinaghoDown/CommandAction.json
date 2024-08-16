@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].ActionsOnSpawn.Actions[0].m_Faction", "Factions/CutsceneNeutrals"], ["Data.Action.Actions[1].ActionsOnSpawn.Actions[0].m_Buff", "Buffs/Paralyzed"]], "referenced": [["Data.m_Tracks[2].m_Commands[0]", "World/Cutscenes/DLC1_Threshold_FinalDungeon/MinaghoDown/MinaghoDown"]]}

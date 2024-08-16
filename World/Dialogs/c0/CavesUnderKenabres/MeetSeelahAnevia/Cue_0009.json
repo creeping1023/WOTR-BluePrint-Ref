@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Seelah/Seelah_Companion"], ["Data.Answers[0]", "World/Dialogs/c0/CavesUnderKenabres/MeetSeelahAnevia/AnswersList_0005"]], "referenced": [["Data.CuesSeen[29]", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/c0/CavesUnderKenabres/MeetSeelahAnevia/Answer_0006"]]}

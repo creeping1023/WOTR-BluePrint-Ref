@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Feats/CraneStyle/CraneStyleRiposteBuff"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "Feats/CraneStyle/CraneStyleRiposteBuff"]], "referenced": [["Data.Components[0].Activated.Actions[0].IfTrue.Actions[0].m_Buff", "Feats/PummelingStyleBuff"]]}

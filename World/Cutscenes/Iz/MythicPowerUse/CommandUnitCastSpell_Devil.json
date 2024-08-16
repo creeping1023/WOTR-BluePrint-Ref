@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Answer", "World/Dialogs/c5/Iz/DeskariFight/Answer_0035"], ["Data.m_SpellBlueprint", "Spells/CutsceneSpells/MythicPowerUse_Cutscene_devil"]], "referenced": [["Data.m_Tracks[8].m_Commands[0]", "World/Cutscenes/Iz/MythicPowerUse/gate1"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_CheckedBuff", "Units/Abilities/Mounts/MountedBuff"], ["Data.Components[0].m_ExtraEffectBuff", "Mythic/MythicAbilities/PerfectCavalryBuff"]], "referenced": [["Data.m_AllFeatures[62]", "Mythic/MythicAbilitySelection"], ["Data.m_AllFeatures[61]", "Mythic/Feats/ExtraMythicAbilityMythicFeat"]]}

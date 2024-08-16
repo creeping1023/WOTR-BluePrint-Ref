@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Objective", "World/Quests/c5/IneluctablePrison_ch5/Obj3_ComeIntoLabyrinth"], ["Data.OnStop.Actions[1].m_Objective", "World/Quests/c5/IneluctablePrison_ch5/Obj4_FindHeraldsCage"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/LabyrinthOfBaphometh/Svendack_Welcome/Answer_0024"]]}

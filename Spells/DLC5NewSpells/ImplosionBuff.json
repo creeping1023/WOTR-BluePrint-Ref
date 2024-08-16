@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Activated.Actions[0].m_Buff", "Spells/DLC5NewSpells/ImplosionImmunityBuff"]], "referenced": [["Data.Components[3].Actions.Actions[0].m_Buff", "Spells/DLC5NewSpells/Implosion"], ["Data.Components[3].Actions.Actions[0].m_Buff", "Spells/DLC5NewSpells/ImplosionAbilityMove"]]}

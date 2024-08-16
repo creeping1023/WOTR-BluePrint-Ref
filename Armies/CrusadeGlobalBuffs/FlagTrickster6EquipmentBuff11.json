@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Features[0]", "Armies/Abilities/BonusFactsForArmy/ArmyTrickster6EquipmentFeature11"], ["Data.Components[0].m_Features[1]", "Armies/Abilities/BonusFactsForArmy/ArmySummonCentipedeFeature"]], "referenced": [["Data.Components[0].Actions.Actions[0].m_Buffs[2]", "Armies/CrusadeGlobalBuffs/FlagTrickster6Equipment"]]}

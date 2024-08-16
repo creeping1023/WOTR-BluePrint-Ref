@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Condition.Conditions[0].m_Fact", "Traits/Races/Common/OutsiderType"], ["Data.Components[0].m_Buff", "Units/Monsters/Devastator/Devastator_AuraOfCorruptionBuff"]], "referenced": [["Data.Components[0].m_AreaEffect", "Units/Monsters/Devastator/Devastator_AuraOfCorruptionAreaBuff"]]}

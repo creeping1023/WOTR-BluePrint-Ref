@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_flag", "World/Encounters/MidnightFane/UnlockableFlags/MidnightFane_MinaghoOnKnee_Dialog"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/MidnightFane/MinaghoAndAzata/Cue_0011"]], "referenced": [["Data.FirstCue.Cues[0]", "World/Dialogs/c3/MidnightFane/MinaghoAndAzata/MinaghoAndAzata_MidnightFane_dialog"]]}

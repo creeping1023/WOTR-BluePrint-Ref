@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Actions.Actions[0].m_Achievement", "Achievements/36_CoreOfRiddle"], ["Data.m_Parent", "World/Etudes/Common/ImportantStates/GameAchievements/Achievements_LevelDesign"]], "referenced": [["Data.FinishActions.Actions[0].Etude", "World/Dialogs/c2_vs/GlobalPuzzle/KinyFreed/KinyFreed_dialog"]]}

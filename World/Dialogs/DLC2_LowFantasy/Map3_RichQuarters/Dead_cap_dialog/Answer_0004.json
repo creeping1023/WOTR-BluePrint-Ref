@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/Dead_cap_dialog/Cue_0007"], ["Data.ShowConditions.Conditions[0].m_ConditionFlag", "World/Encounters/DLC2_RichQuarter/UnlockableFlags/AlchemistShop"]], "referenced": [["Data.Answers[1]", "World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/Dead_cap_dialog/AnswersList_0002"]]}

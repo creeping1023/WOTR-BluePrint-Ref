@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Actions.Actions[0].Succeed.Actions[0].m_Buff", "Buffs/Shaken"], ["Data.Components[1].Actions.Actions[0].Failed.Actions[0].m_Buff", "Buffs/Frightened"]], "referenced": [["Data.m_Ability", "Brain/Actions/TrollhoundHowlAiAction"]]}

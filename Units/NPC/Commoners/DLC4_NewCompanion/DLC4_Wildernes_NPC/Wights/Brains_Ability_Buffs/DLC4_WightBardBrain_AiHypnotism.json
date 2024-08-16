@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Brain/Considerations/AoE_AvoidFriends"], ["Data.m_TargetConsiderations[1]", "Brain/Considerations/AoE_ChooseMoreEnemies"], ["Data.m_Ability", "Spells/Level2/Hypnotism"]], "referenced": [["Data.m_Actions[2]", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Wights/Brains_Ability_Buffs/DLC4_WightBardBrain"]]}

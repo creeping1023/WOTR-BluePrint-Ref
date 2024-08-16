@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Abilities[0]", "Spells/Level5/ConeOfCold"], ["Data.Components[0].Abilities[1]", "Spells/Level4/Boneshatter"], ["Data.Components[0].Abilities[2]", "Spells/Level3/Fireball"]], "referenced": [["Data.m_AddFacts[9]", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/LabyrinthOfBaphomet/AlderpashLich25"]]}

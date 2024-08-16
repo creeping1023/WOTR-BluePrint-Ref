@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_IgnoreFeature", "Mythic/MythicAbilities/Corrupter"], ["Data.Components[1].m_Facts[0]", "CreatureAbilities/EnergyImmunity/ElectricityImmunity"]], "referenced": [["Data.LevelEntries[2].m_Features[7]", "Mythic/Demon/DemonProgression"], ["Data.m_Actions.Actions[1].m_Feature", "Root/Upgraders/Player/PF-339343"]]}

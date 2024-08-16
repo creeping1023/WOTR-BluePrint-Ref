@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_SummonPool", "World/Encounters/DLC5_GoblinsPartyInTheTower/SummonPools/DLC5_GoblinsPartyInTheTower_FireRoomParty"], ["Data.Action.Actions[0].Actions.Actions[0].m_Faction", "Factions/Mobs"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC5_GoblinsPartyInTheTower/DLC5_GoblinsPartyInTheTower_FireRoom/gate1"]]}

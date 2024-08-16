@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/TheIvoryLabyrinth/Herald_pose/CommandUnitPlayCutsceneAnimation"]], "referenced": [["Data.Action.Actions[0].m_Cutscene", "World/Cutscenes/TheIvoryLabyrinth/HeraldHeart_Cutscene/CommandAction1"], ["Data.OnStop.Actions[0].m_Cutscene", "World/Dialogs/c5/LabyrinthOfBaphometh/Herald/Cue_0003"]]}

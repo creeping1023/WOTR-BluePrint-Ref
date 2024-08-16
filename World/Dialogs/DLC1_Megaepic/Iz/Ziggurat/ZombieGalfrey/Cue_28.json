@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/DLC1_Megaepic/DLC1_LichGalfrey"], ["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/DLC1_Ziggurat/DLC1_GalfreyRunawayAll/DLC1_GalfreyRunawayAll"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC1_Megaepic/Iz/Ziggurat/ZombieGalfrey/Answer_3"]]}

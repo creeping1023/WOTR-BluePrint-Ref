@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/SinisterVillage/Hags/Cue_0107"]], "referenced": [["Data.Answers[2]", "World/Dialogs/c5/SinisterVillage/Hags/AnswersList_0085"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/c5/SinisterVillage/Hags/Answer_0146"]]}

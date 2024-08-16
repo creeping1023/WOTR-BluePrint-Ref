@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC5_GoblinsPartyInTheTower/DLC5_GoblinsPartyInTheTower_GoblinsAbuseAnimals_FirstGoblinDead/CommandAction"]], "referenced": [["Data.Action.Actions[1].IfTrue.Actions[0].m_Cutscene", "World/Cutscenes/DLC5_GoblinsPartyInTheTower/DLC5_GoblinsPartyInTheTower_GoblinsAbuseAnimals/CommandAction1"]]}

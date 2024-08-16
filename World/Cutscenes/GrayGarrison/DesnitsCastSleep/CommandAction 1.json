@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Spells/CutsceneSpells/CloakofDreamsEffectBuff_GG"], ["Data.Action.Actions[1].m_Faction", "Factions/TrueNeutrals"]], "referenced": [["Data.m_Tracks[1].m_Commands[3]", "World/Cutscenes/GrayGarrison/DesnitsCastSleep/gate 4"]]}

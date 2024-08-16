@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c6/SecondFloor/DeskariProjection_Threshold/Cue_0001"]], "referenced": [["Data.EnterActions.Actions[2].IfTrue.Actions[0].m_Dialogue", "World/Encounters/ThresholdIndoor_SecondFloor/ScriptZones/DeskariEvent"]]}

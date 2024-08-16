@@ -1,0 +1,1 @@
+{"referencing": [["Data.ActionsOnSpawn.Actions[0].m_Buff", "Buffs/DLC5/ShadowPlane/DLC5_LC_KytonBuff"], ["Data.ActionsOnSpawn.Actions[1].m_Buff", "Buffs/NPC_Untargetable"]], "referenced": [["Data.m_Tracks[1].m_Commands[1]", "World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_Kyton_First/gate2"]]}

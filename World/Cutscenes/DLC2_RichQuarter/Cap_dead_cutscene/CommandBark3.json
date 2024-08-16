@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_ConditionFlag", "World/Encounters/DLC2_RichQuarter/UnlockableFlags/AlchemistShop"], ["Data.Unit.m_Companion", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC2_RichQuarter/Cap_dead_cutscene/gate3"]]}

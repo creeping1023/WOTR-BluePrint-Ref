@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Enchant", "Weapons/Enchantments/FlamingBurst"]], "referenced": [["Data.Components[0].Activated.Actions[3].IfTrue.Actions[0].m_Buff", "Classes/Magus/Archetypes/Bladebound/BlackBlade/MagusEnhancementDurationBuff"], ["Data.Components[0].m_Facts[35]", "Classes/Magus/Archetypes/Bladebound/IndependentEgo/BladeboundIndependentEgoBuff"]]}

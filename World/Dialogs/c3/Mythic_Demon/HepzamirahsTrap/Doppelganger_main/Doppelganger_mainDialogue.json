@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c3/Mythic_Demon/HepzamirahsTrap/Doppelganger_main/Cue_0001"], ["Data.FirstCue.Cues[1]", "World/Dialogs/c3/Mythic_Demon/HepzamirahsTrap/Doppelganger_main/Cue_0002"]], "referenced": [["Data.Components[1].m_Dialog", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicDemon_Ch3/Doppelganger_DemonCh3"]]}

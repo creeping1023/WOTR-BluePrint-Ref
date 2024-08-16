@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/DLC6_ADanceOfMasks/Cat_is_a_spy/Cue_0001"]], "referenced": [["Data.Conditions.Conditions[0].m_Dialog", "World/Encounters/DLC6_KenabresGates/ConditionsHolders/DLC6_Old_woman_BarkConditions"], ["Data.EnterActions.Actions[0].m_Dialogue", "World/Encounters/DLC6_KenabresGates/ScriptZones/DLC6_StartCatDialog"]]}

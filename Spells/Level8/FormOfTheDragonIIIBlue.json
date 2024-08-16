@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Actions.Actions[0].m_Buff", "Spells/Level8/FormOfTheDragonIIIBlueBuff"], ["Data.m_Parent", "Spells/Level8/FormOfTheDragonIII"]], "referenced": [["Data.m_Ability", "Items/Scrolls/Level8/ScrollOfFormOfTheDragonIIIBlue"], ["Data.Components[2].m_Variants[1]", "Spells/Level8/FormOfTheDragonIII"]]}

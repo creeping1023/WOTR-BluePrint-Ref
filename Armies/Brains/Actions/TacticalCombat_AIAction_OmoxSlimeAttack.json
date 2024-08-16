@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Brain/Considerations/AoE_AvoidFriends"], ["Data.m_TargetConsiderations[1]", "Armies/Brains/Considerations/TacticalConsideration_Closest"], ["Data.m_Ability", "Armies/Abilities/ArmyOmoxSlimeAttack"]], "referenced": [["Data.m_TacticalActions[0]", "Armies/Brains/TacticalCombat_OmoxBrain"]]}

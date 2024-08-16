@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Cutscene", "World/Cutscenes/GreyborQ3_DryCrossroads/PlayerChained/PlayerChained"], ["Data.Action.Actions[1].m_Cutscene", "World/Cutscenes/GreyborQ3_DryCrossroads/HorzalahAmbush/HorzalahAmbush"]], "referenced": [["Data.m_Tracks[0].m_Commands[2]", "World/Cutscenes/GreyborQ3_DryCrossroads/PlayingAsGreyborAmbush/gate8"]]}

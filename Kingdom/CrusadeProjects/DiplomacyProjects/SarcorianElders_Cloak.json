@@ -1,0 +1,1 @@
+{"referencing": [["Data.TriggerCondition.Conditions[0].m_ConditionFlag", "Kingdom/CrusadeProjects/DiplomacyProjects/DiplomacyProjectsFlags/SarcorianElders_Cloak"], ["Data.Solutions.Entries[2].Resolutions[2].Actions.Actions[0].m_ItemToGive", "Equipment/Cloaks/CloakOfResistance6"]], "referenced": [["Data.m_KingdomProjectEvents[265]", "Root/Kingdom/KingdomRoot"]]}

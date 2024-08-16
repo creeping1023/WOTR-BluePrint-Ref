@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Commoners/DLC3_RogueLike/DLC3_MercenaryCaptain"], ["Data.OnStop.Actions[1].m_flag", "World/Encounters/DLC3_AlushinyrraPort/UnlockableFlags/MercVendor_2"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC3_Roguelike/PortMercCap/Answer_0007"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_SummonPool", "World/Encounters/DLC5_Storasta/SummonPools/DLC5_Storasta_DeadDruids"], ["Data.m_Parent", "World/Etudes/Common/DLC5_LowFantasy2/DLC5_StandaloneCampaign/DLC5_Storasta/DLC5_Storasta_AreaEtude"]], "referenced": [["Data.Action.Actions[0].Etude", "World/Cutscenes/DLC5_Storasta/DLC5_Storasta_DeadDruidsCall/CommandAction"]]}

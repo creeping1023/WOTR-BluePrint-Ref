@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/NumerianCamp/AutomaticDoor/Cue_0023"], ["Data.NextCue.Cues[1]", "World/Dialogs/c5/NumerianCamp/AutomaticDoor/Cue_0024"]], "referenced": [["Data.AnswersSelected[2459]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[4]", "World/Dialogs/c5/NumerianCamp/AutomaticDoor/AnswersList_0002"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/DawnOfDragons/LatimasDragon"], ["Data.Continue.Cues[0]", "World/Dialogs/c5/DawnOfDragons/DragonsBeforeBattle/Cue_0033"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/DawnOfDragons/DragonsBeforeBattle/Answer_0028"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_SummonPool", "World/Encounters/DrezenCapital/SummonPools/MythicLich_DeadStaunton"], ["Data.m_Dialog", "World/Dialogs/c3/Ziggurat/StauntonZombie/StauntonZombie"]], "referenced": [["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/DrezenCapital/MythicLich_StauntonRecruit/MythicLich_StauntonRecruit"]]}

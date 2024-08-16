@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Condition.ConditionsChecker.Conditions[0].m_Area", "World/Areas/Act_2_SwordOfValor/DrezenCitadel_Level1/DrezenCitadel_Level1"], ["Data.Components[0].Condition.ConditionsChecker.Conditions[1].m_QuestObjective", "World/Quests/c2_vs/Main/Obj_3_TakeCitadel"]], "referenced": [["Data.ScenarioParts[3]", "QA/Clockwork/Scenario/Exploration/test"]]}

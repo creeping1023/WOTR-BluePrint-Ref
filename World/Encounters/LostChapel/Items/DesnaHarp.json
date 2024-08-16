@@ -1,0 +1,1 @@
+{"referenced": [["Data.m_Items[861]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Items[0].m_Item", "Loot/Quest/LostChapel/PoorLoot09"], ["Data.StartGameActions.Actions[2].m_ItemToGive", "World/Areas/Act_2_SwordOfValor/LostChapel/Presets/LostChapel_Azata_Preset"], ["Data.Components[1].m_ItemToCheck", "World/Encounters/LostChapel/ComponentsLists/LC_Outdoor"]]}

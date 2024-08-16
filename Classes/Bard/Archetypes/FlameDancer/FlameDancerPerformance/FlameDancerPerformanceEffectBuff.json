@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Archetype", "Classes/Monk/Archetypes/Sensei/SenseiArchetype"], ["Data.Components[0].m_Class[0]", "Classes/Bard/BardClass"], ["Data.Components[0].m_Class[1]", "Classes/Monk/MonkClass"]], "referenced": [["Data.Components[1].m_Buff", "Classes/Bard/Archetypes/FlameDancer/FlameDancerPerformance/FlameDancerPerformanceArea"]]}

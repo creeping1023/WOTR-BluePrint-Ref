@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Unit", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Herald"], ["Data.Action.Actions[0].m_SummonPool", "World/Encounters/ColyphyrDungeon/SummonPools/Test_Colyphyr"]], "referenced": [["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/ColyphyrDungeon/Test_Colyphyr_BaphometHeartOut_Knees/Test_Colyphyr_BaphometHeartOut_Knees"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_flag", "World/Encounters/Legend_SoldiersParty/UnlockableFlags/ArmwrestlingUnitA_Wins"], ["Data.Continue.Cues[0]", "World/Dialogs/c5/Mythic_Legend/SoldierParty/Armwrestling/Cue_0028"]], "referenced": [["Data.m_Success", "World/Dialogs/c5/Mythic_Legend/SoldierParty/Armwrestling/Check_0021"]]}

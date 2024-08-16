@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_2_SwordOfValor/SkeletonTrader/SkeletonTrader"], ["Data.OnShow.Actions[0].m_ItemToGive", "Items/Potions/Level3/PotionOfInflictSeriousWounds"], ["Data.Answers[0]", "World/Dialogs/c3/SkeletalSalesmanSE/AnswersList_0004"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/SkeletalSalesmanSE/Answer_0052"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_Aranka_DesnaPriest"], ["Data.OnShow.Actions[2].m_flag", "World/Encounters/AzataIsland/UnlockableFlags/BigIntroDialogFlag_song"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/Mythic_Azata/Island/BigIntro/Answer_0025"]]}

@@ -1,0 +1,1 @@
+{"referenced": [["Data.Components[1].Actions.Actions[0].ConditionsChecker.Conditions[0].m_Fact", "Armies/Rituals/RitualBaneAbility"], ["Data.Components[1].Actions.Actions[0].IfTrue.Actions[0].m_Buff", "Armies/Rituals/RitualBaneAbility"], ["Data.Components[1].Actions.Actions[0].IfFalse.Actions[0].m_Buff", "Armies/Rituals/RitualBlessAbility"]]}

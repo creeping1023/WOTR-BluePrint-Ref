@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Grimbor/DragonHunt/GrimborSanctum/Cue_0022"], ["Data.OnSelect.Actions[0].m_Flag", "World/Encounters/DrezenCapital/UnlockableFlags/GrimborCounter"]], "referenced": [["Data.Answers[3]", "World/Dialogs/Companions/CompanionQuests/Grimbor/DragonHunt/GrimborSanctum/AnswersList_0014"]]}

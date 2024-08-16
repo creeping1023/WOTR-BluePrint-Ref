@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SpecificArea", "World/Areas/Act_4_MidnightIsles/AlushinyrraLowerCity/AlushinyrraLowerCity"], ["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[0].m_QuestObjective", "World/Quests/MythicQuests/Angel/C4_Devastation/02_TargonaSearch"]], "referenced": [["Data.m_Upgraders[402]", "Root/PlayerUpgradeActionsRoot"]]}

@@ -1,0 +1,1 @@
+{"referenced": [["Data.Actions.Actions[0].ConditionsChecker.Conditions[1].m_ConditionFlag", "World/Encounters/AreeluLab/ActionsHolders/LowProtectionDoor10_OpenActions"], ["Data.Actions.Actions[0].IfFalse.Actions[2].m_flag", "World/Encounters/AreeluLab/ActionsHolders/MagicBarrier2_CheckPassedActions"]]}

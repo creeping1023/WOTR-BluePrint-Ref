@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[2].m_Projectiles[0]", "FX/Abilities/Mythics/Lich/Mythic7lvlLich_BoneLance00"], ["Data.Components[2].m_ControlledProjectileHolderBuff", "Buffs/Template/HasControllableProjectileBuff"]], "referenced": [["Data.Components[1].m_Facts[0]", "Buffs/Template/HasControllableProjectileBuff"]]}

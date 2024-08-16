@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/FleshMarket/KingpinSlaver_dialogue/Cue_0148"]], "referenced": [["Data.Conditions.Conditions[3].m_Answer", "World/Dialogs/c4/FleshMarket/KingpinSlaver_dialogue/AnswersList_0141"], ["Data.Answers[3]", "World/Dialogs/c4/FleshMarket/KingpinSlaver_dialogue/AnswersList_0141"]]}

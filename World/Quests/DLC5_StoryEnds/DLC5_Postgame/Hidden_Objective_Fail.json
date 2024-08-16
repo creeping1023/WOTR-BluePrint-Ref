@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Quest", "World/Quests/DLC5_StoryEnds/DLC5_Postgame/DLC5_Postgame_quest"]], "referenced": [["Data.Actions.Actions[16].IfTrue.Actions[0].m_Objective", "World/Encounters/ThresholdOutdoor/ActionsHolders/QuestsFail_StoryAndCrusade"], ["Data.m_Objectives[4]", "World/Quests/DLC5_StoryEnds/DLC5_Postgame/DLC5_Postgame_quest"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Buffs/NPC_Untargetable"], ["Data.Action.Actions[1].m_Faction", "Factions/Mobs"]], "referenced": [["Data.m_Tracks[0].m_Commands[3]", "World/Cutscenes/DLC4_Wilds/DLC4_Wilds_GuardsWokeUp/DLC4_Wilds_GuardsWokeUp"]]}

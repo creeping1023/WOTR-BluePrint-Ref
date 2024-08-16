@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[3].m_CheckedBuff", "Armies/Abilities/ArmyDefensiveStanceGrandTierBuff1"], ["Data.Components[3].m_ExtraEffectBuff", "Armies/Abilities/ArmyDefensiveStanceGrandTierBuff2"]], "referenced": [["Data.m_Buff", "Armies/Abilities/ArmyDefensiveStanceActivatableAbility"]]}

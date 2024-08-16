@@ -1,0 +1,1 @@
+{"referencing": [["Data.Continue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Daeran/Q2_WhileWorldBurns/Room_SecondVision/Cue_0015"]], "referenced": [["Data.CuesSeen[2677]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Daeran/Q2_WhileWorldBurns/Room_SecondVision/Answer_0011"]]}

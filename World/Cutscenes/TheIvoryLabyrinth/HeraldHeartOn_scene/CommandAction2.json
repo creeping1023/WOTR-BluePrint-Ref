@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Spells/CutsceneSpells/TheIvoryLabyrinth/Herald_IllusionBuff"], ["Data.Action.Actions[0].Target.m_SummonPool", "World/Encounters/TheIvoryLabyrinth/SummonPools/HeraldSecondPhase"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/TheIvoryLabyrinth/HeraldHeartOn_scene/gate4"]]}

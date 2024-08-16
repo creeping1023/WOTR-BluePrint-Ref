@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_AreaEffect", "Equipment/Bracers/PF2/Chapter4/RepellingBracersAreaEffect"]], "referenced": [["Data.Components[0].Activated.Actions[0].m_Buff", "Equipment/Bracers/PF2/Chapter4/RepellingBracersFeature"], ["Data.Components[0].Deactivated.Actions[0].m_Buff", "Equipment/Bracers/PF2/Chapter4/RepellingBracersFeature"]]}

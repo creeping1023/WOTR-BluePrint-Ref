@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Condition.Conditions[0].m_Fact", "Classes/Skald/RagingSong/InspiredRageAllyToggleSwitchBuff"], ["Data.Components[0].m_Buff", "Classes/Skald/Archetypes/BattleScion/BattleProwessEffectBuff"]], "referenced": [["Data.Components[0].m_AreaEffect", "Classes/Skald/Archetypes/BattleScion/BattleProwessBuff"]]}

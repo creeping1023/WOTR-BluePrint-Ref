@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DC6_RazmirDungeon/DLC6_GolemsFlag/CommandDelay"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DC6_RazmirDungeon/DLC6_GolemsFlag/gate"]], "referenced": [["Data.Actions.Actions[1].IfTrue.Actions[5].m_Cutscene", "Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/MaskGolemLarge/FXActionHolder"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Squads[0].m_Unit", "Armies/UnitBlueprints/ArmyBloodrager"], ["Data.Squads[1].m_Unit", "Armies/UnitBlueprints/ArmyBarbarian"]], "referenced": [["Data.OnStop.Actions[1].Preset", "World/Dialogs/c5/KTC_WintersunHelp/Cue_0018"], ["Data.OnStop.Actions[1].Preset", "World/Dialogs/c5/KTC_WintersunHelp/Cue_0022"]]}

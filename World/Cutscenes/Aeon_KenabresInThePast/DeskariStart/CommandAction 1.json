@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].Etude", "World/Etudes/Common/WrathOfTheRighteous/MythicAeon/KenabresInThePast_DeskriCutscene"], ["Data.Action.Actions[1].Etude", "World/Etudes/Common/WrathOfTheRighteous/MythicAeon/ToPresent"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Aeon_KenabresInThePast/DeskariStart/gate"]]}

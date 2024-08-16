@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Lann/Lann_Companion"]], "referenced": [["Data.CuesSeen[95]", "QA/Clockwork/Scenario/Draft/Chapter1_tst_preset"], ["Data.CuesSeen[95]", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/c0/CavesUnderKenabres/MeetLann/Answer_0002"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Class", "Classes/Monster/Construct/ConstructClass"]], "referenced": [["Data.Components[0].Actions.Actions[0].IfFalse.Actions[1].DC.m_CustomProperty", "Buffs/DLC5/DLC5ShortCircuitBuff"], ["Data.Components[0].NewRound.Actions[0].DC.m_CustomProperty", "Buffs/DLC5/DLC5ShortCircuitEnergyReleaseBuff"]]}

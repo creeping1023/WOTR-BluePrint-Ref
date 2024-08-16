@@ -1,0 +1,1 @@
+{"referencing": [["Data.Answers[0]", "World/Dialogs/c4/TavernBadLuck/Blind_Halfling/AnswersList_0025"], ["Data.Continue.Cues[0]", "World/Dialogs/c4/TavernBadLuck/Blind_Halfling/CueSequence_0029"]], "referenced": [["Data.CuesSeen[6768]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Continue.Cues[0]", "World/Dialogs/c4/TavernBadLuck/Blind_Halfling/Cue_0023"]]}

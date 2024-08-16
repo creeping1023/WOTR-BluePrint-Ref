@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Trajectory", "FX/Spell Level None/LineProjectile00_Trajectory"]], "referenced": [["Data.Components[2].m_Projectiles[0]", "Classes/Kineticist/ElementalFocus/Water/WaterBlast/WaterBlastInfused/TorrentWaterBlastAbility"], ["Data.Components[8].m_Projectiles[0]", "Spells/DLC4NewSpells/TidalSurgeLine"]]}

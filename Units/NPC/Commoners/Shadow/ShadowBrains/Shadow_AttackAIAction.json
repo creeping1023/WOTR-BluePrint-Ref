@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Brain/Considerations/AttackTargetsPriority"], ["Data.m_TargetConsiderations[1]", "Units/NPC/Commoners/Shadow/ShadowBrains/Shadow_AttackConsideration"]], "referenced": [["Data.m_Actions[1]", "Units/NPC/Commoners/Shadow/ShadowBrains/Shadow_Brain_Standard"]]}

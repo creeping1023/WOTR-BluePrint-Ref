@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Buffs/NPC_Untargetable"], ["Data.Action.Actions[1].m_Faction", "Factions/CutsceneNeutrals"]], "referenced": [["Data.m_Tracks[1].m_Commands[0]", "World/Cutscenes/DLC5_Storasta/DLC5_Storasta_Flowers/DLC5_Storasta_Flowers"]]}

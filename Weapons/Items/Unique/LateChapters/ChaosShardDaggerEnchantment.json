@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Feature", "Weapons/Items/Unique/LateChapters/ChaosShardDaggerFeature"], ["Data.Components[1].Action.Actions[0].Actions.Actions[0].Failed.Actions[0].m_Buff", "Buffs/Confusion"]], "referenced": [["Data.m_Enchantments[1]", "Weapons/Items/Unique/LateChapters/ChaosShardDaggerItem"]]}

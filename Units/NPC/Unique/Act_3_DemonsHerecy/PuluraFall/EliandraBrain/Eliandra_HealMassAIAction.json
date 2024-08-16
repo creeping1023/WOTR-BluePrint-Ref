@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Brain/Considerations/InjuryCritical"], ["Data.m_TargetConsiderations[1]", "Brain/Considerations/InjuryAroundMedium"], ["Data.m_Ability", "Spells/Level9/HealMass"]], "referenced": [["Data.m_Actions[5]", "Units/NPC/Unique/Act_3_DemonsHerecy/PuluraFall/EliandraBrain/Eliandra_Brain"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/Claim_DH"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Wintersun/Miammir_After/Cue_0004"]], "referenced": [["Data.CuesSeen[5966]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Wintersun/Miammir_After/Cue_0003"]]}

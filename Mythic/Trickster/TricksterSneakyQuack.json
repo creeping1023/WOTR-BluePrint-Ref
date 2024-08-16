@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Action.Actions[0].ConditionsChecker.Conditions[1].m_Fact", "Mythic/Trickster/TricksterSneakyQuackBuff"], ["Data.Components[0].Action.Actions[0].IfTrue.Actions[0].m_Buff", "Mythic/Trickster/TricksterSneakyQuackBuff"]], "referenced": [["Data.LevelEntries[0].m_Features[4]", "Mythic/Trickster/TricksterProgression"]]}

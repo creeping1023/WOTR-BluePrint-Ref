@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Action.Actions[0].m_Buff", "Buffs/Exhausted"], ["Data.Components[2].m_Buffs[0]", "Classes/Bloodrager/Archetypes/Hag-Riven/HexingClaws/ClawExhaustingCriticalBuffEffect"]], "referenced": [["Data.m_Buff", "Feats/CriticalFeats/ExhaustingCriticalToggleAbility"]]}

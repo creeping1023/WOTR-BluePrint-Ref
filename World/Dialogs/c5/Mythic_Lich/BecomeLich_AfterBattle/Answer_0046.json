@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/Mythic_Lich/BecomeLich_AfterBattle/Cue_0054"], ["Data.OnSelect.Actions[0].m_flag", "World/Encounters/Ziggurat/UnlockableFlags/Counselor_Burned"]], "referenced": [["Data.Answers[0]", "World/Dialogs/c5/Mythic_Lich/BecomeLich_AfterBattle/AnswersList_0041"]]}

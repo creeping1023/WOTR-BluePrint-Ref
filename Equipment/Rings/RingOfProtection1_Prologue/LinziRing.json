@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Fact", "Equipment/Rings/RingOfProtection1_Prologue/LinziRingFeature"], ["Data.m_ShardItem", "Items/DestructibleItemsShards/MetalShardItem"]], "referenced": [["Data.m_Items[79]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Filter.m_ItemsInclude[81]", "Dugeons/Loot/DungeonLootExclude"]]}

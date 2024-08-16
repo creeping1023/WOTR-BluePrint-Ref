@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_2_SwordOfValor/SkeletonTrader/SkeletonTrader"], ["Data.OnStop.Actions[0].m_flag", "World/Encounters/Trader_Karelia/UnlockableFlags/RE_Trader_Attacked"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/SkeletalSalesmanSE/Answer_0007"]]}

@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "Mythic/Demon/DemonSpells/DemonTeleport"], ["Data.Components[0].PrototypeLink.guid", "Mythic/Demon/DemonSpells/DemonTeleport"]]}
+{"referencing": [["Data.PrototypeLink", "Mythic/Demon/DemonSpells/DemonTeleport"], ["Data.Components[0].PrototypeLink.guid", "Mythic/Demon/DemonSpells/DemonTeleport"]], "referenced": [["Data.m_AddFacts[13]", "Units/Monsters/DLC3_Mobs/DLC3_Nahyndri_FinalBoss"], ["Data.m_Ability", "Units/Monsters/DLC3_Mobs/NahyndryAbilityBrain/DLC3_Nahyndri_Golemlike_OverrunAi"]]}

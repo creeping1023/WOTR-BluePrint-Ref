@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "CreatureAbilities/Regeneration/RegenerationGood5"], ["Data.Components[0].PrototypeLink.guid", "CreatureAbilities/Regeneration/RegenerationGood5"]]}
+{"referencing": [["Data.PrototypeLink", "CreatureAbilities/Regeneration/RegenerationGood5"], ["Data.Components[0].PrototypeLink.guid", "CreatureAbilities/Regeneration/RegenerationGood5"]], "referenced": [["Data.m_AddFacts[8]", "Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidGorgo"]]}

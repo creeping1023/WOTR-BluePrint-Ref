@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_DisplayName.m_OwnerString", "Buffs/GhostFX"], ["Data.m_Description.m_OwnerString", "Buffs/GhostFX"]]}
+{"referencing": [["Data.m_DisplayName.m_OwnerString", "Buffs/GhostFX"], ["Data.m_Description.m_OwnerString", "Buffs/GhostFX"]], "referenced": [["Data.Action.Actions[0].m_Buff", "World/Cutscenes/Lich_UnloyalCounselor/VampireGoAwayParam/CommandAction"]]}

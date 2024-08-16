@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Lann/Lann_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c1/KenabresBurning/Hurlun/Cue_0058"]], "referenced": [["Data.CuesSeen[1010]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Cues[1]", "World/Dialogs/c1/KenabresBurning/Hurlun/CueSequence_0056"]]}

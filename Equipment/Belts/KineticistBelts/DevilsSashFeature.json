@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_DisplayName.m_OwnerString", "Equipment/Rings/BeastKingPetFeature"], ["Data.m_Description.m_OwnerString", "Equipment/Rings/BeastKingPetFeature"]]}
+{"referencing": [["Data.Components[0].m_IgnoreFeature", "Mythic/MythicAbilities/Corrupter"], ["Data.m_DisplayName.m_OwnerString", "Equipment/Rings/BeastKingPetFeature"], ["Data.m_Description.m_OwnerString", "Equipment/Rings/BeastKingPetFeature"]], "referenced": [["Data.Components[0].m_Feature", "Equipment/Belts/KineticistBelts/DevilsSashEnchant"]]}

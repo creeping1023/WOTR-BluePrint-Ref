@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Test_Areas/ArbiterWeaponCheckTestArea/ArbiterWeaponCheckTestArea"], ["Data.m_AreaPart", "World/Areas/Test_Areas/ArbiterWeaponCheckTestArea/ArbiterWeaponCheckTestArea"]], "referenced": [["Data.m_EnterPoint", "World/Areas/Test_Areas/ArbiterWeaponCheckTestArea/Presets/ArbiterWeaponCheckTestArea_Default_Preset"]]}

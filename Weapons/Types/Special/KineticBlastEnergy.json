@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/MetalShardItem"]], "referenced": [["Data.Components[1].m_WeaponType", "Classes/Kineticist/Archetypes/OverwhelmingSoul/OverwhelmingSoulOverwhelmingPowerFeature"], ["Data.m_Type", "Weapons/Types/Special/KineticBlastEnergyWeapon"]]}

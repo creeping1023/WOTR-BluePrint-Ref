@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/TheIvoryLabyrinth/AlderpashTakeKey_scene/AlderpashTakeKey_scene"], ["Data.Continue.Cues[0]", "World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/Cue_0107"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/Answer_0101"]]}

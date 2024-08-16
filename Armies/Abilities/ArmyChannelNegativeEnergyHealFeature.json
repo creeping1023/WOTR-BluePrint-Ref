@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Armies/Abilities/ArmyChannelNegativeEnergyHealAbility"], ["Data.Components[0].m_Facts[1]", "Armies/Abilities/ArmyChannelNegativeEnergyHealFact"]], "referenced": [["Data.m_AddFacts[1]", "Armies/UnitBlueprints/ArmyNecromancer"]]}

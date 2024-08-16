@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/LiLura_Kenabres"], ["Data.Continue.Cues[0]", "World/Dialogs/c1/DefendersHeart/LiLura_DH/Cue_0024"]], "referenced": [["Data.CuesSeen[656]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/c1/DefendersHeart/LiLura_DH/Answer_0017"]]}

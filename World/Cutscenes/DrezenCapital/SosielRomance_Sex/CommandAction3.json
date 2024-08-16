@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_ConditionFlag", "World/Encounters/DrezenCapital/UnlockableFlags/SosielRomance_SexAfterCards_flag"]], "referenced": [["Data.m_Tracks[1].m_Commands[5]", "World/Cutscenes/DrezenCapital/SosielRomance_Sex/SosielRomance_Sex"]]}

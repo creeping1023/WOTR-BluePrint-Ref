@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Class[0]", "Classes/Warpriest/WarpriestClass"]], "referenced": [["Data.Components[2].DC.m_CustomProperty", "Classes/Warpriest/Archetypes/MantisZealot/MantisZealotMantisSwarmAbility"], ["Data.Components[0].NewRound.Actions[0].CustomDC.m_CustomProperty", "Classes/Warpriest/Archetypes/MantisZealot/MantisZealotMantisSwarmBleedBuff"]]}

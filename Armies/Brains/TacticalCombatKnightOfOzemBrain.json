@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TacticalActions[0]", "Armies/Brains/Actions/TacticalCombatAiAttackUndeadHatredMelee"], ["Data.m_TacticalActions[1]", "Armies/Brains/Actions/TacticalCombat_AIAction_CureSeriousWounds"]], "referenced": [["Data.m_Brain", "Armies/UnitBlueprints/ArmyKnightsOfOzem"]]}

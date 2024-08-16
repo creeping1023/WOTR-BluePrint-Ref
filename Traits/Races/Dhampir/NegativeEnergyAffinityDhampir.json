@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "CreatureAbilities/NegativeEnergyAffinity"]], "referenced": [["Data.m_Fact[1]", "Brain/Considerations/NotUndeadConsideration"], ["Data.m_Features[1]", "Races/DhampirRace"], ["Data.m_Actions.Actions[0].m_AdditionalExceptHasFacts[3]", "Root/Upgraders/Player/PF-220021_NegativeEnergyAffinityDhampir"]]}

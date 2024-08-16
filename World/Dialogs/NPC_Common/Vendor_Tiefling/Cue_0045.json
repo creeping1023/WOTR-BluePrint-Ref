@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Objective", "World/Quests/Companions/Arueshalae/Q1_WhatTheyDreamOf/Add_2_OneEye"], ["Data.Continue.Cues[0]", "World/Dialogs/NPC_Common/Vendor_Tiefling/Cue_0046"]], "referenced": [["Data.CuesSeen[5634]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/NPC_Common/Vendor_Tiefling/Answer_0044"]]}

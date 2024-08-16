@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/DLC1_Threshold_FinalDungeon/TalkToSelf_start/TalkToSelf_start"]], "referenced": [["Data.NextCue.Cues[1]", "World/Dialogs/DLC1_Megaepic/Threshold/FinalBattle/Answer_0028"], ["Data.Continue.Cues[0]", "World/Dialogs/DLC1_Megaepic/Threshold/FinalBattle/Cue_28"]]}

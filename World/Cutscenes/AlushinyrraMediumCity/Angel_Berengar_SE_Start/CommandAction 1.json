@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_SummonPool", "World/Encounters/AlushinyrraMediumCity/SummonPools/Angel_Berengar_SE_Demons"], ["Data.Action.Actions[0].Actions.Actions[2].m_Faction", "Factions/Mobs"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/AlushinyrraMediumCity/Angel_Berengar_SE_Start/gate 1"]]}

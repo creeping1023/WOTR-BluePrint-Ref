@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/NoBuffRighteousMight"], ["Data.m_ActorConsiderations[1]", "Brain/Considerations/NoThreateningUnitsConsideration"], ["Data.m_Ability", "Spells/Level5/RighteousMight"]], "referenced": [["Data.m_Actions[3]", "Units/NPC/Commoners/Demon Incubus/IncubusBandLair/IncubusBandLair_IncubusBoss_Brain"]]}

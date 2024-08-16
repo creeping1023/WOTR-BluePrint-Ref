@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_AreaEffect", "Mythic/Azata/AzataAbilities/IncredibleMight/IncredibleMightArea"], ["Data.Components[1].m_Buffs[0]", "Mythic/Azata/AzataAbilities/IncredibleMight/IncredibleMightMainBuff"]], "referenced": [["Data.m_Buff", "Mythic/Azata/AzataAbilities/IncredibleMight/IncredibleMightAbility"]]}

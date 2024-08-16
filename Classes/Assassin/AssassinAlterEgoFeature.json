@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Classes/Assassin/AssassinAlterEgoAbility"], ["Data.Components[1].m_Resource", "Classes/Assassin/AssassinAlterEgoAbilityResource"]], "referenced": [["Data.LevelEntries[2].m_Features[2]", "Classes/Assassin/AssassinProgression"], ["Data.m_Actions.Actions[7].m_Feature", "Root/Upgraders/Player/PF-505565(1-5lvl)"]]}

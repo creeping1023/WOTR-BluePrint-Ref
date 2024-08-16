@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[2].Actions.Actions[0].ConditionsChecker.Conditions[0].m_Fact", "Traits/Races/Common/UndeadType"]], "referenced": [["Data.m_Ability", "Brain/Actions/CCWPretendPotionAiAction"], ["Data.Components[1].m_MemorizeSpells[21]", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_NPC/DLC4_Shaman"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Buffs[0].m_Buff", "World/Encounters/DLC2_RichQuarter/RemoveDiseaseBuff_Bureaucrat"], ["Data.Components[0].Buffs[0].m_Spell", "Spells/Level3/RemoveDisease"]], "referenced": [["Data.m_AddFacts[1]", "Units/NPC/Commoners/DLC2_LowFantasy/NPC/DLC2_NPC_Bureaucrat"]]}

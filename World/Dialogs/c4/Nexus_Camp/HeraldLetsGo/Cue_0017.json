@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_ItemToRemove", "World/Encounters/Nexus/Items/PortalKey"], ["Data.Answers[0]", "World/Dialogs/c4/Nexus_Camp/HeraldLetsGo/AnswersList_0006"]], "referenced": [["Data.CuesSeen[6550]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/c4/Nexus_Camp/HeraldLetsGo/Answer_0008"]]}

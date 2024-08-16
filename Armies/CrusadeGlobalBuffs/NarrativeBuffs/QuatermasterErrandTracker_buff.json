@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].OnCrusadersVictory.Actions[0].m_Objective", "World/Quests/Crusade/GlobalMap_Errands/GarmsErrand/Objective_0001"], ["Data.Components[0].m_DemonArmies[0]", "Armies/Presets/NarrativeArmies/Ch5_GarmErrand_Demons"]], "referenced": [["Data.OnSelect.Actions[2].m_Blueprint", "World/Dialogs/NPC_Common/Vendor_Quartermaster/Answer_0082"]]}

@@ -1,1 +1,1 @@
-{"referenced": [["Data.PrototypeLink", "Units/Monsters/RuinsRaidPlaceMobs/GalluBossSecondTeleportAction"]]}
+{"referencing": [["Data.m_Ability", "Units/Monsters/RuinsRaidPlaceMobs/GalluBossDemonTeleportAbility"]], "referenced": [["Data.PrototypeLink", "Units/Monsters/RuinsRaidPlaceMobs/GalluBossSecondTeleportAction"], ["Data.m_Actions[7]", "Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidGalluBossBrain"]]}

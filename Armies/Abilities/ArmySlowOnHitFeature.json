@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[2].ActionOnTarget.Actions[0].Actions.Actions[0].Failed.Actions[0].m_Buff", "Armies/Abilities/ArmySlowBuff"]], "referenced": [["Data.Components[0].m_Features[1]", "Armies/CrusadeGlobalBuffs/FlagTrickster6EquipmentBuff9"], ["Data.m_AddFacts[2]", "Armies/UnitBlueprints/ArmyFauchardSwordSaint"]]}

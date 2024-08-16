@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/NPC_Common/Crinukh/Cue_0038"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/NPC_Common/Crinukh/Answer_0006"]], "referenced": [["Data.Answers[4]", "World/Dialogs/NPC_Common/Crinukh/AnswersList_0025"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/NPC_Common/Crinukh/Answer_0035"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC2_Tavern/DLC2_Tavern_ratimus/CommandUnitPlayCutsceneAnimation"], ["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/DLC2_Tavern/DLC2_Tavern_ratimus/CommandDelay"]], "referenced": [["Data.Components[0].Actions.Actions[4].m_Cutscene", "World/Etudes/Common/DLC2_LowFantasy/DLC2_Tavern/DLC2_Tavern_Attack"]]}

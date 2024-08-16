@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC5_StoryEnds/DLC5_GiantsOverseers/DLC5_DeleteStones/Cue_38"]], "referenced": [["Data.EntryCondition.Conditions[1].m_Answer", "World/Cutscenes/DLC5_GiantsOverseers/DLC5_Approaching_to_stones/CommandAction4"], ["Data.Answers[1]", "World/Dialogs/DLC5_StoryEnds/DLC5_GiantsOverseers/DLC5_DeleteStones/AnswersList_0023"]]}

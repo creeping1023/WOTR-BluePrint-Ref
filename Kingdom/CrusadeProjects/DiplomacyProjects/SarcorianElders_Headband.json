@@ -1,0 +1,1 @@
+{"referencing": [["Data.TriggerCondition.Conditions[0].m_ConditionFlag", "Kingdom/CrusadeProjects/DiplomacyProjects/DiplomacyProjectsFlags/SarcorianElders_Headband"], ["Data.Solutions.Entries[2].Resolutions[2].Actions.Actions[0].m_ItemToGive", "Equipment/Headgear/HeadbandOfPerfection6"]], "referenced": [["Data.m_KingdomProjectEvents[266]", "Root/Kingdom/KingdomRoot"]]}

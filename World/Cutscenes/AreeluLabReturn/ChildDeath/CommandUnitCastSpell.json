@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SpellBlueprint", "Mythic/Angel/AngelSpells/AngelBladeOfTheSun"], ["Data.m_TargetUnitEvaluator.m_SummonPool", "World/Encounters/AreeluLabReturn/SummonPools/AreeluChild_Outside"]], "referenced": [["Data.m_Tracks[1].m_Commands[0]", "World/Cutscenes/AreeluLabReturn/ChildDeath/gate3"]]}

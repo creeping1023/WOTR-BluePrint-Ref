@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Equipment/Rings/ParagonOfWinterRingFeature"]]}
+{"referencing": [["Data.Components[0].m_CheckedFact", "Classes/Kineticist/GatherPower/GatherPowerFeature"], ["Data.Components[0].m_Feature", "Classes/Kineticist/GatherPower/GatherPowerFeature"], ["Data.m_Description.m_OwnerString", "Equipment/Rings/ParagonOfWinterRingFeature"]], "referenced": [["Data.Components[0].m_Feature", "Equipment/Rings/KineticistRings/InfernalBondRingEnchant"]]}

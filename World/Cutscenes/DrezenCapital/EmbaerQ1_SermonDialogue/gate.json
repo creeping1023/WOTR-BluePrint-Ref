@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DrezenCapital/EmbaerQ1_SermonDialogue/CommandStartDialog"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DrezenCapital/EmbaerQ1_SermonDialogue/EmbaerQ1_SermonDialogue"], ["Data.m_Tracks[1].m_EndGate", "World/Cutscenes/DrezenCapital/EmbaerQ1_SermonDialogue/EmbaerQ1_SermonDialogue"]]}

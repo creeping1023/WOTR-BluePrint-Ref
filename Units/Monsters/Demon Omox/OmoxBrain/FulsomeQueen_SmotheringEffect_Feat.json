@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].CombatStartActions.Actions[0].m_Buff", "Units/Monsters/Demon Omox/OmoxBrain/FulsomeQueen_Buff_Smothering"], ["Data.Components[0].CombatEndActions.Actions[0].m_Buff", "Units/Monsters/Demon Omox/OmoxBrain/FulsomeQueen_Buff_Smothering"]], "referenced": [["Data.m_AddFacts[8]", "Units/Monsters/Demon Omox/ColyphyrDungeon/FulsomeQueen"]]}

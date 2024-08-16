@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Brain/Considerations/AttackTargetsPriority"], ["Data.m_TargetConsiderations[1]", "Units/Monsters/Nereid/NereidBrain/NereidAlreadyPoisonedConsideration"]], "referenced": [["Data.m_Actions[1]", "Units/Monsters/Nereid/NereidBrain/NereidBrain"], ["Data.m_Actions[1]", "Units/Monsters/Nereid/NereidBrain/NereidSummonedBrain"]]}

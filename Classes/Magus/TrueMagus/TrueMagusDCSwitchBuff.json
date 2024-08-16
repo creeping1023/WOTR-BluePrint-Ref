@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_CheckedBuff", "Classes/Magus/SpellCombat/SpellCombatBuff"], ["Data.Components[0].m_ExtraEffectBuff", "Classes/Magus/TrueMagus/TrueMagusDCEffectBuff"]], "referenced": [["Data.m_Buff", "Classes/Magus/TrueMagus/TrueMagusDCAbility"]]}

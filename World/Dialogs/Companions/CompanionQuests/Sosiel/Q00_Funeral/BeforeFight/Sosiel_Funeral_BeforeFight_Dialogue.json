@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Sosiel/Q00_Funeral/BeforeFight/Cue_0001"]], "referenced": [["Data.m_Dialog", "World/Cutscenes/KenabresGraveyard/FuneralCeremony/CommandStartDialog"], ["Data.m_Dialog", "World/Cutscenes/KenabresGraveyard/ZombiesAttackSosiel/CommandStartDialog"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Squads[0].m_Unit", "Armies/UnitBlueprints/ArmyInfantry"], ["Data.Squads[1].m_Unit", "Armies/UnitBlueprints/ArmyArcher"], ["Data.Squads[2].m_Unit", "Armies/UnitBlueprints/ArmyPaladin"]], "referenced": [["Data.OnSelect.Actions[2].Preset", "World/Dialogs/NPC_Common/Irabeth/Answer_0004_TakeIrabethReinf"]]}

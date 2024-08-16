@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnSelect.Actions[0].m_Buff", "Spells/CutsceneSpells/ProneBuff"], ["Data.OnSelect.Actions[1].m_Buff", "Buffs/NPC_Protection"], ["Data.OnSelect.Actions[2].m_Buff", "Buffs/NPC_Protection"], ["Data.OnSelect.Actions[3].m_Buff", "Buffs/NPC_Immortality"]], "referenced": [["Data.Answers[6]", "World/Dialogs/c3/Wintersun/SoanaBear/AnswersList_0003"]]}

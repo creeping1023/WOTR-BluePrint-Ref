@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_Facts[0]", "CreatureAbilities/Immunities/ImmunityToCritical"], ["Data.Components[4].m_CasterIgnoreImmunityFact", "Mythic/MythicAbilities/Corrupter"], ["Data.Components[5].m_IgnoreFeature", "Mythic/MythicAbilities/Corrupter"]], "referenced": [["Data.AddFeatures[4].m_Features[2]", "Classes/Paladin/Archetypes/Stonelord/StonelordArchetype"]]}

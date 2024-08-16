@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Regill/Regill_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/MoltenScar/Deserter/Cue_0049"], ["Data.Continue.Cues[1]", "World/Dialogs/c3/MoltenScar/Deserter/Cue_0053"]], "referenced": [["Data.Cues[0]", "World/Dialogs/c3/MoltenScar/Deserter/CueSequence_0036"]]}

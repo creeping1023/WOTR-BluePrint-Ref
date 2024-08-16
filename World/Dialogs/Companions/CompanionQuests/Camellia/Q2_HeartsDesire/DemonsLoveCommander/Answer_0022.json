@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnSelect.Actions[0].m_SummonPool", "World/Encounters/TenThousandDelights/SummonPools/CamelliaQ2_DemonsLoveAll"], ["Data.OnSelect.Actions[0].Actions.Actions[0].m_Faction", "Factions/Mobs"]], "referenced": [["Data.Answers[4]", "World/Dialogs/Companions/CompanionQuests/Camellia/Q2_HeartsDesire/DemonsLoveCommander/AnswersList_0020"]]}

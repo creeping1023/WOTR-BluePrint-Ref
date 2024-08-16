@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_QuestObjective", "World/Quests/MythicQuests/Aeon/AeonMythicMainQuest_c4/Obj2_TalkMirror"], ["Data.Conditions.Conditions[1].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/MythicAeon/AeonPath"]], "referenced": [["Data.Cues[5]", "World/Dialogs/c4/Portal_ToColyphyr/CueSequence_0002"]]}

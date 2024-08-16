@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions.Actions[0].m_ToReplace", "Classes/Slayer/MasterSlayerFeature"], ["Data.m_Actions.Actions[0].m_Replacement", "Classes/Slayer/Archetypes/Imitator/ImitatorMasterSlayerFeature"], ["Data.m_Actions.Actions[0].m_FromProgression", "Classes/Slayer/SlayerProgression"]], "referenced": [["Data.m_Upgraders[698]", "Root/PlayerUpgradeActionsRoot"]]}

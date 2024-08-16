@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Action.Actions[0].ConditionsChecker.Conditions[0].m_Fact", "Mythic/Lich/LichSpells/VampiricBladeBuff"], ["Data.Components[0].Action.Actions[0].IfTrue.Actions[1].m_Buff", "Weapons/Items/UniquePF2/Chapter3/SappingAssaultIBuff"]], "referenced": [["Data.m_Enchantments[1]", "Weapons/Items/UniquePF2/Chapter3/SappingAssaultItem"]]}

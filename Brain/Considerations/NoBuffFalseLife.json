@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Buffs[0]", "Spells/Level2/FalseLifeBuff"]], "referenced": [["Data.m_ActorConsiderations[0]", "Brain/Actions/FalseLifeAiAction"], ["Data.m_ActorConsiderations[0]", "Units/NPC/Unique/Act_1_WorldwoundIncursion/GrayGarrison/Jeslyn_Brain/Jeslyn_FalseLifeAIAction"]]}

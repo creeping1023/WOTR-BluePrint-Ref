@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Abilites[0]", "Spells/Level7/JoltingPortent"], ["Data.Components[0].m_CharacterClass", "Classes/Cleric/ClericClass"]], "referenced": [["Data.Components[1].Activated.Actions[0].m_Buff", "Spells/Level7/JoltingPortentBuff"]]}

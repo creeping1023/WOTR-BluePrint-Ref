@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/NoThreateningUnitsConsideration"], ["Data.m_ActorConsiderations[1]", "Brain/Considerations/NoBuffShieldOfDawn"], ["Data.m_Ability", "Spells/Level4/ShieldOfDawn"]], "referenced": [["Data.m_Actions[1]", "Units/NPC/Commoners/Act_3_DemonsHerecy/MythicLich_Ch3/Brain/EverbrightCrusader_Brain_ShieldOfDawn"]]}

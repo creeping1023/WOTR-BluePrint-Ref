@@ -1,0 +1,1 @@
+{"referencing": [["Data.Cues[0]", "World/Dialogs/DLC3_Roguelike/BookEvents/Songbird/Cue_4"], ["Data.Answers[0]", "World/Dialogs/DLC3_Roguelike/BookEvents/Songbird/Answer_0004"], ["Data.Answers[1]", "World/Dialogs/DLC3_Roguelike/BookEvents/Songbird/Answer_0002"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC3_Roguelike/BookEvents/Songbird/Answer_0001"]]}

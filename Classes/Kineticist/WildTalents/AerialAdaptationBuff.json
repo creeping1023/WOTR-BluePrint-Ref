@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Value.m_CustomProperty", "Classes/Kineticist/Burn/BurnNumberProperty"]], "referenced": [["Data.Components[0].Action.Actions[0].m_Buff", "Classes/Kineticist/WildTalents/AerialAdaptationFeature"], ["Data.Components[3].m_Facts[0]", "Classes/Kineticist/WildTalents/AerialAdaptationFeature"]]}

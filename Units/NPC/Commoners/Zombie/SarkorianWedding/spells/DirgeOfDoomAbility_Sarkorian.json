@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_RequiredResource", "Classes/Skald/RagingSong/RagingSongResource"], ["Data.m_Buff", "Classes/Skald/RagingSong/DirgeOfDoomBuff"]], "referenced": [["Data.Components[0].m_Facts[0]", "Units/NPC/Commoners/Zombie/SarkorianWedding/spells/DirgeOfDoom_Sarkorian"]]}

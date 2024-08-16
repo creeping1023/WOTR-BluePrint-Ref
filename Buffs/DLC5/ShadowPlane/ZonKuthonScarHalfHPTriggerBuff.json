@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Activated.Actions[0].ConditionsChecker.Conditions[0].Value.m_CustomProperty", "Buffs/DLC5/ShadowPlane/HalfHPProperty"], ["Data.Components[0].Activated.Actions[0].IfTrue.Actions[0].m_Buff", "Buffs/DLC5/ShadowPlane/ZonKuthonScarHalfHPBuff"]], "referenced": [["Data.Components[5].m_TriggeredBuff", "Buffs/DLC5/ShadowPlane/ZonKuthonBuff"]]}

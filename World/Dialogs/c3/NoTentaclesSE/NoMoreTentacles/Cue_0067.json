@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/NoMoreTentacles/SirAllfrey"], ["Data.m_Listener", "Units/Companions/Daeran/Daeran_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/NoTentaclesSE/NoMoreTentacles/Cue_0069"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/c3/NoTentaclesSE/NoMoreTentacles/Cue_0066"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC2_RichQuarter/Cap_wounded_spawn/CommandSpawnUnits"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DLC2_RichQuarter/Cap_wounded_spawn/gate"]], "referenced": [["Data.EnterActions.Actions[0].IfFalse.Actions[0].m_Cutscene", "World/Encounters/DLC2_RichQuarter/ScriptZones/Cap_in_tower_cheker"]]}

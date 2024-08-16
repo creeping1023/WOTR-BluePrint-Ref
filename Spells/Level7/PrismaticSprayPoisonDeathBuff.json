@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level7/PowerWordBlindBuff"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level7/PowerWordBlindBuff"]], "referenced": [["Data.m_Buffs[11]", "Brain/Considerations/HasPoison"], ["Data.Components[2].Activated.Actions[0].m_Buff", "Spells/Level7/PrismaticSprayPoisonBuff"]]}

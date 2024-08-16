@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Flag", "Kingdom/CrusadeBuildings/CrusadeBuildingsFlags/FlagLogistics8SpiritualGarden"], ["Data.Components[1].m_Buff", "Armies/CrusadeGlobalBuffs/BuildingBuffs/BuildingSpiritualGarden"], ["Data.Components[3].m_Settlement", "Kingdom/Settlement/Settlement00_Drezen"]], "referenced": [["Data.m_Buildings[43]", "Root/Kingdom/KingdomRoot"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.ActionsOnSpawn.Actions[0].m_Faction", "Factions/CutsceneNeutrals"], ["Data.ActionsOnSpawn.Actions[1].m_Fact", "CreatureAbilities/Unlootable"]], "referenced": [["Data.m_Tracks[4].m_Commands[1]", "World/Cutscenes/RuinsRaidPlace/DevilishTemptation_BigDemon_Cutscene/gate"]]}

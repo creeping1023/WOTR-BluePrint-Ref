@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Skills[0]", "Armies/Rituals/RitualFireball"], ["Data.m_Skills[1]", "Armies/Rituals/RitualHaste"], ["Data.m_Skills[2]", "Armies/Rituals/RitualSlow"], ["Data.m_Skills[3]", "Armies/Rituals/RitualBearsEndurance"]], "referenced": [["Data.m_Levels[6].m_LevelupSkillLists[0]", "Armies/Leaders/Progression/WarlordMageProgression"]]}

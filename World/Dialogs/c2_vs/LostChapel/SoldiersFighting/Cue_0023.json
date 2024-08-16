@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_2_SwordOfValor/LostChapel/CrusadeSoldier2"], ["Data.Answers[0]", "World/Dialogs/c2_vs/LostChapel/SoldiersFighting/AnswersList_0002"]], "referenced": [["Data.CuesSeen[2823]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Continue.Cues[0]", "World/Dialogs/c2_vs/LostChapel/SoldiersFighting/Cue_0022"]]}

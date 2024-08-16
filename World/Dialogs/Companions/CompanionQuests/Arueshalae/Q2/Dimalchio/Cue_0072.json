@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_Cutscene", "World/Cutscenes/Arueshalae_Q2_DimalchioMansion/Slave_WoundsDima/Slave_WoundsDima"], ["Data.Continue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Arueshalae/Q2/Dimalchio/Cue_0075"]], "referenced": [["Data.m_Success", "World/Dialogs/Companions/CompanionQuests/Arueshalae/Q2/Dimalchio/Check_0071"]]}

@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "Spells/CutsceneSpells/EstrodTower/Log_projectile"]]}
+{"referencing": [["Data.PrototypeLink", "Spells/CutsceneSpells/EstrodTower/Log_projectile"]], "referenced": [["Data.Components[1].m_Projectiles[0]", "Spells/CutsceneSpells/EstrodTower/Barrel_line"], ["Data.Components[1].m_Projectiles[0]", "Spells/CutsceneSpells/EstrodTower/Cart_line"], ["Data.Components[2].m_Projectiles[0]", "Spells/CutsceneSpells/EstrodTower/StoneLine"]]}

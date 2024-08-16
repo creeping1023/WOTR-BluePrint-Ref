@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Actions.Actions[0].m_Buff", "Spells/Level3/PrayerBuff"]], "referenced": [["Data.Components[3].Actions.Actions[0].IfFalse.Actions[1].m_Spell", "Items/DLC5/DLC5_ShadowPlane/RawHolyPowerAbility"], ["Data.Components[4].Actions.Actions[0].IfFalse.Actions[1].m_Spell", "Spells/Level3/Prayer"]]}

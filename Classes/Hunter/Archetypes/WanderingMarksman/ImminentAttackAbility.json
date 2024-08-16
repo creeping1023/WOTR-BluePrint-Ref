@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Actions.Actions[0].m_Buff", "Classes/Hunter/Archetypes/WanderingMarksman/ImminentAttackEffectBuff"], ["Data.Components[2].m_RequiredResource", "Classes/Hunter/Archetypes/WanderingMarksman/ImminentAttackResource"]], "referenced": [["Data.Components[0].m_Facts[0]", "Classes/Hunter/Archetypes/WanderingMarksman/ImminentAttackFeature"]]}

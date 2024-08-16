@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_SummonPool", "World/Encounters/WintersunOutdoor/SummonPools/GhostPoolAfterSevenBattle"], ["Data.Action.Actions[1].m_Objective", "World/Quests/c3/Errands/WintersunGhost/Objective_0001"]], "referenced": [["Data.m_Tracks[7].m_Commands[1]", "World/Cutscenes/WintersunOutdoor/GhostAfterSevenBattle_scene/gate 2"]]}

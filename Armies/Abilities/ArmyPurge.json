@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[3].m_RequiredResource", "Armies/Abilities/ArmyPurgeResource"]], "referenced": [["Data.Components[0].m_Facts[0]", "Armies/Abilities/ArmyPurgeFeature"], ["Data.m_Ability", "Armies/Brains/Actions/TacticalCombat_AIAction_Purge"]]}

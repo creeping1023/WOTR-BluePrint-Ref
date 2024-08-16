@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Spells/CutsceneSpells/ProneBuff"], ["Data.Action.Actions[1].m_Buff", "Buffs/GhostFX"]], "referenced": [["Data.m_Tracks[0].m_Commands[2]", "World/Cutscenes/DrezenCapital/Ziggurat_ZachariusFailedRitual01/gate 4"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_ConditionFlag", "World/Encounters/ThresholdIndoor_Aeon/UnlockableFlags/AeonLeaveMemories"], ["Data.Conditions.Conditions[1].m_companion", "Units/Companions/Arueshalae/EvilArueshalae_Companion"]], "referenced": [["Data.Continue.Cues[1]", "World/Dialogs/Epilogues/Cue_0093"]]}

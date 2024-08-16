@@ -1,0 +1,1 @@
+{"referencing": [["Data.Condition.Conditions[0].m_Flag", "World/Encounters/DLC3_DemonsHeart/UnlockableFlags/DLC3_Final_NahyndriWalkFlag"]], "referenced": [["Data.m_ActorConsiderations[0]", "Units/Monsters/DLC3_Mobs/NahyndryAbilityBrain/DLC3_Nahyndri_Walk_HighScore"], ["Data.m_ActorConsiderations[0]", "Units/Monsters/DLC3_Mobs/NahyndryAbilityBrain/DLC3_Nahyndri_Walk_LowScore"]]}

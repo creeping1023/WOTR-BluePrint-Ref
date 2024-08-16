@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/AreshkagalDungeon/WellPillar_scene/CommandCameraShake"], ["Data.m_Tracks[1].m_Commands[0]", "World/Cutscenes/AreshkagalDungeon/WellPillar_scene/CommandAction3"]], "referenced": [["Data.m_Tracks[1].m_EndGate", "World/Cutscenes/AreshkagalDungeon/WellPillar_scene/gate"]]}

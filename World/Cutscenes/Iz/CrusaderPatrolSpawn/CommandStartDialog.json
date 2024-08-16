@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Hurlun/HulrunIsPrelateOfDrezen"], ["Data.m_Dialog", "World/Dialogs/c5/Iz/Patrol_Hulrun/Iz_Patrol_Hulrun_Dialogue"]], "referenced": [["Data.m_Tracks[1].m_Commands[0]", "World/Cutscenes/Iz/CrusaderPatrolSpawn/gate 1"]]}

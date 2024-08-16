@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[0].m_QuestObjective", "World/Quests/c3/ArueshalaeRedoubt/Obj_1c_CheckRedoubt"], ["Data.m_Actions.Actions[0].IfTrue.Actions[0].m_ItemToRemove", "Items/Areas/Act_3_DemonsHerecy/ArueshalaeRedoubt/BellTongue"]], "referenced": [["Data.m_Upgraders[283]", "Root/PlayerUpgradeActionsRoot"]]}

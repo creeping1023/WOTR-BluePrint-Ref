@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_DisplayName.m_OwnerString", "Equipment/Armor/Enchantments/FireResistance10Feature"], ["Data.m_Description.m_OwnerString", "Equipment/Armor/Enchantments/FireResistance10Feature"]]}
+{"referencing": [["Data.m_DisplayName.m_OwnerString", "Equipment/Armor/Enchantments/FireResistance10Feature"], ["Data.m_Description.m_OwnerString", "Equipment/Armor/Enchantments/FireResistance10Feature"]], "referenced": [["Data.Components[0].m_Feature", "Equipment/Armor/Enchantments/NegativeEnergyResistance20Enchant"]]}

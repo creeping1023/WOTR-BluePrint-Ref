@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/DustShardItem"]], "referenced": [["Data.m_Items[540]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Items[0].m_Item", "Loot/Quest/DrezenCitadel_Level2/BannerObject"], ["Data.Action.Actions[0].m_ItemToRemove", "World/Cutscenes/DrezenCitadel_Level2/SwordOfValorScene/CommandAction 4"]]}

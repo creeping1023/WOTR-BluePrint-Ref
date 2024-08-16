@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Armies/Abilities/ArmyAttackBonus3AuraAbility"], ["Data.Components[1].m_Resource", "Armies/Abilities/ArmyBardAurasResources"], ["Data.Components[2].m_Resource", "Armies/Abilities/ArmyBardAurasResources"]], "referenced": [["Data.m_AddFacts[2]", "Armies/UnitBlueprints/ArmySupport"]]}

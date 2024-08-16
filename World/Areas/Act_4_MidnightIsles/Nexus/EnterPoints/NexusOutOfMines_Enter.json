@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Act_4_MidnightIsles/Nexus/Nexus"], ["Data.m_AreaPart", "World/Areas/Act_4_MidnightIsles/Nexus/Nexus"]], "referenced": [["Data.m_Actions[0].Actions.Actions[0].m_exitPositon", "World/Areas/Act_4_MidnightIsles/Nexus/EnterPoints/OutOfMines_Transition"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Buff", "Items/Rods/MetamagicRodExtendNormal/MetamagicRodNormalExtendBuff"]], "referenced": [["Data.m_ActivatableAbility", "Items/Rods/MetamagicRodExtendNormal/MetamagicRodNormalExtend"], ["Data.Components[0].m_RodAbility", "Items/Rods/MetamagicRodExtendNormal/MetamagicRodNormalExtendBuff"]]}

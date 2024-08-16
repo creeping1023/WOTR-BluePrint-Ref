@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/Wintersun/Miammir_After/Cue_0017"], ["Data.NextCue.Cues[1]", "World/Dialogs/c3/Wintersun/Miammir_After/Cue_0019"]], "referenced": [["Data.AnswersSelected[2417]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[0]", "World/Dialogs/c3/Wintersun/Miammir_After/AnswersList_0006"]]}

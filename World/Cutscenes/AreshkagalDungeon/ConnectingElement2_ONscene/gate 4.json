@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/AreshkagalDungeon/ConnectingElement2_ONscene/CommandControlCamera 2"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/AreshkagalDungeon/ConnectingElement2_ONscene/gate 5"]], "referenced": [["Data.m_Tracks[1].m_EndGate", "World/Cutscenes/AreshkagalDungeon/ConnectingElement2_ONscene/gate 3"]]}

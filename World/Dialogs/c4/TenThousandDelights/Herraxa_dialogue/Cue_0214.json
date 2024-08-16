@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_4_MidnightIsles/TenThousandDelights/Rokhorn"], ["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/AlushinyrraMediumCity/ReturnRockhornBack/ReturnRockhornBack"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/TenThousandDelights/Herraxa_dialogue/Answer_0213"]]}

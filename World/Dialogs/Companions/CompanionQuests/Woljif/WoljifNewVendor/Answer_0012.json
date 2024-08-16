@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Woljif/WoljifNewVendor/Cue_0013"]], "referenced": [["Data.Answers[3]", "World/Dialogs/Companions/CompanionQuests/Woljif/WoljifNewVendor/AnswersList_0002"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/Companions/CompanionQuests/Woljif/WoljifNewVendor/Answer_0021"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_flag", "World/Encounters/TempleOfDelamere/UnlockableFlags/KyadoLeftCrying"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/TempleOfDelamere/KyadoPityPriest/Answer_0004"], ["Data.NextCue.Cues[0]", "World/Dialogs/c3/TempleOfDelamere/KyadoPityPriest/Answer_0016"]]}

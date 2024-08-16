@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC2_RichQuarter/Gravedigger_to_ghoul/CommandUnitPlayCutsceneAnimation"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DLC2_RichQuarter/Gravedigger_to_ghoul/gate1"]], "referenced": [["Data.OnShow.Actions[0].m_Cutscene", "World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RichQuarter_Entrance/Cue_0017"]]}

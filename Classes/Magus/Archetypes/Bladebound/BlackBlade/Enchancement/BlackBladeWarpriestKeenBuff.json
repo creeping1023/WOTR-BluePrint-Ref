@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Enchant", "Weapons/Enchantments/Keen"]], "referenced": [["Data.Components[0].Activated.Actions[3].IfTrue.Actions[0].m_Buff", "Classes/Magus/Archetypes/Bladebound/BlackBlade/WarpriestEnhancementDurationBuff"], ["Data.Components[0].m_Facts[56]", "Classes/Magus/Archetypes/Bladebound/IndependentEgo/BladeboundIndependentEgoBuff"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Dialogue", "World/Dialogs/DLC5_StoryEnds/Seal_2A_Shadow/AngryKyton/AngryKyton_dialogue"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/Kyton_Enter/gate1"], ["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/Kyton_Enter/gate2"]]}

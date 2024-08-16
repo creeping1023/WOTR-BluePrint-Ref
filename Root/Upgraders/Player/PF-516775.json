@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SpecificArea", "World/Areas/DLC5_LowFantasy2/DLC5_GiantsOverseers/DLC5_GiantsOverseers"], ["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[0].m_Dialog", "World/Dialogs/DLC5_StoryEnds/Seal_1A_Giants/1A_FirstMeet/DLC5_a1_FirstMeet_dialogue"]], "referenced": [["Data.m_Upgraders[688]", "Root/PlayerUpgradeActionsRoot"]]}

@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Equipment/Armor/Enchantments/FireResistance10Feature"]]}
+{"referencing": [["Data.Components[3].m_OldFacts[0]", "Equipment/Armor/Items/Unique/LateChapters/RayAbility"], ["Data.m_Description.m_OwnerString", "Equipment/Armor/Enchantments/FireResistance10Feature"]], "referenced": [["Data.Components[0].m_Feature", "Equipment/Armor/Items/Unique/LateChapters/RobeOfArcaneAnnihilationEnchant"]]}

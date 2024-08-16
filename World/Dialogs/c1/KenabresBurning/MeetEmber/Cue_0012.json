@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/EmberKnight1"], ["Data.Continue.Cues[0]", "World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_0013"]], "referenced": [["Data.CuesSeen[651]", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset"], ["Data.Continue.Cues[0]", "World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_0011"]]}

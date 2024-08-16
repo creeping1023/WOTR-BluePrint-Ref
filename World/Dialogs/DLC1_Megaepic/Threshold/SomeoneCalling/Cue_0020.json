@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_companion", "Units/Companions/Daeran/Daeran_Companion"], ["Data.Speaker.m_Blueprint", "Units/Companions/Daeran/Daeran_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/DLC1_Megaepic/Threshold/SomeoneCalling/Cue_0022"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/DLC1_Megaepic/Threshold/SomeoneCalling/Cue_0019"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c5/AreeluLabAgain/AreeluCell/Cue_0001"]], "referenced": [["Data.m_Dialog", "World/Cutscenes/AreeluLabReturn/AreeluCall/CommandStartDialog"], ["Data.ShowConditions.Conditions[0].m_Dialog", "World/Dialogs/c6/SecondFloor/AreeluBurnTheWitch/Answer_0054"]]}

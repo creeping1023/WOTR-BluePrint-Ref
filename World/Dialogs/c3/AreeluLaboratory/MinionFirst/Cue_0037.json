@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Nenio/Nenio_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/AreeluLaboratory/MinionFirst/Cue_0038"]], "referenced": [["Data.CuesSeen[5498]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Cues[2]", "World/Dialogs/c3/AreeluLaboratory/MinionFirst/CueSequence_0034"]]}

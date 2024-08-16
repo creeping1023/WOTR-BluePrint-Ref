@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Morveg"], ["Data.Answers[0]", "World/Dialogs/c3/Wintersun/Morveg_NearPazzle/AnswersList_0002"]], "referenced": [["Data.CuesSeen[4426]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.m_Success", "World/Dialogs/c3/Wintersun/Morveg_NearPazzle/Check_0024"]]}

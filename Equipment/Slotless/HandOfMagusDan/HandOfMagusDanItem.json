@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActivatableAbility", "Equipment/Slotless/HandOfMagusDan/HandOfMagusDanToggleAbility"]], "referenced": [["Data.m_Items[81]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Filter.m_ItemsInclude[83]", "Dugeons/Loot/DungeonLootExclude"], ["Data.m_Items[275]", "Dugeons/Rewards/RewardLoot_UnqiueRanomItem"]]}

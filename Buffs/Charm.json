@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Faction", "Factions/Player"]], "referenced": [["Data.m_Buffs[0]", "Brain/Considerations/NoBuffCharm"], ["Data.Components[0].Action.Actions[0].Actions.Actions[0].Failed.Actions[0].m_Buff", "Items/Quivers/Artisan/LoversArrowsQuiver/LoversArrowsQuiverEnchantment"]]}

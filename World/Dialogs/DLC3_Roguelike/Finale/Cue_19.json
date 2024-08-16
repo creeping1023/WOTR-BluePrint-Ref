@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_4_MidnightIsles/NocticulaPalace/Nocticula/Nocticula"], ["Data.OnStop.Actions[0].m_flag", "World/Encounters/DLC3_DemonsHeart/UnlockableFlags/DLC3_ExpeditionIsOver"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/DLC3_Roguelike/Finale/Cue_18"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_FakeClass", "Classes/Fighter/FighterClass"], ["Data.Components[0].m_ActualClass", "Classes/EldritchKnight/EldritchKnightClass"], ["Data.Components[0].m_ForSelection", "Classes/Basic/BasicFeatSelection"]], "referenced": [["Data.LevelEntries[0].m_Features[0]", "Classes/EldritchKnight/EldritchKnightProgression"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[1].m_flag", "World/Encounters/DLC5_ChainedDarknessLair/UnlockableFlags/Mirror_ReadyToAppear"], ["Data.Action.Actions[2].m_Flag", "World/Encounters/DLC5_ChainedDarknessLair/UnlockableFlags/Mirror_ReadyToDisappear"]], "referenced": [["Data.m_Tracks[0].m_Commands[2]", "World/Cutscenes/DLC5_ChainedDarknessLair/Mirror_Disappear/gate"]]}

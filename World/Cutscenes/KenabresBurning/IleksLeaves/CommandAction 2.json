@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_QuestObjective", "World/Quests/c1/StarlightPath/03_FindWizardAdept"], ["Data.EntryCondition.Conditions[1].m_QuestObjective", "World/Quests/c1/StarlightPath/02_FindBardAdept"]], "referenced": [["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/KenabresBurning/IleksLeaves/gate"]]}

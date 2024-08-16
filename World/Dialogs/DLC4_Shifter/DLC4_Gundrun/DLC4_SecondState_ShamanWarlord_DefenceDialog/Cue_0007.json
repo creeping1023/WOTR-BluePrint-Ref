@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_NPC/DLC4_Shaman"], ["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/DLC4_Gundrun/DLC4_SecondState_Scout_report/DLC4_SecondState_Scout_report"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC4_Shifter/DLC4_Gundrun/DLC4_SecondState_ShamanWarlord_DefenceDialog/Answer_0005"]]}

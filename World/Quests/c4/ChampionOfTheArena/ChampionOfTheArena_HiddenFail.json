@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Quest", "World/Quests/c4/ChampionOfTheArena/ChampionOfTheArena"]], "referenced": [["Data.Actions.Actions[1].IfTrue.Actions[0].m_Objective", "World/Encounters/ColyphyrDungeon/ActionsHolders/ColyphyrQuestsFail"], ["Data.m_Objectives[24]", "World/Quests/c4/ChampionOfTheArena/ChampionOfTheArena"]]}

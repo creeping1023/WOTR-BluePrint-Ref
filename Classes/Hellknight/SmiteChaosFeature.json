@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Classes/Hellknight/SmiteChaosAbility"], ["Data.Components[1].m_Resource", "Classes/Hellknight/SmiteChaosResource"]], "referenced": [["Data.LevelEntries[0].m_Features[0]", "Classes/Hellknight/HellknightProgression"], ["Data.Components[2].m_Feature", "Mythic/MythicAbilities/AbundantSmiteChaos"]]}

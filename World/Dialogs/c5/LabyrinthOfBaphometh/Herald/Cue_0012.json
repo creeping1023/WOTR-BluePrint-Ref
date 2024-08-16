@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_Buff", "Spells/CutsceneSpells/TheIvoryLabyrinth/HeraldGeasBuff"], ["Data.OnStop.Actions[0].m_Faction", "Factions/Mobs"]], "referenced": [["Data.NextCue.Cues[1]", "World/Dialogs/c5/LabyrinthOfBaphometh/Herald/Answer_0009"]]}

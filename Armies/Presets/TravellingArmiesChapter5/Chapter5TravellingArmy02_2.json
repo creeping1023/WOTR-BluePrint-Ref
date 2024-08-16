@@ -1,0 +1,1 @@
+{"referencing": [["Data.Squads[0].m_Unit", "Armies/UnitBlueprints/ArmySchirStandard"], ["Data.Squads[1].m_Unit", "Armies/UnitBlueprints/ArmyIncubusStandard"]], "referenced": [["Data.m_TravelingArmiesByChapter[1].ArmiesByWeeks[3].PreSetupArmies[1].m_Army", "Root/Kingdom/ArmyRoot"]]}

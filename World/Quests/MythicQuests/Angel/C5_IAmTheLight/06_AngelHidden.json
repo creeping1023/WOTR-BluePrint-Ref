@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Quest", "World/Quests/MythicQuests/Angel/C5_IAmTheLight/IAmTheLight_MythAngel_c5_quest"]], "referenced": [["Data.Actions.Actions[5].IfTrue.Actions[0].m_Objective", "World/Encounters/ThresholdOutdoor/ActionsHolders/QuestsFail_Mythic"], ["Data.m_Objectives[7]", "World/Quests/MythicQuests/Angel/C5_IAmTheLight/IAmTheLight_MythAngel_c5_quest"]]}

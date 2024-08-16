@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/AlushinyrraMediumCity/RvanyKillSlave/CommandUnitLookAt"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/AlushinyrraMediumCity/RvanyKillSlave/gate"]], "referenced": [["Data.OnShow.Actions[0].m_Cutscene", "World/Dialogs/c4/FleshMarket/RabbleSlaver_dialogue/Cue_0052"]]}

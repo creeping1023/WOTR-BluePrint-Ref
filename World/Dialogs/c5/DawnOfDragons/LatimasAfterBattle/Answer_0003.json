@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/DawnOfDragons/LatimasAfterBattle/Cue_0006"]], "referenced": [["Data.Answers[0]", "World/Dialogs/c5/DawnOfDragons/LatimasAfterBattle/AnswersList_0002"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/c5/DawnOfDragons/LatimasAfterBattle/Answer_0004"]]}

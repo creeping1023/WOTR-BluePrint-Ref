@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/SarkorianWedding/Bride/Cue_7"], ["Data.ShowConditions.Conditions[0].m_Fact", "Classes/Basic/Deities/CalistriaFeature"], ["Data.ShowConditions.Conditions[1].m_Answer", "World/Dialogs/c5/SarkorianWedding/Bride/Answer_0004"]], "referenced": [["Data.Answers[2]", "World/Dialogs/c5/SarkorianWedding/Bride/AnswersList_0002"]]}

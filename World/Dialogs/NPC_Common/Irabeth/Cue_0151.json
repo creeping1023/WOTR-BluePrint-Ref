@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_ItemToRemove", "Items/Areas/Act_1_WorldwoundIncursion/GreyGarrison/IrabethScabbard"], ["Data.Continue.Cues[0]", "World/Dialogs/NPC_Common/Irabeth/Cue_0152"]], "referenced": [["Data.CuesSeen[1904]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/NPC_Common/Irabeth/Answer_0150"]]}

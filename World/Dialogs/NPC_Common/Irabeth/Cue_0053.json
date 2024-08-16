@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/Chapter01"]], "referenced": [["Data.CuesSeen[400]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.CuesSeen[478]", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/NPC_Common/Irabeth/Answer_0051"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Daeran_Q1_KenabresMansion/Sitting_Param/CommandDelay 1"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/Daeran_Q1_KenabresMansion/Sitting_Param/gate 1"]], "referenced": [["Data.m_Tracks[2].m_EndGate", "World/Cutscenes/Daeran_Q1_KenabresMansion/Sitting_Param/Sitting_Param"]]}

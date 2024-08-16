@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_SummonPool", "World/Encounters/ColyphyrDungeon/SummonPools/Colyphyr_AngelicSquadFinal_Stage2"], ["Data.Action.Actions[0].Actions.Actions[0].m_Faction", "Factions/CutsceneNeutrals"]], "referenced": [["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/ColyphyrDungeon/Colyphyr_HepzamirahSecondCutscene/gate 5"]]}

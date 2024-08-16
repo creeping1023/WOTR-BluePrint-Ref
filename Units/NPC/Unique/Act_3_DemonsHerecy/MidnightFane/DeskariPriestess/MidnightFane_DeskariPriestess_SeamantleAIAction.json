@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/NoBuffSeamantle"], ["Data.m_TargetConsiderations[0]", "Brain/Considerations/AttackTargetsPriority"], ["Data.m_Ability", "Spells/Level8/Seamantle"]], "referenced": [["Data.m_Actions[11]", "Units/NPC/Unique/Act_3_DemonsHerecy/MidnightFane/DeskariPriestess/MidnightFane_DeskariPriestess_Brain"]]}

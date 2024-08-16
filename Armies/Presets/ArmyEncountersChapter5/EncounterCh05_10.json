@@ -1,0 +1,1 @@
+{"referencing": [["Data.Squads[0].m_Unit", "Armies/UnitBlueprints/ArmyWitch"], ["Data.Squads[1].m_Unit", "Armies/UnitBlueprints/ArmyBarbarian"], ["Data.Squads[2].m_Unit", "Armies/UnitBlueprints/ArmyBloodrager"]], "referenced": [["Data.Components[1].Actions.Actions[9].Preset", "World/Etudes/Common/WrathOfTheRighteous/Chapter05"]]}

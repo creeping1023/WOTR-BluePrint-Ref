@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Daeran/Q2_WhileWorldBurns/Park_Distract/Cue_0008"], ["Data.OnSelect.Actions[0].m_Flag", "World/UnlockableFlags/Companions/Daeran/DaeranTrust_Counter"]], "referenced": [["Data.Answers[1]", "World/Dialogs/Companions/CompanionQuests/Daeran/Q2_WhileWorldBurns/Park_Distract/AnswersList_0002"]]}

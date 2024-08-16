@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c0/CavesUnderKenabres/MongrelLabyrinth/SavamelehHosillaDialogue/Cue_0001"]], "referenced": [["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[1].m_Dialog", "Root/Upgraders/Player/PF-487847"], ["Data.Action.Actions[0].m_Dialogue", "World/Cutscenes/Prologue_Labyrinth/MongrelsCorrupting_barkScene/CommandAction 3"]]}

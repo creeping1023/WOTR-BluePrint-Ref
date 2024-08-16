@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Iz/DeskariDialog/CommandStartDialog"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/Iz/DeskariDialog/gate"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/Iz/DeskariDialog/DeskariDialog"]]}

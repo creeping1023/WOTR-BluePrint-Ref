@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Race", "Races/HumanRace"]], "referenced": [["Data.m_Portrait", "Armies/Leaders/Warlords/WarlordLeaderLegend4_2"], ["Data.m_Portrait", "Armies/Leaders/Warlords/WarlordUnits/Warlord_Legend_4_2_Ranger"], ["Data.CharGen.m_Portraits[44]", "Root/BlueprintRoot"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.TriggerCondition.Conditions[0].m_ConditionFlag", "Kingdom/CrusadeProjects/LogisticsProjects/LogisticsProjectsFlags/Event65FreeingThePrisoners"], ["Data.Solutions.Entries[0].Resolutions[2].Actions.Actions[0].m_Blueprint", "Armies/CrusadeGlobalBuffs/ArmyFreeingThePrisoners"]], "referenced": [["Data.m_KingdomProjectEvents[113]", "Root/Kingdom/KingdomRoot"]]}

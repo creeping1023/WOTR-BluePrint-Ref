@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Baph/Cue_0015"]], "referenced": [["Data.Answers[4]", "World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Baph/AnswersList_0006"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Baph/Answer_0010"]]}

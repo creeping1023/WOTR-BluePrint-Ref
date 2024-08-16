@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Test/Archeology/Collector/Cue_0440"], ["Data.ShowConditions.Conditions[0].m_Cue", "World/Dialogs/Test/Archeology/Collector/Cue_0440"]], "referenced": [["Data.Answers[8]", "World/Dialogs/Test/Archeology/Collector/AnswersList_0028"]]}

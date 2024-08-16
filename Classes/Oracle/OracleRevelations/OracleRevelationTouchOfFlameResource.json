@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_MaxAmount.m_Class[0]", "Classes/Oracle/OracleClass"], ["Data.m_MaxAmount.m_ClassDiv[0]", "Classes/Oracle/OracleClass"]], "referenced": [["Data.Components[0].m_Resource", "Classes/Oracle/OracleRevelations/OracleRevelationTouchOfFlame"], ["Data.Components[2].m_RequiredResource", "Classes/Oracle/OracleRevelations/OracleRevelationTouchOfFlameAbility"]]}

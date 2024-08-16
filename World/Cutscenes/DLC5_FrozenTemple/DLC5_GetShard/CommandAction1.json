@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_GetShard_VisualBuff"], ["Data.Action.Actions[1].m_Buff", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_GetShard_VisualBuff_2"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC5_FrozenTemple/DLC5_GetShard/gate"]]}

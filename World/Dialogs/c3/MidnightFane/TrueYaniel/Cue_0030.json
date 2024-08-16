@@ -1,0 +1,1 @@
+{"referencing": [["Data.Answers[0]", "World/Dialogs/c3/MidnightFane/TrueYaniel/AnswersList_0010"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/MidnightFane/TrueYaniel/CueSequence_0035"]], "referenced": [["Data.CuesSeen[6415]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/c3/MidnightFane/TrueYaniel/Answer_0029"]]}

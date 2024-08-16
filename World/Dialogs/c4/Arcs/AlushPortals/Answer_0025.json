@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/Arcs/AlushPortals/Check_0026"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/c4/Arcs/AlushPortals/Answer_0016"]], "referenced": [["Data.AnswersSelected[2663]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[5]", "World/Dialogs/c4/Arcs/AlushPortals/AnswersList_0008"]]}

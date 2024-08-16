@@ -1,0 +1,1 @@
+{"referencing": [["Data.SpecificCampaign", "DLC/MainGame/MainCampaign"], ["Data.m_Group", "Achievements/Groups/DLC4TrophyGroup"]], "referenced": [["Data.Achievements.m_List[120]", "Root/BlueprintRoot"], ["Data.Components[0].Actions.Actions[0].m_Achievement", "World/Etudes/Common/DLC4_Shifter/DLC4_Achievements/DLC4_Endangered Species"]]}

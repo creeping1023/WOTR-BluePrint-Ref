@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Spells/Level3/DispelMagic"], ["Data.Components[0].m_Facts[1]", "Spells/Level3/VampiricTouchCast"]], "referenced": [["Data.Components[3].m_Feature", "Classes/Witch/Archetypes/DarkSisterWitch/NightHagSpelllistFeature"]]}

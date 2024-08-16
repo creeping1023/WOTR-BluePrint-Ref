@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/0Prologue_Extra/0Prologue_Outcomes/AreeluCrossbowTaken"], ["Data.EntryCondition.Conditions[1].m_Fact", "Feats/Proficiencies/LightCrossbowProficiency"]], "referenced": [["Data.m_Tracks[5].m_Commands[0]", "World/Cutscenes/Prologue_Kenabres/DemonAttackBeginning/gate 3"]]}

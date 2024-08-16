@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/FinalDungeon_Colyphyr/SlavemasterInterrogation/Cue_0027"]], "referenced": [["Data.Conditions.Conditions[4].m_Answer", "World/Dialogs/c4/FinalDungeon_Colyphyr/SlavemasterInterrogation/AnswersList_0017"], ["Data.Answers[5]", "World/Dialogs/c4/FinalDungeon_Colyphyr/SlavemasterInterrogation/AnswersList_0017"]]}

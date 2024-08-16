@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/Yaker_WarCamp"], ["Data.Continue.Cues[0]", "World/Dialogs/c2_vs/HellknightsUnderAttack/Warcamp_Yaker_Start/Cue_0054"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c2_vs/HellknightsUnderAttack/Warcamp_Yaker_Start/Answer_0051"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_ConditionFlag", "World/Encounters/BattleBliss/UnlockableFlags/DealWithIrmangaleth"], ["Data.Continue.Cues[0]", "World/Dialogs/c4/BattleBliss/FinalBattleBliss_dialogue/Cue_0041"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/BattleBliss/FinalBattleBliss_dialogue/Answer_0020"]]}

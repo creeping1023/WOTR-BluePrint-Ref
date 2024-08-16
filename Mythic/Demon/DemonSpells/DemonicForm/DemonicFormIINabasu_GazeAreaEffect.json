@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Round.Actions[0].ConditionsChecker.Conditions[0].m_Fact", "Units/Monsters/Demon Nabasu/NabasuBrain/NabasuDeathStealingGazeAbility"]], "referenced": [["Data.Components[0].m_AreaEffect", "Mythic/Demon/DemonSpells/DemonicForm/DemonicFormIINabasu_GazeAreaBuff"]]}

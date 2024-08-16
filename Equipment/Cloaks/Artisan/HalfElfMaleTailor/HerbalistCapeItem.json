@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/ClothShardItem"], ["Data.m_Ability", "Spells/Level2/DelayPoison"], ["Data.m_Enchantments[0]", "Equipment/CommonEnchantments/Intelligence4"], ["Data.m_Enchantments[1]", "Equipment/Cloaks/Artisan/HalfElfMaleTailor/HerbalistCapeEcnhant"]], "referenced": [["Data.m_Items[2552]", "Dugeons/Loot/DungeonLootExclude"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_NegativeFacts[0]", "Armies/MoraleEffects/FearLowMoraleBuff"], ["Data.m_NegativeFacts[1]", "Armies/MoraleEffects/DazeLowMoraleBuff"], ["Data.m_GlobalArmiesMoraleBuff", "Kingdom/TacticalCombat/KingdomMoraleForArmies"]], "referenced": [["Data.m_MoraleRoot", "Root/BlueprintRoot"]]}

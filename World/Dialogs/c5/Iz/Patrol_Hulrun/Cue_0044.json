@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Lann/Lann_Companion"], ["Data.m_Listener", "Units/Companions/Seelah/Seelah_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c5/Iz/Patrol_Hulrun/Cue_0045"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/c5/Iz/Patrol_Hulrun/Cue_0043"]]}

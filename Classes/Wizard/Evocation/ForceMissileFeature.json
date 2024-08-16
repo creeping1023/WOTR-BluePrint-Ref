@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Classes/Wizard/Evocation/ForceMissileResourceFact"], ["Data.Components[0].m_Facts[1]", "Classes/Wizard/Evocation/ForceMissileAbility"], ["Data.Components[1].m_Ability[0]", "Classes/Wizard/Evocation/ForceMissileAbility"]], "referenced": [["Data.Components[1].m_Facts[0]", "Classes/Wizard/Evocation/SpecializationSchoolEvocation"]]}

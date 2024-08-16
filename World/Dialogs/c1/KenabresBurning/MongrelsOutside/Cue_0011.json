@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].ConditionsChecker.Conditions[0].m_companion", "Units/Companions/Wenduag/Wenduag_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c1/KenabresBurning/MongrelsOutside/Cue_0027"]], "referenced": [["Data.m_Fail", "World/Dialogs/c1/KenabresBurning/MongrelsOutside/Check_0010"]]}

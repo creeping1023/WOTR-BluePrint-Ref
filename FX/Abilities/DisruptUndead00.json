@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Trajectory", "FX/Abilities/DisruptUndead00_Trajectory"]], "referenced": [["Data.Components[1].m_Projectiles[0]", "Backgrounds/BackgroundsSpellLikes/DisruptUndeadBackgrounds"], ["Data.Components[1].m_Projectiles[0]", "Spells/Level0/DisruptUndead"], ["Data.Components[2].m_Projectiles[0]", "Spells/Level1/ArrowOfLaw"]]}

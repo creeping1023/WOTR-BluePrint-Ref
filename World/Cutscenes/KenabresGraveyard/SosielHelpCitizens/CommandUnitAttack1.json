@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_ConditionFlag", "World/Encounters/KenabresGraveyard/UnlockableFlags/DoorBreak"], ["Data.m_TargetEvaluator.m_Companion", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]], "referenced": [["Data.m_Tracks[1].m_Commands[0]", "World/Cutscenes/KenabresGraveyard/SosielHelpCitizens/gate9"]]}

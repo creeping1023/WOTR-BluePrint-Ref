@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_SpeakerPortrait", "Units/NPC/Unique/Act_2_SwordOfValor/LostChapel/MysteriousArusha"], ["Data.Continue.Cues[0]", "World/Dialogs/c2_vs/LostChapel/ArushaVision/Cue_0018"]], "referenced": [["Data.CuesSeen[2977]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/c2_vs/LostChapel/ArushaVision/Answer_0013"]]}

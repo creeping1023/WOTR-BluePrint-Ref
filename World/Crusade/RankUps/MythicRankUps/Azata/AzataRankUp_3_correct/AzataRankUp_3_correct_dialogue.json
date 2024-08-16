@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Crusade/RankUps/MythicRankUps/Azata/AzataRankUp_3_correct/Cue_0022"]], "referenced": [["Data.m_Dialog", "World/Cutscenes/AzataIsland/AzataRankUp3_scene/CommandStartDialog"], ["Data.ActivationCondition.Conditions[2].m_Dialog", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata/Timer_Before_AzataRankUp_04"]]}

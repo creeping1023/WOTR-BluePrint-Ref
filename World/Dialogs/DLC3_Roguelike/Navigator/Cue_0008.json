@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_BlueprintCampaign", "DLC/DLC3/Dlc3Campaign"], ["Data.Speaker.m_Blueprint", "Units/NPC/Commoners/DLC3_RogueLike/DLC3_Navigator"], ["Data.Continue.Cues[0]", "World/Dialogs/DLC3_Roguelike/Navigator/Cue_0005"]], "referenced": [["Data.NextCue.Cues[1]", "World/Dialogs/DLC3_Roguelike/Navigator/Answer_0004"]]}

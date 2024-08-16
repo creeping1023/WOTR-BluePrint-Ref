@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_SummonPool", "World/Encounters/DrezenCapital/SummonPools/Coronation_DefaultArmy"], ["Data.OnStop.Actions[0].Etude", "World/Etudes/Common/WrathOfTheRighteous/MythicLich/MythicLich_TotalUndead"]], "referenced": [["Data.Cues[15]", "World/Dialogs/c5/DrezenMain_C5/Coronation/CueSequence_0034"]]}

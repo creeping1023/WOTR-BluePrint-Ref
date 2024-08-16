@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Ramien/RamienDead"], ["Data.m_Actions.Actions[0].IfTrue.Actions[0].m_Objective", "World/Quests/c1/StarlightPath/Obj_hiddenFail"]], "referenced": [["Data.m_Upgraders[363]", "Root/PlayerUpgradeActionsRoot"]]}

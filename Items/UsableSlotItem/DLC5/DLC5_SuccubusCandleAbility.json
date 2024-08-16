@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Actions.Actions[1].m_Blueprint", "Items/UsableSlotItem/DLC5/DLC5_CR7_PlayfuiSuccubusSummoned"], ["Data.Components[0].Actions.Actions[1].AfterSpawn.Actions[0].m_Buff", "Buffs/SummonedCreatureSpawnMonsterIV-VI"]], "referenced": [["Data.m_Ability", "Items/UsableSlotItem/DLC5/DLC5_SuccubusCandleItem"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Camelia/Camelia_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c1/EstrodTower/Greybor/Cue_0026"], ["Data.Continue.Cues[1]", "World/Dialogs/c1/EstrodTower/Greybor/Cue_0027"]], "referenced": [["Data.Cues[0]", "World/Dialogs/c1/EstrodTower/Greybor/CueSequence_0023"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_AreaEffect", "Units/Monsters/Scarecrow/ScarecrowGazeAreaEffect"], ["Data.Components[1].m_CharacterClass", "Classes/Monster/Construct/ConstructClass"]], "referenced": [["Data.Components[0].m_Feature", "Units/Monsters/Scarecrow/ScarecrowFascinatingGaze"]]}

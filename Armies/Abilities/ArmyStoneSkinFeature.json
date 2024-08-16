@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Armies/Abilities/ArmyStoneSkinFact"], ["Data.Components[0].m_Facts[1]", "Armies/Abilities/ArmyStoneSkin"]], "referenced": [["Data.m_AddFacts[6]", "Armies/UnitBlueprints/ArmyKineticist"], ["Data.m_AddFacts[3]", "Armies/UnitBlueprints/ArmySandClerics"]]}

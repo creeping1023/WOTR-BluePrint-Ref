@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_DisplayName.m_OwnerString", "Buffs/SummonedCreatureVisual"], ["Data.m_Description.m_OwnerString", "Buffs/SummonedCreatureVisual"]]}
+{"referencing": [["Data.m_DisplayName.m_OwnerString", "Buffs/SummonedCreatureVisual"], ["Data.m_Description.m_OwnerString", "Buffs/SummonedCreatureVisual"]], "referenced": [["Data.Action.Actions[0].m_Buff", "World/Cutscenes/Chapter_1/BlackWingRuins/TieflingLaying/CommandAction"]]}

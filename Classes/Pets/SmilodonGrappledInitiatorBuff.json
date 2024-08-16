@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[4].m_Facts[0]", "Classes/Pets/RakeSmilodonFeature"]], "referenced": [["Data.Components[0].Action.Actions[0].IfFalse.Actions[0].Success.Actions[0].m_CasterBuff", "Classes/Pets/SmilodonGrappleBuff"], ["Data.Components[1].Action.Actions[0].IfFalse.Actions[0].Success.Actions[0].m_CasterBuff", "Classes/Pets/SmilodonGrappleBuff"]]}

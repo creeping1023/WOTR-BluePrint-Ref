@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Woljif/Woljif_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c1/BlackWingRuins/SavedCrusader/Cue_0031"]], "referenced": [["Data.CuesSeen[1245]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Cues[0]", "World/Dialogs/c1/BlackWingRuins/SavedCrusader/CueSequence_0028"]]}

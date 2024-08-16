@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_CharacterClass", "Classes/Monster/Outsider/OutsiderClass"]], "referenced": [["Data.Components[0].Action.Actions[0].IfTrue.Actions[0].OnSuccess.Actions[0].m_Buff", "Units/Monsters/Demon Balor/BalorBrain/BalorWhipEntangle"]]}

@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Classes/Bard/BardicPerformances/BardicPerformanceResourceFact"]]}
+{"referencing": [["Data.Components[0].m_Resource", "Classes/Druid/Archetypes/Drovier/DrovierAspectResource"], ["Data.Components[1].m_Facts[0]", "Classes/Druid/Archetypes/Drovier/DrovierAspectResourcePrerequisite"], ["Data.m_Description.m_OwnerString", "Classes/Bard/BardicPerformances/BardicPerformanceResourceFact"]], "referenced": [["Data.AddFeatures[1].m_Features[1]", "Classes/Druid/Archetypes/Drovier/DrovierArchetype"]]}

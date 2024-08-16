@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/NymphDialog/Cue_0001"], ["Data.FirstCue.Cues[1]", "World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/NymphDialog/Cue_0002"]], "referenced": [["Data.EnterActions.Actions[0].m_Dialogue", "World/Encounters/DLC5_Storasta/ScriptZones/DLC5_Storasta_NymphDialog"]]}

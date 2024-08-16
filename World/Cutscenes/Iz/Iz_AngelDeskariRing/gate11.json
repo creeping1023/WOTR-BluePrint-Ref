@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Iz/Iz_AngelDeskariRing/CommandDelay27"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/Iz/Iz_AngelDeskariRing/gate12"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/Iz/Iz_AngelDeskariRing/gate10"], ["Data.m_Tracks[1].m_EndGate", "World/Cutscenes/Iz/Iz_AngelDeskariRing/gate9"]]}

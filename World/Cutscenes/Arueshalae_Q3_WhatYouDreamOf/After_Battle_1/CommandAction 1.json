@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].DialogueOwner.m_Companion", "Units/Companions/Arueshalae/Arueshalae_Companion"], ["Data.Action.Actions[0].m_Dialogue", "World/Dialogs/Companions/CompanionQuests/Arueshalae/Q3/FinalDream/ArushaQ3_FinalDream_Dialogue"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Arueshalae_Q3_WhatYouDreamOf/After_Battle_1/gate"]]}

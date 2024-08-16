@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Class", "Classes/Monster/Dragon/DragonClass"], ["Data.m_EquipmentEntity", "EquipmentEntities/Robe/KEE_Robe_RobeArcane1"], ["Data.m_Type", "Equipment/Armor/Types/ClothType"], ["Data.m_Enchantments[0]", "Equipment/Armor/Items/DLC3/ShirtMesmerizeEnchantment"]], "referenced": [["Data.m_Items[2732]", "Dugeons/Loot/DungeonLootExclude"]]}

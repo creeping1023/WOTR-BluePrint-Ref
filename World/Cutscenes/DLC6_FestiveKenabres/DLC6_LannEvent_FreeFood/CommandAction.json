@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Flag", "World/Encounters/DLC6_FestiveKenabres/UnlockableFlags/DLC6_LannEvent_FoodType"], ["Data.Action.Actions[0].Unit.m_Companion", "Units/Companions/Lann/Lann_Companion"]], "referenced": [["Data.m_Tracks[2].m_Commands[0]", "World/Cutscenes/DLC6_FestiveKenabres/DLC6_LannEvent_FreeFood/DLC6_LannEvent_FreeFood"]]}

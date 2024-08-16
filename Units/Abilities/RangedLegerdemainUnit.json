@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Race", "Races/HumanRace"], ["Data.m_Faction", "Factions/Player"], ["Data.m_Brain", "Passive Monster Brain"], ["Data.Body.m_EmptyHandWeapon", "WeaponEmptyHand"], ["Data.m_AddFacts[0]", "Classes/ArcaneTrickster/RangedLegerdemain/RangedLegerdemainUntargetable"]], "referenced": [["Data.SystemMechanics.m_LedgermainUnit", "Root/BlueprintRoot"]]}

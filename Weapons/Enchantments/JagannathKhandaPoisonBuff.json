@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Units/Monsters/Spider/GiantSpiderPoisonBuff"]]}
+{"referencing": [["Data.Components[2].NewRound.Actions[0].Actions.Actions[0].Failed.Actions[2].m_Buff", "Buffs/Daze"], ["Data.m_Description.m_OwnerString", "Units/Monsters/Spider/GiantSpiderPoisonBuff"]], "referenced": [["Data.Components[0].Action.Actions[0].Actions.Actions[0].Failed.Actions[0].m_Buff", "Weapons/Enchantments/JagannathKhandaPoisonEnchant"]]}

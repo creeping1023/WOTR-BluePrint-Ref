@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/DustShardItem"]], "referenced": [["Data.m_Items[667]", "Dugeons/Loot/DungeonLootExclude"], ["Data.OnShow.Actions[0].m_ItemToGive", "World/Dialogs/c1/BlackWingRuins/SavedCrusader/Cue_0016"]]}

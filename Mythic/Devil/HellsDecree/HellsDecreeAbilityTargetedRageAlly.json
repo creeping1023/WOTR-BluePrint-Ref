@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Actions.Actions[0].m_Buff", "Mythic/Devil/HellsDecree/HellsDecreeAbilityTargetedRageEnemyBuff"], ["Data.Components[0].Actions.Actions[1].m_Buff", "Mythic/Devil/HellsDecree/HellsDecreeAbilityTargetedRageAllySelfBuff"]], "referenced": [["Data.Components[0].m_Facts[0]", "Mythic/Devil/HellsDecree/HellsDecreeAbilityTargetedRageAllyBuff"]]}

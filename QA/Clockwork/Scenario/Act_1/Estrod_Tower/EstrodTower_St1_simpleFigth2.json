@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Area", "World/Areas/Act_1_WorldwoundIncursion/EstrodTower/EstrodTower"], ["Data.Components[0].CommandList.Commands[3].Answer", "World/Dialogs/c1/EstrodTower/Greybor/Answer_0011"], ["Data.Preset", "QA/Clockwork/Scenario/Act_1/EstrodTower_St1_forBot_allQ"]]}

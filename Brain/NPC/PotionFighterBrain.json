@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions[0]", "Brain/Actions/AttackAiAction"], ["Data.m_Actions[1]", "Brain/Actions/BullsStrengthPotionAiAction"], ["Data.m_Actions[2]", "Brain/Actions/HasteScrollAiAction"], ["Data.m_Actions[3]", "Brain/Actions/EnlargePotionAiAction"]], "referenced": [["Data.m_Brain", "QA/Unused/Units/NPC/Commoners/Guards/CR5_GuardFighterMeleeLevel6"]]}

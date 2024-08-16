@@ -1,0 +1,1 @@
+{"referencing": [["Data.SpecificCampaign", "DLC/MainGame/MainCampaign"], ["Data.m_Group", "Achievements/Groups/DLC4TrophyGroup"]], "referenced": [["Data.Achievements.m_List[111]", "Root/BlueprintRoot"], ["Data.Components[1].Actions.Actions[0].m_Achievement", "World/Etudes/Common/DLC4_Shifter/DLC4_Extra/DLC4_Gundrun_Extra/DLC4_CaveWorm_Fate"]]}

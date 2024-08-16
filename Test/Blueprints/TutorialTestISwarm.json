@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_CharacterClass", "Classes/Monster/Animal/AnimalClass"], ["Data.Visual.m_Barks", "Sound/Barks/NPC/Monsters/SwarmRats_Barks"], ["Data.m_Faction", "Factions/WildAnimals"], ["Data.m_Brain", "Units/Monsters/RatSwarm/RatSwarmBrain"], ["Data.m_AddFacts[0]", "Units/Monsters/RatSwarm/SwarmTinyFeature"]]}

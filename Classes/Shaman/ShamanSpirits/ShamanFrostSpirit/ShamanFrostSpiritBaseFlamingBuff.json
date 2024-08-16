@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_EnchantmentBlueprint", "Weapons/Enchantments/Frost"], ["Data.Components[1].m_EnchantmentBlueprint", "Weapons/Enchantments/Frost"]], "referenced": [["Data.Components[0].m_Facts[0]", "Classes/Shaman/ShamanSpirits/ShamanFrostSpirit/ShamanFrostSpiritBaseFlamingFeature"]]}

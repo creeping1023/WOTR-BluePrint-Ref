@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c5/NumerianCamp/AutomaticDoor/Cue_0001"]], "referenced": [["Data.ShowConditions.Conditions[1].m_Dialog", "World/Dialogs/c5/NumerianCamp/BeatenCyborg/Answer_0021"], ["Data.Actions.Actions[0].m_Dialogue", "World/Encounters/KohhDungeon/ActionsHolders/2ndDoorComp_CheckPassedActions"]]}

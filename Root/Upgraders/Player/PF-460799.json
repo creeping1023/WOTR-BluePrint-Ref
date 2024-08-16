@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SpecificArea", "World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/ReturnToDrezen/ReturnToDrezen"], ["Data.m_Actions.Actions[0].IfTrue.Actions[0].m_Cutscene", "World/Cutscenes/ReturnToDrezen/DelayAfterMythicSelect/DelayAfterMythicSelect"]], "referenced": [["Data.m_Upgraders[584]", "Root/PlayerUpgradeActionsRoot"]]}

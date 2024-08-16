@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Feature", "Weapons/Items/UniquePF2/Chapter5/DefendersNemesisFeature"], ["Data.Components[1].Action.Actions[0].IfTrue.Actions[0].m_Buff", "Weapons/Items/UniquePF2/Chapter5/DefendersNemesisBuff"]], "referenced": [["Data.m_Enchantments[1]", "Weapons/Items/UniquePF2/Chapter5/DefendersNemesisItem"]]}

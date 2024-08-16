@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/InjuryMedium"], ["Data.m_ActorConsiderations[1]", "Brain/Considerations/NoThreateningUnitsConsideration"], ["Data.m_Ability", "Spells/Level2/CureModerateWoundsCast"]], "referenced": [["Data.m_Actions[4]", "Units/Monsters/DLC5Mobs/WizardsTower/GoblinBard/Goblin_Bard_Brain"]]}

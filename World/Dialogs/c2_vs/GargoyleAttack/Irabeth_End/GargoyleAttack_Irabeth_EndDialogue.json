@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c2_vs/GargoyleAttack/Irabeth_End/Cue_0001"], ["Data.FinishActions.Actions[0].m_Objective", "World/Quests/c2_vs/LostChapel/Add1_returnToTent"]], "referenced": [["Data.m_Dialog", "World/Cutscenes/WarCamp/GargoyleAttack_IrabethScene/CommandStartDialog 1"]]}

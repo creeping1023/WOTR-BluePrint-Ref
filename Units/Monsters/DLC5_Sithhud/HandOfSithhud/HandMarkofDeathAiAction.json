@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/SwiftActionOffCooldown"], ["Data.m_TargetConsiderations[0]", "Units/Monsters/DLC5_Sithhud/HandOfSithhud/TargetMarkofDeathConsideration"], ["Data.m_Ability", "Classes/Assassin/AssassinMarkOfDeathAbility"]], "referenced": [["Data.m_Actions[4]", "Units/Monsters/DLC5_Sithhud/HandOfSithhud/HandBrain"]]}

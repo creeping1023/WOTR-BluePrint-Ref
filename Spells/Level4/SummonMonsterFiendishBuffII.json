@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level1/SnowballBuff"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level1/SnowballBuff"]], "referenced": [["Data.Components[0].Actions.Actions[0].AfterSpawn.Actions[1].IfTrue.Actions[0].m_Buff", "Spells/Level5/SummonMonsterVd3"], ["Data.Components[0].Actions.Actions[0].AfterSpawn.Actions[1].IfTrue.Actions[0].m_Buff", "Spells/Level6/SummonMonsterVId4plus1"]]}

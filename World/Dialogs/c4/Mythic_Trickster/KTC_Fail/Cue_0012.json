@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_QuestObjective", "World/Quests/MythicQuests/Trickster/C4_Lexicon2/Obj_01_FindSocot"], ["Data.Answers[0]", "World/Dialogs/c4/Mythic_Trickster/KTC_Fail/AnswersList_0002"]], "referenced": [["Data.FirstCue.Cues[0]", "World/Dialogs/c4/Mythic_Trickster/KTC_Fail/KTC_Fail_Mythic_Trickster_Dialogue"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].UnitEnter.Actions[0].IfTrue.Actions[0].m_Buff", "Feats/Disruptive/DisruptiveEffectBuff"], ["Data.Components[0].UnitExit.Actions[0].IfTrue.Actions[0].m_Buff", "Feats/Disruptive/DisruptiveEffectBuff"]], "referenced": [["Data.Components[0].m_AreaEffect", "Feats/Disruptive/DisruptiveBuff"]]}

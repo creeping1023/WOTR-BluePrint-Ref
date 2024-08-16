@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_WeaponType", "Weapons/Types/SimpleTwoHanded/Longspear"], ["Data.Components[0].InitiatorConditions.Conditions[0].m_Fact", "Units/Abilities/Mounts/MountedBuff"]], "referenced": [["Data.m_Enchantments[1]", "Weapons/Items/UniquePF2/Chapter1/DevastatingBlowFromAboveItem"]]}

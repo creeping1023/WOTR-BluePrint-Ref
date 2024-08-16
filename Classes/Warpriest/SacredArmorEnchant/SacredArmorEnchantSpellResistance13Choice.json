@@ -1,1 +1,1 @@
-{"referenced": [["Data.PrototypeLink", "Classes/Warpriest/Archetypes/Shieldbearer/SacredShieldArmorEnchantSpellResistance13Choice"]]}
+{"referencing": [["Data.m_Buff", "Classes/Warpriest/SacredArmorEnchant/SacredArmorEnchantSpellResistance13Buff"]], "referenced": [["Data.PrototypeLink", "Classes/Warpriest/Archetypes/Shieldbearer/SacredShieldArmorEnchantSpellResistance13Choice"], ["Data.Components[1].m_Facts[4]", "Classes/Warpriest/SacredArmorEnchant/SacredArmorEnchantPlus2"]]}

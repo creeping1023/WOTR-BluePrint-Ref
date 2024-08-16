@@ -1,0 +1,1 @@
+{"referencing": [["Data.Answers[0]", "World/Dialogs/NPC_Common/Vendor_Quartermaster/AnswersList_0003"], ["Data.Continue.Cues[0]", "World/Dialogs/NPC_Common/Vendor_Quartermaster/CueSequence_0002"]], "referenced": [["Data.CuesSeen[1838]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/NPC_Common/Vendor_Quartermaster/Answer_0001"]]}

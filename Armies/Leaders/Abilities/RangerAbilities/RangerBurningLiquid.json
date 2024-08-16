@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Armies/Leaders/Abilities/RangerAbilities/RangerBurningLiquidFact"], ["Data.Components[1].m_Ability", "Armies/Leaders/Abilities/RangerAbilities/RangerBurningLiquidAbility"]], "referenced": [["Data.m_Skills[2]", "Armies/Leaders/Progression/AbilityRangerChoice2"], ["Data.m_baseSkills[7]", "Armies/Leaders/Warlords/Warlord_Odan"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Cue", "World/Dialogs/c4/SEbosses/Echo/Cue_0001"], ["Data.Answers[0]", "World/Dialogs/c4/SEbosses/Echo/AnswersList_0033"]], "referenced": [["Data.CuesSeen[6855]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/c4/SEbosses/Echo/Answer_0014"]]}

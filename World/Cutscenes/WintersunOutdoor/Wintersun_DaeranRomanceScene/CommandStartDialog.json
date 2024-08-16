@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Companion", "Units/Companions/Daeran/Daeran_Companion"], ["Data.m_Dialog", "World/Dialogs/Companions/CompanionRomances/Daeran/MidEvent12_SexyBathing/SexyBathing_dialog"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/WintersunOutdoor/Wintersun_DaeranRomanceScene/gate 1"]]}

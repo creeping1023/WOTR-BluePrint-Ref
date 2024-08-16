@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].NewRound.Actions[0].m_Actions[0].Action.Actions[0].m_Buff", "Spells/Level5/SongOfDiscordEnragedBuff"]], "referenced": [["Data.Components[1].m_Buffs[0]", "Spells/Level1/UnbreakableHeartBuff"], ["Data.Components[2].Actions.Actions[0].Failed.Actions[0].m_Buff", "Spells/Level5/SongOfDiscord"]]}

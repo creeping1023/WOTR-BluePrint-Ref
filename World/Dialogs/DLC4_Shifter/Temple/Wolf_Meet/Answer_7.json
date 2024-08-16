@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC4_Shifter/Temple/Wolf_Meet/Cue_0013"]], "referenced": [["Data.Answers[3]", "World/Dialogs/DLC4_Shifter/Temple/Wolf_Meet/AnswersList_4"], ["Data.Conditions.Conditions[3].m_Answer", "World/Dialogs/DLC4_Shifter/Temple/Wolf_Meet/Cue_0021"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/NoBuffDivinePower"], ["Data.m_ActorConsiderations[1]", "Brain/Considerations/NoThreateningUnitsConsideration"], ["Data.m_Ability", "Spells/Level4/DivinePower"]], "referenced": [["Data.m_Actions[5]", "Units/NPC/Unique/Act_2_SwordOfValor/Daeran_Q2/Inquisitor_Liotr_Brain/Inquisitor_Liotr_Brain"]]}

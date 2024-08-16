@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/Nexus/MentorDisguise/MentorDisguise"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/Mythic_Azata/MentorInNexus/Answer_0005"], ["Data.Conditions.Conditions[0].m_Cue", "World/Dialogs/c4/Mythic_Azata/MentorInNexus/Cue_0002"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/Cue_0010"]], "referenced": [["Data.Answers[1]", "World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/AnswersList_0006"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/DLC1_Megaepic/AzataIsland/Portal/Answer_0013"]]}

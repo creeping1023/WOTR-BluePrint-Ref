@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[1].m_Unit", "Units/Monsters/RatSwarm/CR2_RatSwarm"], ["Data.Action.Actions[2].m_flag", "World/Encounters/TempleOfDelamere/UnlockableFlags/KyadoDead"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/TempleOfDelamere/KyadoDie/gate"]]}

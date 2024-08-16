@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "Units/NPC/Commoners/Demon Succubus/SuccubusBrain/SuccubusMythicSlayer_BloodHazeAIAction"]]}
+{"referencing": [["Data.PrototypeLink", "Units/NPC/Commoners/Demon Succubus/SuccubusBrain/SuccubusMythicSlayer_BloodHazeAIAction"], ["Data.m_ActorConsiderations[0]", "Brain/Considerations/SwiftActionOffCooldown"], ["Data.m_Ability", "Mythic/Demon/DemonSpells/BloodHaze"]], "referenced": [["Data.m_Actions[2]", "Units/Monsters/DLC6Mobs/NestingDolls/DLC6_Kalavakus_Brain_Mythic"]]}

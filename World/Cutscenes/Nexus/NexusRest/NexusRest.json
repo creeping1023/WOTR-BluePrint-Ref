@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Nexus/NexusRest/CommandPartyRest"]], "referenced": [["Data.Components[0].OnRestActions.Actions[0].IfTrue.Actions[0].AfterTeleport.Actions[0].m_Cutscene", "World/Areas/Act_4_MidnightIsles/Nexus/Nexus"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Woljif/Woljif_Companion"]], "referenced": [["Data.ShowConditions.Conditions[0].m_Cue", "World/Dialogs/c4/TenThousandDelights/MagicDoor_dialogue/Answer_0049"], ["Data.Cues[0]", "World/Dialogs/c4/TenThousandDelights/MagicDoor_dialogue/CueSequence_0046"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Area512/TestScene512/CommandDelay"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/Area512/TestScene512/gate"], ["Data.m_Tracks[1].m_EndGate", "World/Cutscenes/Area512/TestScene512/gate"]]}

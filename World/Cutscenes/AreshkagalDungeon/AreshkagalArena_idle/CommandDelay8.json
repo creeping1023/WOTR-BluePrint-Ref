@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Quest", "World/Quests/Companions/Nenio/MoreThanNothing/MoreThanNothing_quest"], ["Data.EntryCondition.Conditions[1].m_Quest", "World/Quests/Companions/Nenio/MoreThanNothing/MoreThanNothing_quest"]], "referenced": [["Data.m_Tracks[2].m_Commands[0]", "World/Cutscenes/AreshkagalDungeon/AreshkagalArena_idle/gate5"]]}

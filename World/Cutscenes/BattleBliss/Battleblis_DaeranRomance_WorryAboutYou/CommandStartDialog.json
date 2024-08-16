@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Companion", "Units/Companions/Daeran/Daeran_Companion"], ["Data.m_Dialog", "World/Dialogs/Companions/CompanionRomances/Daeran/MidEvent23_SweetReunion/SweetReunion_dialog"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/BattleBliss/Battleblis_DaeranRomance_WorryAboutYou/gate 1"]]}

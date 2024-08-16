@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Armies/Brains/Considerations/TacticalConsideration_Closest"], ["Data.m_Ability", "Armies/Abilities/ArmyRetrieverEyerRay_Fire"]], "referenced": [["Data.m_TacticalActions[3]", "Armies/Brains/TacticalCombat_RetrieverBrain"], ["Data.m_TacticalActions[4]", "Armies/Brains/TacticalCombat_RetrieverBrain"]]}

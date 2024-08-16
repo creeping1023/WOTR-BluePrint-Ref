@@ -1,0 +1,1 @@
+{"referenced": [["Data.Components[1].Actions.Actions[0].m_Buff", "Armies/Abilities/ArmyCultistCurse"], ["Data.Components[1].Actions.Actions[0].IfFalse.Actions[0].m_Actions[3].Action.Actions[0].m_Buff", "Armies/Abilities/ArmyRandomSpellHavoc"], ["Data.m_Buffs[0]", "Brain/Considerations/NoBuffCultistCurse"]]}

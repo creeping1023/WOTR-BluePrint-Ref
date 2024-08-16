@@ -1,0 +1,1 @@
+{"referencing": [["Data.Cues[0]", "World/Dialogs/c1/KenabresBurning/BookEvent_Aeon/Cue_0020"], ["Data.Answers[0]", "World/Dialogs/c1/KenabresBurning/BookEvent_Aeon/Answer_0022"]], "referenced": [["Data.CuesSeen[696]", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/c1/KenabresBurning/BookEvent_Aeon/Answer_0017"]]}

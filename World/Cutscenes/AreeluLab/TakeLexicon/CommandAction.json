@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].ConditionsChecker.Conditions[0].m_ConditionFlag", "World/Encounters/AreeluLab/UnlockableFlags/AL_LexiconTaken"]], "referenced": [["Data.m_Tracks[0].m_Commands[2]", "World/Cutscenes/AreeluLab/TakeLexicon/gate1"]]}

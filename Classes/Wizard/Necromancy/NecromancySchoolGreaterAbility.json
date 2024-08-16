@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_RequiredResource", "Classes/Wizard/Necromancy/NecromancySchoolGreaterResource"], ["Data.m_Buff", "Classes/Wizard/Necromancy/NecromancySchoolGreaterBuff"]], "referenced": [["Data.Components[0].m_Facts[0]", "Classes/Wizard/Necromancy/NecromancySchoolGreaterFeature"]]}

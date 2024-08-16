@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Cutscene", "World/Cutscenes/DrezenCapital/PlayerAndGreyborDrinking/PlayerAndGreyborDrinking"], ["Data.Action.Actions[2].Unit.m_Companion", "Units/Companions/Greybor/Greybor_Companion"]], "referenced": [["Data.m_Tracks[0].m_Commands[2]", "World/Cutscenes/DrezenCapital/KillGreyborInCapital/KillGreyborInCapital"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DrezenCapital/DrezenCapital_TavernEasterEgg_FF/CommandBark1"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DrezenCapital/DrezenCapital_TavernEasterEgg_FF/gate2"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DrezenCapital/DrezenCapital_TavernEasterEgg_FF/gate1"]]}

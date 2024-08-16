@@ -1,0 +1,1 @@
+{"referenced": [["Data.m_Buffs[1]", "Units/Monsters/Vescavor/VescavorSwarmBrain/HasBuffVescavorConsiceration"], ["Data.Components[2].OnAddActions.Actions[0].m_Buff", "World/Encounters/GibberingSwarm/ComponentLists/GS_Canyon"], ["Data.Components[2].OnRemoveActions.Actions[0].m_Buff", "World/Encounters/GibberingSwarm/ComponentLists/GS_Canyon"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Abilities[0]", "Spells/Level4/ProtectionFromEnergyCommunal"], ["Data.Components[0].Abilities[1]", "Spells/Level4/ProtectionFromColdCommunal"], ["Data.Components[0].Abilities[2]", "Spells/Level4/IceStorm"]], "referenced": [["Data.m_AddFacts[11]", "Units/Monsters/Demon Shadow/DeepShadowDemonBoss"]]}

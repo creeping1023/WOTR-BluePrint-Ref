@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/RenownExplorerSE/Check_0066"], ["Data.OnSelect.Actions[0].m_Cutscene", "World/Cutscenes/SE_RenownExplorer/CartFix/CartFix"]], "referenced": [["Data.Answers[0]", "World/Dialogs/c5/RenownExplorerSE/AnswersList_0062"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/c5/RenownExplorerSE/Answer_0076"]]}

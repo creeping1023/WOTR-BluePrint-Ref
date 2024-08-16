@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/Mythic_Lich/Zacharius_KilledPassions/Cue_0011"]], "referenced": [["Data.Answers[1]", "World/Dialogs/c4/Mythic_Lich/Zacharius_KilledPassions/AnswersList_0003"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/c4/Mythic_Lich/Zacharius_KilledPassions/Answer_0017"]]}

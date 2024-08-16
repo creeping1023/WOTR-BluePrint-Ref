@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c2_vs/LostChapel/Sosiel_Dead_Hellknight/Cue_0001"], ["Data.FinishActions.Actions[0].m_Objective", "World/Quests/c2_vs/LostChapel/Add_3-3_Soeiel"]], "referenced": [["Data.m_Dialog", "World/Cutscenes/LostChapel/SosielBattle/CommandStartDialog"]]}

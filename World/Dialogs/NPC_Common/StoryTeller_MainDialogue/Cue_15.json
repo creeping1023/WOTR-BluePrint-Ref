@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_Cutscene", "World/Cutscenes/StorytellerTower/RecolorGolem_EE_Show_Tower/RecolorGolem_EE_Show_Tower"], ["Data.Answers[0]", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/AnswersList_0004"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Answer_3_TeleportGemGolemCh4"]]}

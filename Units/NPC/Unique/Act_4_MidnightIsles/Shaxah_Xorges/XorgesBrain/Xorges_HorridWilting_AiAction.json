@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/ChaoticBehaviour"], ["Data.m_TargetConsiderations[0]", "Brain/Considerations/AoE_ChooseMoreEnemies"], ["Data.m_Ability", "Spells/Level8/HorridWilting"]], "referenced": [["Data.m_Actions[3]", "Units/NPC/Unique/Act_4_MidnightIsles/Shaxah_Xorges/XorgesBrain/Xroges_Brain"]]}

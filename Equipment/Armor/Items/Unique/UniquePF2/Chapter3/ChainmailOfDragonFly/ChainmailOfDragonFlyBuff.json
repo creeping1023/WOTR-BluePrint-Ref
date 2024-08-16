@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_CheckedFact", "CreatureAbilities/Subtypes/SubtypeDemon"], ["Data.Components[2].m_CheckedFact", "CreatureAbilities/Subtypes/SubtypeDemon"]], "referenced": [["Data.Components[0].Actions.Actions[0].m_Buff", "Equipment/Armor/Items/Unique/UniquePF2/Chapter3/ChainmailOfDragonFly/ChainmailOfDragonFlyAbility"]]}

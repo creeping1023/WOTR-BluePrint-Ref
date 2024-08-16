@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/NPC_Common/Crinukh/Cue_0280"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/NPC_Common/Crinukh/Answer_0003"]], "referenced": [["Data.AnswersSelected[1023]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[1]", "World/Dialogs/NPC_Common/Crinukh/AnswersList_0002"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_CharacterClass", "Classes/Ranger/RangerClass"], ["Data.Components[0].m_Spell", "Spells/Level2/ScorchingRay"]], "referenced": [["Data.UIGroups[6].m_Features[1]", "Classes/Ranger/RangerProgression"], ["Data.AddFeatures[1].m_Features[0]", "Classes/Ranger/Archetypes/Flamewarden/FlamewardenArchetype"]]}

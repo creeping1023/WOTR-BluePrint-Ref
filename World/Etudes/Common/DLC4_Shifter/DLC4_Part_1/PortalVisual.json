@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Parent", "World/Etudes/Common/DLC4_Shifter/DLC4_Part_1/DLC4_RuinedVillage_Part_1"], ["Data.m_LinkedAreaPart", "World/Areas/DLC4_Shifter/DLC4_RuinedVillage/DLC4_RuinedVillage"]], "referenced": [["Data.Actions.Actions[0].IfTrue.Actions[4].Etude", "World/Encounters/DLC4_RuinedVillage/ActionsHolders/DLC4_Dolmen"]]}

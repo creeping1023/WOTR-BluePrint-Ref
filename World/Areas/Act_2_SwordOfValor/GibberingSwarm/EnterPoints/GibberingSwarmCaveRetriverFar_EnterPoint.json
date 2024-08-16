@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Act_2_SwordOfValor/GibberingSwarm/GibberingSwarmCave"], ["Data.m_AreaPart", "World/Areas/Act_2_SwordOfValor/GibberingSwarm/GibberingSwarmCave"]], "referenced": [["Data.Action.Actions[0].OnSuccess.Actions[0].m_exitPositon", "World/Cutscenes/GibberingSwarm/MoveStone/CommandAction 1"]]}

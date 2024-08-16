@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Brain/Considerations/EvilConsideration"], ["Data.m_TargetConsiderations[1]", "Brain/Considerations/AttackTargetsPriority"], ["Data.m_Ability", "Spells/Level4/HolySmite"]], "referenced": [["Data.m_Actions[1]", "Units/NPC/Unique/Act_3_DemonsHerecy/AreeluLab/AngelTargona_Brain/AngelTargona_Brain"]]}

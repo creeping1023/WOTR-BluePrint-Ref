@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/Companions/CompanionRomances/Daeran/OtherIsWatchingBE/BookPage_0002"]], "referenced": [["Data.m_Dialog", "World/Cutscenes/DrezenCapital/DrezenCapital_DaeranRomance_NotADate/CommandStartDialog 2"], ["Data.ShowConditions.Conditions[2].m_Dialog", "World/Dialogs/Companions/CompanionDialogues/Daeran/Answer_0181_DreamRef"]]}

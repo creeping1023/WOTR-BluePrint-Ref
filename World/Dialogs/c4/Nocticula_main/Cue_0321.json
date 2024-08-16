@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Quest", "World/Quests/MythicQuests/Demon/C4_ShadowsDance/C4_ShadowsDance"], ["Data.Answers[0]", "World/Dialogs/c4/Nocticula_main/AnswersList_0322"], ["Data.Continue.Cues[0]", "World/Dialogs/c4/Nocticula_main/Cue_0333"]], "referenced": [["Data.Cues[4]", "World/Dialogs/c4/Nocticula_main/CueSequence_0142"]]}

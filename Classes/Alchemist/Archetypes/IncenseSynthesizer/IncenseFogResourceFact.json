@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Classes/Bard/BardicPerformances/BardicPerformanceResourceFact"]]}
+{"referencing": [["Data.Components[0].m_Resource", "Classes/Alchemist/Archetypes/IncenseSynthesizer/IncenseFogResource"], ["Data.m_Description.m_OwnerString", "Classes/Bard/BardicPerformances/BardicPerformanceResourceFact"]], "referenced": [["Data.AddFeatures[0].m_Features[1]", "Classes/Alchemist/Archetypes/IncenseSynthesizer/IncenseSynthesizerArchetype"]]}

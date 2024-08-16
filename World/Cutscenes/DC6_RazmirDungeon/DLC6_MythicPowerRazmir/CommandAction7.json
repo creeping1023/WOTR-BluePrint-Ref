@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/MythicLocust/PlayerIsLocust"], ["Data.Action.Actions[0].m_Buff", "Buffs/DLC6/DLC6_LocustRowdy_Buff"]], "referenced": [["Data.m_Tracks[7].m_Commands[0]", "World/Cutscenes/DC6_RazmirDungeon/DLC6_MythicPowerRazmir/gate"]]}

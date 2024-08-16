@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Brain/Considerations/AoE_ChooseMoreEnemies"], ["Data.m_Ability", "Spells/Level4/DragonsBreath"], ["Data.m_Variant", "Spells/Level4/DragonsBreathBlue"]], "referenced": [["Data.m_Actions[4]", "Units/NPC/Unique/Act_3_DemonsHerecy/AreeluLab/MongrelmanWitch_Brain/MongrelmanWitch_Brain"]]}

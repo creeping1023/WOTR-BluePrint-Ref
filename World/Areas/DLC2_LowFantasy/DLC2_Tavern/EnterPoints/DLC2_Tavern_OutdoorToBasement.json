@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/DLC2_LowFantasy/DLC2_Tavern/DLC2_Tavern"], ["Data.m_AreaPart", "World/Areas/DLC2_LowFantasy/DLC2_Tavern/DLC2_TavernBasement"]], "referenced": [["Data.m_Actions[0].Actions.Actions[0].m_exitPositon", "World/Areas/DLC2_LowFantasy/DLC2_Tavern/AreaTransitions/DLC2_Tavern_OutdoorToBasement"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/TavernBadLuck/InnKeeper_mainDialogue/Cue_0156"]], "referenced": [["Data.HighPriorityAnswers[13]", "QA/Clockwork/Scenario/Exploration/ScenarioParts/CompanionsRomance/WendyRomance"], ["Data.Answers[1]", "World/Dialogs/c4/TavernBadLuck/InnKeeper_mainDialogue/AnswersList_0148"]]}

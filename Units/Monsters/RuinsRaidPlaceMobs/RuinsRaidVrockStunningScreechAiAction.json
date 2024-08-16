@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "Units/Monsters/Demon Vrock/VrockBrain/VrockStunningScreechAiAction"]]}
+{"referencing": [["Data.PrototypeLink", "Units/Monsters/Demon Vrock/VrockBrain/VrockStunningScreechAiAction"], ["Data.m_ActorConsiderations[0]", "Brain/Considerations/IsThreatedConsideration"], ["Data.m_TargetConsiderations[0]", "Brain/Considerations/AoE_ChooseMoreEnemies"], ["Data.m_Ability", "Units/Monsters/Demon Vrock/VrockBrain/VrockStunningScreechAbility"]], "referenced": [["Data.m_Actions[2]", "Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidVrockStandardBrain"]]}

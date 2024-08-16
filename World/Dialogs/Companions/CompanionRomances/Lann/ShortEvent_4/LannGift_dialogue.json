@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/Companions/CompanionRomances/Lann/ShortEvent_4/Cue_0001"]], "referenced": [["Data.Conditions.Conditions[3].m_Dialog", "World/Encounters/LannGift_CampingEncounter/LannGift_CampingEncounter"], ["Data.EncounterActions.Actions[0].m_Dialogue", "World/Encounters/LannGift_CampingEncounter/LannGift_CampingEncounter"]]}

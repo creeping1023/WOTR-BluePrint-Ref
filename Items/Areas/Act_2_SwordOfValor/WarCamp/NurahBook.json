@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/DustShardItem"]], "referenced": [["Data.m_Items[1013]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Items[0].m_Item", "Loot/Good/CR4/PF2_RichHuman_BookLootEasy"], ["Data.Items[0].m_Item", "Loot/Quest/WarCamp/NurahBook"]]}

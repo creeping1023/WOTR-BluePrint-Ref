@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "Units/Monsters/RuinsRaidPlaceMobs/GalluBossTeleportAction"]]}
+{"referencing": [["Data.PrototypeLink", "Units/Monsters/RuinsRaidPlaceMobs/GalluBossTeleportAction"], ["Data.m_ActorConsiderations[0]", "Brain/Considerations/SwiftActionOnCooldown"], ["Data.m_Ability", "Units/Monsters/RuinsRaidPlaceMobs/GalluBossDemonTeleportAbility"]], "referenced": [["Data.m_Actions[4]", "Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidGalluBossBrain"]]}

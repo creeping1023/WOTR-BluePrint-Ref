@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_RequiredResource", "Mythic/Lich/LichUniqueAbilities/DeathOfElements/DeathOfElementsConsumingElementsResource"], ["Data.m_Buff", "Mythic/Lich/LichUniqueAbilities/DeathOfElements/DeathOfElementsConsumingElementsBuff"]], "referenced": [["Data.Components[0].m_Facts[0]", "Mythic/Lich/LichUniqueAbilities/DeathOfElements/DeathOfElementsFeature"]]}

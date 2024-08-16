@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_Flag", "World/Encounters/DLC6_TavernRebuilded/UnlockableFlags/DLC6_SuspiciousSosiel_Count"], ["Data.Continue.Cues[0]", "World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/SosielRomance/RooftopDate2/Cue_0012"]], "referenced": [["Data.m_Success", "World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/SosielRomance/RooftopDate2/Check_0007"]]}

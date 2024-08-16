@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Act_1_WorldwoundIncursion/SuccubusLair/SuccubusLair"], ["Data.m_AreaPart", "World/Areas/Act_1_WorldwoundIncursion/SuccubusLair/SuccubusLairIndoor"]], "referenced": [["Data.Components[0].AreaParts.ElementList[1].EnterPoint", "QA/Arbiter/Scenario/Act_1_WorldwoundIncursion/SuccubusLair"]]}

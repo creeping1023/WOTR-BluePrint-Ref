@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Pool", "World/Encounters/Iz/SummonPools/DemonsAttackCamp"], ["Data.Action.Actions[0].ActionsOnSpawn.Actions[0].m_SummonPool", "World/Encounters/Iz/SummonPools/CampDefenders"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Iz/CampAttack/gate"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_RequiredResource", "World/Encounters/TheIvoryLabyrinth/Items/HeartOfTheHeraldResource"], ["Data.m_Buff", "World/Encounters/TheIvoryLabyrinth/Items/HeartOfTheHeraldAreaBuff"]], "referenced": [["Data.m_ActivatableAbility", "World/Encounters/TheIvoryLabyrinth/Items/HeartOfTheHeraldItem"]]}

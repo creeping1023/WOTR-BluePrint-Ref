@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Buffs/NPC_Protection"], ["Data.Action.Actions[1].m_Buff", "Buffs/NPC_HealthGuard10"]], "referenced": [["Data.m_Tracks[3].m_Commands[0]", "World/Cutscenes/WoundWormsLair/DragonTryingLeave_scene/gate 4"]]}

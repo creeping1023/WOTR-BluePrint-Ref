@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/ChaoticBehaviour"], ["Data.m_TargetConsiderations[0]", "Brain/Considerations/ChaoticBehaviour"], ["Data.m_Ability", "Spells/Level8/Soulreaver"]], "referenced": [["Data.m_Actions[10]", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Daeran_Q3/DaeranAlienSwarmBrain/DaeranAlienSwarmBrain"]]}

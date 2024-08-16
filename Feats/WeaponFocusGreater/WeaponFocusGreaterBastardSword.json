@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_WeaponType", "Weapons/Types/ExoticOneHanded/BastardSword"], ["Data.Components[2].m_Feature", "Feats/WeaponFocus/WeaponFocusBastardSword"], ["Data.Components[3].m_CharacterClass", "Classes/Fighter/FighterClass"]], "referenced": [["Data.IsPrerequisiteFor[0]", "Feats/WeaponFocus/WeaponFocusBastardSword"]]}

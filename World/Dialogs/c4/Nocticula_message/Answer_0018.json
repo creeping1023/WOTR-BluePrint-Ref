@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/Nocticula_message/Cue_0020"], ["Data.NextCue.Cues[1]", "World/Dialogs/c4/Nocticula_message/Cue_0019"], ["Data.ShowConditions.Conditions[0].m_Cue", "World/Dialogs/c4/Nocticula_message/Cue_0017"]], "referenced": [["Data.Answers[2]", "World/Dialogs/c4/Nocticula_message/AnswersList_0002"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/Mineshaft_14/LiLura_Shrine/Cue_8"], ["Data.OnSelect.Actions[0].m_Objective", "World/Quests/c5/Mineshaft14/Obj3_HelpForeman"], ["Data.OnSelect.Actions[1].m_Objective", "World/Quests/c5/Mineshaft14/HiddenObj"]], "referenced": [["Data.Answers[0]", "World/Dialogs/c5/Mineshaft_14/LiLura_Shrine/AnswersList_0003"]]}

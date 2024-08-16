@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_ItemToGive", "Weapons/Items/Standard/SimpleRanged/StandardLightCrossbow"], ["Data.Action.Actions[0].EquipOn.m_SummonPool", "World/Encounters/FatefulNight1_Kenabres/SummonPools/MainCharacterCopy3"]], "referenced": [["Data.m_Tracks[9].m_Commands[0]", "World/Cutscenes/FatefulNight_Kenabres/FatefulNight3/gate 1"]]}

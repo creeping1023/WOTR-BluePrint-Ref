@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c6/AeonFinal/LastMarevo/Cue_0001"]], "referenced": [["Data.m_Actions[0].Actions.Actions[0].IfTrue.Actions[0].m_Dialogue", "World/Encounters/ThresholdIndoor/ActionsHolders/ToThePast_AreaTransition"]]}

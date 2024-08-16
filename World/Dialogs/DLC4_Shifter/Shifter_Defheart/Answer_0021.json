@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC4_Shifter/Shifter_Defheart/Cue_0024"]], "referenced": [["Data.Conditions.Conditions[0].m_Answer", "World/Dialogs/DLC4_Shifter/Shifter_CompanionDialogue/Cue_0003"], ["Data.Answers[2]", "World/Dialogs/DLC4_Shifter/Shifter_Defheart/AnswersList_0016"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Seelah/Q1_LittleTroubles/Ch1_SeelahMeetsFriends/Cue_0001"], ["Data.FinishActions.Actions[0].m_Objective", "World/Quests/Companions/Seelah/Q0_FriendsInNeed/Obj2_GetDrunkWithSeelah"]], "referenced": [["Data.m_Dialog", "World/Cutscenes/DefendersHeart/SeelahFriendsScene/CommandStartDialog"]]}

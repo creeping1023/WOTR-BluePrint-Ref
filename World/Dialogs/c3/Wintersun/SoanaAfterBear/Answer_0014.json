@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/Wintersun/SoanaAfterBear/Cue_0015"], ["Data.ShowConditions.Conditions[0].m_ConditionFlag", "World/Encounters/WintersunOutdoor/UnlockableFlags/ForestQuest_PerseptionChek_ok"]], "referenced": [["Data.Answers[0]", "World/Dialogs/c3/Wintersun/SoanaAfterBear/AnswersList_0039"]]}

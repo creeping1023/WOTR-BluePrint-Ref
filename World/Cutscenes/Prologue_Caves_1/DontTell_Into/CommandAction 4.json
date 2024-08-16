@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].Unit.m_Companion", "Units/Companions/Camelia/Camelia_Companion"], ["Data.Action.Actions[0].Unit.m_Companion", "Units/Companions/Camelia/Camelia_Companion"]], "referenced": [["Data.m_Tracks[6].m_Commands[0]", "World/Cutscenes/Prologue_Caves_1/DontTell_Into/DontTell_Into"]]}

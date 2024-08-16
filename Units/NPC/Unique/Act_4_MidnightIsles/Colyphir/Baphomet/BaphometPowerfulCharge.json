@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Ability", "Root/SystemMechanics/Abilities/ChargeAbility"]], "referenced": [["Data.m_AddFacts[12]", "Units/NPC/Unique/Act_4_MidnightIsles/Colyphir/Baphomet/Baphomet"], ["Data.m_AddFacts[25]", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/LabyrinthOfBaphomet/BaphometVision_IvoryLabyrinth"]]}

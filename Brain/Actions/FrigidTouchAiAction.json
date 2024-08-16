@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Brain/Considerations/AttackTargetsPriority"], ["Data.m_TargetConsiderations[1]", "Brain/Considerations/NoBuffStaggered"], ["Data.m_Ability", "Spells/Level2/FrigidTouchCast"]], "referenced": [["Data.m_Actions[4]", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_ShadowPlane/Brains/Arcanist/DLC5_FetchlingArcanistBrain"]]}

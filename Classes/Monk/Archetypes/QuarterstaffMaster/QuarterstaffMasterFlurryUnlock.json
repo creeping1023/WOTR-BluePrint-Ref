@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_NewFact", "Classes/Monk/FlurryOfBlows"], ["Data.Components[0].m_BowWeaponTypes[0]", "Weapons/Types/SimpleTwoHanded/Quarterstaff"]], "referenced": [["Data.AddFeatures[0].m_Features[0]", "Classes/Monk/Archetypes/QuarterstaffMaster/QuarterstaffMasterArchetype"]]}

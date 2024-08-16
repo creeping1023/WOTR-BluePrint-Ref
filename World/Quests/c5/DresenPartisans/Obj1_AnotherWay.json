@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Quest", "World/Quests/c5/DresenPartisans/DresenPartisans_quest"]], "referenced": [["Data.OnStop.Actions[0].m_Objective", "World/Dialogs/c5/Drezen_Under_Siedge/AneviaDrezenPartisans/Cue_0042"], ["Data.m_Objectives[0]", "World/Quests/c5/DresenPartisans/DresenPartisans_quest"]]}

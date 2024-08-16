@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "Units/NPC/Commoners/Sarcorians_Warriors/SarcorianBrains/SarcorianBarbarian_Brain_Standard"]]}
+{"referencing": [["Data.PrototypeLink", "Units/NPC/Commoners/Sarcorians_Warriors/SarcorianBrains/SarcorianBarbarian_Brain_Standard"], ["Data.m_Actions[0]", "Brain/Actions/AttackAiAction"], ["Data.m_Actions[1]", "Units/NPC/Commoners/Wight/WightBoss/WightBarbarian_AiAction_Charge"]], "referenced": [["Data.m_Brain", "Units/NPC/Commoners/Wight/WightBoss/SarcorianWedding_WightBoss"]]}

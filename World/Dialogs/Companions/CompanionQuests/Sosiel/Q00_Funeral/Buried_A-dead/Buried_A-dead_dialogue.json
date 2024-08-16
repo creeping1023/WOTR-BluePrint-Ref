@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Sosiel/Q00_Funeral/Buried_A-dead/Cue_0001"]], "referenced": [["Data.m_Dialog", "World/Cutscenes/KenabresGraveyard/BuriedAliveSpawn/CommandStartDialog"], ["Data.Conditions.Conditions[0].m_Dialog", "World/Encounters/KenabresGraveyard/ConditionsHolders/Spawner [BuriedAlivePreson]_Conditions"]]}

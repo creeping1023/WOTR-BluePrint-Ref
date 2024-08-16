@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Nenio/Nenio_Companion"], ["Data.m_Listener", "Units/NPC/Unique/Areelu/Areelu"], ["Data.Continue.Cues[0]", "World/Dialogs/c5/Iz/AreeluIntro/Cue_0024"]], "referenced": [["Data.Cues[1]", "World/Dialogs/c5/Iz/AreeluIntro/CueSequence_0020"]]}

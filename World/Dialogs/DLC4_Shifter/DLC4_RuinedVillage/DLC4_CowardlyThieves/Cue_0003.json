@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_RuinedVillage/DLC4_CR14_ElfMarauderWizard"], ["Data.OnStop.Actions[0].Actions.Actions[0].m_Faction", "Factions/Mobs"]], "referenced": [["Data.m_Fail", "World/Dialogs/DLC4_Shifter/DLC4_RuinedVillage/DLC4_CowardlyThieves/Check_0001"]]}

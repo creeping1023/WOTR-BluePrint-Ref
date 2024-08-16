@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_AreaEffect", "Units/Monsters/GoldDragon/HalaseliaxBrain/Halaseliax_FireAuraArea"]], "referenced": [["Data.m_Buff", "Units/Monsters/GoldDragon/HalaseliaxBrain/Halaseliax_FireAuraAbility"], ["Data.Components[0].Actions.Actions[1].m_Buff", "World/Etudes/Common/WrathOfTheRighteous/MythicDragon/PlayerIsDragon/FightWithHal"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Cues[0]", "World/Dialogs/c5/VerbovezzorGMBE/Cue_0078"], ["Data.Cues[1]", "World/Dialogs/c5/VerbovezzorGMBE/Cue_0080"], ["Data.Answers[0]", "World/Dialogs/c5/VerbovezzorGMBE/Answer_0091"]], "referenced": [["Data.m_Success", "World/Dialogs/c5/VerbovezzorGMBE/Check_0079"], ["Data.m_Fail", "World/Dialogs/c5/VerbovezzorGMBE/Check_0079"]]}

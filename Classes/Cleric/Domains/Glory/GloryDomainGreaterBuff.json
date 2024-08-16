@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Classes/Cleric/Domains/Death/DeathDomainBaseBuff"]]}
+{"referencing": [["Data.Components[0].m_AreaEffect", "Classes/Cleric/Domains/Glory/GloryDomainGreaterArea"], ["Data.m_Description.m_OwnerString", "Classes/Cleric/Domains/Death/DeathDomainBaseBuff"]], "referenced": [["Data.Components[0].Actions.Actions[3].m_Buff", "Classes/Cleric/Archetypes/Separatist/Domains/Glory/GloryDomainGreaterAbilitySeparatist"], ["Data.Components[0].Actions.Actions[3].m_Buff", "Classes/Cleric/Domains/Glory/GloryDomainGreaterAbility"]]}

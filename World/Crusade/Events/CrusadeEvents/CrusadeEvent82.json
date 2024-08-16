@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_EventSolutions[3].m_AvailConditions.Conditions[0].m_companion", "Units/Companions/Lann/Lann_Companion"], ["Data.m_EventSolutions[3].m_SuccessEffects.Actions[1].m_Blueprint", "Armies/CrusadeGlobalBuffs/ArmyUnitsBestIngredients"]], "referenced": [["Data.Chapters[1].EventListsQueue[1].Events[16]", "Root/Kingdom/CrusadeEventTimeline"]]}

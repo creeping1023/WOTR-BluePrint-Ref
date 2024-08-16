@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c0/CavesUnderKenabres/VendougDontTell/Cue_0008"]], "referenced": [["Data.AnswersSelected[39]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.AnswersSelected[36]", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset"], ["Data.Answers[1]", "World/Dialogs/c0/CavesUnderKenabres/VendougDontTell/AnswersList_0002"]]}

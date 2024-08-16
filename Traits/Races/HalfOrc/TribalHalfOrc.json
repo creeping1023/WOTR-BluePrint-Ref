@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Feature", "Traits/Races/HalfOrc/HalfOrcFerocity"], ["Data.Components[1].m_Feature", "Traits/Races/Common/KeenSenses"]], "referenced": [["Data.m_Features[2]", "Traits/Races/HalfOrc/HalfOrcHeritageSelection"], ["Data.m_AllFeatures[2]", "Traits/Races/HalfOrc/HalfOrcHeritageSelection"]]}

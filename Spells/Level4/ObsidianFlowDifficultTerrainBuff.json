@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[2].Activated.Actions[0].ConditionsChecker.Conditions[0].m_Buff", "Root/SystemMechanics/Conditions/ChargeBuff"], ["Data.Components[2].Activated.Actions[0].IfTrue.Actions[0].Failure.Actions[0].m_Buff", "Spells/Level4/ObsidianFlowChargeBuff"]], "referenced": [["Data.Components[0].m_Buff", "Spells/Level4/ObsidianFlowArea"]]}

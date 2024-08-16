@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Fact", "Items/Rods/Artisan/RodOfUndead/RodOfUndeadFeat"], ["Data.m_ShardItem", "Items/DestructibleItemsShards/MetalShardItem"], ["Data.m_ActivatableAbility", "Items/Rods/Artisan/RodOfUndead/RodOfUndeadAbility"]], "referenced": [["Data.m_Items[2611]", "Dugeons/Loot/DungeonLootExclude"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_CharacterClass", "Classes/Fighter/FighterClass"], ["Data.Components[2].m_Feature", "Feats/WeaponSpecialization/WeaponSpecializationBastardSwordOversized"]], "referenced": [["Data.IsPrerequisiteFor[0]", "Feats/WeaponSpecialization/WeaponSpecializationBastardSwordOversized"]]}

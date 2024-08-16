@@ -1,0 +1,1 @@
+{"referencing": [["Data.Squads[0].m_Unit", "Armies/UnitBlueprints/ArmyRanger"], ["Data.Squads[1].m_Unit", "Armies/UnitBlueprints/ArmyChampion"]], "referenced": [["Data.OnSelect.Actions[0].Preset", "World/Dialogs/NPC_Common/Vendor_Quartermaster/Answer_0059"]]}

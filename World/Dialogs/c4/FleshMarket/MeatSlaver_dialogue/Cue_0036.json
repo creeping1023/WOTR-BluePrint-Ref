@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[1].Loot[0].m_Item", "Items/Utility/GoldCoins"], ["Data.Continue.Cues[0]", "World/Dialogs/c4/FleshMarket/MeatSlaver_dialogue/Cue_0024"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/FleshMarket/MeatSlaver_dialogue/Answer_0033"]]}

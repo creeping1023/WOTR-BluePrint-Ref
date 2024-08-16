@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].Actions.Actions[0].m_Buff", "World/Encounters/ReligionReactivityBuffs/Calistria_Buff"], ["Data.Continue.Cues[0]", "World/Dialogs/c2_vs/DrezenSiege/Final_Battle_Before/Cue_0017"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c2_vs/DrezenSiege/Final_Battle_Before/Answer_0068"]]}

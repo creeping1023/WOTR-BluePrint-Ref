@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_CharacterClass", "Classes/Kineticist/KineticistClass"], ["Data.Components[2].m_AreaEffect", "Classes/Kineticist/Archetypes/ElementalEngine/ElementalEngineColdArea"]], "referenced": [["Data.Components[0].m_ExtraEffectBuff", "Classes/Kineticist/Archetypes/ElementalEngine/ElementalEngineAdditionalEffectsCold13"]]}

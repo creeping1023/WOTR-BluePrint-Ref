@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Skill", "Armies/Leaders/Feats/Bonus/Logistics4MovementPoints"]], "referenced": [["Data.OnSelect.Actions[1].m_Blueprint", "World/Crusade/RankUps/Logistics/Logistics_4/Answer_0007"], ["Data.Components[10].Actions.Actions[7].IfTrue.Actions[1].m_Blueprint", "World/Etudes/Common/WrathOfTheRighteous/Chapter05"]]}

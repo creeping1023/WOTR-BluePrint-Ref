@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/MetalShardItem"], ["Data.m_Ability", "Spells/Level1/MageShield"], ["Data.m_EquipmentEntity", "EquipmentEntities/Bracers/KEE_Bracers_BracersArcaneNormalGems"], ["Data.m_Enchantments[0]", "Equipment/CommonEnchantments/Deflection2"]], "referenced": [["Data.m_Items[2705]", "Dugeons/Loot/DungeonLootExclude"]]}

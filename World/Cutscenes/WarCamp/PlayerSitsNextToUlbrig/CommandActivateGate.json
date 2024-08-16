@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_ConditionFlag", "World/Encounters/WarCamp/UnlockableFlags/DLC4_UlbrigAndPlayerDrink"], ["Data.SignalData.m_Gate", "World/Cutscenes/WarCamp/PlayerSitsNextToUlbrig/gate"]], "referenced": [["Data.m_Tracks[2].m_Commands[1]", "World/Cutscenes/WarCamp/PlayerSitsNextToUlbrig/gate2"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_SummonPool", "World/Encounters/DrezenCapital/SummonPools/Ziggurat_Zacharius"], ["Data.m_Dialog", "World/Dialogs/c5/Mythic_Lich/BecomeLich_AfterBattle/BecomeLich_AfterBattle_dialogue"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Ziggurat/AttackAfterRitual_WinOnB02/gate 2"]]}

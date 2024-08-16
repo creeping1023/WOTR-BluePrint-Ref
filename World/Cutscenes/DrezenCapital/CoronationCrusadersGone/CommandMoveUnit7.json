@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/LiotrFriend"], ["Data.EntryCondition.Conditions[1].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/LiotrDead"]], "referenced": [["Data.m_Tracks[11].m_Commands[1]", "World/Cutscenes/DrezenCapital/CoronationCrusadersGone/gate"]]}

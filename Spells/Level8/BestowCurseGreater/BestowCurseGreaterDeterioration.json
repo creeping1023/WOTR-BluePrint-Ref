@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Actions.Actions[0].Failed.Actions[0].m_Buff", "Spells/Level8/BestowCurseGreater/BestowCurseGreaterDeteriorationBuff"], ["Data.Components[1].m_TouchWeapon", "Weapons/Types/Special/TouchItem"]], "referenced": [["Data.Components[2].m_TouchDeliveryAbility", "Spells/Level8/BestowCurseGreater/BestowCurseGreaterDeteriorationCast"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[3].NewRoundActions.Actions[0].Value.DiceCountValue.m_CustomProperty", "Armies/Leaders/Feats/Bonus/PropertyArmySpellPower"]], "referenced": [["Data.Components[1].Actions.Actions[0].IfTrue.Actions[0].m_Buff", "Armies/Abilities/ArmyGreedySands"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].UnitEnter.Actions[0].m_Buff", "Classes/Shaman/ShamanHexes/ShamanHexAuraOfPurityEffectBuff"], ["Data.Components[0].UnitExit.Actions[0].m_Buff", "Classes/Shaman/ShamanHexes/ShamanHexAuraOfPurityEffectBuff"]], "referenced": [["Data.Components[0].m_AreaEffect", "Classes/Shaman/ShamanHexes/ShamanHexAuraOfPurityBuff"]]}

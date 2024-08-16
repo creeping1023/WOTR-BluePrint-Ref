@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Commoners/DLC5_Storys_End/Penta_companion_NPC"], ["Data.OnShow.Actions[0].m_Objective", "World/Quests/DLC5_StoryEnds/DLC5_Main_Good/Obj_03_GiantsAdventure"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/DLC5_StoryEnds/AbyssHub/AndroidJoin/Cue_0004"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC6_TavernRebuilded/SitAndDrink_Param/CommandUnitPlayCutsceneAnimation"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DLC6_TavernRebuilded/SitAndDrink_Param/gate"]], "referenced": [["Data.Action.Actions[0].m_Cutscene", "World/Cutscenes/DLC6_TavernRebuilded/DCL6_Tavern_Evening_EarlyStart/CommandAction1"]]}

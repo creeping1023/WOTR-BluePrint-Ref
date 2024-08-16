@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Test/DeadCultist_Interrogation/Cue_0015"]], "referenced": [["Data.Answers[1]", "World/Dialogs/Test/DeadCultist_Interrogation/AnswersList_0008"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/Test/DeadCultist_Interrogation/Answer_0012"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Seelah/Seelah_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/NPC_Common/Kaylessa/DrowLeader/Cue_0091"]], "referenced": [["Data.CuesSeen[2224]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Cues[0]", "World/Dialogs/NPC_Common/Kaylessa/DrowLeader/CueSequence_0088"]]}

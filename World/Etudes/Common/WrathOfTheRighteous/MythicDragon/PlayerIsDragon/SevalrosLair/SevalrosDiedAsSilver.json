@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Parent", "World/Etudes/Common/WrathOfTheRighteous/MythicDragon/PlayerIsDragon/SevalrosLair"]], "referenced": [["Data.ShowConditions.Conditions[1].m_Etude", "World/Dialogs/c5/Mythic_Dragon/Hal_companion/Answer_0062"], ["Data.OnStop.Actions[2].Etude", "World/Dialogs/c5/Mythic_Dragon/SevalrosDying/Cue_0009"]]}

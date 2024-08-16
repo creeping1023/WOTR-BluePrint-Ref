@@ -1,0 +1,1 @@
+{"referencing": [["Data.Races[0].m_Race", "Races/HumanRace"], ["Data.Races[1].m_Race", "Races/HalflingRace"]], "referenced": [["Data.m_Distribution", "Units/Customization/CP_Bandit_Bard"], ["Data.m_Distribution", "Units/Customization/CP_Bandit_Cleric"], ["Data.m_Distribution", "Units/Customization/CP_CultistsRanged6-8"]]}

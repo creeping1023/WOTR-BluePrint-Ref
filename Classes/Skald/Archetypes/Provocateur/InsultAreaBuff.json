@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_AreaEffect", "Classes/Skald/Archetypes/Provocateur/InsultAreaEffect"]], "referenced": [["Data.Components[1].Activated.Actions[0].IfTrue.Actions[0].m_Buff", "Classes/Skald/RagingSong/InspiredRageBuff"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Quest", "World/Quests/Companions/Ember/Q3_Worshipped/Ember_Q3_Worshipped_quest"], ["Data.m_AreaEntrance", "World/Areas/Act_3_DemonsHerecy/EmberQ1_BaphometsAltar/EnterPoints/EmberQ1_BaphometsAltar_Enter"]], "referenced": [["Data.LocationVariations[0]", "GlobalMaps/WorldWoundGM/Points/Location_EmberQ1_BaphometsAltar"]]}

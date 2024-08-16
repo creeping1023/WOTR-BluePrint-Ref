@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[3].Actions.Actions[0].AfterSpawn.Actions[0].m_Buff", "Buffs/SummonedCreatureSpawnMonsterIV-VI"], ["Data.Components[3].Actions.Actions[0].m_SummonPool", "Spells/CutsceneSpells/SummonMonsterPool"]], "referenced": [["Data.m_Ability", "Items/Artefacts/BlakemoorGrimoireBad"]]}

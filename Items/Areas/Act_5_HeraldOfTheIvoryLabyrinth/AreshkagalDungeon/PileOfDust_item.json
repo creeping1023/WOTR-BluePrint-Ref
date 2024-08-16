@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/DustShardItem"]], "referenced": [["Data.m_Items[724]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Items[0].m_Item", "Loot/Quest/AreshkagalDungeon/FakeLoot1_vase"], ["Data.Conditions.Conditions[0].Blueprint", "World/Encounters/AreshkagalDungeon/ConditionsHolders/Fakeloot_ItemRestriction"]]}

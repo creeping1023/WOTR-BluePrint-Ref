@@ -1,0 +1,1 @@
+{"referencing": [["Data.SpecificCampaign", "DLC/DLC5/Dlc5Campaign"], ["Data.m_Group", "Achievements/Groups/DLC5TrophyGroup"]], "referenced": [["Data.Achievements.m_List[127]", "Root/BlueprintRoot"], ["Data.Components[0].Actions.Actions[0].m_Achievement", "World/Etudes/Common/I Wonder What's Inside"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SettlementBuildArea", "World/Areas/Settlements/DrezenSettlement/Drezen_Enter"], ["Data.m_SettlementEntrance", "World/Areas/Settlements/TempCapital/Capital_Enter"]], "referenced": [["Data.m_CapitalSettlement", "Root/Kingdom/KingdomRoot"], ["Data.m_StartSettlement", "World/Areas/Settlements/TempCapital/Capital_Settlement_Preset"]]}

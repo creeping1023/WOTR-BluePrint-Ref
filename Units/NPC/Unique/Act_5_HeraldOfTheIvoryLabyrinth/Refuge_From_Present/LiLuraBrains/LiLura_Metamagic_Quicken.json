@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Abilities[0]", "Spells/Level4/DimensionDoor"], ["Data.Components[0].Abilities[1]", "Spells/Level2/MirrorImage"]], "referenced": [["Data.m_AddFacts[3]", "Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/LiLura_Kenabres"], ["Data.m_AddFacts[5]", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/Refuge_From_Present/LiLura"]]}

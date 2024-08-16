@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/NoThreateningUnitsConsideration"], ["Data.m_ActorConsiderations[1]", "Brain/Considerations/NoBuffHurricaneBow"], ["Data.m_Ability", "Spells/Level1/HurricaneBow"]], "referenced": [["Data.m_Actions[1]", "Units/NPC/Commoners/Ghoul/GhoulBrain/GhoulHuntmaster_RangerRanged_Brain_HurricaneBow"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]], "referenced": [["Data.Cues[0]", "World/Dialogs/c1/KenabresBurning/DesnaTempleFinal/CueSequence_0030"], ["Data.Conditions.Conditions[0].m_Cue", "World/Dialogs/c1/KenabresBurning/DesnaTempleFinal/Cue_3"]]}

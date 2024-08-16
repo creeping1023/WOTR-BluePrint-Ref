@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[1].m_Cutscene", "World/Cutscenes/WarCamp/WarCamp_Ambience_Cooking/WarCamp_Ambience_Cooking"], ["Data.Action.Actions[2].m_Cutscene", "World/Cutscenes/WarCamp/WarCamp_Ambience_DialogGeneric/WarCamp_Ambience_DialogGeneric"]], "referenced": [["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/DLC4_Gundrun/DLC4_SecondState_Supply1/gate4"]]}

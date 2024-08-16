@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Buff", "Items/Rods/MetamagicRodReachGreater/MetamagicRodGreaterReachBuff"]], "referenced": [["Data.m_ActivatableAbility", "Items/Rods/MetamagicRodReachGreater/MetamagicRodGreaterReach"], ["Data.Components[0].m_RodAbility", "Items/Rods/MetamagicRodReachGreater/MetamagicRodGreaterReachBuff"]]}

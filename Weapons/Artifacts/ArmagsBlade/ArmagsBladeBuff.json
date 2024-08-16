@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level0/MageLightBuff"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level0/MageLightBuff"]], "referenced": [["Data.Components[0].CombatStartActions.Actions[0].m_Buff", "Weapons/Artifacts/ArmagsBlade/ArmagsBladeFeature"]]}

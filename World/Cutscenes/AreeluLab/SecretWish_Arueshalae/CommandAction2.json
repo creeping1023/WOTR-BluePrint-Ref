@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Classes/Shifter/ShifterCutsceneBuff"], ["Data.Action.Actions[1].m_Buff", "Spells/CutsceneSpells/AreshkagalDungeon/EnlargePersonBuff_cutscene"]], "referenced": [["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/AreeluLab/SecretWish_Arueshalae/gate 2"]]}

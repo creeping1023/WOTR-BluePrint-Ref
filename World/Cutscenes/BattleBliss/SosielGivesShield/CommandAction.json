@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].Unit.m_Companion", "Units/Companions/SosielVaenic/SosielVaenic_Companion"], ["Data.Action.Actions[0].m_Item", "Equipment/Shields/Unique/UniquePF2/SosielQuestHeavyShieldItemPlus1"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/BattleBliss/SosielGivesShield/SosielGivesShield"]]}

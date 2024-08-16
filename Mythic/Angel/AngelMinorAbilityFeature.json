@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Mythic/Angel/AngelMinorAbility"]], "referenced": [["Data.Action.Actions[1].m_Fact", "World/Cutscenes/Prologue_Caves_1/Angel_Mythic_Miracle/CommandAction"], ["Data.OnStop.Actions[9].m_Fact", "World/Dialogs/c0/CavesUnderKenabres/AngelMythicMiracle/Cue_0003"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Act_4_MidnightIsles/AlushinyrraMediumCity/AlushinyrraMediumCity"], ["Data.m_AreaPart", "World/Areas/Act_4_MidnightIsles/AlushinyrraMediumCity/AlushinyrraMediumCity"]], "referenced": [["Data.Actions.Actions[0].m_exitPositon", "World/Encounters/AlushinyrraLowerCity/ActionsHolders/SkillcheckToRoofsHigher_II_CheckPassedActions"]]}

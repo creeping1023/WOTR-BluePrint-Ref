@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_exitPositon", "World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/Iz_Shard/EnterPoints/Iz_Shard_Enter"], ["Data.Action.Actions[0].AfterTeleport.Actions[0].m_Cutscene", "World/Cutscenes/Iz_Shard/IzShardStart/IzShardStart"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Iz/IZCollapsing/gate"]]}

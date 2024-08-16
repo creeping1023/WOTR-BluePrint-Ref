@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Lann/Lann_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Wintersun/Morveg_InTheShrine/Cue_0025"]], "referenced": [["Data.CuesSeen[4442]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Cues[1]", "World/Dialogs/c3/Wintersun/Morveg_InTheShrine/CueSequence_0022"]]}

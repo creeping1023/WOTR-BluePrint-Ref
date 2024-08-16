@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[3].m_Projectiles[0]", "FX/Abilities/AlchemistColdBomb00"], ["Data.Components[3].m_Weapon", "Weapons/Types/Special/BombItem"]], "referenced": [["Data.m_Ability", "Armies/Brains/Actions/TacticalCombat_AIAction_AlchemistAttack"], ["Data.m_AddFacts[1]", "Armies/UnitBlueprints/ArmyAlchemist"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[2].Actions.Actions[0].IfTrue.Actions[0].m_Buff", "Spells/Level3/PrayerDebuff"], ["Data.Components[2].Actions.Actions[0].IfFalse.Actions[0].m_Buff", "Spells/Level3/PrayerBuff"]], "referenced": [["Data.Components[0].Action.Actions[0].m_Spell", "Weapons/Items/UniquePF2/Chapter3/FortunesTemperEnchantment"]]}

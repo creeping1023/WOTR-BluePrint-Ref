@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[0].m_Cue", "World/Dialogs/DLC4_Shifter/UlbrigRomance/RomanceMain_c4/Nexus_UlbrigUpset/Cue_0030"], ["Data.m_Actions.Actions[0].IfTrue.Actions[0].m_CompanionBlueprint", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]], "referenced": [["Data.m_Upgraders[663]", "Root/PlayerUpgradeActionsRoot"]]}

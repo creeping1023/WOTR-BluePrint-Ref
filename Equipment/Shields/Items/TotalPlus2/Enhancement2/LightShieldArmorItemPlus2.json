@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/MetalShardItem"], ["Data.m_Type", "Equipment/Shields/Types/LightShieldType"], ["Data.m_Enchantments[0]", "Equipment/Shields/Enchantments/ShieldEnhancementBonus2"]], "referenced": [["Data.m_ArmorComponent", "Equipment/Shields/Items/TotalPlus2/Enhancement2/LightShieldItemPlus2"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/SwiftActionOffCooldown"], ["Data.m_Ability", "Mythic/Demon/DemonSpells/AbyssalSkin"]], "referenced": [["Data.m_Actions[4]", "Units/Monsters/Demon Vavakia/VavakiaBrain/DLC3_CR30_Vavakia_Boss_Brain"], ["Data.m_Actions[5]", "Units/Monsters/DLC3_Mobs/DLC3_ShadowBalorNahindry_Brain"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionRomances/Daeran/Event2_LetsHide/Cue_0043"], ["Data.OnSelect.Actions[0].m_flag", "World/Encounters/Nexus/UnlockableFlags/DaeranRomance_LetsHide_KissWait"]], "referenced": [["Data.Answers[2]", "World/Dialogs/Companions/CompanionRomances/Daeran/Event2_LetsHide/AnswersList_0011"]]}

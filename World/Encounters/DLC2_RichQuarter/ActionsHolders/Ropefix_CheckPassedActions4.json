@@ -1,0 +1,1 @@
+{"referencing": [["Data.Actions.Actions[0].ConditionsChecker.Conditions[0].m_ItemToCheck", "Items/Gear/VS/Rope"], ["Data.Actions.Actions[0].IfTrue.Actions[0].m_ItemToRemove", "Items/Gear/VS/Rope"], ["Data.Actions.Actions[0].IfTrue.Actions[1].m_Cutscene", "World/Cutscenes/DLC2_RichQuarter/Rope_Cutscene/Rope_Cutscene"]]}

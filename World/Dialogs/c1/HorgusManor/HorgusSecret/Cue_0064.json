@@ -1,0 +1,1 @@
+{"referencing": [["Data.Continue.Cues[0]", "World/Dialogs/c1/HorgusManor/HorgusSecret/Cue_0066"], ["Data.Continue.Cues[1]", "World/Dialogs/c1/HorgusManor/HorgusSecret/Cue_0067"]], "referenced": [["Data.CuesSeen[831]", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/c1/HorgusManor/HorgusSecret/Answer_0010"]]}

@@ -1,1 +1,1 @@
-{"referenced": [["Data.m_Description.m_OwnerString", "CreatureAbilities/Regeneration/RegenerationDivineHolyUnholy30"], ["Data.m_Description.m_OwnerString", "CreatureAbilities/Regeneration/RegenerationPositive10"]]}
+{"referenced": [["Data.m_Description.m_OwnerString", "CreatureAbilities/Regeneration/RegenerationDivineHolyUnholy30"], ["Data.m_Description.m_OwnerString", "CreatureAbilities/Regeneration/RegenerationPositive10"], ["Data.OnStop.Actions[0].Actions.Actions[0].m_Buff", "World/Dialogs/Companions/CompanionQuests/Grimbor/Q2_Ch4_QuestionOfReputation/BE_Manor/Cue_0082"]]}

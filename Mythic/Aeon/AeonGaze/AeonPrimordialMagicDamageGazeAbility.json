@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_RequiredResource", "Mythic/Aeon/AeonGaze/AeonGazeResource"], ["Data.Components[0].m_FreeBlueprint", "Mythic/Aeon/AeonGaze/AeonGazeFeatureEndless"], ["Data.m_Buff", "Mythic/Aeon/AeonGaze/AeonPrimordialMagicDamageGazeBaseBuff"]], "referenced": [["Data.Components[0].m_Facts[0]", "Mythic/Aeon/AeonGaze/AeonPrimordialMagicGazeFeature"]]}

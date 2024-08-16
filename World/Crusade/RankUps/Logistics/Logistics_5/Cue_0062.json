@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Logistics_Prisoner"], ["Data.Continue.Cues[0]", "World/Crusade/RankUps/Logistics/Logistics_5/Cue_0063"]], "referenced": [["Data.CuesSeen[6343]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Continue.Cues[0]", "World/Crusade/RankUps/Logistics/Logistics_5/Cue_0061"]]}

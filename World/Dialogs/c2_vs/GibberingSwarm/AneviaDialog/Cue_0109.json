@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Fact", "Classes/Basic/Deities/GreenFaithFeature"]], "referenced": [["Data.ShowConditions.Conditions[0].m_Cue", "World/Dialogs/c2_vs/GibberingSwarm/AneviaDialog/Answer_0111"], ["Data.Cues[1]", "World/Dialogs/c2_vs/GibberingSwarm/AneviaDialog/CueSequence_0089"]]}

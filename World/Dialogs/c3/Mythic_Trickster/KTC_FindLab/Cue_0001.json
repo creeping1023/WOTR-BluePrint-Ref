@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_Objective", "World/Quests/MythicQuests/Trickster/C3_FoolKing/Obj_04_Wait"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Mythic_Trickster/KTC_FindLab/Cue_0002"]], "referenced": [["Data.FirstCue.Cues[0]", "World/Dialogs/c3/Mythic_Trickster/KTC_FindLab/KTC_FindLab_Dialogue"]]}

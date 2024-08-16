@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Cutscene", "World/Cutscenes/GreyborQ3_DryCrossroads/PlayerChained/PlayerChained"], ["Data.Action.Actions[1].m_Buff", "Spells/CutsceneSpells/DemonCutsceneChain_Buff"]], "referenced": [["Data.m_Tracks[1].m_Commands[0]", "World/Cutscenes/GreyborQ3_DryCrossroads/GreyborBackstab/gate1"]]}

@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_DisplayName.m_OwnerString", "Equipment/Bracers/ArcheryBonuses"], ["Data.m_Description.m_OwnerString", "Equipment/Bracers/ArcheryBonuses"]]}
+{"referencing": [["Data.m_DisplayName.m_OwnerString", "Equipment/Bracers/ArcheryBonuses"], ["Data.m_Description.m_OwnerString", "Equipment/Bracers/ArcheryBonuses"]], "referenced": [["Data.Components[1].m_Feature", "Equipment/Bracers/GearsRuleEnchantment"], ["Data.Components[1].m_Feature", "Equipment/Bracers/GearsRuleFeature"]]}

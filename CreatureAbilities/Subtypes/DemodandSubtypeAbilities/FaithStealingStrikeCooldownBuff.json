@@ -1,0 +1,1 @@
+{"referenced": [["Data.Components[1].Action.Actions[0].ConditionsChecker.Conditions[0].m_Buff", "CreatureAbilities/Subtypes/DemodandSubtypeAbilities/FaithStealingStrikeFeature"], ["Data.Components[1].Action.Actions[0].IfTrue.Actions[0].Actions.Actions[0].Succeed.Actions[0].m_Buff", "CreatureAbilities/Subtypes/DemodandSubtypeAbilities/FaithStealingStrikeFeature"]]}

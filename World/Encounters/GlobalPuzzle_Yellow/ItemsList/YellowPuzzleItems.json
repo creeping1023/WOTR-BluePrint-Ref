@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Items[0]", "Items/Areas/GlobalPuzzle/DominoFlask1"], ["Data.m_Items[1]", "Items/Areas/GlobalPuzzle/DominoFlask2"], ["Data.m_Items[2]", "Items/Areas/GlobalPuzzle/DominoFlask3"]], "referenced": [["Data.Conditions.Conditions[0].List", "World/Encounters/GlobalPuzzle_Yellow/ConditionsHolders/Slot_1_1_ItemRestriction"]]}

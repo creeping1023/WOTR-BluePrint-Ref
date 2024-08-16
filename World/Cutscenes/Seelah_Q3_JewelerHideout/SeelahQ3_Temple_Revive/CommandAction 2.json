@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Cutscene", "World/Cutscenes/DrezenCapital/SleepingCitizen/SleepingCitizen"], ["Data.Action.Actions[1].m_Cutscene", "World/Cutscenes/Seelah_Q3_JewelerHideout/Citizen_WakeUp/Citizen_WakeUp"]], "referenced": [["Data.m_Tracks[1].m_Commands[0]", "World/Cutscenes/Seelah_Q3_JewelerHideout/SeelahQ3_Temple_Revive/gate 3"]]}

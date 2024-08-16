@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[3].Actions.Actions[0].m_Buff", "Buffs/Prone"], ["Data.Action.Actions[5].m_flag", "World/Encounters/MidnightFane/UnlockableFlags/MidnightFane_S2FirstFail"]], "referenced": [["Data.m_Tracks[1].m_Commands[2]", "World/Cutscenes/MidnightFane/MidnightFane_S2ColumnFall/MidnightFane_S2ColumnFall"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Brain/Considerations/AttackTargetsPriority"], ["Data.m_TargetConsiderations[1]", "Brain/Considerations/AoE_ChooseMoreEnemies"], ["Data.m_Ability", "Classes/Alchemist/Discoveries/AcidBombs/AcidBomb"]], "referenced": [["Data.m_Actions[3]", "Units/NPC/Commoners/Duergars/DLC3/DuergarMiniboss_Brain/DuergarMiniboss_Brain"]]}

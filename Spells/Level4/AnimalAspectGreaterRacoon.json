@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Actions.Actions[0].m_Buff", "Spells/Level4/AnimalAspectGreaterRacoonBuff"], ["Data.m_Parent", "Spells/Level4/AnimalAspectGreaterBase"]], "referenced": [["Data.m_Ability", "Items/Scrolls/Level4/ScrollOfAnimalAspectGreaterRacoon"], ["Data.Components[0].m_Variants[2]", "Spells/Level4/AnimalAspectGreaterBase"]]}

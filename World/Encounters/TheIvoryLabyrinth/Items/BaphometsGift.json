@@ -1,0 +1,1 @@
+{"referenced": [["Data.m_Items[871]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Conditions.Conditions[0].m_ItemToCheck", "World/Dialogs/c5/Iz/DeskariFight/Cue_0038"], ["Data.OnStop.Actions[3].m_ItemToRemove", "World/Dialogs/c5/Iz/DeskariFight/Cue_0038"], ["Data.OnShow.Actions[0].m_ItemToGive", "World/Dialogs/c5/LabyrinthOfBaphometh/Prison_Baph/Cue_0062"]]}

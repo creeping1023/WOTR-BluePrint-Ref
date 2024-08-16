@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "CreatureAbilities/FastHealing/FastHealing10"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "CreatureAbilities/FastHealing/FastHealing10"]], "referenced": [["Data.Components[0].ActionOnSelf.Actions[0].m_Buff", "Equipment/Armor/Items/Unique/UniquePF2/CrusadeRelics/Chapter3/Plague/PlaguePersistenceBandedFeature"]]}

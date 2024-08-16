@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Point1", "GlobalMaps/KenabresMap/Points/Location_Crossroads_33"], ["Data.m_Point2", "GlobalMaps/KenabresMap/Points/Location_Crossroads_07"]], "referenced": [["Data.Edges[58]", "GlobalMaps/KenabresMap/KenabresMap"], ["Data.Components[0].Actions.Actions[1].m_Edge", "World/Etudes/Common/WrathOfTheRighteous/Chapter01_Extra/KenabresMapEtude"]]}

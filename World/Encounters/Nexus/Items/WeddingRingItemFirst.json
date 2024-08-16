@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/MetalShardItem"]], "referenced": [["Data.m_Items[2509]", "Dugeons/Loot/DungeonLootExclude"], ["Data.OnShow.Actions[0].m_ItemToGive", "World/Dialogs/Companions/CompanionRomances/Lann/Event3/ArsinoeWedding/Cue_0011"]]}

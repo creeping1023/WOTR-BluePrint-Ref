@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_IgnoreFeature", "Mythic/MythicAbilities/Corrupter"]], "referenced": [["Data.LevelEntries[3].m_Features[0]", "Classes/Oracle/OracleCurses/PlaguedCurse/PlaguedCurseNoPenaltyProgression"], ["Data.LevelEntries[3].m_Features[0]", "Classes/Oracle/OracleCurses/PlaguedCurse/PlaguedCurseProgression"]]}

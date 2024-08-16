@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionDialogues/Finnean/Cue_0233"], ["Data.ShowConditions.Conditions[0].m_ConditionFlag", "World/Encounters/FinneanLab/UnlockableFlags/LockFail_dialog_flag"]], "referenced": [["Data.Answers[1]", "World/Dialogs/Companions/CompanionDialogues/Finnean/AnswersList_0229"]]}

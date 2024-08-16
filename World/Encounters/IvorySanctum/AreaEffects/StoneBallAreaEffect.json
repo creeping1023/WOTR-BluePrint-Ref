@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].UnitEnter.Actions[0].ConditionsChecker.Conditions[0].m_Fact", "CreatureAbilities/Incorporeal"]], "referenced": [["Data.Components[0].m_AreaEffect", "World/Areas/Act_3_DemonsHerecy/IvorySanctum/Buffs/StoneBallAura"]]}

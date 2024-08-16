@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Quest", "World/Quests/Companions/Arueshalae/Q2_BurningDreams/Arueshalae_Q2_BurningDreams"], ["Data.Answers[0]", "World/Dialogs/c4/GateGuard/AnswersList_0002"], ["Data.Continue.Cues[0]", "World/Dialogs/c4/GateGuard/CueSequence_0109"]], "referenced": [["Data.FirstCue.Cues[27]", "World/Dialogs/c4/GateGuard/GateGuard_dialogue"]]}

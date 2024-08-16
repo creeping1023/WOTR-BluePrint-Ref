@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Quest", "World/Quests/c5/IneluctablePrison_ch5/IneluctablePrison_ch5"]], "referenced": [["Data.Actions.Actions[8].IfTrue.Actions[0].m_Objective", "World/Encounters/ThresholdOutdoor/ActionsHolders/QuestsFail_StoryAndCrusade"], ["Data.m_Objectives[10]", "World/Quests/c5/IneluctablePrison_ch5/IneluctablePrison_ch5"]]}

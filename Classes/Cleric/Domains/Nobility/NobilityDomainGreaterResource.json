@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_MaxAmount.m_ClassDiv[0]", "Classes/Cleric/ClericClass"]], "referenced": [["Data.Components[1].m_RequiredResource", "Classes/Cleric/Domains/Nobility/NobilityDomainGreaterAbility"], ["Data.Components[0].m_Resource", "Classes/Cleric/Domains/Nobility/NobilityDomainGreaterFeature"]]}

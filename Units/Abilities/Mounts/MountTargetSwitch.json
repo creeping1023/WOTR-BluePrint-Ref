@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Buff", "Units/Abilities/Mounts/MountedBuff"], ["Data.m_SelectTargetAbility", "Units/Abilities/Mounts/MountTargetAbility"]], "referenced": [["Data.SystemMechanics.m_MountAbility", "Root/BlueprintRoot"], ["Data.Components[0].m_Facts[0]", "Units/Abilities/Mounts/MountTargetFeature"]]}

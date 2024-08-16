@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Fact", "Equipment/Headgear/DLC2/HelmetOfTheGuidingLightFeature"], ["Data.m_ShardItem", "Items/DestructibleItemsShards/MetalShardItem"], ["Data.m_Enchantments[0]", "Equipment/Headgear/DLC2/HelmetOfTheGuidingLightEnchantment"]], "referenced": [["Data.m_Items[2384]", "Dugeons/Loot/DungeonLootExclude"]]}

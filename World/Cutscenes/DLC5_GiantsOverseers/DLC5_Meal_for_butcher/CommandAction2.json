@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].ConditionsChecker.Conditions[0].Blueprint", "Items/Potions/Level1/PotionOfReducePerson"], ["Data.Action.Actions[0].IfTrue.Actions[0].Actions.Actions[0].m_Buff", "Spells/Level1/ReducePersonBuff"]], "referenced": [["Data.m_Tracks[0].m_Commands[3]", "World/Cutscenes/DLC5_GiantsOverseers/DLC5_Meal_for_butcher/gate3"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_WeaponType", "Weapons/Types/ExoticTwoHanded/GnomeHookedHammerHook"], ["Data.Components[0].TargetConditions.Conditions[0].m_Fact", "Buffs/Stunned"]], "referenced": [["Data.m_Enchantments[2]", "Weapons/Items/UniquePF2/Chapter3/ReboundSecondItem"]]}

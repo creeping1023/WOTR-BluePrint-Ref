@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/Iz/GalfreyOnTheEdge/Cue_0072"], ["Data.NextCue.Cues[1]", "World/Dialogs/c5/Iz/GalfreyOnTheEdge/Cue_0073"], ["Data.ShowConditions.Conditions[0].m_Cue", "World/Dialogs/c5/Iz/GalfreyOnTheEdge/Cue_0011_GalfreyDies"]], "referenced": [["Data.Answers[0]", "World/Dialogs/c5/Iz/GalfreyOnTheEdge/AnswersList_0019"]]}

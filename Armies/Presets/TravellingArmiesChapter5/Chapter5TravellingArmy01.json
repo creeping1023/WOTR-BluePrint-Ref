@@ -1,0 +1,1 @@
+{"referencing": [["Data.Squads[0].m_Unit", "Armies/UnitBlueprints/ArmyCultist_Baphomet_Melee"], ["Data.Squads[1].m_Unit", "Armies/UnitBlueprints/ArmyCultist_FighterTank"]], "referenced": [["Data.m_TravelingArmiesByChapter[1].ArmiesByWeeks[2].PreSetupArmies[0].m_Army", "Root/Kingdom/ArmyRoot"], ["Data.m_Presets[0]", "Root/Kingdom/Chapter5TravellingArmyList"]]}

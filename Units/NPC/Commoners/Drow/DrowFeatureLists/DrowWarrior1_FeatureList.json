@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_CharacterClass", "Classes/NPC/Warrior/WarriorClass"], ["Data.Components[0].Selections[0].m_Selection", "Classes/Basic/BasicFeatSelection"], ["Data.Components[0].Selections[0].m_Features[0]", "Feats/WeaponFinesse"]], "referenced": [["Data.m_AddFacts[0]", "Units/NPC/Commoners/Drow/CR0.3_Drow_Warrior_Male"]]}

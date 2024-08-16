@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[4].m_ProjectileFirst", "FX/Spell Level 2/BurningArc00"], ["Data.Components[4].m_Projectile", "FX/Spell Level 2/BurningArc01"], ["Data.Components[8].m_RequiredResource", "Traits/Races/Aasimar/HaloAasimar/AasimarSpellLikeResource"]], "referenced": [["Data.Components[4].m_Facts[0]", "Traits/Races/Aasimar/PeriHeritage"]]}

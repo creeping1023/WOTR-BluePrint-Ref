@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Xantir_Brain/Xantir_Brain"]]}
+{"referencing": [["Data.PrototypeLink", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Xantir_Brain/Xantir_Brain"], ["Data.m_Actions[0]", "Brain/Actions/AttackAiAction"], ["Data.m_Actions[1]", "Brain/Actions/TouchSpellAiAction"], ["Data.m_Actions[2]", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Xantir_Brain/Xantir_SelfPolymorphAIAction"]], "referenced": [["Data.m_Brain", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Xantir_SecondStage"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Wenduag/Wenduag_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c4/TavernBadLuck/InnKeeper_mainDialogue/Cue_0172"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/TavernBadLuck/InnKeeper_mainDialogue/Answer_0168"]]}

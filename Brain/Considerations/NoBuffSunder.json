@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Buffs[0]", "Root/SystemMechanics/Conditions/SunderArmorBuff"]], "referenced": [["Data.m_TargetConsiderations[1]", "Brain/Actions/SmiteGoodSunderArmorAiAction"], ["Data.m_TargetConsiderations[1]", "Brain/Actions/SunderArmorAiAction"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_EnchantmentBlueprint", "Weapons/Enchantments/Corrosive"], ["Data.Components[1].m_EnchantmentBlueprint", "Weapons/Enchantments/Corrosive"]], "referenced": [["Data.Components[0].m_Facts[0]", "Classes/Oracle/OracleRevelations/OracleRevelationTouchOfAcid11"]]}

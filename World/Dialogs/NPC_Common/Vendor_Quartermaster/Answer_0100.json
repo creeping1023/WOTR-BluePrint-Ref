@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/NPC_Common/Vendor_Quartermaster/Cue_0101"], ["Data.ShowConditions.Conditions[0].m_Quest", "World/Quests/Crusade/GlobalMap_Errands/GarmsErrand/GarmsErrand_quest"]], "referenced": [["Data.Answers[3]", "World/Dialogs/NPC_Common/Vendor_Quartermaster/AnswersList_0003"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/DLC4_Shifter/Temple/Book_ShifterPast_2/BookPage_0001"], ["Data.FinishActions.Actions[0].m_Dialogue", "World/Dialogs/DLC4_Shifter/Temple/Shifter_EvilDemon/Shifter_EvilDemon_dialogue"]], "referenced": [["Data.OnStop.Actions[0].m_Dialogue", "World/Dialogs/DLC4_Shifter/Temple/Shifter_EvilDemon/Cue_2"]]}

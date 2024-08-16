@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Buffs/DLC6/TheLameRiders_FakeBuff/AddHorsePet_Buff"], ["Data.Action.Actions[0].Target.m_SummonPool", "World/Encounters/DLC6_TavernRebuilded/SummonPools/DLC6_LannHorseRide"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC6_TavernRebuilded/DLC6_LannHorseRide/gate8"]]}

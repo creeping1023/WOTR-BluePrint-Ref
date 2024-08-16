@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[2].m_Feature", "Classes/Basic/Proficiencies/MartialWeaponProficiency"]], "referenced": [["Data.IsPrerequisiteFor[2]", "Classes/Basic/Proficiencies/MartialWeaponProficiency"], ["Data.Components[0].m_Facts[12]", "Units/Companions/PregenWeaponTestFeatureList"]]}

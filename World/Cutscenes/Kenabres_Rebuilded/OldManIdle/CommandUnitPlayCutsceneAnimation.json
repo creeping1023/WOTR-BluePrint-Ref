@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Cue", "World/Dialogs/c5/Mythic_Dragon/HalKenabres/Cue_0022"], ["Data.EntryCondition.Conditions[1].m_Cue", "World/Dialogs/c5/Mythic_Dragon/HalKenabres/Cue_0025"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Kenabres_Rebuilded/OldManIdle/gate"]]}

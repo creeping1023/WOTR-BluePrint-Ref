@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_WeaponType", "Weapons/Types/Special/IncoporealTouchType"], ["Data.Components[0].Action.Actions[0].ConditionsChecker.Conditions[0].m_Fact", "Spells/Level4/DeathWardBuff"], ["Data.Components[0].Action.Actions[0].IfFalse.Actions[0].m_Buff", "Units/NPC/Commoners/Shadow/ShadowBrains/Shadow_IgnoreTargetBuff"]]}

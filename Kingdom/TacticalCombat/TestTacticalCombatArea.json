@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_DefaultPreset", "Kingdom/TacticalCombat/TestTacticalCombatArea_DefaultPreset"]], "referenced": [["Data.m_Area", "Kingdom/TacticalCombat/TestTacticalCombatArea_DefaultPreset"], ["Data.m_Area", "Kingdom/TacticalCombat/TestTacticalCombatArea_Enter"], ["Data.m_AreaPart", "Kingdom/TacticalCombat/TestTacticalCombatArea_Enter"]]}

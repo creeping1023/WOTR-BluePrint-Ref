@@ -1,0 +1,1 @@
+{"referencing": [["Data.Answers[0]", "World/Dialogs/c3/MoltenScar/PrisonedKnight/AnswersList_0012"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/MoltenScar/PrisonedKnight/CueSequence_0041"]], "referenced": [["Data.CuesSeen[3722]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/c3/MoltenScar/PrisonedKnight/Answer_0010"]]}

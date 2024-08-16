@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_flag", "World/Encounters/DrezenCapital/UnlockableFlags/HeraldReadyToStandUp"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Mythic_Angel/HeraldCalling/Cue_0027"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/Mythic_Angel/HeraldCalling/Answer_0023"]]}

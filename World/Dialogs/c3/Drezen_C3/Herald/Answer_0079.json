@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/Drezen_C3/Herald/Cue_0080"]], "referenced": [["Data.AnswersSelected[1672]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[6]", "World/Dialogs/c3/Drezen_C3/Herald/AnswersList_0017"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/c3/Drezen_C3/Herald/Answer_0130"]]}

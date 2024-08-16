@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/Mythic_Demon/HeraldDoubt_YozzVisiting/Cue_0012"], ["Data.OnSelect.Actions[0].m_Flag", "World/Encounters/AlushinyrraLowerCity/UnlockableFlags/HeroldRespect"]], "referenced": [["Data.Answers[4]", "World/Dialogs/c4/Mythic_Demon/HeraldDoubt_YozzVisiting/AnswersList_0002"]]}

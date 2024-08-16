@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_ItemToRemove", "World/Encounters/TheIvoryLabyrinth/Items/HeartOfTheHerald"], ["Data.OnShow.Actions[1].Actions.Actions[0].m_Buff", "Spells/Level6/HeroismGreaterBuff"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/LabyrinthOfBaphometh/DeadHeartOfHerald/Answer_0004"]]}

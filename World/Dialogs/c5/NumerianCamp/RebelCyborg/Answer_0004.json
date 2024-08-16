@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/NumerianCamp/RebelCyborg/Cue_0006"]], "referenced": [["Data.AnswersSelected[2494]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[0]", "World/Dialogs/c5/NumerianCamp/RebelCyborg/AnswersList_0002"], ["Data.Conditions.Conditions[0].m_Answer", "World/Dialogs/c5/NumerianCamp/RebelCyborg/Cue_0001"]]}

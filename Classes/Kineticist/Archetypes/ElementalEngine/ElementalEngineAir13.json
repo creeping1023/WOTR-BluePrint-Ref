@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_CharacterClass", "Classes/Kineticist/KineticistClass"], ["Data.Components[2].m_Facts[0]", "Spells/Level4/FreedomOfMovementBuffPermanent"]], "referenced": [["Data.Components[0].m_ExtraEffectBuff", "Classes/Kineticist/Archetypes/ElementalEngine/ElementalEngineAdditionalEffectsAir13"]]}

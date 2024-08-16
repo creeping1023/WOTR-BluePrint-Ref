@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Point1", "GlobalMaps/KenabresMap/Points/Location_Crossroads_26"], ["Data.m_Point2", "GlobalMaps/KenabresMap/Points/Location_Crossroads_21"]], "referenced": [["Data.Edges[45]", "GlobalMaps/KenabresMap/KenabresMap"], ["Data.Components[0].Actions.Actions[2].IfTrue.Actions[5].m_Edge", "GlobalMaps/KenabresMap/Area/KenabresMapArea"]]}

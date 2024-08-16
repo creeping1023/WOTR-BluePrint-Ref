@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level1/EnlargePersonBuff"]]}
+{"referencing": [["Data.Components[3].m_Facts[0]", "CreatureAbilities/ReducedReach"], ["Data.m_Description.m_OwnerString", "Spells/Level1/EnlargePersonBuff"]], "referenced": [["Data.Components[1].Actions.Actions[0].m_Buff", "Units/Monsters/Dweomercat/DweomercatBrain/DweomerlionChangeShape"]]}

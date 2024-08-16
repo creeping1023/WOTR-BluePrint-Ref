@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Ability", "Spells/Level6/InflictModerateWoundsMasssDamage"]], "referenced": [["Data.Components[6].Actions.Actions[0].IfFalse.Actions[0].IfFalse.Actions[0].IfFalse.Actions[0].m_Buff", "Spells/Level6/InflictModerateWoundsMass"]]}

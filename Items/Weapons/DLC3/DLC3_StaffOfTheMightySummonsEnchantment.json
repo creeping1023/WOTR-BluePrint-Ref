@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Activated.Actions[0].m_Buff", "Items/Weapons/DLC3/DLC3_StaffOfTheMightySummonsHiddenBuff"], ["Data.Components[0].Deactivated.Actions[0].m_Buff", "Items/Weapons/DLC3/DLC3_StaffOfTheMightySummonsHiddenBuff"]], "referenced": [["Data.m_Enchantments[1]", "Items/Weapons/DLC3/DLC3_StaffOfTheMightySummonsWeaponItem"]]}

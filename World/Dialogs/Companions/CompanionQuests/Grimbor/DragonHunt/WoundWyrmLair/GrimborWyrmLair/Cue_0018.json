@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Greybor/Greybor_Companion"], ["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/WoundWormsLair/GrimborLeave_scene/GrimborLeave_scene"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Grimbor/DragonHunt/WoundWyrmLair/GrimborWyrmLair/Answer_0013"]]}

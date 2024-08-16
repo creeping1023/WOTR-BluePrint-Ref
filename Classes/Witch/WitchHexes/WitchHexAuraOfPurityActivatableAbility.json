@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_RequiredResource", "Classes/Witch/WitchHexes/WitchHexAuraOfPurityResource"], ["Data.m_Buff", "Classes/Witch/WitchHexes/WitchHexAuraOfPurityBuff"]], "referenced": [["Data.Components[0].m_Facts[0]", "Classes/Witch/WitchHexes/WitchHexAuraOfPurityFeature"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Classes/Kineticist/GatherPower/GatherPowerFeature"], ["Data.Components[1].m_CharacterClass", "Classes/Kineticist/KineticistClass"]], "referenced": [["Data.m_AllFeatures[24]", "Mythic/MythicAbilitySelection"], ["Data.m_AllFeatures[33]", "Mythic/Feats/ExtraMythicAbilityMythicFeat"]]}

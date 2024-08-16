@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c5/Mythic_Trickster/Debrief_Nocta/Cue_0001"], ["Data.StartActions.Actions[0].m_Faction", "Factions/Friends"]], "referenced": [["Data.m_Dialog", "World/Cutscenes/TricksterCouncil/DebriefNocta/CommandStartDialog"]]}

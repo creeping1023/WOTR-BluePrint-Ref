@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/AlushinyrraLowerCity/MielaraCombat/CommandDelay"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/AlushinyrraLowerCity/MielaraCombat/gate1"]], "referenced": [["Data.OnStop.Actions[0].m_Cutscene", "World/Dialogs/c4/TavernBadLuck/Tumberd/Cue_0072"]]}

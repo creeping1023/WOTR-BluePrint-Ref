@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/AreeluLab/TakeSoulJar/TakeSoulJar"]], "referenced": [["Data.CuesSeen[5506]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/c3/AreeluLaboratory/SoulJar/Answer_0016"]]}

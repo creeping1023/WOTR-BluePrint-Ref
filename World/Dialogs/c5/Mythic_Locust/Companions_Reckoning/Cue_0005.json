@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLocust_Ch5/Locust_SosielVaenicEnemy"], ["Data.OnShow.Actions[0].m_flag", "World/Encounters/SE_Reckoning/UnlockableFlags/Reckoning_SosielWeaponsOut"]], "referenced": [["Data.Cues[2]", "World/Dialogs/c5/Mythic_Locust/Companions_Reckoning/CueSequence_0002"]]}

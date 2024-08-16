@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/Companions/CompanionRomances/Wenduag/GoToFinal/Cue_0001"]], "referenced": [["Data.Components[0].Actions.Actions[0].IfTrue.Actions[0].AfterTeleport.Actions[0].m_Dialogue", "World/Etudes/Common/WrathOfTheRighteous/Companions/WenduagCompanion/WenduagInParty/WenduagRomance_FinalRomWithWendu"]]}

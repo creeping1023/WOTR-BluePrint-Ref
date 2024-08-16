@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/DustShardItem"]], "referenced": [["Data.m_Items[2576]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Body.m_QuickSlots[1]", "Units/Companions/StreetRat_DraftCompanion"], ["Data.Body.m_QuickSlots[1]", "Units/Pregens/MVP_Pregens/Pregen_Grimbor_MVP"]]}

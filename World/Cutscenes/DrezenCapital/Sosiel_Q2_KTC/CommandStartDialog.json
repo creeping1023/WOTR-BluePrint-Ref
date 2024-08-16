@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Companion", "Units/Companions/SosielVaenic/SosielVaenic_Companion"], ["Data.m_Dialog", "World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/KTC_ImpostorArrives/KTC_ImpostorArrives"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DrezenCapital/Sosiel_Q2_KTC/gate"]]}

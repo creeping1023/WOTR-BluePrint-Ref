@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TacticalActions[0]", "Armies/Brains/Actions/TacticalCombat_AIAction_AshGiantROck"], ["Data.m_TacticalActions[1]", "Armies/Brains/Actions/TacticalCombat_AIAction_GroundSlam"]], "referenced": [["Data.m_Brain", "Armies/UnitBlueprints/ArmyAshGiantStandart"], ["Data.m_Brain", "Armies/UnitBlueprints/ArmyZagelforntzGiants"]]}

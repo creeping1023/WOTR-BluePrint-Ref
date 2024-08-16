@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_SummonPool", "World/Encounters/Woljif_Q2_Rite/SummonPools/Cultists"], ["Data.Action.Actions[0].Actions.Actions[0].m_Cutscene", "World/Cutscenes/EstrodTower/Common(Unit1)LookAt(PlayerCharacter)/Common(Unit1)LookAt(PlayerCharacter)"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Woljif_Q2_Rite/Rite/gate 8"]]}

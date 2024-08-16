@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/DLC4_Shifter/DLC4_Gundrun/DLC4_Gundrun"], ["Data.m_AreaPart", "World/Areas/DLC4_Shifter/DLC4_Gundrun/DLC4_Gundrun"]], "referenced": [["Data.m_Actions.Actions[0].IfTrue.Actions[1].m_exitPositon", "Root/Upgraders/Player/PF-483756"], ["Data.TargetPoint", "World/Cutscenes/DLC4_Gundrun/DLC4_SecondState_Siege_has_begun/CommandTeleport"]]}

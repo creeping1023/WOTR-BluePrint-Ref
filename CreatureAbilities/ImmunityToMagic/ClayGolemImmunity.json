@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Buffs[0].m_Buff", "Units/Monsters/Golem Clay/ClayGolemBrain/ClayGolemSlowBuff"], ["Data.Components[1].Buffs[0].m_Spell", "Spells/Level6/Disintegrate"], ["Data.Components[1].Buffs[1].m_Buff", "Units/Monsters/Golem Clay/ClayGolemBrain/ClayGolemHasteBuff"]]}

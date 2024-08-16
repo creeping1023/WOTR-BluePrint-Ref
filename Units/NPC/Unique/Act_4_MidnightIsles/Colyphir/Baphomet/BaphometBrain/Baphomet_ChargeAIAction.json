@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/NoThreateningUnitsConsideration"], ["Data.m_TargetConsiderations[0]", "Brain/Considerations/AttackTargetsPriority"], ["Data.m_Ability", "Root/SystemMechanics/Abilities/ChargeAbility"]]}

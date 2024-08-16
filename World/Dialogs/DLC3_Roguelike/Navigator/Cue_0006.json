@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Quest", "World/Quests/DLC3_Roguelike/DLC3_Pirates/DLC3_Pirates_Quest"], ["Data.Speaker.m_Blueprint", "Units/NPC/Commoners/DLC3_RogueLike/DLC3_Navigator"]], "referenced": [["Data.Cues[5]", "World/Dialogs/DLC3_Roguelike/Navigator/CueSequence_0001"]]}

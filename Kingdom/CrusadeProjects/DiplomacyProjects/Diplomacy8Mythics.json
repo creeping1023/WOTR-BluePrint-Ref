@@ -1,0 +1,1 @@
+{"referencing": [["Data.TriggerCondition.Conditions[0].m_ConditionFlag", "Kingdom/CrusadeProjects/DiplomacyProjects/DiplomacyProjectsFlags/FlagDiplomacy8Mythics"], ["Data.Solutions.Entries[2].Resolutions[2].Actions.Actions[0].m_Blueprint", "Armies/CrusadeGlobalBuffs/FlagDiplomacy8MythicsIncrease"]], "referenced": [["Data.m_KingdomProjectEvents[212]", "Root/Kingdom/KingdomRoot"]]}

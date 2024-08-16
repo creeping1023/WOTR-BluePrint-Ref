@@ -1,0 +1,1 @@
+{"referencing": [["Data.Cues[0]", "World/Dialogs/c2_vs/DrezenSiege/Nurah_After_Battle/Cue_0044"], ["Data.Cues[1]", "World/Dialogs/c2_vs/DrezenSiege/Nurah_After_Battle/Cue_0054"], ["Data.m_Exit", "World/Dialogs/c2_vs/DrezenSiege/Nurah_After_Battle/SequenceExit_0043"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c2_vs/DrezenSiege/Nurah_After_Battle/Answer_0023"]]}

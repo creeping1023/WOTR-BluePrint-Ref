@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Check", "World/Dialogs/c4/TavernBadLuck/Tumberd/Check_0021"], ["Data.Conditions.Conditions[1].m_Cue", "World/Dialogs/c4/TavernBadLuck/Tumberd/Cue_0022"], ["Data.Answers[0]", "World/Dialogs/c4/TavernBadLuck/Tumberd/AnswersList_0014"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/c4/TavernBadLuck/Tumberd/Cue_0012"]]}

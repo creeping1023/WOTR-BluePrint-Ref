@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Spells/Level3/DisplacementBuff"], ["Data.Action.Actions[1].m_Buff", "Spells/Level3/HasteBuff"], ["Data.Action.Actions[2].m_Buff", "Spells/Level3/HeroismBuff"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/RoguePaladin_SE2/RoguePaladin_SE2_MarilithSpawn/gate"]]}

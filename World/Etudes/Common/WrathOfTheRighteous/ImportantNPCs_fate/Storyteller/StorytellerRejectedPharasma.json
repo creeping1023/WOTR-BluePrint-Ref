@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Parent", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Storyteller"]], "referenced": [["Data.Conditions.Conditions[0].m_Etude", "World/Dialogs/Epilogues/Cue_0342"], ["Data.Conditions.Conditions[2].m_Etude", "World/Dialogs/Epilogues/Cue_0501"], ["Data.OnStop.Actions[0].Etude", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0591"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c1/DefendersHeart/Irabeth_DefHeart/Cue_0002"], ["Data.StartActions.Actions[0].ConditionsChecker.Conditions[0].m_ConditionFlag", "World/Encounters/DefendersHeart/UnlockableFlags/IrabethDialog_flag2"]], "referenced": [["Data.m_Dialog", "World/Cutscenes/DefendersHeart/DH_StartCutscene/CommandStartDialog"]]}

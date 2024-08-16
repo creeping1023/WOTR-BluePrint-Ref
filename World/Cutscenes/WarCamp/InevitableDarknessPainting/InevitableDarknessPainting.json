@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/WarCamp/InevitableDarknessPainting/CommandDelay"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/WarCamp/InevitableDarknessPainting/gate 4"], ["Data.OnStopped.Actions[0].m_Flag", "World/Encounters/WarCamp/UnlockableFlags/Ambient_PaintingSosiel"]]}

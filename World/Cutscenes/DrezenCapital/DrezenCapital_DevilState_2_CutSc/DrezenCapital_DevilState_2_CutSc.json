@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DrezenCapital/DrezenCapital_DevilState_2_CutSc/CommandDelay"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DrezenCapital/DrezenCapital_DevilState_2_CutSc/gate"]], "referenced": [["Data.EnterActions.Actions[0].m_Cutscene", "World/Encounters/DrezenCapital/ScriptZones/DevilState_StartCutScene2_SZ"]]}

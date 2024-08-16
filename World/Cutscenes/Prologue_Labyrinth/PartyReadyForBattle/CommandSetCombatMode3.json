@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_companion", "Units/Companions/Lann/Lann_Companion"], ["Data.Target.m_Companion", "Units/Companions/Lann/Lann_Companion"]], "referenced": [["Data.m_Tracks[3].m_Commands[0]", "World/Cutscenes/Prologue_Labyrinth/PartyReadyForBattle/PartyReadyForBattle"]]}

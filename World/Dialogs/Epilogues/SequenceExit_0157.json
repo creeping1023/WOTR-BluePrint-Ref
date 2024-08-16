@@ -1,0 +1,1 @@
+{"referencing": [["Data.Continue.Cues[0]", "World/Dialogs/Epilogues/CueSequence_Mythics"], ["Data.Continue.Cues[1]", "World/Dialogs/Epilogues/CueSequence_Crusade"], ["Data.Continue.Cues[2]", "World/Dialogs/Epilogues/CueSequence_Queen"]], "referenced": [["Data.m_Exit", "World/Dialogs/Epilogues/CueSequence_PlayersFate"]]}

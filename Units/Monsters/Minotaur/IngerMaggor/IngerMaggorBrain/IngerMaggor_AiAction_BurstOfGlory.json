@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Brain/Considerations/NoBuffBurstOfGlory"], ["Data.m_Ability", "Spells/Level5/BurstOfGlory"]], "referenced": [["Data.m_Actions[0]", "Units/Monsters/Minotaur/IngerMaggor/IngerMaggorBrain/IngerMaggor_Brain"], ["Data.m_Actions[3]", "Units/Monsters/Minotaur/IngerMaggor/IngerMaggorBrain/IngerMaggor_Brain"]]}

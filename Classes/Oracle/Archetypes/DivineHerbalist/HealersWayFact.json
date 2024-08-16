@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_DisplayName.m_OwnerString", "Classes/Paladin/LayOnHands/LayonHandsFact"], ["Data.m_Description.m_OwnerString", "Classes/Paladin/LayOnHands/LayonHandsFact"]]}
+{"referencing": [["Data.Components[0].m_Resource", "Classes/Oracle/Archetypes/DivineHerbalist/HealersWayResource"], ["Data.m_DisplayName.m_OwnerString", "Classes/Paladin/LayOnHands/LayonHandsFact"], ["Data.m_Description.m_OwnerString", "Classes/Paladin/LayOnHands/LayonHandsFact"]], "referenced": [["Data.Components[0].m_Facts[0]", "Classes/Oracle/Archetypes/DivineHerbalist/HealersWayFeature"]]}

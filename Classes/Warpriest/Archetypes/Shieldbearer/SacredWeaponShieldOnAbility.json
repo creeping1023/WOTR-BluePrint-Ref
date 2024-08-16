@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_RequiredResource", "Classes/Warpriest/SacredWeaponEnchant/SacredWeaponEnchantResource"], ["Data.m_Buff", "Classes/Warpriest/Archetypes/Shieldbearer/SacredWeaponShieldOnBuff"]], "referenced": [["Data.Components[0].m_Facts[1]", "Classes/Warpriest/Archetypes/Shieldbearer/SacredWeaponShieldEnchantFeature"]]}

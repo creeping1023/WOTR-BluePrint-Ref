@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Feat", "Items/Rods/Artisan/RodofFearless/FearlessFearlessFeat"], ["Data.Components[1].m_RodAbility", "Items/Rods/Artisan/RodofFearless/FearlessFearlessAbility"]], "referenced": [["Data.m_Buff", "Items/Rods/Artisan/RodofFearless/FearlessFearlessAbility"], ["Data.m_Buff", "Items/Rods/Artisan/RodofFearless/FearlessRodAbility"]]}

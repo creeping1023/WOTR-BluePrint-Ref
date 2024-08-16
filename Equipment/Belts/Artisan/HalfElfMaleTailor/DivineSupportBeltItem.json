@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/LeatherShardItem"], ["Data.m_Ability", "Spells/Level7/Banishment"], ["Data.m_Enchantments[0]", "Equipment/CommonEnchantments/Deflection3"], ["Data.m_Enchantments[1]", "Equipment/Armor/Enchantments/NegativeEnergyResistance10Enchant"]], "referenced": [["Data.m_Items[2304]", "Dugeons/Loot/DungeonLootExclude"]]}

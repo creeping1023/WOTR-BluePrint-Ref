@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DrezenCitadel_Level1/NuraInHouse/CommandAction 1"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DrezenCitadel_Level1/NuraInHouse/gate 2"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DrezenCitadel_Level1/NuraInHouse/NuraInHouse"]]}

@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "Spells/Level3/Haste"], ["Data.Components[1].PrototypeLink.guid", "Spells/Level3/Haste"], ["Data.Components[2].PrototypeLink.guid", "Spells/Level3/Haste"]]}
+{"referencing": [["Data.PrototypeLink", "Spells/Level3/Haste"], ["Data.Components[1].PrototypeLink.guid", "Spells/Level3/Haste"], ["Data.Components[2].PrototypeLink.guid", "Spells/Level3/Haste"]], "referenced": [["Data.m_SpellBlueprint", "World/Cutscenes/FatefulNight_Kenabres/FatefulNight2/CommandUnitCastSpell"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Units/NPC/Commoners/DLC2_LowFantasy/DLC2_Abyss/New_Mechanic/DLC2_Buff_for_Find_Abrikandilu"], ["Data.Action.Actions[0].Target.m_SummonPool", "World/Encounters/DLC2_Abyss/SummonPools/DLC2_Abyss_Boss_minions"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC2_Abyss/DLC2_Enemies_summon/gate2"]]}

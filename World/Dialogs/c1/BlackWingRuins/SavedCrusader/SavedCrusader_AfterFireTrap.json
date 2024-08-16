@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c1/BlackWingRuins/SavedCrusader/Cue_0001"]], "referenced": [["Data.Conditions.Conditions[1].m_Dialog", "World/Dialogs/c1/BlackWingRuins/StoryTeller_BlackWing/Cue_0016"], ["Data.OnStop.Actions[0].m_Dialogue", "World/Dialogs/c1/BlackWingRuins/StoryTeller_BlackWing/Cue_0016"]]}

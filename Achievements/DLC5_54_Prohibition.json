@@ -1,0 +1,1 @@
+{"referencing": [["Data.SpecificCampaign", "DLC/DLC5/Dlc5Campaign"], ["Data.m_Group", "Achievements/Groups/DLC5TrophyGroupPack2"]], "referenced": [["Data.Achievements.m_List[141]", "Root/BlueprintRoot"], ["Data.Components[2].Actions.Actions[0].m_Achievement", "World/Etudes/Common/DLC5_LowFantasy2/DLC5_StandaloneCampaign/DLC5_GoblinsParty/DLC5_GoblinsParty_AreaEtude"]]}

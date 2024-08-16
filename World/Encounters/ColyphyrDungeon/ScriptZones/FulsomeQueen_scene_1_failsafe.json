@@ -1,0 +1,1 @@
+{"referencing": [["Data.TriggerConditions.Conditions[0].m_SummonPool", "World/Encounters/ColyphyrDungeon/SummonPools/Colyphyr_Patrols"], ["Data.TriggerConditions.Conditions[1].m_ConditionFlag", "World/Encounters/ColyphyrDungeon/UnlockableFlags/Colyphyr_FulsomeQueenScene1_Seen"]]}

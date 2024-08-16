@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/MetalShardItem"], ["Data.m_Enchantments[0]", "Equipment/Rings/BraveryRing/BraveryRingEnchant"]], "referenced": [["Data.m_Items[77]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Filter.m_ItemsInclude[79]", "Dugeons/Loot/DungeonLootExclude"]]}

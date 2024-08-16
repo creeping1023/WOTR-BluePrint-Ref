@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Equipment/Rings/UniquePF2/CrusadeRelics/Chapter5/ZeorisDagger/ZeorisDaggerRing_BetrayalAreaBuff"]], "referenced": [["Data.Components[0].Action.Actions[0].IfFalse.Actions[1].m_PermanentFeature", "Equipment/Rings/UniquePF2/CrusadeRelics/Chapter5/ZeorisDagger/ZeorisDaggerRing_BetrayalFeature"]]}

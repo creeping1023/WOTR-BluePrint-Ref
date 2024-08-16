@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Abilities[0]", "Spells/Level4/ChainsOfLight"], ["Data.Components[0].Abilities[1]", "Spells/Level6/DispelMagicGreater"]], "referenced": [["Data.m_AddFacts[12]", "Units/Monsters/Demon Coloxus/CR27_ColoxusCaster_DLC1"], ["Data.m_AddFacts[12]", "Units/Monsters/DLC3_Mobs/DLC3_Tir2_Armies/DLC3_Demons/DLC3_CR27_ColoxusCaster"]]}

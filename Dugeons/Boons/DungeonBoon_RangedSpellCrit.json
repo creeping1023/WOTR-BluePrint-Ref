@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Buff", "Buffs/DLC3/DLC3_BUFFS/DLC3_RangedSpellsCritIncreaseBuff/DLC3_RangedSpellsCritIncreaseBuff"]], "referenced": [["Data.m_Boons[14]", "Root/DungeonRoot"], ["Data.Components[0].m_Actions.Actions[16].ConditionsChecker.Conditions[0].m_Boon", "World/Etudes/Common/DLC3_Roguelike/DLC3_Standalone/DLC3_AlushinyrraPort/CheckBoonFlags"]]}

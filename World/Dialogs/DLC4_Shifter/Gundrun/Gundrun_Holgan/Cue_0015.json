@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Gundrun/CR7_GundrunRangerLocalHero"], ["Data.OnShow.Actions[0].m_Objective", "World/Quests/DLC4_Shifter/Shifter_Q3/Obj_02_GotoWarlordsHome"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Holgan/Answer_0014"]]}

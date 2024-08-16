@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionDialogues/Wenduag/Cue_0101"], ["Data.ShowConditions.Conditions[0].m_ConditionFlag", "World/Encounters/LannWenduagQ1_Neathholm/UnlockableFlags/Lann_DuelLost_PerceptionSuccess"]], "referenced": [["Data.Answers[3]", "World/Dialogs/Companions/CompanionDialogues/Wenduag/AnswersList_0078"]]}

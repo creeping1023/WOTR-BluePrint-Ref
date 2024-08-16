@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Nenio/Nenio_Companion"], ["Data.OnStop.Actions[0].Etude", "World/Etudes/Common/DLC6_DanceOfMasks/DLC6_Companions/DLC6_NenioActivities/DLC6_NenioEventInKenabres"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Nenio_Event/Nenio_Event_CatchDemon/Answer_0003"]]}

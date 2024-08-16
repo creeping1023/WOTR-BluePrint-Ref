@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[1].m_SummonPool", "World/Encounters/ReturnToDrezen/SummonPools/DrezenAttackers"], ["Data.Action.Actions[1].Actions.Actions[0].m_Buff", "Buffs/Areas/Act_3_DemonsHerecy/DrezenCapital/AeonEyeEnemyVisualBuff"]], "referenced": [["Data.m_Tracks[1].m_Commands[1]", "World/Cutscenes/ReturnToDrezen/AeonMythicPowers/gate1"]]}

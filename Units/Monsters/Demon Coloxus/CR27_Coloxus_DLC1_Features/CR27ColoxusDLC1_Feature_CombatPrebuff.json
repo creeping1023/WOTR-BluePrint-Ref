@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[2].m_Facts[0]", "Spells/Level8/SeamantleBuff"], ["Data.Components[2].m_Facts[1]", "Spells/Level3/HasteBuff"]], "referenced": [["Data.Components[0].CombatStartActions.Actions[0].m_PermanentFeature", "Units/Monsters/Demon Coloxus/CR27_Coloxus_DLC1_Features/CR27ColoxusDLC1_Feature_CombatTrigger"]]}

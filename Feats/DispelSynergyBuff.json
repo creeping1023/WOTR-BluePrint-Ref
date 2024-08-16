@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_CheckedFact", "Feats/DispelSynergy"]], "referenced": [["Data.Components[1].ActionOnTarget.Actions[0].IfTrue.Actions[0].m_Buff", "Feats/DispelSynergy"]]}

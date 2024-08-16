@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Regill/Regill_Companion"], ["Data.m_Listener", "Units/NPC/Unique/Act_4_MidnightIsles/FleshMarket/GolarionSlaveLeader"], ["Data.Continue.Cues[0]", "World/Dialogs/c4/FleshMarket/RabbleSlaver_dialogue/Cue_0080"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/c4/FleshMarket/RabbleSlaver_dialogue/Cue_0078"]]}

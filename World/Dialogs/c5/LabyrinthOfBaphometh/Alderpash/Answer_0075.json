@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/Cue_0082"], ["Data.ShowConditions.Conditions[0].m_ConditionFlag", "World/Encounters/TheIvoryLabyrinth/UnlockableFlags/HeraldFinalPentacle_flag"]], "referenced": [["Data.Answers[1]", "World/Dialogs/c5/LabyrinthOfBaphometh/Alderpash/AnswersList_0021"]]}

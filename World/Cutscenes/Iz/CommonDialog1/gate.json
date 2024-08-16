@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Iz/CommonDialog1/CommandDelay1"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/Iz/CommonDialog1/gate1"]], "referenced": [["Data.SignalData.m_Gate", "World/Cutscenes/Iz/CommonDialog1/CommandActivateGate"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/Iz/CommonDialog1/CommonDialog1"]]}

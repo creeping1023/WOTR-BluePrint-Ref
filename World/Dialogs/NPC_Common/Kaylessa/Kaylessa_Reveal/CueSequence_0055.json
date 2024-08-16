@@ -1,0 +1,1 @@
+{"referencing": [["Data.Cues[0]", "World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/Cue_0057"], ["Data.m_Exit", "World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/SequenceExit_0056"]], "referenced": [["Data.CuesSeen[4896]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Continue.Cues[0]", "World/Dialogs/NPC_Common/Kaylessa/Kaylessa_Reveal/Cue_0066"]]}

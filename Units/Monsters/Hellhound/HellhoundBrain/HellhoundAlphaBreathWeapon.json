@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_Projectiles[0]", "FX/Spell Level None/FireCone15Feet00"]], "referenced": [["Data.m_AddFacts[8]", "Units/Monsters/DLC3_Mobs/DLC3_Tir1_Armies/DLC3_CultistsDemonsUndead-0cr-17cr/DLC3_CR15_HellhoundAlpha"], ["Data.m_Ability", "Units/Monsters/Hellhound/HellhoundBrain/HellhoundAlphaBreathAiAction"]]}

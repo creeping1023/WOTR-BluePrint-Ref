@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[2].NewRound.Actions[0].Actions.Actions[0].Failed.Actions[0].m_Buff", "Spells/Level5/PhantasmalWebNauseatedBuff"]], "referenced": [["Data.Components[2].Actions.Actions[0].Failed.Actions[0].m_Buff", "Spells/Level5/PhantasmalWeb"], ["Data.m_Buffs[0]", "Units/NPC/Commoners/Cultists/DemonKnights/DemonKnightsBrain/NoBuffPhantasmalWebGrappled"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/MetalShardItem"], ["Data.m_Enchantments[0]", "Equipment/SpecialEditions/UniquePF2/BackersItems/PrismaticRing/PrismaticRingEnchantment"]], "referenced": [["Data.m_Items[2514]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Items[0].m_Item", "Loot/Good/CR18/PF2_Demons_PrismaticRingItem"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAzata_Ch3/Azata_MimicChest_Dialog"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Mythic_Azata/Arrivals/MimicsArrive/Cue_0002"]], "referenced": [["Data.FirstCue.Cues[0]", "World/Dialogs/c3/Mythic_Azata/Arrivals/MimicsArrive/MimicsArrive_azata_c3_dialog"]]}

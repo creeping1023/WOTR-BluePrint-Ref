@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_NewFact", "Mythic/Feats/ArmorFocusMediumMythicFeatureOffenceBuff"], ["Data.Components[1].m_Feature", "Feats/ArmorFocus/ArmorFocusMedium"]], "referenced": [["Data.m_Features[7]", "Mythic/Feats/ArmorFocusMythicSelection"], ["Data.m_AllFeatures[7]", "Mythic/Feats/ArmorFocusMythicSelection"]]}

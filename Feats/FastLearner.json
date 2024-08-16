@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Feature", "Races/HumanRace"]], "referenced": [["Data.m_AllFeatures[52]", "Classes/Basic/BasicFeatSelection"], ["Data.m_AllFeatures[52]", "Mythic/Feats/ExtraFeatMythicFeat"], ["Data.m_AllFeatures[52]", "Mythic/GoldenDragon/DragonLevel2FeatSelection"]]}

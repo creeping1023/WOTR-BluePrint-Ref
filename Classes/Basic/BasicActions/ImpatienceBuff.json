@@ -1,1 +1,1 @@
-{"referenced": [["Data.m_DisplayName.m_OwnerString", "Classes/Basic/BasicActions/RecentlyDeadBuff"], ["Data.m_Description.m_OwnerString", "Classes/Basic/BasicActions/RecentlyDeadBuff"]]}
+{"referenced": [["Data.Components[0].m_Impatience", "Classes/Basic/BasicActions/ImpatienceTickingBuff"], ["Data.Components[1].m_Impatience", "Classes/Basic/BasicActions/ImpatienceTickingBuff"], ["Data.m_DisplayName.m_OwnerString", "Classes/Basic/BasicActions/RecentlyDeadBuff"], ["Data.m_Description.m_OwnerString", "Classes/Basic/BasicActions/RecentlyDeadBuff"]]}

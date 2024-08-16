@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Classes/Rogue/UncannyDodge"]], "referenced": [["Data.Components[0].UnitEnter.Actions[0].IfTrue.Actions[0].m_Buff", "Units/Monsters/WildHunt/WildLink/WildLink_ScoutAreaEffect"], ["Data.Components[0].UnitExit.Actions[0].m_Buff", "Units/Monsters/WildHunt/WildLink/WildLink_ScoutAreaEffect"]]}

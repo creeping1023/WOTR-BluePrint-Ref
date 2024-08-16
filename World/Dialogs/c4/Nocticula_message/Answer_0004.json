@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/Nocticula_message/Cue_0007"], ["Data.ShowConditions.Conditions[0].m_Cue", "World/Dialogs/c4/Nocticula_message/Cue_0017"]], "referenced": [["Data.AnswersSelected[3428]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[1]", "World/Dialogs/c4/Nocticula_message/AnswersList_0002"]]}

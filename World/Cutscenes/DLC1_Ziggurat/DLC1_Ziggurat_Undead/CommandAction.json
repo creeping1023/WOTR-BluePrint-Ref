@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Buffs/SuppressAllBuff"], ["Data.Action.Actions[1].m_Buff", "Buffs/SuppressAllBuff"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC1_Ziggurat/DLC1_Ziggurat_Undead/gate1"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_MaxAmount.m_Class[0]", "Classes/Druid/DruidClass"]], "referenced": [["Data.Components[0].m_RequiredResource", "Classes/Druid/Archetypes/ElementalRampager/ElementalRampagerRampageAbility"], ["Data.Components[0].m_Resource", "Classes/Druid/Archetypes/ElementalRampager/ElementalRampagerRampageFeature"]]}

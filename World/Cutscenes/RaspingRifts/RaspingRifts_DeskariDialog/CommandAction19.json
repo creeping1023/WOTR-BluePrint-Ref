@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_SummonPool", "World/Encounters/RaspingRifts/SummonPools/RaspingRifts_DeskariPack"], ["Data.Action.Actions[0].Actions.Actions[1].m_Buff", "Buffs/Areas/Act_4_MidnightIsles/RewardsAndDebuffs/HeavensDistressDebuff"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/RaspingRifts/RaspingRifts_DeskariDialog/gate23"]]}

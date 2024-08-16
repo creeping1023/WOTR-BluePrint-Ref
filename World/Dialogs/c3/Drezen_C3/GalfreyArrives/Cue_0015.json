@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].Etude", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Galfrey/GalfreyArrivedToDrezenBeforeFane/GalfreyInDrezenKTC/GalfreyKTCReadyToComplete"]], "referenced": [["Data.CuesSeen[6379]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/c3/Drezen_C3/GalfreyArrives/Answer_0006"]]}

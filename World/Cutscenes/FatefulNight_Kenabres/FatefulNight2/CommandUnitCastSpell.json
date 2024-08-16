@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SpellBlueprint", "Spells/CutsceneSpells/FatefulNights/TransmutationSpellNoEffect_Cutscene"], ["Data.m_TargetUnitEvaluator.m_SummonPool", "World/Encounters/FatefulNight1_Kenabres/SummonPools/MainCharacterCopy2"]], "referenced": [["Data.m_Tracks[0].m_Commands[2]", "World/Cutscenes/FatefulNight_Kenabres/FatefulNight2/gate 1"]]}

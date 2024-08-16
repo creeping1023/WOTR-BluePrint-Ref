@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Classes/Hunter/HunterOneWithTheWIld"], ["Data.Components[1].m_Feature", "Classes/Hunter/HunterOneWithTheWildFeaturePet"]], "referenced": [["Data.LevelEntries[16].m_Features[0]", "Classes/Hunter/HunterProgression"], ["Data.RemoveFeatures[6].m_Features[0]", "Classes/Hunter/Archetypes/UrbanHunter/UrbanHunterArchetype"]]}

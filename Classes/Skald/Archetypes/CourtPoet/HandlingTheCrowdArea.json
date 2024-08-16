@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].UnitEnter.Actions[0].m_Buff", "Classes/Skald/Archetypes/CourtPoet/HandlingTheCrowdEffectBuff"], ["Data.Components[0].UnitExit.Actions[0].m_Buff", "Classes/Skald/Archetypes/CourtPoet/HandlingTheCrowdEffectBuff"]], "referenced": [["Data.Components[0].m_AreaEffect", "Classes/Skald/Archetypes/CourtPoet/HandlingTheCrowdBuff"]]}

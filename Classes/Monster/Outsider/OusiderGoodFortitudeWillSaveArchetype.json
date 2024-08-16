@@ -1,0 +1,1 @@
+{"referencing": [["Data.AddFeatures[0].m_Features[0]", "Classes/Monster/Outsider/OutsiderEmptyFeature"], ["Data.m_FortitudeSave", "Classes/Basic/SavesHigh"], ["Data.m_ReflexSave", "Classes/Basic/SavesHigh"], ["Data.m_WillSave", "Classes/Basic/SavesLow"]], "referenced": [["Data.m_Archetypes[1]", "Classes/Monster/Outsider/OutsiderClass"]]}

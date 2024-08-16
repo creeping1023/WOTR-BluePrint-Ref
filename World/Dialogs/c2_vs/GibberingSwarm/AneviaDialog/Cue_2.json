@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_companion", "Units/Companions/Daeran/Daeran_Companion"], ["Data.Speaker.m_Blueprint", "Units/Companions/Daeran/Daeran_Companion"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c2_vs/GibberingSwarm/AneviaDialog/Answer_0104"]]}

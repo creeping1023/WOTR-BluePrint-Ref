@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/QueenGalfrey"]], "referenced": [["Data.m_Success", "World/Dialogs/c3/MidnightFane/FaneFinal/Check_0027"], ["Data.Conditions.Conditions[3].ConditionsChecker.Conditions[1].m_Cue", "World/Dialogs/c3/MidnightFane/FaneFinal/Cue_0031"]]}

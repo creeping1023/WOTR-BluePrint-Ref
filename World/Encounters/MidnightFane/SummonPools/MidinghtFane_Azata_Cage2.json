@@ -1,0 +1,1 @@
+{"referenced": [["Data.Actions.Actions[1].IfTrue.Actions[1].m_SummonPool", "World/Encounters/MidnightFane/ActionsHolders/CageDoor2_Lever_OpenActions"], ["Data.Actions.Actions[1].IfTrue.Actions[2].TargetUnit.m_SummonPool", "World/Encounters/MidnightFane/ActionsHolders/CageDoor2_Lever_OpenActions"]]}

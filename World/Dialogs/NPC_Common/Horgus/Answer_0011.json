@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/NPC_Common/Horgus/Cue_0029"], ["Data.NextCue.Cues[1]", "World/Dialogs/NPC_Common/Horgus/Cue_0028"], ["Data.ShowConditions.Conditions[0].m_Cue", "World/Dialogs/NPC_Common/Horgus/Cue_0022"]], "referenced": [["Data.Answers[7]", "World/Dialogs/NPC_Common/Horgus/AnswersList_0003"]]}

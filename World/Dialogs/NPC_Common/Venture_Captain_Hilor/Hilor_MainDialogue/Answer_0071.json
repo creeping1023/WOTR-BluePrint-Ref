@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/NPC_Common/Venture_Captain_Hilor/Hilor_MainDialogue/Cue_0072"], ["Data.ShowConditions.Conditions[0].m_QuestObjective", "World/Quests/c5/Errands/KnowWhatHappenedWithHilor/Objective_0001"]], "referenced": [["Data.Answers[9]", "World/Dialogs/NPC_Common/Venture_Captain_Hilor/Hilor_MainDialogue/AnswersList_0003"]]}

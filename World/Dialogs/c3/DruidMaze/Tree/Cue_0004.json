@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/DruidMaze/Tree/Cue_0005"], ["Data.Continue.Cues[1]", "World/Dialogs/c3/DruidMaze/Tree/Cue_0006"]], "referenced": [["Data.Cues[2]", "World/Dialogs/c3/DruidMaze/Tree/CueSequence_0061"]]}

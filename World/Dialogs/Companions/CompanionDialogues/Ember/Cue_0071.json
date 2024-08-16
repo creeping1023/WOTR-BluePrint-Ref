@@ -1,0 +1,1 @@
+{"referencing": [["Data.Answers[0]", "World/Dialogs/Companions/CompanionDialogues/Ember/AnswersList_0006"], ["Data.Continue.Cues[0]", "World/Dialogs/Companions/CompanionDialogues/Ember/Check_0072"]], "referenced": [["Data.CuesSeen[1300]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Continue.Cues[0]", "World/Dialogs/Companions/CompanionDialogues/Ember/Cue_0070"]]}

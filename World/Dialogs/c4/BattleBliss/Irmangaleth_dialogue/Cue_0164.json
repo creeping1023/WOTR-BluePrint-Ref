@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]], "referenced": [["Data.Cues[0]", "World/Dialogs/c4/BattleBliss/Irmangaleth_dialogue/CueSequence_0163"], ["Data.ShowConditions.Conditions[3].m_Cue", "World/Dialogs/Companions/CompanionDialogues/Sosiel/Answer_0224"]]}

@@ -1,0 +1,1 @@
+{"referenced": [["Data.m_Flag", "World/Cutscenes/WintersunOutdoor/Hall_Marhevok_idlescene/WaitFlag 5"], ["Data.OnStop.Actions[2].IfTrue.Actions[0].m_flag", "World/Dialogs/c3/Wintersun/MarhevokAmbush/Cue_0014"], ["Data.OnStop.Actions[2].IfFalse.Actions[0].AfterDetach.Actions[1].m_flag", "World/Dialogs/c3/Wintersun/MarhevokAmbush/Cue_0014"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/PaperShardItem"]], "referenced": [["Data.m_Items[945]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Items[0].m_Item", "Loot/Good/CR10/PF2_CoolDemons_IzArcheology"], ["Data.Items[0].m_Item", "Loot/Quest/LostChapel/BookLoot10"], ["Data.Items[0].m_Item", "Loot/Quest/LostChapel/BookLoot_10"]]}

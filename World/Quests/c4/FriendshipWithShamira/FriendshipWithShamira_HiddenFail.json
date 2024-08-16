@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Quest", "World/Quests/c4/FriendshipWithShamira/FriendshipWithShamira"]], "referenced": [["Data.Actions.Actions[5].IfTrue.Actions[0].m_Objective", "World/Encounters/ColyphyrDungeon/ActionsHolders/ColyphyrQuestsFail"], ["Data.m_Objectives[16]", "World/Quests/c4/FriendshipWithShamira/FriendshipWithShamira"]]}

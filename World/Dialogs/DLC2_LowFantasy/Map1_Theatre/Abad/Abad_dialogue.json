@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/DLC2_LowFantasy/Map1_Theatre/Abad/Cue_2"], ["Data.FirstCue.Cues[1]", "World/Dialogs/DLC2_LowFantasy/Map1_Theatre/Abad/Cue_12"]], "referenced": [["Data.OnStop.Actions[0].ActionsOnSpawn.Actions[0].m_Dialogue", "World/Dialogs/DLC2_LowFantasy/Map1_Theatre/AbadInDistress/Cue_0010"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[2].m_flag", "World/Encounters/AreeluLabReturn/UnlockableFlags/ALR_OponFate"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/AreeluLabAgain/Opon/Answer_0035"], ["Data.NextCue.Cues[0]", "World/Dialogs/c5/AreeluLabAgain/Opon/Answer_0039"]]}

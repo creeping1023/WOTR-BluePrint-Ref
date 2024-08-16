@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Woljif/Woljif_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c2_vs/HellknightsUnderAttack/RegillInBarge/Cue_0051"]], "referenced": [["Data.CuesSeen[2365]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Cues[0]", "World/Dialogs/c2_vs/HellknightsUnderAttack/RegillInBarge/CueSequence_0043"]]}

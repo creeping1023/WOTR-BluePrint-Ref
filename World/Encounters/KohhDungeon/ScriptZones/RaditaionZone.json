@@ -1,0 +1,1 @@
+{"referencing": [["Data.TriggerConditions.Conditions[0].m_Flag", "World/Encounters/KohhDungeon/UnlockableFlags/ChemicalLabContamination"], ["Data.EnterActions.Actions[0].m_Buff", "Buffs/KohhPoisonZoneBuff"], ["Data.ExitActions.Actions[0].m_Buff", "Buffs/KohhPoisonZoneBuff"]]}

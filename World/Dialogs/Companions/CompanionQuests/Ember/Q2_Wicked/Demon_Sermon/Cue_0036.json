@@ -1,0 +1,1 @@
+{"referencing": [["Data.Continue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Ember/Q2_Wicked/Demon_Sermon/Cue_0038"]], "referenced": [["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[0].m_Cue", "Root/Upgraders/Player/PF-217823_EmberQ2"], ["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Ember/Q2_Wicked/Demon_Sermon/Answer_0024"]]}

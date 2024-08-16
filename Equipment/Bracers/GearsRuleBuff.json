@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[3].m_IgnoreFeature", "Mythic/MythicAbilities/Corrupter"], ["Data.Components[4].m_CasterIgnoreImmunityFact", "Mythic/MythicAbilities/Corrupter"]], "referenced": [["Data.Components[1].Actions.Actions[0].m_Buff", "Equipment/Bracers/GearsRuleSpell"]]}

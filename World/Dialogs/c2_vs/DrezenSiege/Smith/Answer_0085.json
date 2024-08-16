@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c2_vs/DrezenSiege/Smith/Cue_0086"], ["Data.ShowConditions.Conditions[0].m_Fact", "Classes/Basic/Deities/GodclawFeature"], ["Data.ShowConditions.Conditions[1].m_Answer", "World/Dialogs/c2_vs/DrezenSiege/Smith/Answer_0083"]], "referenced": [["Data.Answers[1]", "World/Dialogs/c2_vs/DrezenSiege/Smith/AnswersList_0025"]]}

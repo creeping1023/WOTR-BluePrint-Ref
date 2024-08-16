@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c5/LabyrinthOfBaphometh/Cessily/Cue_0001"], ["Data.FirstCue.Cues[1]", "World/Dialogs/c5/LabyrinthOfBaphometh/Cessily/Cue_0004"]], "referenced": [["Data.ShowConditions.Conditions[1].m_Dialog", "World/Dialogs/c4/FinalDungeon_Colyphyr/Kestoglyr/Answer_0067"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.TriggerCondition.Conditions[0].m_ConditionFlag", "Kingdom/CrusadeProjects/LogisticsProjects/LogisticsProjectsFlags/Event60FamousRecruiter"], ["Data.Solutions.Entries[1].Resolutions[2].Actions.Actions[0].m_Blueprint", "Armies/CrusadeGlobalBuffs/ArmyFamousRecruiter"]], "referenced": [["Data.m_KingdomProjectEvents[112]", "Root/Kingdom/KingdomRoot"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/Wintersun/Jerribeth_Wintersun"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Wintersun/JerribethReveal/Cue_0017"]], "referenced": [["Data.CuesSeen[4406]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Wintersun/JerribethReveal/Cue_0039"]]}

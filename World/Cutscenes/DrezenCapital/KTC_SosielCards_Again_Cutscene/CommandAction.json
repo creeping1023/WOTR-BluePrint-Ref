@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[1].Unit.m_Companion", "Units/Companions/SosielVaenic/SosielVaenic_Companion"], ["Data.Action.Actions[2].Target.m_Companion", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]], "referenced": [["Data.m_Tracks[1].m_Commands[1]", "World/Cutscenes/DrezenCapital/KTC_SosielCards_Again_Cutscene/KTC_SosielCards_Again_StartCutscene"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Quest", "World/Quests/c5/Mineshaft14/Mineshaft14_quest"]], "referenced": [["Data.OnStop.Actions[1].m_Objective", "World/Dialogs/c5/Mineshaft_14/Seilkind_Cave/Cue_0019"], ["Data.m_Objectives[5]", "World/Quests/c5/Mineshaft14/Mineshaft14_quest"], ["Data.m_Addendums[0]", "World/Quests/c5/Mineshaft14/Obj2_HelpSeilKind"]]}

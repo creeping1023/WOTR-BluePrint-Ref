@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Point1", "GlobalMaps/KenabresMap/Points/Location_AlchemyLoot01"], ["Data.m_Point2", "GlobalMaps/KenabresMap/Points/Location_Crossroads_06"]], "referenced": [["Data.Edges[1]", "GlobalMaps/KenabresMap/KenabresMap"], ["Data.Components[0].Actions.Actions[13].m_Edge", "World/Etudes/Common/WrathOfTheRighteous/Chapter01"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_companion", "Units/Companions/Lann/Lann_Companion"], ["Data.Speaker.m_Blueprint", "Units/Companions/Daeran/Daeran_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c4/FinalDungeon_Colyphyr/FulsomeQueen/Cue_0106"]], "referenced": [["Data.Cues[0]", "World/Dialogs/c4/FinalDungeon_Colyphyr/FulsomeQueen/CueSequence_0103"]]}

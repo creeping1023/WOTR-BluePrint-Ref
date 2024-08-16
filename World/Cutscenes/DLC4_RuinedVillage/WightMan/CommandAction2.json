@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_SummonPool", "World/Encounters/DLC4_RuinedVillage/SummonPools/DLC4_SpiritToRest_1wave"], ["Data.Action.Actions[0].Actions.Actions[0].m_Faction", "Factions/CutsceneNeutrals"]], "referenced": [["Data.m_Tracks[4].m_Commands[0]", "World/Cutscenes/DLC4_RuinedVillage/WightMan/WightMan"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SpecificArea", "World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/GrayGarrison_Legend/GrayGarrison_Legend"], ["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/MythicLegend/LegendStates/Legend_Begins/LegendGarrison"]], "referenced": [["Data.m_Upgraders[292]", "Root/PlayerUpgradeActionsRoot"]]}

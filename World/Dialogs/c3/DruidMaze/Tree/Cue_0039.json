@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Monsters/Treant/CR17_PrimalTreant"], ["Data.OnStop.Actions[0].m_Faction", "Factions/Mobs"]], "referenced": [["Data.NextCue.Cues[1]", "World/Dialogs/c3/DruidMaze/Tree/Answer_0038"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/DruidMaze/Tree/Cue_0068"]]}

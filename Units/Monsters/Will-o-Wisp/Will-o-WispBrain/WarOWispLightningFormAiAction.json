@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/NoThreateningUnitsConsideration"], ["Data.m_Ability", "Units/Monsters/Will-o-Wisp/Will-o-WispBrain/WarWispLightningForm"]], "referenced": [["Data.m_Actions[2]", "Units/Monsters/Will-o-Wisp/Will-o-WispBrain/WillOWispBrain"]]}

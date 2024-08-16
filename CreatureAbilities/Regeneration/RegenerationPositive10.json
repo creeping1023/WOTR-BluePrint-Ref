@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "CreatureAbilities/Regeneration/RegenerationNegative10"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "CreatureAbilities/Regeneration/RegenerationNegative10"]], "referenced": [["Data.m_AddFacts[1]", "QA/Unused/Units/Monsters/Deathsnatcher/ArueshalaeRedoubt/ArueshalaeRedoubt_DeathsnatcherMiniboss"]]}

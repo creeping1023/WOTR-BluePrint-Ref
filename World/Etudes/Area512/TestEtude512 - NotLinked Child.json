@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Parent", "World/Etudes/Area512/TestEtude512"]], "referenced": [["Data.Actions.Actions[0].Etude", "World/Encounters/Area512/ActionsHolders/EtudeCubeStartNotLinkedChild_CheckPassedActions"], ["Data.ActivationCondition.Conditions[0].m_Etude", "World/Etudes/Area512/TestEtude512 - Linked1"]]}

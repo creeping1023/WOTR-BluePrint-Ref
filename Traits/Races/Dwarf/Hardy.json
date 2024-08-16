@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_SteelSoul", "Feats/SteelSoul"], ["Data.IsPrerequisiteFor[0]", "Feats/SteelSoul"]], "referenced": [["Data.Components[1].m_Feature", "Feats/SteelSoul"], ["Data.m_Features[2]", "Races/DwarfRace"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/DLC3_RogueLike/DLC3_SeaHub/DLC3_SeaHub"], ["Data.m_AreaPart", "World/Areas/DLC3_RogueLike/DLC3_SeaHub/DLC3_SeaHub"]], "referenced": [["Data.TargetPoint", "World/Cutscenes/DLC3_AlushinyrraPort/Rest_cutscene/CommandTeleport1"], ["Data.TargetPoint", "World/Cutscenes/DLC3_SeaHub/Rest_Seahub/CommandTeleport"]]}

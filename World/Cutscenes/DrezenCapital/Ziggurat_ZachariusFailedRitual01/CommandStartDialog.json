@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_SummonPool", "World/Encounters/DrezenCapital/SummonPools/Ziggurat_Zacharius"], ["Data.m_Dialog", "World/Dialogs/c3/Ziggurat/Zacharius_FailedRitual/Zacharius_FailedRitual"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DrezenCapital/Ziggurat_ZachariusFailedRitual01/gate 2"]]}

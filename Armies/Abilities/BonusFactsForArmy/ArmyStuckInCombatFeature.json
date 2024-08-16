@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Armies/Abilities/BonusFactsForArmy/ArmyStuckInCombatAbility"]], "referenced": [["Data.Components[0].m_Features[0]", "Armies/CrusadeGlobalBuffs/FlagMilitary7StuckInCombat"], ["Data.Components[0].m_Features[0]", "Armies/CrusadeGlobalBuffs/FlagMilitary7StuckInCombatInfantry"]]}

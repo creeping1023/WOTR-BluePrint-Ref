@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_Buff", "Spells/CutsceneSpells/VinetrapEntangledBuff_Cutscene"], ["Data.OnShow.Actions[1].m_Cutscene", "World/Cutscenes/AlushinyrraMediumCity/RhamisaRun/RhamisaRun"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/Mythic_Azata/Dracarys/Answer_0011"]]}

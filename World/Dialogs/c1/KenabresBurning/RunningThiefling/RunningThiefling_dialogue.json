@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c1/KenabresBurning/RunningThiefling/Cue_0001"], ["Data.FinishActions.Actions[0].m_Objective", "World/Quests/c1/Errands/ThieflingsThere/Objective_0001"]], "referenced": [["Data.m_Dialog", "World/Cutscenes/KenabresBurning/ThieflingErrandMeet/CommandStartDialog"]]}

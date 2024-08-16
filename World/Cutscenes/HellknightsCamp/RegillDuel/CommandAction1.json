@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[4].Target.m_Companion", "Units/Companions/Regill/Regill_Companion"], ["Data.Action.Actions[4].m_Faction", "Factions/Bosses"]], "referenced": [["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/HellknightsCamp/RegillDuel/gate2"]]}

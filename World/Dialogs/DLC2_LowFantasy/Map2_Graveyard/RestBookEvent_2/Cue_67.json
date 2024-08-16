@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_Flag", "World/Encounters/DLC2_RichQuarter/UnlockableFlags/Healer_state_flag"], ["Data.OnShow.Actions[1].Actions.Actions[0].m_Buff", "Spells/Level1/BlessBuff"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/DLC2_LowFantasy/Map2_Graveyard/RestBookEvent_2/Cue_92"]]}

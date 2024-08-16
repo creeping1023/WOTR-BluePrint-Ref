@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Nenio/Nenio_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/IvorySanctum/Cage_Cultists/Cue_0042"]], "referenced": [["Data.CuesSeen[4742]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Cues[0]", "World/Dialogs/c3/IvorySanctum/Cage_Cultists/CueSequence_0039"]]}

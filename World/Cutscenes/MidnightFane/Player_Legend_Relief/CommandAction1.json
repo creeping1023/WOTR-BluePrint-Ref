@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Mythic/Angel/AngelRevealLight_Buff"], ["Data.Action.Actions[1].m_Buff", "Mythic/Angel/Legend_Soul_Light_Buff"]], "referenced": [["Data.m_Tracks[1].m_Commands[3]", "World/Cutscenes/MidnightFane/Player_Legend_Relief/Player_Legend_Relief"]]}

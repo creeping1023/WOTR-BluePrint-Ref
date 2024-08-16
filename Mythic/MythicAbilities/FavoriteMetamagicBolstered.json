@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_Feature", "Feats/Metamagic/BolsteredSpellFeat"]], "referenced": [["Data.IsPrerequisiteFor[0]", "Feats/Metamagic/BolsteredSpellFeat"], ["Data.m_Features[5]", "Mythic/MythicAbilities/FavoriteMetamagicSelection"], ["Data.m_AllFeatures[5]", "Mythic/MythicAbilities/FavoriteMetamagicSelection"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Objective", "World/Quests/Companions/Ember/Q3_Worshipped/Obj1_GotoAltar"], ["Data.Continue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Ember/Q3_Worshipped/ZoneStart/Cue_0002"]], "referenced": [["Data.FirstCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Ember/Q3_Worshipped/ZoneStart/EmberQ3_ZoneStart_Dialogue"]]}

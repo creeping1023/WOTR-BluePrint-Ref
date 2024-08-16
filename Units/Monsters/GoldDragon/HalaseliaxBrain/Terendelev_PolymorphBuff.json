@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_Asks", "Sound/Barks/NPC/Monsters/BlackDragon_Barks"]], "referenced": [["Data.Action.Actions[0].m_Buff", "World/Cutscenes/Aeon_KenabresInThePast/FadeBeforeBattle/CommandAction18"], ["Data.Action.Actions[0].m_Buff", "World/Cutscenes/Prologue_Kenabres/DemonAttackBeginning/CommandAction16"]]}

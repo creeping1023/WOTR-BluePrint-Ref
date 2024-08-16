@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Unit", "Units/NPC/Commoners/Demon Succubus/CohhDungeon/CR16_Cyborg_SuccubusSorc"], ["Data.Action.Actions[0].m_SummonPool", "World/Encounters/KohhDungeon/SummonPools/Kohh_LastBoss3"]], "referenced": [["Data.m_Tracks[0].m_Commands[3]", "World/Cutscenes/KohhDungeon/LastBossAddsSpawn3/LastBossAddsSpawn3"]]}

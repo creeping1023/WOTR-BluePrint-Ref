@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Buffs/FadeInOut"], ["Data.Action.Actions[0].Target.m_SummonPool", "World/Encounters/TheIvoryLabyrinth/SummonPools/HeraldSecondPhase"]], "referenced": [["Data.m_Tracks[3].m_Commands[1]", "World/Cutscenes/TheIvoryLabyrinth/HeroldGoAway_scene/gate"]]}

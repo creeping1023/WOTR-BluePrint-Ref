@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Flag", "World/Encounters/DLC5_FrozenTemple/UnlockableFlags/DLC5_SendriSithhudMarks"], ["Data.Speaker.m_Blueprint", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion"]], "referenced": [["Data.Cues[0]", "World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/Storasta_SithhudMark_2/CueSequence_0001"]]}

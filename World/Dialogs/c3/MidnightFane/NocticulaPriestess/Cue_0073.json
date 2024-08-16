@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Arueshalae/Arueshalae_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/MidnightFane/NocticulaPriestess/Cue_0075"]], "referenced": [["Data.CuesSeen[6428]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/MidnightFane/NocticulaPriestess/Cue_0061"]]}

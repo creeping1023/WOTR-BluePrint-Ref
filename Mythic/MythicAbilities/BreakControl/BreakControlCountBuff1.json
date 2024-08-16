@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Action.Actions[0].m_Spell", "Mythic/MythicAbilities/BreakControl/BreakControlAbility"], ["Data.Components[0].Action.Actions[2].m_Buff", "Mythic/MythicAbilities/BreakControl/BreakControlCountBuff2"]], "referenced": [["Data.Components[0].Action.Actions[0].m_Buff", "Mythic/MythicAbilities/BreakControl/BreakControl"]]}

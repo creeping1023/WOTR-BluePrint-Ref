@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Etude", "World/Etudes/Common/DLC2_LowFantasy/DLC2_RichQuarter"], ["Data.EntryCondition.Conditions[1].m_AreaPart", "World/Areas/DLC2_LowFantasy/DLC2_RichQuarter/DLC2_RichQuarter"]], "referenced": [["Data.m_Tracks[3].m_Commands[0]", "World/Cutscenes/DLC2_Catacombs/DLC2_Surv_walks_away/DLC2_Surv_walks_away"]]}

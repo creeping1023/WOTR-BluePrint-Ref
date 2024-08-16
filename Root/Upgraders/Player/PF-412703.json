@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[0].m_Project", "Kingdom/CrusadeProjects/KTCProjects/PuluraProject"], ["Data.m_Actions.Actions[0].IfTrue.Actions[0].m_ItemToGive", "Items/Books/UniqueBooks/TE_plaintext"]], "referenced": [["Data.m_Upgraders[505]", "Root/PlayerUpgradeActionsRoot"]]}

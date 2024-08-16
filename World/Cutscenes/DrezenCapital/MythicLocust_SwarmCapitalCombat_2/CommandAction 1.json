@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].ActionsOnSpawn.Actions[0].m_Buff", "Buffs/Areas/Act_3_DemonsHerecy/ArueshalaeRedoubt/PuzzleEvent_HealthGuard3"], ["Data.Action.Actions[0].ActionsOnSpawn.Actions[1].m_Faction", "Factions/CutsceneNeutrals"]], "referenced": [["Data.m_Tracks[0].m_Commands[2]", "World/Cutscenes/DrezenCapital/MythicLocust_SwarmCapitalCombat_2/gate"]]}

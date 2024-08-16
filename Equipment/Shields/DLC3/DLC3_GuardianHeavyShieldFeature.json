@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Deactivated.Actions[0].m_Buff", "Items/Weapons/DLC3/DLC3_GuardianBattleaxeBuff"]], "referenced": [["Data.Components[1].m_Feature", "Equipment/Shields/DLC3/DLC3_GuardianHeavyShieldEnchantment"], ["Data.Components[0].Activated.Actions[0].ConditionsChecker.Conditions[0].m_Fact", "Items/Weapons/DLC3/DLC3_GuardianBattleaxeFeature"]]}

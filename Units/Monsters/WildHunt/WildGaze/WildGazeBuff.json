@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_AreaEffect", "Units/Monsters/WildHunt/WildGaze/WildGazeAreaEffect"], ["Data.Components[1].Activated.Actions[0].m_Buff", "Units/Monsters/WildHunt/WildGaze/WildGazeImmunity"]], "referenced": [["Data.Components[0].m_Feature", "Units/Monsters/WildHunt/WildGaze/WildGazeFeature"]]}

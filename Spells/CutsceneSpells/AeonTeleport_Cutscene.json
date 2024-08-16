@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Projectile", "FX/Abilities/Mythics/Aeon/Mythic4lvlAeon_UncertanityPrinciple00"]], "referenced": [["Data.m_SpellBlueprint", "World/Cutscenes/Aeon_KenabresInThePast/FadeBeforeBattle/CommandUnitCastSpell2"], ["Data.m_SpellBlueprint", "World/Cutscenes/Aeon_KenabresInThePast/FadeBeforeBattle/CommandUnitCastSpell3"]]}

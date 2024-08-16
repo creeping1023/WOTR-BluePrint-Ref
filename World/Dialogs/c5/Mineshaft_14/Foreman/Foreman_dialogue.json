@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c5/Mineshaft_14/Foreman/Cue_0046"], ["Data.FirstCue.Cues[1]", "World/Dialogs/c5/Mineshaft_14/Foreman/Cue_0001"], ["Data.FirstCue.Cues[2]", "World/Dialogs/c5/Mineshaft_14/Foreman/Cue_0002"]], "referenced": [["Data.Action.Actions[0].m_Dialogue", "World/Cutscenes/Mineshaft14_Indoor/Foreman_Dialog/CommandAction"]]}

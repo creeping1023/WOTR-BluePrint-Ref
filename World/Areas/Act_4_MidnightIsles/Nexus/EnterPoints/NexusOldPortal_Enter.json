@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Act_4_MidnightIsles/Nexus/Nexus"], ["Data.m_AreaPart", "World/Areas/Act_4_MidnightIsles/Nexus/Nexus"]], "referenced": [["Data.Actions.Actions[1].m_exitPositon", "World/Encounters/Nexus/ActionsHolders/Fake_ChangeCampToFinal_CheckPassedActions"]]}

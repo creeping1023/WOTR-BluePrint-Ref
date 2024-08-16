@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_Location", "GlobalMaps/WorldWoundGM/Points/Location_SinisterVillage"], ["Data.OnStop.Actions[0].m_Objective", "World/Quests/c1/SinisterVillage1_ColdWater/Objective_01_GotoVillage"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/c2_vs/Warcamp_IntroTour/Jernaugh_Warcamp/Cue_0014"]]}

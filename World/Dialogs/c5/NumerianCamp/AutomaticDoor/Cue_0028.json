@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_Objective", "World/Quests/c5/NumerianCamp/Add4_FounClue_1"], ["Data.Answers[0]", "World/Dialogs/c5/NumerianCamp/AutomaticDoor/AnswersList_0025"]], "referenced": [["Data.CuesSeen[6043]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.m_Success", "World/Dialogs/c5/NumerianCamp/AutomaticDoor/Check_0027"]]}

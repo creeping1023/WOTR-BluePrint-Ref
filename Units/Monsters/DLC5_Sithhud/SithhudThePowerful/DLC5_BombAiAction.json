@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "Units/Monsters/DLC5_Sithhud/HeadOfSithhud/DLC5_FrostBreathOfSithhudAiAction"]]}
+{"referencing": [["Data.PrototypeLink", "Units/Monsters/DLC5_Sithhud/HeadOfSithhud/DLC5_FrostBreathOfSithhudAiAction"], ["Data.m_Ability", "Units/Monsters/DLC5_Sithhud/SithhudThePowerful/DLC5_SithhudBombAbility"]], "referenced": [["Data.m_Actions[3]", "Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_TrueSithhudBrain"], ["Data.m_Actions[3]", "Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_TrueSithhudBrain3Seal"]]}

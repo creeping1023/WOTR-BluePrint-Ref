@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/IrabethTirabade_DH"], ["Data.Continue.Cues[0]", "World/Dialogs/c1/DefendersHeart/AfterAttackIrabeth/CueSequence_0021"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c1/DefendersHeart/AfterAttackIrabeth/Answer_0012"]]}

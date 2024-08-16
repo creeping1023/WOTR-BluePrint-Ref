@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "Kingdom/TacticalCombat/TestTacticalCombatArea"], ["Data.m_EnterPoint", "Kingdom/TacticalCombat/TestTacticalCombatArea_Enter"], ["Data.m_PlayerCharacter", "PlayerFighterPregen"], ["Data.m_Campaign", "DLC/MainGame/MainCampaign"]], "referenced": [["Data.m_DefaultPreset", "Kingdom/TacticalCombat/TestTacticalCombatArea"]]}

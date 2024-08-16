@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_Fact", "Mythic/SwarmThatWalks/LocustNPCBonuses/LocustNPCDivineBonus"], ["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/LocustDevour_Param/LocustDevour_Param"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/PuluraFallsC5/RamienPulura/Answer_0023"]]}

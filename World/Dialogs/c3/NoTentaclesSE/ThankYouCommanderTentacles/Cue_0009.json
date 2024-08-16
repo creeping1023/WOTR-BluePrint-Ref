@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/NoMoreTentacles/SirAllfrey"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/NoTentaclesSE/ThankYouCommanderTentacles/Cue_0010"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/NoTentaclesSE/ThankYouCommanderTentacles/Answer_0007"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Parent", "World/Etudes/Common/ImportantStates"]], "referenced": [["Data.Components[23].m_OnSettlementDestroyed.Actions[3].Etude", "Kingdom/MoraleFlags/KingdomMoraleFlagChapter5Siege"], ["Data.ActivationCondition.Conditions[1].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/Chapter03/CapitalMechanic/Ch5_CrusadeLost"]]}

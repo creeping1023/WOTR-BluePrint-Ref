@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Answer", "World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/DaeranRomance/AndNowTrueWelcome/Answer_0014"], ["Data.Units[1].Unit.m_Companion", "Units/Companions/Daeran/Daeran_Companion"]], "referenced": [["Data.m_Tracks[3].m_Commands[0]", "World/Cutscenes/DLC6_DaeranRomance/DLC6_Now_the_real_date/gate1"]]}

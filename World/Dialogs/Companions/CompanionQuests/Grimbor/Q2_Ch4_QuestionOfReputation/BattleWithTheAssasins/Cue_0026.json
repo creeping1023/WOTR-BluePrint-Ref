@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Greybor/Greybor_Companion"], ["Data.OnStop.Actions[0].m_SummonPool", "World/Encounters/AlushinyrraMediumCity/SummonPools/BloodMoonAndBoulder"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Grimbor/Q2_Ch4_QuestionOfReputation/BattleWithTheAssasins/Answer_0023"]]}

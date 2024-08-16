@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Objective", "World/Quests/MythicQuests/Demon/Errands/C3_DrawMagicPortal/Objective_0001"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Mythic_Demon/Nocticula_C3/Cue_0062"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/Mythic_Demon/Nocticula_C3/Answer_0011"]]}

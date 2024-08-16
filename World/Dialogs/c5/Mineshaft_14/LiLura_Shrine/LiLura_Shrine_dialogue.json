@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c5/Mineshaft_14/LiLura_Shrine/Cue_0001"], ["Data.FirstCue.Cues[1]", "World/Dialogs/c5/Mineshaft_14/LiLura_Shrine/Cue_0042"]], "referenced": [["Data.Action.Actions[0].m_Dialogue", "World/Cutscenes/ShrineOfTheThree/Meet_LiLura_Shrine/CommandAction"]]}

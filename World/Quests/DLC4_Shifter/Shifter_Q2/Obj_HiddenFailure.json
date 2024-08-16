@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Quest", "World/Quests/DLC4_Shifter/Shifter_Q2/Shifter_Q2_quest"]], "referenced": [["Data.Components[1].Actions.Actions[1].IfTrue.Actions[0].m_Objective", "World/Etudes/Common/DLC4_Shifter"], ["Data.m_Objectives[6]", "World/Quests/DLC4_Shifter/Shifter_Q2/Shifter_Q2_quest"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/Chapter03"], ["Data.m_Dialog", "World/Dialogs/Companions/CompanionRomances/Galfrey/GalfreyInDisarray/GalfreyInDisarray_dialogue"]], "referenced": [["Data.m_Tracks[1].m_Commands[3]", "World/Cutscenes/DrezenCapital/GalfreyInDissarayDialog/GalfreyInDissarayDialog"]]}

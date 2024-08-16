@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Buffs[0]", "Armies/Abilities/ArmyBurnOnHitBuff"]], "referenced": [["Data.m_TargetConsiderations[2]", "Armies/Brains/Actions/TacticalCombatAiSpreadBurn"], ["Data.m_TargetConsiderations[2]", "Armies/Brains/Actions/TacticalCombatAiSpreadFreeze"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Classes/Monster/MonsterMythic/MonsterMythic5HealthTriggerBadBuff"], ["Data.Components[0].m_Facts[1]", "Classes/Monster/MonsterMythic/MonsterMythicFeature5BadVisual"]], "referenced": [["Data.LevelEntries[0].m_Features[0]", "Classes/Monster/MonsterMythic/MonsterMythicQualityBadProgresion"]]}

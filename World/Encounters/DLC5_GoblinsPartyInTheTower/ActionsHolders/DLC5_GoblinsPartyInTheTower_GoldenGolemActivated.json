@@ -1,0 +1,1 @@
+{"referencing": [["Data.Actions.Actions[0].IfTrue.Actions[0].m_Buff", "World/Encounters/LostChapel/Buffs/CantMove"], ["Data.Actions.Actions[0].IfTrue.Actions[1].m_Buff", "World/Encounters/LostChapel/Buffs/CantAct"], ["Data.Actions.Actions[0].IfTrue.Actions[2].m_Buff", "Buffs/NPC_Untargetable"], ["Data.Actions.Actions[0].IfTrue.Actions[3].m_Faction", "Factions/Mobs"]]}

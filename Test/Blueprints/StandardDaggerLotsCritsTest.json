@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Type", "Weapons/Types/SimpleLight/Dagger"], ["Data.m_Enchantments[0]", "Test/Blueprints/StandardDaggerLotsCritsTestEnchant"]], "referenced": [["Data.m_Items[1101]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Items[3].m_Item", "Loot/Good/CR0/Forest_Loot"], ["Data.Body.m_PrimaryHand", "Test/Blueprints/TutorialTestICriticalHit"]]}

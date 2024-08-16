@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_DisplayName.m_OwnerString", "Equipment/Armor/Enchantments/FireResistance10Feature"], ["Data.m_Description.m_OwnerString", "Equipment/Armor/Enchantments/FireResistance10Feature"]]}
+{"referencing": [["Data.m_DisplayName.m_OwnerString", "Equipment/Armor/Enchantments/FireResistance10Feature"], ["Data.m_Description.m_OwnerString", "Equipment/Armor/Enchantments/FireResistance10Feature"]], "referenced": [["Data.Components[2].m_Facts[0]", "Weapons/Items/Unique/LateChapters_3rdPart/RuinFeature"]]}

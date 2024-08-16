@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_SummonPool", "World/Encounters/Arueshalae_Q2_DimalchioMansion/SummonPools/DimalchioGuards"], ["Data.Action.Actions[0].Actions.Actions[0].m_Faction", "Factions/Mobs"]], "referenced": [["Data.m_Tracks[0].m_Commands[2]", "World/Cutscenes/Arueshalae_Q2_DimalchioMansion/Battle_Start/gate"]]}

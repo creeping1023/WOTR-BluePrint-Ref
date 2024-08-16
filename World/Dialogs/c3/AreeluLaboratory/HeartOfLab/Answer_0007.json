@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/AreeluLaboratory/HeartOfLab/Cue_0008"], ["Data.ShowConditions.Conditions[0].m_ConditionFlag", "World/Encounters/AreeluLab/UnlockableFlags/AL_SeenHolosceneEx4"]], "referenced": [["Data.Answers[3]", "World/Dialogs/c3/AreeluLaboratory/HeartOfLab/AnswersList_0061"]]}

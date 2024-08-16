@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[2].Etude", "World/Etudes/Common/DLC2_LowFantasy/DLC2_Graveyard/Graveyard_SlimePatrol3"], ["Data.Action.Actions[3].Etude", "World/Etudes/Common/DLC2_LowFantasy/DLC2_Graveyard/Graveyard_SlimeFactionToggle"]], "referenced": [["Data.m_Tracks[0].m_Commands[3]", "World/Cutscenes/DLC2_Graveyard/Graveyard_SlimeColumn2Scene/gate"]]}

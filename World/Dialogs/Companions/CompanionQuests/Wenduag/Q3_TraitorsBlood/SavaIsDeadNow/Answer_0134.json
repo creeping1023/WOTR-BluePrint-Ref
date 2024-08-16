@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Wenduag/Q3_TraitorsBlood/SavaIsDeadNow/Cue_0137"], ["Data.OnSelect.Actions[0].m_flag", "World/Encounters/Lann_Q3_SavamelekhLair/UnlockableFlags/WenduQ3_Mercy"]], "referenced": [["Data.Answers[5]", "World/Dialogs/Companions/CompanionQuests/Wenduag/Q3_TraitorsBlood/SavaIsDeadNow/AnswersList_0004"]]}

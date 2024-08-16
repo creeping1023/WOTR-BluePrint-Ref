@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_ItemToCheck", "Weapons/Items/UniquePF2/Finnean/FinneanBaseItem"], ["Data.Speaker.m_SpeakerPortrait", "Units/Companions/Finnean/Finnean_Companion"]], "referenced": [["Data.CuesSeen[8538]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Cues[3]", "World/Dialogs/c4/FinalDungeon_Colyphyr/Mutasafen/CueSequence_0027"]]}

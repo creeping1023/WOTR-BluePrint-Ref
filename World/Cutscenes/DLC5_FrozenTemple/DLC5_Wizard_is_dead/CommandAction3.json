@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[1].m_AreaEffects[0]", "Spells/Level1/GreaseArea"], ["Data.Action.Actions[2].m_Cutscene", "World/Cutscenes/GenericScenes/PartyDismountCycle/PartyDismountCycle"]], "referenced": [["Data.m_Tracks[1].m_Commands[1]", "World/Cutscenes/DLC5_FrozenTemple/DLC5_Wizard_is_dead/gate"]]}

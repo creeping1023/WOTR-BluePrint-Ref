@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/HellknightsCamp/PartyJoinsTeaSuccubus/CommandDelay 1"], ["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/HellknightsCamp/PartyJoinsTeaSuccubus/CommandUnitPlayCutsceneAnimation 5"]], "referenced": [["Data.m_Tracks[5].m_EndGate", "World/Cutscenes/HellknightsCamp/PartyJoinsTeaSuccubus/gate 2"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.TriggerCondition.Conditions[0].m_ConditionFlag", "Kingdom/CrusadeProjects/MilitaryProjects/MilitaryProjectsFlags/Event83Spies"], ["Data.Solutions.Entries[3].Resolutions[2].Actions.Actions[0].m_Blueprint", "Armies/CrusadeGlobalBuffs/Event83StudiedTarget"]], "referenced": [["Data.m_KingdomProjectEvents[181]", "Root/Kingdom/KingdomRoot"]]}

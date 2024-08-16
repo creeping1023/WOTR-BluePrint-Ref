@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/TavernBadLuck/Tumberd/Cue_0031"]], "referenced": [["Data.AnswersSelected[2777]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[2]", "World/Dialogs/c4/TavernBadLuck/Tumberd/AnswersList_0024"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/c4/TavernBadLuck/Tumberd/Answer_0043"]]}

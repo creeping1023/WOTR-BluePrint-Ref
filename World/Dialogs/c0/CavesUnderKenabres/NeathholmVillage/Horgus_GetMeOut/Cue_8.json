@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_CharacterClassGroup", "ClassGroups/Divine"], ["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/Horgus"]], "referenced": [["Data.Cues[4]", "World/Dialogs/c0/CavesUnderKenabres/NeathholmVillage/Horgus_GetMeOut/CueSequence_0001"]]}

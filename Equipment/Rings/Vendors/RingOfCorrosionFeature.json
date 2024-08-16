@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_DisplayName.m_OwnerString", "Equipment/Rings/RingOfHuntersLuckFeature"], ["Data.m_Description.m_OwnerString", "Equipment/Rings/RingOfHuntersLuckFeature"]]}
+{"referencing": [["Data.m_DisplayName.m_OwnerString", "Equipment/Rings/RingOfHuntersLuckFeature"], ["Data.m_Description.m_OwnerString", "Equipment/Rings/RingOfHuntersLuckFeature"]], "referenced": [["Data.Components[0].m_Feature", "Equipment/Rings/Vendors/RingOfCorrosionEnchant"]]}

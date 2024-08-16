@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Dialogue", "World/Dialogs/DLC1_Megaepic/Iz/Irabeth/DLC1_Irabeth_dialogue"], ["Data.Action.Actions[1].m_Buff", "Buffs/Areas/Act_3_DemonsHerecy/DrezenCapital/AeonEyeNPCVisualBuff"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC1_Iz/DLC1_Iz_Irabeth_Wake-Up/gate1"]]}

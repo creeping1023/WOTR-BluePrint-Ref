@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Nenio/Nenio_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/AreeluLaboratory/HeartOfLab/Cue_0075"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/c3/AreeluLaboratory/HeartOfLab/Cue_0073"], ["Data.Conditions.Conditions[0].m_Cue", "World/Dialogs/c3/AreeluLaboratory/HeartOfLab/Cue_3"]]}

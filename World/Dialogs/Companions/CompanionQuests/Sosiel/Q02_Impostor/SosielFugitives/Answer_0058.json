@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielFugitives/Cue_0061"], ["Data.OnSelect.Actions[0].m_Flag", "World/UnlockableFlags/Companions/Sosiel/Sosiel_HeroCounter"]], "referenced": [["Data.Answers[2]", "World/Dialogs/Companions/CompanionQuests/Sosiel/Q02_Impostor/SosielFugitives/AnswersList_0055"]]}

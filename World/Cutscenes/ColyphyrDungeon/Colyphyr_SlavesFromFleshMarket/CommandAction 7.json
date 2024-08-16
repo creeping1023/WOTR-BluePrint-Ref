@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_flag", "World/Encounters/ColyphyrDungeon/UnlockableFlags/Colyphyr_SlavesMiningBreak"], ["Data.Action.Actions[1].m_SummonPool", "World/Encounters/ColyphyrDungeon/SummonPools/Colyphyr_SlavesFromFleshMarket"]], "referenced": [["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/ColyphyrDungeon/Colyphyr_SlavesFromFleshMarket/gate 14"]]}

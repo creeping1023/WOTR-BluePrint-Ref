@@ -1,0 +1,1 @@
+{"referencing": [["Data.EnterActions.Actions[0].ConditionsChecker.Conditions[0].m_ConditionFlag", "World/Encounters/DLC3_AlushinyrraPort/UnlockableFlags/Balor_win"], ["Data.EnterActions.Actions[0].IfTrue.Actions[0].m_Dialogue", "World/Dialogs/DLC3_Roguelike/Boss_Warning/DLC3_Figurehead_Boss_Warning"]]}

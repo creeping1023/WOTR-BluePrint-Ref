@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_exitPositon", "World/Areas/Act_3_DemonsHerecy/MidnightFane/EnterPoints/S1_Mishap"], ["Data.Action.Actions[0].AfterTeleport.Actions[0].m_Spell", "Spells/Level6/PlagueStormBubonicPlague"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/MidnightFane/MidnightFane_SecretPassageTeleport_Mishap/gate 1"]]}

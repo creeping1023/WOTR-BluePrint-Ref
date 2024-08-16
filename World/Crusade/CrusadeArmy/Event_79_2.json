@@ -1,0 +1,1 @@
+{"referencing": [["Data.Squads[0].m_Unit", "Armies/UnitBlueprints/ArmyHeavyInfantry"], ["Data.Squads[1].m_Unit", "Armies/UnitBlueprints/ArmySpearman"]], "referenced": [["Data.m_EventSolutions[1].m_SuccessEffects.Actions[1].Preset", "World/Crusade/Events/CrusadeEvents/CrusadeEvent79"]]}

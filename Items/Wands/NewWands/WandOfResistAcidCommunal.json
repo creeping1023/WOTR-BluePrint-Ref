@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/WoodShardItem"], ["Data.m_Ability", "Spells/Level3/ResistAcidCommunal"]], "referenced": [["Data.m_Items[900]", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], ["Data.m_Items[830]", "Dugeons/Loot/DungeonLootScrollsAndWands"], ["Data.Types[4].Items[181]", "World/Areas/Random_Encounters/RE_TrashLootSettings"]]}

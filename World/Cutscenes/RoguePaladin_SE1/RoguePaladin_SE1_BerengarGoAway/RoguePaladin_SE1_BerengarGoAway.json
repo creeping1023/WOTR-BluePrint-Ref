@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/RoguePaladin_SE1/RoguePaladin_SE1_BerengarGoAway/CommandMoveUnit"], ["Data.m_Tracks[1].m_Commands[0]", "World/Cutscenes/RoguePaladin_SE1/RoguePaladin_SE1_BerengarGoAway/CommandAction"]], "referenced": [["Data.OnStop.Actions[0].m_Cutscene", "World/Dialogs/c3/Mythic_Angel/RoguePaladin1/Cue_0012"]]}

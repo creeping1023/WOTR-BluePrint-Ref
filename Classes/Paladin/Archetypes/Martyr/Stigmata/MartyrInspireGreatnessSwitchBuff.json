@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Classes/Paladin/Archetypes/Martyr/Stigmata/MartyrStigmataBleedBuff"], ["Data.Components[0].m_Facts[1]", "Classes/Bard/BardicPerformances/InspireGreatness/InspireGreatnessBuff"]], "referenced": [["Data.m_Buff", "Classes/Paladin/Archetypes/Martyr/Stigmata/MartyrInspireGreatnessToggleAbility"]]}

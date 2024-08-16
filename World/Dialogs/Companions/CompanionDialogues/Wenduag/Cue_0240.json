@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Quest", "World/Quests/Companions/Wenduag/Q2_Romance_TalkWithMe/WenduRom_TalkWithMe"], ["Data.Answers[0]", "World/Dialogs/Companions/CompanionDialogues/Wenduag/AnswersList_0003"]], "referenced": [["Data.FirstCue.Cues[3]", "World/Dialogs/Companions/CompanionDialogues/Wenduag/Wenduag_dialogue_main"]]}

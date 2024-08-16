@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Activated.Actions[1].ConditionsChecker.Conditions[0].m_Buff", "Spells/Level3/SlowBuff"], ["Data.Components[0].Activated.Actions[1].IfTrue.Actions[0].m_Buff", "Spells/Level3/SlowBuff"]], "referenced": [["Data.Components[1].Buffs[1].m_Buff", "CreatureAbilities/ImmunityToMagic/IronGolemImmunity"]]}

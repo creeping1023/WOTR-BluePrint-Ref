@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/MutasafenLair/MutasafenLair_BarrierUp/CommandDelay"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/MutasafenLair/MutasafenLair_BarrierUp/gate"]], "referenced": [["Data.FinishActions.Actions[5].m_Cutscene", "World/Dialogs/c5/Mythic_Angel/Wardens_MythAngel/WardensBefore_MythAngel_c5_dialog"]]}

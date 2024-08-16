@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/DrezenMain_C5/Miammir/Cue_0008"], ["Data.NextCue.Cues[1]", "World/Dialogs/c5/DrezenMain_C5/Miammir/Cue_0009"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/c5/DrezenMain_C5/Miammir/Answer_0004"]], "referenced": [["Data.Answers[1]", "World/Dialogs/c5/DrezenMain_C5/Miammir/AnswersList_0003"]]}

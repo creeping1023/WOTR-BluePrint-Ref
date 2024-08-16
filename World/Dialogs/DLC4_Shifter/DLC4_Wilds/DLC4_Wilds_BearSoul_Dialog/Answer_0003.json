@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_Wilds_BearSoul_Dialog/Cue_0007"]], "referenced": [["Data.Answers[0]", "World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_Wilds_BearSoul_Dialog/AnswersList_0002"], ["Data.Actions.Actions[0].ConditionsChecker.Conditions[0].m_Answer", "World/Encounters/DLC4_Wilds/ActionsHolders/Bear_Ghost_Action"]]}

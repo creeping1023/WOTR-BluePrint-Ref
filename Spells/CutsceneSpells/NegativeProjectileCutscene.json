@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_Projectiles[0]", "FX/Spell Level None/NegativeCommonProjectile00"], ["Data.Components[1].m_Weapon", "Weapons/Types/Special/RayItem"], ["Data.Components[2].Actions.Actions[0].m_Buff", "Buffs/Prone"]], "referenced": [["Data.m_SpellBlueprint", "World/Cutscenes/DrezenCapital/Lich_AttackPharasmaPriestess/CommandUnitCastSpell"]]}

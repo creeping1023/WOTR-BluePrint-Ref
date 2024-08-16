@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SpellActions.Actions[0].m_Blueprint", "Kingdom/GlobalMapRituals/GlobalSpellAzataSongOfDeceivingThicketKingdomBuff"]], "referenced": [["Data.OnApply.Actions[3].m_Spell", "Armies/CrusadeGlobalBuffs/FlagLegend5Rituals"], ["Data.Components[0].m_Spell", "Kingdom/GlobalMapRituals/GlobalSpellAzataSongOfDeceivingThicketFeature"]]}

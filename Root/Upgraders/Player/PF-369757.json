@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SpecificArea", "World/Areas/Act_4_MidnightIsles/AlushinyrraMediumCity/AlushinyrraMediumCity"], ["Data.m_Actions.Actions[0].m_Cutscene", "World/Cutscenes/AlushinyrraLowerCity/BattleEncounter_LowerCityRoofWrongPlace/BattleEncounter_LowerCityRoofWrongPlace"]], "referenced": [["Data.m_Upgraders[417]", "Root/PlayerUpgradeActionsRoot"]]}

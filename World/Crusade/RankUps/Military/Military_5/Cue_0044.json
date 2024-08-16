@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Greybor/Greybor_Companion"], ["Data.Continue.Cues[0]", "World/Crusade/RankUps/Military/Military_5/Cue_0055"]], "referenced": [["Data.CuesSeen[6277]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Crusade/RankUps/Military/Military_5/Answer_0038"]]}

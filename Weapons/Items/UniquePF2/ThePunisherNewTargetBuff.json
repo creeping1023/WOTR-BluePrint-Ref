@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level1/BlessBuff"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level1/BlessBuff"]], "referenced": [["Data.Components[2].Action.Actions[0].ConditionsChecker.Conditions[0].m_Fact", "Weapons/Items/UniquePF2/ThePunisherEnchantment"], ["Data.Components[2].Action.Actions[0].IfFalse.Actions[0].m_Buff", "Weapons/Items/UniquePF2/ThePunisherEnchantment"]]}

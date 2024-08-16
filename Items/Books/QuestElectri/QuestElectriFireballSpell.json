@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_Projectiles[0]", "FX/Spell Level 3/Fireball00"], ["Data.Components[6].m_RequiredResource", "Items/Books/QuestElectri/QuestElectriSpellResource"]], "referenced": [["Data.Components[0].m_Ability", "Items/Books/QuestElectri/QuestElectriFireballBuff"], ["Data.Components[2].m_Facts[0]", "Items/Books/QuestElectri/QuestElectriFireballBuff"]]}

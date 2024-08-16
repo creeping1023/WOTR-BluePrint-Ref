@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level2/MirrorImageBuff"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level2/MirrorImageBuff"]], "referenced": [["Data.Components[1].CombatStartActions.Actions[0].m_Buff", "Equipment/Amulets/GyronnasAmuletFeature"], ["Data.Components[1].CombatEndActions.Actions[0].m_Buff", "Equipment/Amulets/GyronnasAmuletFeature"]]}

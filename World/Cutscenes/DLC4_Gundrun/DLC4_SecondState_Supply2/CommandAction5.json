@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].ActionsOnSpawn.Actions[0].m_Faction", "Factions/CutsceneNeutrals"], ["Data.Action.Actions[0].ActionsOnSpawn.Actions[2].m_Buff", "CreatureAbilities/Unlootable"]], "referenced": [["Data.m_Tracks[10].m_Commands[4]", "World/Cutscenes/DLC4_Gundrun/DLC4_SecondState_Supply2/gate3"]]}

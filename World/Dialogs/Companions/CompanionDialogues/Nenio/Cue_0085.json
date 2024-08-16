@@ -1,0 +1,1 @@
+{"referencing": [["Data.Answers[0]", "World/Dialogs/Companions/CompanionDialogues/Nenio/AnswersList_0087"], ["Data.Continue.Cues[0]", "World/Dialogs/Companions/CompanionDialogues/Nenio/Cue_0172"]], "referenced": [["Data.CuesSeen[1341]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Continue.Cues[0]", "World/Dialogs/Companions/CompanionDialogues/Nenio/Cue_0084"]]}

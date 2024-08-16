@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c5/Mythic_Trickster/Debrief_Council/Cue_0002"], ["Data.StartActions.Actions[0].m_Cutscene", "World/Cutscenes/TricksterCouncil/EndCombatCouncil/EndCombatCouncil"]], "referenced": [["Data.m_Dialog", "World/Cutscenes/TricksterCouncil/CouncilDebriefAfterFight/CommandStartDialog"]]}

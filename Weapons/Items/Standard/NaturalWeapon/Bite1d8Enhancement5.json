@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Type", "Weapons/Types/NaturalWeapon/BiteType"], ["Data.m_Enchantments[0]", "Weapons/Enchantments/Enhancement5"]], "referenced": [["Data.m_Items[1537]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Components[0].m_MainHand", "Equipment/Armor/Items/Unique/Artifact_TigerArmor/Artifact_TigerArmorSmilodonBuff"]]}

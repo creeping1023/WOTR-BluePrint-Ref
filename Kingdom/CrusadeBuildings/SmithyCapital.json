@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Features[0]", "Armies/Abilities/BonusFactsForArmy/ArmyBuildingSmithy"], ["Data.Components[1].m_Settlement", "Kingdom/Settlement/Settlement00_Drezen"]], "referenced": [["Data.List[1].m_Building", "Kingdom/CrusadeProjects/UpgradeSettlements/DrezenCh3BuildList"], ["Data.m_Buildings[40]", "Root/Kingdom/KingdomRoot"]]}

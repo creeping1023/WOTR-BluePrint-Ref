@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions[0]", "Brain/Actions/AttackAiAction"], ["Data.m_Actions[1]", "Units/Monsters/Demon Derakni/DerakniBrain/DerakniDroneAiAction"], ["Data.m_Actions[2]", "Units/Monsters/Demon Derakni/AreeluLab/AreeluLab_SlayerTargetAIAction"]], "referenced": [["Data.m_Brain", "Units/Monsters/Demon Derakni/AreeluLab/AreeluLab_Derakni"]]}

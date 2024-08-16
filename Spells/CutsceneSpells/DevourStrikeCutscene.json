@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_Projectiles[0]", "FX/Cutscenes/DemonStrike00_Projectile"], ["Data.Components[1].m_Weapon", "Weapons/Types/Special/TouchItem"]], "referenced": [["Data.m_SpellBlueprint", "World/Cutscenes/DLC4_RuinedVillage/DolmenBoss/CommandUnitCastSpell"], ["Data.m_SpellBlueprint", "World/Cutscenes/Iz/DemonRageKillParam/CommandUnitCastSpell"]]}

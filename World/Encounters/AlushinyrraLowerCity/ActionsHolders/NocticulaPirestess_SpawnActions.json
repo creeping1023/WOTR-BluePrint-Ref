@@ -1,0 +1,1 @@
+{"referencing": [["Data.Actions.Actions[0].m_Faction", "Factions/CutsceneNeutrals"], ["Data.Actions.Actions[1].m_Buff", "Buffs/Areas/Act_3_DemonsHerecy/DrezenCapital/AttachAeonEyeEnemyBuffIfPlayerIsAeon"], ["Data.Actions.Actions[2].m_Buff", "Buffs/Areas/Act_3_DemonsHerecy/DrezenCapital/AeonEyeEnemyVisualBuff"]]}

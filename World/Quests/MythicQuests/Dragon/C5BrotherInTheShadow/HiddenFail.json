@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Quest", "World/Quests/MythicQuests/Dragon/C5BrotherInTheShadow/BrotherInTheShadow_quest"]], "referenced": [["Data.Actions.Actions[10].IfTrue.Actions[0].m_Objective", "World/Encounters/ThresholdOutdoor/ActionsHolders/QuestsFail_Mythic"], ["Data.m_Objectives[2]", "World/Quests/MythicQuests/Dragon/C5BrotherInTheShadow/BrotherInTheShadow_quest"]]}

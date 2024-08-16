@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/WoodShardItem"], ["Data.m_Ability", "Spells/Level1/MagicWeapon/MagicWeaponSecondary"]], "referenced": [["Data.m_Items[2579]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Types[4].Items[82]", "World/Areas/Random_Encounters/RE_TrashLootSettings"]]}

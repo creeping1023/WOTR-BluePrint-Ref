@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Type", "Weapons/Types/MartialOneHanded/Rapier"], ["Data.m_Enchantments[0]", "Weapons/Enchantments/Enhancement1"], ["Data.m_Enchantments[1]", "Weapons/Enchantments/Flaming"]], "referenced": [["Data.m_Items[108]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Filter.m_ItemsInclude[110]", "Dugeons/Loot/DungeonLootExclude"]]}

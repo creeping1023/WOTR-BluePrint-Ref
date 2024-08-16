@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Nexus/Azata_ArushaMentorScene/CommandAction"], ["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/Nexus/Azata_ArushaMentorScene/CommandMoveUnit"]], "referenced": [["Data.OnSelect.Actions[0].m_Cutscene", "World/Dialogs/c4/Mythic_Azata/MentorInNexus/Answer_0004"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c2_vs/HellknightsUnderAttack/RegillAfterFight/Cue_0071"]], "referenced": [["Data.Components[0].CommandList.Commands[21].Answer", "QA/Clockwork/Scenario/Act_2_SwordOfValor/Regill_HellknightsVsGargoyles_Simple"], ["Data.Answers[4]", "World/Dialogs/c2_vs/HellknightsUnderAttack/RegillAfterFight/AnswersList_0063"]]}

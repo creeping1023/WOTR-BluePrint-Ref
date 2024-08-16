@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].Actions.Actions[0].m_Buff", "World/Encounters/ReligionReactivityBuffs/Gozreh_Buff"], ["Data.Continue.Cues[0]", "World/Dialogs/c2_vs/GibberingSwarm/AneviaDialog/Cue_0008"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c2_vs/GibberingSwarm/AneviaDialog/Answer_0110"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_ConditionFlag", "World/Encounters/PharasmasCourt/UnlockableFlags/TestSkipEndgame"], ["Data.m_Dialog", "World/Dialogs/Epilogues_afterlogues/Epilogues_afterlogues_dialogue"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/PharasmasCourt/EpiloguesAfterlogues/gate"]]}

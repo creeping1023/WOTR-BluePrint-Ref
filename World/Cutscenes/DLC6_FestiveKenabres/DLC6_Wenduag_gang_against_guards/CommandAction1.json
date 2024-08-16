@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Cutscene", "World/Cutscenes/GenericScenes/UnitRun_Param/UnitRun_Param"], ["Data.Action.Actions[0].Parameters.Parameters[0].Evaluator.m_Companion", "Units/Companions/Wenduag/Wenduag_Companion"]], "referenced": [["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/DLC6_FestiveKenabres/DLC6_Wenduag_gang_against_guards/gate"]]}

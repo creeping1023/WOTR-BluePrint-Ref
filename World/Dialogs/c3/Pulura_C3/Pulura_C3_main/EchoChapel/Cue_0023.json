@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/MythicAngel/AngelStates/PuluraFall_NPC/Katair_Stolen"], ["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/PuluraFall/PuluraFall_Katair"]], "referenced": [["Data.Continue.Cues[1]", "World/Dialogs/c3/Pulura_C3/Pulura_C3_main/EchoChapel/Cue_0021"]]}

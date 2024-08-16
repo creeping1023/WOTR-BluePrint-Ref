@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Classes/Sorcerer/Archetypes/SageRayAbility"], ["Data.Components[1].m_Resource", "Classes/Sorcerer/Archetypes/SageRayResource"], ["Data.Components[2].m_Ability[0]", "Classes/Sorcerer/Archetypes/SageRayAbility"]], "referenced": [["Data.LevelEntries[0].m_Features[0]", "Classes/Sorcerer/Archetypes/SageBloodlineProgression"]]}

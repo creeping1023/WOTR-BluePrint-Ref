@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Buffs/NPC_Immortality"], ["Data.Action.Actions[1].m_Buff", "Buffs/NPC_Protection"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/ColyphyrDungeon/Colyphyr_HepzamirahFirstCutscene/gate 9"]]}

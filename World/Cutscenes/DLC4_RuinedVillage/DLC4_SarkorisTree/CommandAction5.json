@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Classes/Shifter/ShifterCutsceneBuff"], ["Data.Action.Actions[0].Target.m_Companion", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]], "referenced": [["Data.m_Tracks[2].m_Commands[0]", "World/Cutscenes/DLC4_RuinedVillage/DLC4_SarkorisTree/gate"]]}

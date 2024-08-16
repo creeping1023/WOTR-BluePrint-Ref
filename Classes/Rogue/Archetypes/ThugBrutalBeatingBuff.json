@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Action.Actions[0].m_Buff", "Buffs/Sickened"], ["Data.Components[2].m_Class[0]", "Classes/Rogue/RogueClass"]], "referenced": [["Data.m_Buff", "Classes/Rogue/Archetypes/ThugBrutalBeatingAbility"]]}

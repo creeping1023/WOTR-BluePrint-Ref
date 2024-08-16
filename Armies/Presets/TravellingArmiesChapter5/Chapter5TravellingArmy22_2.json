@@ -1,0 +1,1 @@
+{"referencing": [["Data.Squads[0].m_Unit", "Armies/UnitBlueprints/ArmyDerakniStandard"], ["Data.Squads[1].m_Unit", "Armies/UnitBlueprints/ArmyOmoxStandard"], ["Data.Squads[2].m_Unit", "Armies/UnitBlueprints/ArmyVescavorSwarmStandard"]], "referenced": [["Data.m_TravelingArmiesByChapter[1].ArmiesByWeeks[21].PreSetupArmies[1].m_Army", "Root/Kingdom/ArmyRoot"]]}

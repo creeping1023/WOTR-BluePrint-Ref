@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Actions.Actions[0].ConditionsChecker.Conditions[0].m_ConditionFlag", "World/Encounters/DLC2_RichQuarter/UnlockableFlags/Healer_alive"], ["Data.m_Parent", "World/Etudes/Common/DLC2_LowFantasy/DLC2_RichQuarter"]], "referenced": [["Data.m_StartsWith[18]", "World/Etudes/Common/DLC2_LowFantasy/DLC2_RichQuarter"]]}

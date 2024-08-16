@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_RequiredResource", "Mythic/Lich/LichUniqueAbilities/EclipseChill/EclipseChillResource"], ["Data.m_Buff", "Mythic/Lich/LichUniqueAbilities/EclipseChill/EclipseChillOnBuff"]], "referenced": [["Data.Components[0].m_Facts[0]", "Mythic/Lich/LichUniqueAbilities/EclipseChill/EclipseChillFeature"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c1/KenabresBurning/RunningThiefling/Cue_0018"]], "referenced": [["Data.Answers[2]", "World/Dialogs/c1/KenabresBurning/RunningThiefling/AnswersList_0003"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/c1/KenabresBurning/RunningThiefling/Answer_0014"]]}

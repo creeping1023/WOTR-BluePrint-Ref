@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/InRangeConsideration"], ["Data.m_TargetConsiderations[0]", "Brain/Considerations/NoCaster"], ["Data.m_Ability", "Spells/Level6/HarmCast"]], "referenced": [["Data.m_Actions[3]", "Units/NPC/Unique/Act_2_SwordOfValor/Woljif_Q2/CultHighPriestBrain/CultHighPriestBrain_Brain_Standard"]]}

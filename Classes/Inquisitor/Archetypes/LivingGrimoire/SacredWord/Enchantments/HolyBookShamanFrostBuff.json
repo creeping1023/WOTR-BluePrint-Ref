@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Enchant", "Weapons/Enchantments/Frost"]], "referenced": [["Data.Components[0].Activated.Actions[1].IfTrue.Actions[0].m_Buff", "Classes/Inquisitor/Archetypes/LivingGrimoire/SacredWord/Enchantments/HolyBookShamanEnhancementDurationBuff"]]}

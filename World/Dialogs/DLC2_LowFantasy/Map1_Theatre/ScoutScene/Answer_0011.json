@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC2_LowFantasy/Map1_Theatre/ScoutScene/Cue_0013"], ["Data.OnSelect.Actions[0].m_flag", "World/Encounters/DLC2_Theatre/UnlockableFlags/Musician_Dialog_State_Flag"]], "referenced": [["Data.Answers[1]", "World/Dialogs/DLC2_LowFantasy/Map1_Theatre/ScoutScene/AnswersList_0009"]]}

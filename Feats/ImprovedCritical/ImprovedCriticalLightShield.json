@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_WeaponType", "Weapons/Types/MartialLight/WeaponLightShield"], ["Data.Components[2].m_Feature", "Feats/ShieldBash/ShieldBashFeature"], ["Data.Components[3].m_WeaponType", "Weapons/Types/MartialLight/SpikedLightShield"]], "referenced": [["Data.IsPrerequisiteFor[2]", "Feats/ShieldBash/ShieldBashFeature"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DefendersHeart/AneviaDontGo2/CommandMoveUnit 1"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DefendersHeart/AneviaDontGo2/AneviaDontGo2"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DefendersHeart/AneviaDontGo2/gate"]]}

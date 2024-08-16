@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SpecificArea", "World/Areas/Act_4_MidnightIsles/AlushinyrraMediumCity/AlushinyrraMediumCity"], ["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[0].m_Dialog", "World/Dialogs/c4/GoodSamaritan_SideQuest/Latverk_Final/Latverk_Final_dialogue"]], "referenced": [["Data.m_Upgraders[423]", "Root/PlayerUpgradeActionsRoot"]]}

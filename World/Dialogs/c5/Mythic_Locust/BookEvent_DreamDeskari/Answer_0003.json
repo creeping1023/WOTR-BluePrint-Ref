@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/Mythic_Locust/BookEvent_DreamDeskari/BookPage_0007"]], "referenced": [["Data.Answers[0]", "World/Dialogs/c5/Mythic_Locust/BookEvent_DreamDeskari/BookPage_0001"], ["Data.Conditions.Conditions[0].m_Answer", "World/Dialogs/c5/Mythic_Locust/BookEvent_DreamDeskari/Cue_0008"]]}

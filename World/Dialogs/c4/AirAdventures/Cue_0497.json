@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].OnFailure.Actions[0].Actions.Actions[0].m_Buff", "Buffs/Areas/Act_4_MidnightIsles/RewardsAndDebuffs/DemonicPlagueBuff"], ["Data.OnShow.Actions[1].m_Buff", "Buffs/Areas/Act_4_MidnightIsles/RewardsAndDebuffs/DemonicPlagueBuff"]], "referenced": [["Data.m_Fail", "World/Dialogs/c4/AirAdventures/Check_0495"]]}

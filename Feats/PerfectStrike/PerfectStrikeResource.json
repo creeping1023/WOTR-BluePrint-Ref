@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_MaxAmount.m_ClassDiv[0]", "Classes/Monk/MonkClass"]], "referenced": [["Data.Components[0].m_Resource", "Equipment/Headgear/UniquePF2/Chapter4/HeadbandOfRigorousTrainingFeature"], ["Data.Components[1].m_RequiredResource", "Feats/PerfectStrike/PerfectStrikeAbility"], ["Data.Components[0].m_Resource", "Feats/PerfectStrike/PerfectStrikeFeature"]]}

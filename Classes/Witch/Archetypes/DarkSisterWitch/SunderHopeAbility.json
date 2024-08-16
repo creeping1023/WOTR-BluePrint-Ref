@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_RequiredResource", "Classes/Witch/Archetypes/DarkSisterWitch/SunderHopeAbilityResource"], ["Data.Components[1].Actions.Actions[0].m_Buff", "Classes/Witch/Archetypes/DarkSisterWitch/SunderHopeBuff"]], "referenced": [["Data.Components[0].m_Facts[0]", "Classes/Witch/Archetypes/DarkSisterWitch/SunderHopeFeature"]]}

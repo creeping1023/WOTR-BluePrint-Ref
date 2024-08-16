@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[2].Activated.Actions[0].m_TargetBuff", "Spells/Level6/TarPoolEntangledBuff"]], "referenced": [["Data.Components[0].UnitExit.Actions[0].m_Buff", "Spells/Level6/TarPoolArea"]]}

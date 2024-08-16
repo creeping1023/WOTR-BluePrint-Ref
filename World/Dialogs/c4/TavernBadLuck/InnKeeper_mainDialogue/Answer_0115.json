@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/TavernBadLuck/InnKeeper_mainDialogue/Cue_0116"], ["Data.ShowConditions.Conditions[0].m_QuestObjective", "World/Quests/Companions/Sosiel/03_Prisoner/Obj_00b_LearnAboutArena"]], "referenced": [["Data.Answers[0]", "World/Dialogs/c4/TavernBadLuck/InnKeeper_mainDialogue/AnswersList_0003"]]}

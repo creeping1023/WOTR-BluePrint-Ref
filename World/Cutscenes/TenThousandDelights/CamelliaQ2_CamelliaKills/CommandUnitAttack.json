@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_UnitEvaluator.m_Companion", "Units/Companions/Camelia/Camelia_Companion"], ["Data.m_TargetEvaluator.m_SummonPool", "World/Encounters/TenThousandDelights/SummonPools/CamelliaQ2_Horgus"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/TenThousandDelights/CamelliaQ2_CamelliaKills/gate"]]}

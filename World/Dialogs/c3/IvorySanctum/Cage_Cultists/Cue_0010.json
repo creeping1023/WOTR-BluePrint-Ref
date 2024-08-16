@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/TamplierLeader_Cage"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/IvorySanctum/Cage_Cultists/Cue_0023"]], "referenced": [["Data.CuesSeen[4748]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/c3/IvorySanctum/Cage_Cultists/Answer_0008"]]}

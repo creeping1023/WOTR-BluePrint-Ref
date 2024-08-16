@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Portrait", "Units/Portraits/InitiativeBlueprintPortraits/Characters/Common/BCT_HumanSlaveMale"]], "referenced": [["Data.m_AddFacts[0]", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Gundrun/CR9_GundrunNecromant/CR9_GundrunNecromant"], ["Data.Action.Actions[0].m_Buff", "World/Cutscenes/DLC4_MountainPass/DLC4_Necromancer_fight/CommandAction"]]}

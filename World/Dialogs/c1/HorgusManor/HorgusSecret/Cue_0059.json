@@ -1,0 +1,1 @@
+{"referencing": [["Data.Answers[0]", "World/Dialogs/c1/HorgusManor/HorgusSecret/AnswersList_0006"], ["Data.Continue.Cues[0]", "World/Dialogs/c1/HorgusManor/HorgusSecret/CueSequence_0060"]], "referenced": [["Data.CuesSeen[1539]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Continue.Cues[0]", "World/Dialogs/c1/HorgusManor/HorgusSecret/Cue_0058"]]}

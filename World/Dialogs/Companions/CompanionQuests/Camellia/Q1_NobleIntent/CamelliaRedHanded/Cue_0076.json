@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Buff", "Units/NPC/Commoners/DLC4_NewCompanion/RomanceSuppressPolymorph"], ["Data.OnStop.Actions[0].Target.m_Companion", "Units/Companions/Camelia/Camelia_Companion"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Camellia/Q1_NobleIntent/CamelliaRedHanded/Cue_0067_NoGiefSex"]]}

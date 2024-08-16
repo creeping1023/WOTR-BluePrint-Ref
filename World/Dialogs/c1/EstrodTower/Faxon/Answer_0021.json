@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c1/EstrodTower/Faxon/Cue_0020"]], "referenced": [["Data.Components[0].CommandList.Commands[5].Answer", "QA/Clockwork/Scenario/Act_1/Estrod_Tower/EstrodTower_St2_simpleFigth_checkPer"], ["Data.Answers[1]", "World/Dialogs/c1/EstrodTower/Faxon/AnswersList_0002"]]}

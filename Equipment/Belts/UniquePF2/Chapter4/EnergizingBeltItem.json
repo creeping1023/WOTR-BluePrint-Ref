@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/LeatherShardItem"], ["Data.m_Enchantments[0]", "Equipment/CommonEnchantments/Constitution4"]], "referenced": [["Data.m_Items[2909]", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], ["Data.m_Items[313]", "Dugeons/Loot/DungeonLootRare"], ["Data.m_Items[42]", "Dugeons/Loot/DungeonLoot_VendorRare_Grade6"]]}

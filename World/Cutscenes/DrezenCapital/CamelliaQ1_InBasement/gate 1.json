@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DrezenCapital/CamelliaQ1_InBasement/CommandStartDialog"]], "referenced": [["Data.m_Tracks[1].m_EndGate", "World/Cutscenes/DrezenCapital/CamelliaQ1_InBasement/CamelliaQ1_InBasement"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DrezenCapital/CamelliaQ1_InBasement/gate"]]}

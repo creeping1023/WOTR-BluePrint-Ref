@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/RaptureOfRupture/MagicGates/Cue_0014"]], "referenced": [["Data.Answers[3]", "World/Dialogs/c4/RaptureOfRupture/MagicGates/AnswersList_0003"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/c4/RaptureOfRupture/MagicGates/Answer_0008"]]}

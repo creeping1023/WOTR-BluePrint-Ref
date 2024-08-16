@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[2].m_Faction", "Factions/CutsceneNeutrals"], ["Data.Action.Actions[4].m_Pool", "World/Encounters/Iz/SummonPools/DerakniPack1"]], "referenced": [["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/Iz/DeskariArrives/gate 4"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_MaxAmount.m_ClassDiv[0]", "Classes/Cavalier/CavalierClass"]], "referenced": [["Data.Components[4].m_RequiredResource", "Classes/Cavalier/CavalierTacticianAbility"], ["Data.Components[4].m_RequiredResource", "Classes/Cavalier/CavalierTacticianAbilitySwift"], ["Data.Components[1].m_Resource", "Classes/Cavalier/CavalierTacticianFeature"]]}

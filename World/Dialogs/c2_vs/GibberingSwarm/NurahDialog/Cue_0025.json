@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_ConditionFlag", "World/Encounters/GibberingSwarm/UnlockableFlags/GS_CommanderRegil"], ["Data.Speaker.m_Blueprint", "Units/Companions/Regill/Regill_Companion"]], "referenced": [["Data.Cues[2]", "World/Dialogs/c2_vs/GibberingSwarm/NurahDialog/CueSequence_0028"]]}

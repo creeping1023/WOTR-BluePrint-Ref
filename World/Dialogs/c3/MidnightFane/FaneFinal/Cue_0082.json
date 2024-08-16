@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/QueenGalfrey"], ["Data.Answers[0]", "World/Dialogs/c3/MidnightFane/FaneFinal/AnswersList_0054"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/MidnightFane/FaneFinal/Answer_0079"], ["Data.m_Success", "World/Dialogs/c3/MidnightFane/FaneFinal/Check_0081"]]}

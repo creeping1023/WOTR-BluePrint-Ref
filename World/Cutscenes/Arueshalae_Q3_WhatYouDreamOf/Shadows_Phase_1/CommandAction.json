@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Pool", "World/Encounters/Arueshalae_Q3_WhatYouDreamOf/SummonPools/Wave_1"], ["Data.Action.Actions[0].ActionsOnSpawn.Actions[0].m_Faction", "Factions/Mobs"]], "referenced": [["Data.m_Tracks[1].m_Commands[1]", "World/Cutscenes/Arueshalae_Q3_WhatYouDreamOf/Shadows_Phase_1/Shadows_Phase_1"]]}

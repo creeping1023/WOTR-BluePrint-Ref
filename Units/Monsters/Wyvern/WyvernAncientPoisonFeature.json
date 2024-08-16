@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[2].Action.Actions[0].Actions.Actions[0].Failed.Actions[0].m_Buff", "Units/Monsters/Wyvern/WyvernPoisonBuff"]], "referenced": [["Data.m_AddFacts[6]", "QA/Unused/Units/Monsters/Wyvern/CR12_WyvernGiantAdvanced"], ["Data.m_AddFacts[1]", "Units/Monsters/Wyvern/WyvernCharoite"]]}

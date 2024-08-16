@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/Mythic_Lich/BecomeLich_AfterBattle/Cue_0012"], ["Data.ShowConditions.Conditions[0].m_ConditionFlag", "World/Encounters/Ziggurat/UnlockableFlags/Demons_Talk"]], "referenced": [["Data.Answers[1]", "World/Dialogs/c5/Mythic_Lich/BecomeLich_AfterBattle/AnswersList_0008"]]}

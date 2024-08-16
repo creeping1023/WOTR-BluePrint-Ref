@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Action.Actions[0].m_Buff", "Classes/Cavalier/CavalierSupremeChargeBuff"], ["Data.Components[0].m_Ability", "Root/SystemMechanics/Abilities/ChargeAbility"], ["Data.Components[0].Abilities[0]", "Root/SystemMechanics/Abilities/ChargeAbility"]], "referenced": [["Data.Components[0].m_ExtraEffectBuff", "Classes/Cavalier/CavalierSupremeCharge"]]}

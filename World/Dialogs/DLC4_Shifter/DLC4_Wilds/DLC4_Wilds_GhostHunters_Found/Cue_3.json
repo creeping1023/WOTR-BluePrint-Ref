@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_flag", "World/Encounters/DLC4_Wilds/UnlockableFlags/DLC4_GhostHunters_Evil"], ["Data.OnShow.Actions[2].m_Objective", "World/Quests/DLC4_Shifter/DLC4_Wilds_GhostHunters/Objective_0001"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_Wilds_GhostHunters_Found/Answer_2"]]}

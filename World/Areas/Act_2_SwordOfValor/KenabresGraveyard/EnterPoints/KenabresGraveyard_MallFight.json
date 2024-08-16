@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Act_2_SwordOfValor/KenabresGraveyard/KenabresGraveyard"], ["Data.m_AreaPart", "World/Areas/Act_2_SwordOfValor/KenabresGraveyard/KenabresGraveyard"]], "referenced": [["Data.EnterActions.Actions[2].IfTrue.Actions[0].m_exitPositon", "World/Encounters/KenabresBurning/ScriptZones/NecromantInMall"]]}

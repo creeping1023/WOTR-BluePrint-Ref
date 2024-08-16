@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Skill", "Armies/Leaders/Feats/Bonus/Leadership3Morale"]], "referenced": [["Data.OnSelect.Actions[1].m_Blueprint", "World/Crusade/RankUps/Leadership/Leadership_3/Answer_0037"], ["Data.Components[10].Actions.Actions[14].IfTrue.Actions[1].m_Blueprint", "World/Etudes/Common/WrathOfTheRighteous/Chapter05"]]}

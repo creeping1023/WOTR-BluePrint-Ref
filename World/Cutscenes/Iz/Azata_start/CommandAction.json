@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_SummonPool", "World/Encounters/Iz/SummonPools/Azata_gang"], ["Data.Action.Actions[0].Actions.Actions[0].m_Cutscene", "World/Cutscenes/GrayGarrison/CommonCombatStateOnSpawnedUnit/CommonCombatMode(InCombat)For(Unit1)"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Iz/Azata_start/gate 2"]]}

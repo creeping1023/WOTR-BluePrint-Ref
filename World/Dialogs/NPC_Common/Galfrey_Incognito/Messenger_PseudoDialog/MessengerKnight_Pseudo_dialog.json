@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/NPC_Common/Galfrey_Incognito/Messenger_PseudoDialog/Cue_0001"], ["Data.FinishActions.Actions[0].m_Objective", "World/Quests/c2_vs/Errands/TalkToQueen/Objective_0001"]], "referenced": [["Data.m_Dialog", "World/Cutscenes/WarCamp/WarCamp_GalfreyDisguised_Invitation/CommandStartDialog"]]}

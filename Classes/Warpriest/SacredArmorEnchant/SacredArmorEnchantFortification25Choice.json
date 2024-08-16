@@ -1,1 +1,1 @@
-{"referenced": [["Data.PrototypeLink", "Classes/Warpriest/Archetypes/Shieldbearer/SacredShieldArmorEnchantFortification25Choice"]]}
+{"referencing": [["Data.m_Buff", "Classes/Warpriest/SacredArmorEnchant/SacredArmorEnchantFortification25Buff"]], "referenced": [["Data.PrototypeLink", "Classes/Warpriest/Archetypes/Shieldbearer/SacredShieldArmorEnchantFortification25Choice"], ["Data.Components[0].m_Facts[2]", "Classes/Warpriest/SacredArmorEnchant/SacredArmorFeature"]]}

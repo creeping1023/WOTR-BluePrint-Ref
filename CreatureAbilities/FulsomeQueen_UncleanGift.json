@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[4].m_IgnoreFeature", "Mythic/MythicAbilities/Corrupter"], ["Data.Components[5].m_CasterIgnoreImmunityFact", "Mythic/MythicAbilities/Corrupter"]], "referenced": [["Data.Action.Actions[0].m_Fact", "World/Cutscenes/ColyphyrDungeon/Colyphyr_FulsomeQueen_UncleanGift/CommandAction"]]}

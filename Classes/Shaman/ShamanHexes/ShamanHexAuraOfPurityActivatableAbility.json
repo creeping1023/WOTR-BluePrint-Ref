@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_RequiredResource", "Classes/Shaman/ShamanHexes/ShamanHexAuraOfPurityResource"], ["Data.m_Buff", "Classes/Shaman/ShamanHexes/ShamanHexAuraOfPurityBuff"]], "referenced": [["Data.Components[0].m_Facts[0]", "Classes/Shaman/ShamanHexes/ShamanHexAuraOfPurityFeature"]]}

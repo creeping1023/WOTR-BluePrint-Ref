@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC5_StoryEnds/AbyssHub/AbductedAgain/Cue_0003"], ["Data.SelectConditions.Conditions[0].m_ConditionFlag", "World/Encounters/DLC2_Abyss/UnlockableFlags/DLC2_LeftInAbyss"]], "referenced": [["Data.Answers[2]", "World/Dialogs/DLC5_StoryEnds/AbyssHub/AbductedAgain/AnswersList_0003"]]}

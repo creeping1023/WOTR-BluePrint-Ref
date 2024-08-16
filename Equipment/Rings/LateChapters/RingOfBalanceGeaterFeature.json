@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_DisplayName.m_OwnerString", "Equipment/Rings/BeastKingPetFeature"], ["Data.m_Description.m_OwnerString", "Equipment/Rings/BeastKingPetFeature"]]}
+{"referencing": [["Data.Components[5].m_Facts[0]", "Spells/Level4/FreedomOfMovementBuff"], ["Data.m_DisplayName.m_OwnerString", "Equipment/Rings/BeastKingPetFeature"], ["Data.m_Description.m_OwnerString", "Equipment/Rings/BeastKingPetFeature"]], "referenced": [["Data.Components[0].m_Feature", "Equipment/Rings/LateChapters/RingOfBalanceGreaterEnchantment"]]}

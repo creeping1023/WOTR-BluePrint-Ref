@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/FinneanLab/FinneanSpawn_scene/FinneanSpawn_scene"], ["Data.Continue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Finnean/FinneanLab/Cue_0044"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Finnean/FinneanLab/Answer_0034"]]}

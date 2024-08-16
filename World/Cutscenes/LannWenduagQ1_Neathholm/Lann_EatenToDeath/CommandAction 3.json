@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Classes/Barbarian/Rage/StandartRageBuff"], ["Data.Action.Actions[0].Target.m_Companion", "Units/Companions/Wenduag/Wenduag_Companion"]], "referenced": [["Data.m_Tracks[8].m_Commands[0]", "World/Cutscenes/LannWenduagQ1_Neathholm/Lann_EatenToDeath/Lann_EatenToDeath"]]}

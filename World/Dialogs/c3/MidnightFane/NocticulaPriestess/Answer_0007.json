@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/MidnightFane/NocticulaPriestess/Cue_0056"], ["Data.NextCue.Cues[1]", "World/Dialogs/c3/MidnightFane/NocticulaPriestess/Cue_0008"]], "referenced": [["Data.AnswersSelected[2643]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[8]", "World/Dialogs/c3/MidnightFane/NocticulaPriestess/AnswersList_0005"]]}

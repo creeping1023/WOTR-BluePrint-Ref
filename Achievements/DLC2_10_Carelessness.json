@@ -1,0 +1,1 @@
+{"referencing": [["Data.SpecificCampaign", "DLC/DLC2/Dlc2Campaign"], ["Data.m_Group", "Achievements/Groups/DLC2TrophyGroup"]], "referenced": [["Data.Achievements.m_List[81]", "Root/BlueprintRoot"], ["Data.Components[0].Actions.Actions[0].m_Achievement", "World/Etudes/Common/DLC2_LowFantasy/DLC2_Achivements/DLC2_Carelessness_achiv"]]}

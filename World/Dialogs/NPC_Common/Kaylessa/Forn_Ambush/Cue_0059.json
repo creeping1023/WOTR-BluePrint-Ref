@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Listener", "Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Kaylessa"], ["Data.Answers[0]", "World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/AnswersList_0043"]], "referenced": [["Data.CuesSeen[4861]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Continue.Cues[0]", "World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/Cue_0058"]]}

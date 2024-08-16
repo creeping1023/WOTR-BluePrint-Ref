@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Actions.Actions[0].m_Buff", "Armies/Abilities/BonusFactsForArmy/ArmyInfantryProvokeBuffEnemy"], ["Data.Components[3].m_RequiredResource", "Armies/Abilities/BonusFactsForArmy/ArmyInfantryProvokeResource"]], "referenced": [["Data.Components[0].m_Facts[0]", "Armies/Abilities/BonusFactsForArmy/ArmyInfantryProvokeFeature"]]}

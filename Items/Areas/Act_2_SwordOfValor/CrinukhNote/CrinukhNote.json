@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/DustShardItem"]], "referenced": [["Data.m_Items[685]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Items[0].m_Item", "Loot/Quest/CrinukhNote/NoteLoot"], ["Data.ShowConditions.Conditions[0].m_ItemToCheck", "World/Dialogs/NPC_Common/Crinukh/Answer_0004"]]}

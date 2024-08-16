@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_AreaEffect", "Classes/Cleric/Domains/Liberation/LiberationDomainGreaterAura"]], "referenced": [["Data.m_Buff", "Classes/Cleric/Archetypes/Separatist/Domains/Liberation/LiberationDomainGreaterToggleAbilitySeparatist"], ["Data.m_Buff", "Classes/Cleric/Domains/Liberation/LiberationDomainGreaterToggleAbility"]]}

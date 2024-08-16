@@ -1,0 +1,1 @@
+{"referencing": [["Data.EnterActions.Actions[0].m_Buff", "Buffs/NPC_Protection"], ["Data.EnterActions.Actions[0].Target.m_Companion", "Units/Companions/Ember/Ember_Companion"], ["Data.EnterActions.Actions[1].m_Buff", "Buffs/NPC_Protection"], ["Data.EnterActions.Actions[1].Target.m_Companion", "Units/Companions/Daeran/Daeran_Companion"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.EnterActions.Actions[0].m_Cutscene", "World/Cutscenes/DLC6_FestiveKenabres/DLC6_Woljifs_special_offer/DLC6_Woljifs_special_offer"], ["Data.EnterActions.Actions[1].m_flag", "World/Encounters/DLC6_FestiveKenabres/UnlockableFlags/DLC6_WoljifIsBusy"], ["Data.EnterActions.Actions[2].Actions.Actions[0].m_Fact", "Buffs/LocalMapMarker_Unit_ShowAlways"]]}

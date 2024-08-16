@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_RequiredResource", "Classes/Cleric/Domains/Sun/SunDomainGreaterResource"], ["Data.m_Buff", "Classes/Cleric/Domains/Sun/SunDomainGreaterBuff"]], "referenced": [["Data.Components[1].m_Facts[0]", "Classes/Cleric/Domains/Sun/SunDomainGreaterFeature"], ["Data.Components[4].m_ActivatableAbilities[5]", "Mythic/MythicAbilities/DomainMastery"]]}

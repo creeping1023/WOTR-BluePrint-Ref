@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[2].m_Weapon", "Weapons/Items/TotalPlus3/Enhancement3/GlaivePlus3"], ["Data.Components[3].m_WeaponType", "Weapons/Types/MartialTwoHanded/Glaive"]], "referenced": [["Data.m_AddFacts[9]", "Units/Monsters/WildHunt/CR19_WildHunt_MonarchStandart"], ["Data.m_AddFacts[9]", "Units/Monsters/WildHunt/WildHunt_MonarchStandartSummon"]]}

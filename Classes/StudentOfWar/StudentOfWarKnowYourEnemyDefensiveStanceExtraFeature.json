@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_CheckedBuff", "Classes/StudentOfWar/StudentOfWarKnowYourEnemyDefensiveStanceBuff"], ["Data.Components[0].m_ExtraEffectBuff", "Classes/StudentOfWar/StudentOfWarKnowYourEnemyDefensiveStanceExtraBuff"]], "referenced": [["Data.LevelEntries[5].m_Features[1]", "Classes/StudentOfWar/StudentOfWarProgression"]]}

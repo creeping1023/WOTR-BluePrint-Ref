@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level3/DisplacementBuff"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level3/DisplacementBuff"]], "referenced": [["Data.Components[0].Action.Actions[0].ConditionsChecker.Conditions[28].m_Fact", "Equipment/SpecialEditions/UniquePF2/BackersItems/HodosTorch/HodosTorchFeature"], ["Data.m_AddFacts[6]", "Units/NPC/Commoners/Shadow/Sosiel_Q2_EradikatorsMassacre/SosielQ2_ShadowGreater"]]}

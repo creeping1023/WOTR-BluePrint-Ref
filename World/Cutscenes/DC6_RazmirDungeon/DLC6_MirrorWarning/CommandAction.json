@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Faction", "Factions/Mobs"], ["Data.Action.Actions[1].m_Faction", "Factions/Mobs"], ["Data.Action.Actions[2].Etude", "World/Etudes/Common/DLC6_DanceOfMasks/DLC6_Razmir_ChoirPool"]], "referenced": [["Data.m_Tracks[1].m_Commands[1]", "World/Cutscenes/DC6_RazmirDungeon/DLC6_MirrorWarning/gate"]]}

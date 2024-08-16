@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/DLC4_Shifter/DLC4_RuinedVillage/DLC4_RuinedVillage"], ["Data.m_AreaPart", "World/Areas/DLC4_Shifter/DLC4_RuinedVillage/DLC4_RuinedVillage_Indoor"]], "referenced": [["Data.Components[0].AreaParts.ElementList[1].EnterPoint", "QA/Arbiter/Scenario/DLC4/DLC4_RuinedVillage"]]}

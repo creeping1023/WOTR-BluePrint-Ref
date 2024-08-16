@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DrezenCitadel_Level2/FakeBannerAmbushSpawn/CommandDelay"], ["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/DrezenCitadel_Level2/FakeBannerAmbushSpawn/CommandAction"]], "referenced": [["Data.Action.Actions[2].m_Cutscene", "World/Cutscenes/DrezenCitadel_Level2/TakeFakeBanner/CommandAction 3"]]}

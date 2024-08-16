@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_2_SwordOfValor/SinisterVillage/Jernaugh"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/SinisterVillage/Siblings_Meet/Cue_0023"]], "referenced": [["Data.CuesSeen[2294]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/SinisterVillage/Siblings_Meet/Cue_0014"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_WeaponType", "Weapons/Types/SimpleLight/LightMace"], ["Data.Components[1].Action.Actions[0].m_Buff", "Weapons/Items/UniquePF2/Chapter3/LuminousEncouragementPersonalBuff"]], "referenced": [["Data.m_Enchantments[1]", "Weapons/Items/UniquePF2/Chapter3/LuminousEncouragementItem"]]}

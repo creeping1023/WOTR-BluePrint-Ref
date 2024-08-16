@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_flag", "World/Encounters/BattleBliss/UnlockableFlags/RightWordsOnArena"], ["Data.Continue.Cues[0]", "World/Dialogs/c4/BattleBliss/WinThirdFight_dialogue/Cue_0012"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/BattleBliss/WinThirdFight_dialogue/Answer_0006"]]}

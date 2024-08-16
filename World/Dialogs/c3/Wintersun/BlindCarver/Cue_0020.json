@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/Wintersun/BlindCarver_Wintersun"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Wintersun/BlindCarver/Cue_0034"]], "referenced": [["Data.CuesSeen[4373]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/c3/Wintersun/BlindCarver/Answer_0014"]]}

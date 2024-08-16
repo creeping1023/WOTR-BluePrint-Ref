@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "Weapons/Items/GargantuanStandard/NaturalWeapon/TalonGargantuan2d6"]]}
+{"referencing": [["Data.PrototypeLink", "Weapons/Items/GargantuanStandard/NaturalWeapon/TalonGargantuan2d6"], ["Data.m_Type", "Weapons/Types/NaturalWeapon/TalonsType"]], "referenced": [["Data.m_Items[1163]", "Dugeons/Loot/DungeonLootExclude"]]}

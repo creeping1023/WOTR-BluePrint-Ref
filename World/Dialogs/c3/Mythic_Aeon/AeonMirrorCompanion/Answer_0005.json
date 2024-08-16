@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/Mythic_Aeon/AeonMirrorCompanion/Cue_0014"], ["Data.ShowConditions.Conditions[0].m_QuestObjective", "World/Quests/MythicQuests/Aeon/AeonMythicMainQuest_c3/Add1_TalkMirrorFirst"]], "referenced": [["Data.Answers[7]", "World/Dialogs/c3/Mythic_Aeon/AeonMirrorCompanion/AnswersList_0002"]]}

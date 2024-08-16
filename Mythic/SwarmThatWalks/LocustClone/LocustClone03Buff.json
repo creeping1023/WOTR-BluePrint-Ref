@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_AreaEffect", "Mythic/SwarmThatWalks/LocustClone/LocustClone03Area"]], "referenced": [["Data.Components[0].Actions.Actions[2].IfTrue.Actions[1].m_Buff", "Mythic/SwarmThatWalks/LocustCloneAbility"]]}

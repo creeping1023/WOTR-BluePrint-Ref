@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Buffs/NPC_Untargetable"], ["Data.Action.Actions[1].m_Buff", "Buffs/NPC_Untargetable"], ["Data.Action.Actions[2].m_Buff", "Buffs/NPC_Untargetable"]], "referenced": [["Data.m_Tracks[6].m_Commands[0]", "World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_Kyton2Basement/DLC5_LC_Kyton2Basement"]]}

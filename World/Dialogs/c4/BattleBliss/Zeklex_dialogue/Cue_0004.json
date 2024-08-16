@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_CharacterClassGroup", "ClassGroups/ArcaneCasters"], ["Data.Conditions.Conditions[1].m_CharacterClassGroup", "ClassGroups/MysticTheurge"]], "referenced": [["Data.Cues[2]", "World/Dialogs/c4/BattleBliss/Zeklex_dialogue/CueSequence_0001"]]}

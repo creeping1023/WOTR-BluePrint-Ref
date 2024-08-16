@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Actions.Actions[0].m_Buff", "Classes/Rogue/RogueTalentsAdvanced/HuntersSurpriseBuff"], ["Data.Components[1].m_RequiredResource", "Classes/Rogue/RogueTalentsAdvanced/HuntersSurpriseResource"]], "referenced": [["Data.Components[1].m_Facts[0]", "Classes/Rogue/RogueTalentsAdvanced/HuntersSurprise"]]}

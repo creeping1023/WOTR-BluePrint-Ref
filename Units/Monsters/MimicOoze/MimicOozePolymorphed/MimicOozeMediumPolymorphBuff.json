@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Activated.Actions[1].m_Buff", "Units/Monsters/MimicOoze/MimicOozePolymorphed/MimicOozeMediumDelayBuff"], ["Data.Components[0].Activated.Actions[2].m_Buff", "Units/Monsters/MimicOoze/MimicOozePolymorphed/MimicMoveRotationBanBuff"]], "referenced": [["Data.m_Buff", "Units/Monsters/MimicOoze/MimicOozePolymorphed/MimicOozeMediumPolymorph"]]}

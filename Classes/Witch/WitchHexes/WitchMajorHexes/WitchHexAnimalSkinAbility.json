@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Actions.Actions[0].m_Buff", "Classes/Witch/WitchHexes/WitchMajorHexes/WitchHexAnimalSkinBuff"], ["Data.Components[4].m_CheckedFacts[0]", "Classes/Witch/WitchHexes/WitchMajorHexes/WitchHexAnimalSkinBuff"]], "referenced": [["Data.Components[0].m_Facts[0]", "Classes/Witch/WitchHexes/WitchMajorHexes/WitchHexAnimalSkinFeature"]]}

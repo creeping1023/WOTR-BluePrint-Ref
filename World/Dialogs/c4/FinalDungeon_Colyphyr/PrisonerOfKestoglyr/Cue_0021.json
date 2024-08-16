@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Listener", "Units/Monsters/Graveknight/ColyphyrDungeon/Kestoglyr"], ["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/ColyphyrDungeon/Colyphyr_KestoglyrBabauRunaway/Colyphyr_KestoglyrBabauRunaway"]], "referenced": [["Data.Continue.Cues[1]", "World/Dialogs/c4/FinalDungeon_Colyphyr/PrisonerOfKestoglyr/Cue_0010"]]}

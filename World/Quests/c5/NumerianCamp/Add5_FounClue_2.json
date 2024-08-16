@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Quest", "World/Quests/c5/NumerianCamp/NumerianCamp_quest"]], "referenced": [["Data.Actions.Actions[0].m_Objective", "World/Encounters/KohhDungeon/ActionsHolders/TakeNumNote_AH"], ["Data.m_Objectives[9]", "World/Quests/c5/NumerianCamp/NumerianCamp_quest"], ["Data.m_Addendums[1]", "World/Quests/c5/NumerianCamp/Obj2_2_PasswordHacker"]]}

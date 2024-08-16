@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC2_RichQuarter/Muse_info_RQ/CommandUnitPlayCutsceneAnimation"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DLC2_RichQuarter/Muse_info_RQ/gate2"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DLC2_RichQuarter/Muse_info_RQ/Muse_info_RQ"]]}

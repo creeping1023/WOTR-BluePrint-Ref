@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Monsters/Hag/GreenGate/Jarunnika"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Hag/Cue_0084"]], "referenced": [["Data.NextCue.Cues[1]", "World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Hag/Answer_0073"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/ArueshalaeRedoubt/Fortress_Hag/SequenceExit_0111"]]}

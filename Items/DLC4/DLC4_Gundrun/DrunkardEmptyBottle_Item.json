@@ -1,0 +1,1 @@
+{"referenced": [["Data.m_Items[985]", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], ["Data.Items[0].m_Item", "Loot/Quest/DLC4_Gundrun/Empty_bottle"], ["Data.ShowConditions.Conditions[3].m_ItemToCheck", "World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Shaman/Answer_8"], ["Data.OnShow.Actions[2].m_ItemToRemove", "World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Shaman/Cue_14"]]}

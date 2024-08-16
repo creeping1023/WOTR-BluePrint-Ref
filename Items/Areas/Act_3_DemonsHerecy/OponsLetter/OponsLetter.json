@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/DustShardItem"]], "referenced": [["Data.m_Items[699]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Items[0].m_Item", "Loot/Quest/AreeluLab/OponsLetter"], ["Data.ShowConditions.Conditions[0].m_ItemToCheck", "World/Dialogs/c5/AreeluLabAgain/Opon/Answer_0056_k"]]}

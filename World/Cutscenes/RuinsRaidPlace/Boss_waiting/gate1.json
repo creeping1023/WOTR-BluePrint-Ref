@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/RuinsRaidPlace/Boss_waiting/CommandActivateGate"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/RuinsRaidPlace/Boss_waiting/gate3"], ["Data.m_Tracks[1].m_EndGate", "World/Cutscenes/RuinsRaidPlace/Boss_waiting/gate3"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Parent", "World/Etudes/Common/WrathOfTheRighteous/MythicDragon/DragonStates"]], "referenced": [["Data.OnSelect.Actions[0].Etude", "World/Dialogs/c5/AreeluLabAgain/AreeluCell/Answer_0072"], ["Data.Conditions.Conditions[0].ConditionsChecker.Conditions[2].m_Etude", "World/Dialogs/c6/SecondFloor/GrandFinal/Cue_0061"]]}

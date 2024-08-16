@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC5_FrozenTemple/DLC5_Kneel_mortal/CommandDelay"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DLC5_FrozenTemple/DLC5_Kneel_mortal/gate"]], "referenced": [["Data.EnterActions.Actions[0].m_Cutscene", "World/Encounters/DLC5_SithhudLair/ScriptZones/DLC5_KneelMortal_SZ"]]}

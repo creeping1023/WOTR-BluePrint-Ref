@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC2_Abyss/DLC2_Party_combat_in/CommandSetCombatMode"], ["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/DLC2_Abyss/DLC2_Party_combat_in/CommandAction10"]], "referenced": [["Data.Action.Actions[0].Actions.Actions[0].m_Cutscene", "World/Cutscenes/DLC2_Abyss/Abyss_Engage/CommandAction9"]]}

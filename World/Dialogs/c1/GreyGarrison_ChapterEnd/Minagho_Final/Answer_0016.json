@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c1/GreyGarrison_ChapterEnd/Minagho_Final/Cue_0018"], ["Data.OnSelect.Actions[0].m_Flag", "World/Encounters/GrayGarrison/UnlockableFlags/AnswersCount"]], "referenced": [["Data.Answers[3]", "World/Dialogs/c1/GreyGarrison_ChapterEnd/Minagho_Final/AnswersList_0012"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Feat", "Feats/Teamwork/Outflank"]], "referenced": [["Data.Components[0].UnitEnter.Actions[0].m_Buff", "Classes/Barbarian/Archetypes/PackRager/RagingTactician/PackRagerOutflankArea"], ["Data.Components[0].UnitExit.Actions[0].m_Buff", "Classes/Barbarian/Archetypes/PackRager/RagingTactician/PackRagerOutflankArea"]]}

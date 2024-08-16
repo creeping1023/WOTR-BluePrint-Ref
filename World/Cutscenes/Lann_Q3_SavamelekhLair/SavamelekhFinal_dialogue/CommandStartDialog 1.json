@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Quest", "World/Quests/Companions/Wenduag/Q3_TraitorsBlood/Q3_TraitorsBlood"], ["Data.m_Dialog", "World/Dialogs/Companions/CompanionQuests/Wenduag/Q3_TraitorsBlood/FinalSava/FinalSava_dialogue"]], "referenced": [["Data.m_Tracks[1].m_Commands[0]", "World/Cutscenes/Lann_Q3_SavamelekhLair/SavamelekhFinal_dialogue/gate1"]]}

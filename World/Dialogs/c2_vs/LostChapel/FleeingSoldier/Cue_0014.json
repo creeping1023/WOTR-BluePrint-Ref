@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_companion", "Units/Companions/Seelah/Seelah_Companion"], ["Data.Speaker.m_Blueprint", "Units/Companions/Seelah/Seelah_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c2_vs/LostChapel/FleeingSoldier/Cue_0016"]], "referenced": [["Data.Cues[2]", "World/Dialogs/c2_vs/LostChapel/FleeingSoldier/CueSequence_0011"]]}

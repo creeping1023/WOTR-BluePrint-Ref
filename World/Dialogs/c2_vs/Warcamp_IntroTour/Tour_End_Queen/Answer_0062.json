@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c2_vs/Warcamp_IntroTour/Tour_End_Queen/Cue_0065"]], "referenced": [["Data.Components[0].CommandList.Commands[20].Answer", "QA/Clockwork/Scenario/Act_2_SwordOfValor/WarCamp_Start_Simple"], ["Data.Answers[0]", "World/Dialogs/c2_vs/Warcamp_IntroTour/Tour_End_Queen/AnswersList_0061"]]}

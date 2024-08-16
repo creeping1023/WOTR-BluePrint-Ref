@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Cutscene", "World/Cutscenes/DLC6_KenabresRitualHouse/DLC6_FalseMythicalRitual_CS/DLC6_FalseMythicalRitual_CS"], ["Data.Action.Actions[1].m_SummonPool", "World/Encounters/DLC6_FestiveKenabres/SummonPools/DLC6_FakeMythicFighters"], ["Data.Action.Actions[1].Actions.Actions[0].m_Faction", "Factions/Mobs"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Camellia/Q2_HeartsDesire/DemonsLoveCommander/Cue_0001"], ["Data.FinishActions.Actions[0].m_Buff", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_HeavySuppressionBuff"]], "referenced": [["Data.m_Dialog", "World/Cutscenes/TenThousandDelights/CamelliaQ2_DemonsLoveCommander/CommandStartDialog"]]}

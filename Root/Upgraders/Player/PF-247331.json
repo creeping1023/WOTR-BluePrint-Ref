@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions.Actions[0].m_Fact", "Mythic/MythicAbilities/LastStand/LastStandBuff"], ["Data.m_Actions.Actions[0].m_ExceptHasFact", "Mythic/MythicAbilities/LastStand/LastStand"]], "referenced": [["Data.m_Upgraders[152]", "Root/PlayerUpgradeActionsRoot"]]}

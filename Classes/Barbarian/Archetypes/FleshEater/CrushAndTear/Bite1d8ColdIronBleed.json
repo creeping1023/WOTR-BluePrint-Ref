@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Type", "Weapons/Types/NaturalWeapon/BiteType"], ["Data.m_Enchantments[0]", "Weapons/Enchantments/Bleed"]], "referenced": [["Data.Components[0].m_Weapon", "Classes/Barbarian/Archetypes/FleshEater/CrushAndTear/CrushAndTearFeatureBite11"], ["Data.m_Items[1909]", "Dugeons/Loot/DungeonLootExclude"]]}

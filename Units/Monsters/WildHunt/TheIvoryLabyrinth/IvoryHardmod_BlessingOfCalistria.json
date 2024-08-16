@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[4].Action.Actions[0].Actions.Actions[0].Failed.Actions[0].m_Buff", "Buffs/Nauseated"], ["Data.Components[7].m_Facts[0]", "Spells/Level8/UnholyAuraBuff"]], "referenced": [["Data.m_AddFacts[0]", "Units/Monsters/WildHunt/TheIvoryLabyrinth/IvoryHardmod_WildhuntAsassin24"]]}

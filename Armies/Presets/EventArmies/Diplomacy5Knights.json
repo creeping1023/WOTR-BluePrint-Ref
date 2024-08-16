@@ -1,0 +1,1 @@
+{"referencing": [["Data.Squads[0].m_Unit", "Armies/UnitBlueprints/ArmyPaidBlade"]], "referenced": [["Data.m_EventSolutions[0].m_SuccessEffects.Actions[1].Preset", "Kingdom/CrusadeProjects/RankUps/Diplomacy/Diplomacy_5_2_notif"], ["Data.m_EventSolutions[0].m_SuccessEffects.Actions[1].Preset", "Kingdom/CrusadeProjects/RankUps/Diplomacy/Diplomacy_5_4_notif"]]}

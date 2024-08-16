@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Arueshalae/Arueshalae_Companion"], ["Data.OnShow.Actions[0].m_flag", "World/Encounters/VaultOfGraves/UnlockableFlags/ArushaKneel"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/c4/Nocticula_main/Cue_0533"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Trajectory", "FX/Abilities/AlchemistFireBomb00_Trajectory"]], "referenced": [["Data.Components[4].m_Projectiles[0]", "Armies/Leaders/Abilities/RangerAbilities/RangerSmokeBombAbility"], ["Data.Components[1].m_Projectiles[0]", "Classes/Alchemist/Discoveries/ExplosiveBombs/ExplosiveBomb"]]}

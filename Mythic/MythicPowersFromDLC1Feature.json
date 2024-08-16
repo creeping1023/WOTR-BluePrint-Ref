@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Mythic/MythicPowersFromDLC1Ability"], ["Data.Components[1].m_Resource", "Mythic/MythicPowersFromDLC1AbilityResource"]], "referenced": [["Data.Components[0].Actions.Actions[0].OnClose.Actions[0].m_Fact", "World/Etudes/Common/ImportantStates/DLC1_MythicPowersAfterCompletion"]]}

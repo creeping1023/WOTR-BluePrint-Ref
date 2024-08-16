@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].Target.Master.m_Companion", "Units/Companions/Lann/Lann_Companion"], ["Data.Unit.m_SummonPool", "World/Encounters/DLC6_TavernRebuilded/SummonPools/DLC6_LannHorseRide"]], "referenced": [["Data.m_Tracks[1].m_Commands[0]", "World/Cutscenes/DLC6_TavernRebuilded/DLC6_LannHorseRide/gate3"]]}

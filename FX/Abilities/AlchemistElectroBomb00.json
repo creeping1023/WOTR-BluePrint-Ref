@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Trajectory", "FX/Abilities/AlchemistFireBomb00_Trajectory"]], "referenced": [["Data.Components[1].m_Projectiles[0]", "Classes/Alchemist/Discoveries/ShockBombs/ShockBomb"], ["Data.Components[1].m_Projectiles[0]", "Classes/Wizard/Archetypes/ArcaneBomber/ArcaneBomberBombs/ArcaneBombsElectricityAbility"]]}

@@ -1,1 +1,1 @@
-{"referenced": [["Data.m_Description.m_OwnerString", "Weapons/Enchantments/JagannathKhandaPoisonBuff"]]}
+{"referenced": [["Data.m_Buffs[23]", "Brain/Considerations/HasPoison"], ["Data.Components[0].Action.Actions[0].Actions.Actions[0].Failed.Actions[0].m_Buff", "Units/Monsters/Spider/GiantSpiderPoisonFeature"], ["Data.m_Description.m_OwnerString", "Weapons/Enchantments/JagannathKhandaPoisonBuff"]]}

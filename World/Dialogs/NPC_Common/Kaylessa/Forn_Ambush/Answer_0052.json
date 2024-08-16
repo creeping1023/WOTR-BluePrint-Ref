@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/Cue_0060"], ["Data.NextCue.Cues[1]", "World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/Cue_0061"]], "referenced": [["Data.AnswersSelected[1953]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[3]", "World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/AnswersList_0043"]]}

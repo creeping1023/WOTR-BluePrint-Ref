@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_Feature", "Classes/Kineticist/ElementalFocus/Air/ElectricBlast/ElectricBlastFeature"], ["Data.Components[2].m_Projectiles[0]", "FX/Spell Level None/ElectroBallProjectile00"], ["Data.Components[2].m_Weapon", "Weapons/Types/Special/KineticBlastEnergyWeapon"], ["Data.Components[4].m_CharacterClass", "Classes/Kineticist/KineticistClass"]]}

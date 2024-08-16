@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Lann/Lann_Companion"]], "referenced": [["Data.CuesSeen[1119]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.CuesSeen[778]", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset"], ["Data.Cues[1]", "World/Dialogs/c1/KenabresBurning/MongrelsOutside/CueSequence_0031"]]}

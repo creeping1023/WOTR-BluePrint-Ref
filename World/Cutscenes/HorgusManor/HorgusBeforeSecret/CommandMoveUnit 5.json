@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_companion", "Units/Companions/Camelia/Camelia_Companion"], ["Data.Unit.m_SummonPool", "World/Encounters/HorgusManor/SummonPools/HM_Camellia"]], "referenced": [["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/HorgusManor/HorgusBeforeSecret/gate 2"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[3].NewRound.Actions[0].Failure.Actions[1].m_Buff", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Linnorm/Fafnheir/FafnheirGrappleInitiatorBuff"]], "referenced": [["Data.Components[0].Action.Actions[0].OnSuccess.Actions[0].m_Buff", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Linnorm/Fafnheir/FafnheirGrappleFeature"]]}

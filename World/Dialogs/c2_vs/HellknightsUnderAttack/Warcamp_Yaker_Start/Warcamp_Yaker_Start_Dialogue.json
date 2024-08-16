@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c2_vs/HellknightsUnderAttack/Warcamp_Yaker_Start/Cue_0001"]], "referenced": [["Data.m_Dialog", "World/Cutscenes/KTC2_HellknightsYakerInWarCamp/CommandStartDialog"], ["Data.Conditions.ExtraConditions.Conditions[1].m_Dialog", "World/Dialogs/Barkobanters/Story/Daeran/Banter_Daeran_ch2_3"]]}

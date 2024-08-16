@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Parent", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Crinukh"]], "referenced": [["Data.StartActions.Actions[3].ConditionsChecker.Conditions[0].m_Etude", "World/Dialogs/NPC_Common/Crinukh/Crinukh_dialogue"], ["Data.StartActions.Actions[3].IfTrue.Actions[1].Etude", "World/Dialogs/NPC_Common/Crinukh/Crinukh_dialogue"]]}

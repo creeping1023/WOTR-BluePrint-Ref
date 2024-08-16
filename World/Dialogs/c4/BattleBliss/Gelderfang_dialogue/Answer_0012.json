@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/BattleBliss/Gelderfang_dialogue/Cue_0020"], ["Data.ShowConditions.Conditions[0].m_ItemToCheck", "World/Encounters/BattleBliss/Items/ObsidianMask"]], "referenced": [["Data.Answers[6]", "World/Dialogs/c4/BattleBliss/Gelderfang_dialogue/AnswersList_0003"]]}

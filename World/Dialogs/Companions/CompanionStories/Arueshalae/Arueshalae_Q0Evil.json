@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "World/Dialogs/Companions/CompanionStories/Arueshalae/Arueshalae_Q0"]]}
+{"referencing": [["Data.PrototypeLink", "World/Dialogs/Companions/CompanionStories/Arueshalae/Arueshalae_Q0"], ["Data.m_Companion", "Units/Companions/Arueshalae/EvilArueshalae_Companion"]], "referenced": [["Data.m_Actions.Actions[0].IfTrue.Actions[0].m_Story", "Root/Upgraders/Player/PF-390709_EvilArushaStory"], ["Data.Components[0].Actions.Actions[11].m_Story", "World/Etudes/Common/WrathOfTheRighteous"]]}

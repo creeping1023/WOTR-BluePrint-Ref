@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/GrayGarrison/Irabeth_F1_FoW_reveal/CommandAddFogOfWarRevealer 1"]], "referenced": [["Data.Action.Actions[0].m_Cutscene", "World/Cutscenes/Irabeth_F2_route02/CommandAction"], ["Data.EnterActions.Actions[2].m_Cutscene", "World/Encounters/GrayGarrison/ScriptZones/Treason"]]}

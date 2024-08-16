@@ -1,0 +1,1 @@
+{"referencing": [["Data.Cues[0]", "World/Dialogs/c1/KenabresBurning/Thieflings_Early/Cue_0075"], ["Data.m_Exit", "World/Dialogs/c1/KenabresBurning/Thieflings_Early/SequenceExit_0074"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c1/KenabresBurning/Thieflings_Early/Answer_0039"], ["Data.Continue.Cues[0]", "World/Dialogs/c1/KenabresBurning/Thieflings_Early/Cue_3"]]}

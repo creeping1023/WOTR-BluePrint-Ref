@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/ColyphyrDungeon/Colyphyr_HepzamirahThirdCutscene/CommandDelay6"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/ColyphyrDungeon/Colyphyr_HepzamirahThirdCutscene/gate 1"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/ColyphyrDungeon/Colyphyr_HepzamirahThirdCutscene/gate"]]}

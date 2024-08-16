@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Cue", "World/Crusade/RankUps/Leadership/Leadership_4/Cue_0005"], ["Data.Speaker.m_Blueprint", "Units/Companions/Regill/Regill_Companion"]], "referenced": [["Data.CuesSeen[5736]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Cues[0]", "World/Crusade/RankUps/Leadership/Leadership_4/CueSequence_0032"]]}

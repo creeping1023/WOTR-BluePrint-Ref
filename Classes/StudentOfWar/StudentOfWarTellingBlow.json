@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Buff", "Classes/StudentOfWar/StudentOfWarKnowYourEnemyBuff"], ["Data.Components[0].m_ImmunityFact", "CreatureAbilities/Immunities/ImmunityToCritical"]], "referenced": [["Data.LevelEntries[5].m_Features[0]", "Classes/StudentOfWar/StudentOfWarProgression"]]}

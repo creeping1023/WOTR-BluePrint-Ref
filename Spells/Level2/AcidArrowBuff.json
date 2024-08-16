@@ -1,1 +1,1 @@
-{"referenced": [["Data.m_Description.m_OwnerString", "Spells/Level7/FireStormBuff"]]}
+{"referenced": [["Data.m_Buffs[0]", "CreatureAbilities/BloomInfusedTemplate/DweomerCreature/DweomerConjuration/DweomerAcidArrowConsideration"], ["Data.Components[3].Actions.Actions[1].m_Buff", "Spells/Level2/AcidArrow"], ["Data.m_Description.m_OwnerString", "Spells/Level7/FireStormBuff"]]}

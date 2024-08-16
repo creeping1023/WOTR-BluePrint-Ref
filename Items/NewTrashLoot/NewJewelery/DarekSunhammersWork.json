@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/DustShardItem"]], "referenced": [["Data.m_Items[95]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Filter.m_ItemsInclude[97]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Components[21].m_Item.m_Item", "Items/Vendors/Chapter3/GolemGold_VendorJewelryVendorTable"]]}

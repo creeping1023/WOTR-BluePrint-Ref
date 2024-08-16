@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Actions.Actions[0].m_Buff", "Spells/Level4/AspectOfTheStagBuff"]], "referenced": [["Data.Components[0].m_Spells[76]", "Buffs/DLC3/DLC3_MODS/DLC3_WildMagicMod/DLC3_WildMagic_Spells_Tier1"], ["Data.Components[0].m_Spells[76]", "Buffs/DLC5/DLC5_WildMagic_Spells"], ["Data.m_Ability", "Items/Scrolls/Level4/ScrollOfAspectOfTheStag"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_ConditionFlag", "World/Encounters/GibberingSwarm/UnlockableFlags/GS_CommanderLann"], ["Data.Speaker.m_Blueprint", "Units/Companions/Lann/Lann_Companion"]], "referenced": [["Data.Cues[4]", "World/Dialogs/c2_vs/GibberingSwarm/NurahDialog/CueSequence_0028"]]}

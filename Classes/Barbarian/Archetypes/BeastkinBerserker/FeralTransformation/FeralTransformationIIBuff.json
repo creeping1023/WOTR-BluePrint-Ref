@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Activated.Actions[1].m_Buff", "Spells/Level4/BeastShapeIIBuff"]], "referenced": [["Data.Components[0].m_ExtraEffectBuff", "Classes/Barbarian/Archetypes/BeastkinBerserker/FeralTransformation/FeralTransformationIISwitchBuff"]]}

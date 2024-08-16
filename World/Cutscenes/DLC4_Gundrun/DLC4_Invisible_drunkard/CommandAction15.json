@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_flag", "World/Encounters/DLC4_Gundrun/UnlockableFlags/DLC4_DrunkardBecameInvisible"], ["Data.Action.Actions[3].m_Fact", "Buffs/LocalMapMarker_POI_ShowAlways"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC4_Gundrun/DLC4_Invisible_drunkard/gate3"]]}

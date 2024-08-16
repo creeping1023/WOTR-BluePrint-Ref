@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c1/KenabresBurning/DesnaAdept3/Cue_0019"], ["Data.FirstCue.Cues[1]", "World/Dialogs/c1/KenabresBurning/DesnaAdept3/Cue_0001"]], "referenced": [["Data.Actions.Actions[0].IfTrue.Actions[0].m_Dialogue", "World/Encounters/KenabresBurning/ActionsHolders/PeacefulCrusaders_DisguisedPriest_Actions"]]}

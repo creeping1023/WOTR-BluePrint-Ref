@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Cue", "World/Crusade/RankUps/Diplomacy/Diplomacy_2/Cue_0011"], ["Data.Speaker.m_Blueprint", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]], "referenced": [["Data.CuesSeen[3550]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Cues[0]", "World/Crusade/RankUps/Diplomacy/Diplomacy_2/CueSequence_0017"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Companion", "Units/Companions/Wenduag/Wenduag_Companion"], ["Data.m_Dialog", "World/Dialogs/Companions/CompanionRomances/Wenduag/AfterSex/WenduRom_AfterSex"]], "referenced": [["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/DrezenCapital/WenduagSexWithDialogue/gate3"]]}

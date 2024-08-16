@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionRomances/Lann/Event1/LannSparring/Cue_0016"], ["Data.OnSelect.Actions[0].m_Cutscene", "World/Cutscenes/DrezenCapital/LannRomance_OnKneesUntilFlag/LannRomance_OnKneesUntilFlag"]], "referenced": [["Data.Answers[1]", "World/Dialogs/Companions/CompanionRomances/Lann/Event1/LannSparring/AnswersList_0004"]]}

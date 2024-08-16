@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon"], ["Data.Conditions.Conditions[1].m_Class", "Mythic/Demon/DemonMythicClass"], ["Data.Answers[0]", "World/Dialogs/c6/SecondFloor/GrandFinal/AnswersList_0052"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/c6/SecondFloor/GrandFinal/Cue_0050"]]}

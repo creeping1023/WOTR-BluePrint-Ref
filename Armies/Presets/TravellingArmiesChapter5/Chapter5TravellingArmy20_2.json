@@ -1,0 +1,1 @@
+{"referencing": [["Data.Squads[0].m_Unit", "Armies/UnitBlueprints/ArmyOolioddroo"], ["Data.Squads[1].m_Unit", "Armies/UnitBlueprints/ArmyKalavakus"], ["Data.Squads[2].m_Unit", "Armies/UnitBlueprints/ArmyLilitu"]], "referenced": [["Data.m_TravelingArmiesByChapter[1].ArmiesByWeeks[20].PreSetupArmies[1].m_Army", "Root/Kingdom/ArmyRoot"]]}

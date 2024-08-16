@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Actions.Actions[1].ConditionsChecker.Conditions[0].m_Buff", "Spells/Level1/BaneBuff"], ["Data.Components[1].Actions.Actions[1].IfTrue.Actions[0].m_Buff", "Spells/Level1/BaneBuff"], ["Data.Components[1].Actions.Actions[1].IfFalse.Actions[0].m_Buff", "Spells/Level1/BlessBuff"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/MoveAivaAndAddAset/MoveAivaAndAddAsPet"], ["Data.OnStop.Actions[1].m_Dialogue", "World/Dialogs/c4/Mythic_Azata/HologramTrade/HologramTrade_azata_c4_dialog"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/Mythic_Azata/HologramTrade/Answer_0005"]]}

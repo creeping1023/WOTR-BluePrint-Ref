@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Wenduag/Wenduag_Companion"], ["Data.Answers[0]", "World/Crusade/RankUps/Military/Military_7_true/AnswersList_0013"], ["Data.Continue.Cues[0]", "World/Crusade/RankUps/Military/Military_7_true/Cue_0029"]], "referenced": [["Data.NextCue.Cues[0]", "World/Crusade/RankUps/Military/Military_7_true/Answer_0017"]]}

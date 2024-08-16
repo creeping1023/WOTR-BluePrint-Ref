@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/SosielVaenic/SosielVaenic_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/Companions/CompanionDialogues/Sosiel/Cue_0193"]], "referenced": [["Data.CuesSeen[2994]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionDialogues/Sosiel/Answer_0188"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Dialog", "World/Dialogs/c3/Wintersun/Morveg_Dying/Morveg_Dying"], ["Data.m_Dialog", "World/Dialogs/c3/Wintersun/Morveg_Dying/Morveg_Dying"]], "referenced": [["Data.m_Tracks[1].m_Commands[1]", "World/Cutscenes/WintersunOutdoor/MorvegAfterBattle_scene/gate"]]}

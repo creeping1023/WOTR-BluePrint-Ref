@@ -1,0 +1,1 @@
+{"referencing": [["Data.ActionsOnSpawn.Actions[0].m_Faction", "Factions/CutsceneNeutrals"], ["Data.ActionsOnSpawn.Actions[1].IfTrue.Actions[0].ActionsOnSpawn.Actions[0].m_Faction", "Factions/CutsceneNeutrals"]], "referenced": [["Data.m_Tracks[0].m_Commands[7]", "World/Cutscenes/DLC4_Gundrun/DLC4_Locust_ambush/gate3"]]}

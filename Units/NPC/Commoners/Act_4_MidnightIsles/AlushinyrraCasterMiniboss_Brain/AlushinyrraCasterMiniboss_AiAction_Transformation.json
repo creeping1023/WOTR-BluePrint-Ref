@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/NoBuffTransformation"], ["Data.m_TargetConsiderations[0]", "Brain/Considerations/TargetSelf"], ["Data.m_Ability", "Spells/Level6/Transformation"]], "referenced": [["Data.m_Actions[2]", "Units/NPC/Commoners/Act_4_MidnightIsles/AlushinyrraCasterMiniboss_Brain/AlushinyrraCasterMiniboss_BrainPhaseIII"]]}

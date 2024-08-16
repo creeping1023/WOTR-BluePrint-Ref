@@ -1,0 +1,1 @@
+{"referencing": [["Data.Actions.Actions[0].ConditionsChecker.Conditions[0].m_ItemToCheck", "Items/Areas/Act_3_DemonsHerecy/KohhDungeon/ChiefKey"], ["Data.Actions.Actions[0].IfFalse.Actions[1].m_Objective", "World/Quests/c5/NumerianCamp/Add2_OpenNextDoor"]]}

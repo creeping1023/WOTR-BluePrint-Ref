@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Act_0_Prologue/Prologue_Caves_1/Prologue_Caves_1"], ["Data.m_AreaPart", "World/Areas/Act_0_Prologue/Prologue_Caves_1/Prologue_Caves_1"]], "referenced": [["Data.Action.Actions[0].m_exitPositon", "World/Cutscenes/Prologue_Caves_1/DontTell_Out/CommandAction"]]}

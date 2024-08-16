@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/QuickashGMBE/Check_0034"]], "referenced": [["Data.AnswersSelected[2041]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/c3/QuickashGMBE/Answer_0118"], ["Data.Answers[0]", "World/Dialogs/c3/QuickashGMBE/BookPage_0031"]]}

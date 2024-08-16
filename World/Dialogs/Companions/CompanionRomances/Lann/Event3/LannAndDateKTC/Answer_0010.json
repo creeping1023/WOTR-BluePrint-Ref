@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionRomances/Lann/Event3/LannAndDateKTC/Cue_0013"]], "referenced": [["Data.Answers[2]", "World/Dialogs/Companions/CompanionRomances/Lann/Event3/LannAndDateKTC/AnswersList_0007"], ["Data.Conditions.Conditions[2].m_Answer", "World/Dialogs/Companions/CompanionRomances/Lann/Event3/LannAndDateKTC/Cue_0016"]]}

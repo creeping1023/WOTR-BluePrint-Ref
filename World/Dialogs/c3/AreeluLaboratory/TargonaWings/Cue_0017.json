@@ -1,0 +1,1 @@
+{"referencing": [["Data.Answers[0]", "World/Dialogs/c3/AreeluLaboratory/TargonaWings/AnswersList_0003"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/AreeluLaboratory/TargonaWings/CueSequence_0055"]], "referenced": [["Data.CuesSeen[5582]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/c3/AreeluLaboratory/TargonaWings/Answer_0016"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Spells/Level9/ForesightBuff"], ["Data.Components[0].m_Facts[1]", "Spells/Level6/HeroismGreaterBuff"], ["Data.Components[0].m_Facts[2]", "Units/Monsters/Deathsnatcher/MidnightFane/PlayfulDarkness_HardAdvance"]], "referenced": [["Data.m_AddFacts[16]", "Units/Monsters/Deathsnatcher/MidnightFane/PlayfulDarknessDeathsnatcher"]]}

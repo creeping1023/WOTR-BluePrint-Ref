@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Units/Monsters/Monitor Lizard/MonitorLizardPoisonFeature"]], "referenced": [["Data.m_AddFacts[4]", "Units/Monsters/Monitor Lizard/CR2_MonitorLizardStandart_NoPoison"], ["Data.m_AddFacts[4]", "Units/Monsters/Monitor Lizard/CR3_MonitorLizardAdvanced_NoPoison"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Cutscene", "World/Cutscenes/DLC4_Wilds/Wilds_Ulbrig_move/Wilds_Ulbrig_move"], ["Data.Action.Actions[1].m_Cutscene", "World/Cutscenes/DLC4_Wilds/DLC4_Final_WolftoPoppy/DLC4_Final_WolftoPoppy"]], "referenced": [["Data.m_Tracks[2].m_Commands[1]", "World/Cutscenes/DLC4_Wilds/DLC4_AfterEnd/DLC4_AfterEnd"]]}

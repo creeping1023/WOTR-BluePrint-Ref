@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c2_vs/LostChapel/IrabethSoldier/Cue_0023"], ["Data.OnSelect.Actions[0].m_Flag", "World/Encounters/LostChapel/UnlockableFlags/IrabethConfidence"]], "referenced": [["Data.Answers[2]", "World/Dialogs/c2_vs/LostChapel/IrabethSoldier/AnswersList_0013"]]}

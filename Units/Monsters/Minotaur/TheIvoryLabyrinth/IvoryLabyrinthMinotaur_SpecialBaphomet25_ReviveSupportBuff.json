@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "CreatureAbilities/Unlootable"], ["Data.Components[0].m_Facts[1]", "Buffs/NPC_Untargetable"]], "referenced": [["Data.Components[0].Actions.Actions[0].m_Buff", "Units/Monsters/Minotaur/TheIvoryLabyrinth/IvoryLabyrinthMinotaur_SpecialBaphomet25_ReviveSupport"]]}

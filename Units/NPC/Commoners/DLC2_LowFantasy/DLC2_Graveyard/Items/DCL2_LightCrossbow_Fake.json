@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_VisualParameters.m_Projectiles[0]", "ArrowCrossBow00"], ["Data.m_ShardItem", "Items/DestructibleItemsShards/WoodShardItem"]], "referenced": [["Data.Components[0].m_Type", "Weapons/Items/UniquePF2/DLC2/DLC2CrossbowEnchantment"], ["Data.m_Type", "Weapons/Items/UniquePF2/DLC2/DLC2SLightCrossbowItem"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/GrayGarrison/Treason/CommandMoveUnit"], ["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/GrayGarrison/Treason/CommandUnitLookAt 1"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/GrayGarrison/Treason/gate 8"]], "referenced": [["Data.m_Tracks[1].m_EndGate", "World/Cutscenes/GrayGarrison/Treason/Treason"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_IgnoreFeature", "CreatureAbilities/Immunities/IgnoreImmunityToFear"], ["Data.Components[1].m_CasterIgnoreImmunityFact", "CreatureAbilities/Immunities/IgnoreImmunityToFear"]], "referenced": [["Data.AddFeatures[2].m_Features[0]", "Classes/Paladin/Archetypes/TorturedCrusader/TorturedCrusader"]]}

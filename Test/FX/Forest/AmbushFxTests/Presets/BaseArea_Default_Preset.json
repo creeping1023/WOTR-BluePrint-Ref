@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_EnterPoint", "Test/FX/Forest/FX Area Enter Point"], ["Data.m_PlayerCharacter", "Test/FX/Blueprints/!Octavia_Companion_Mage_Test"], ["Data.m_Campaign", "DLC/MainGame/MainCampaign"]], "referenced": [["Data.m_DefaultPreset", "Test/FX/Forest/AmbushFxTests/BaseArea"]]}

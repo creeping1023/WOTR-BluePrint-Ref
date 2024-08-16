@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SettlementBuildArea", "World/Areas/Settlements/DesertSettlement/Desert_Enter"], ["Data.m_SettlementEntrance", "World/Areas/Settlements/DesertSettlement/Desert_Enter"]], "referenced": [["Data.Components[7].Actions.Actions[0].m_Settlement", "Kingdom/MoraleFlags/KingdomMoraleFlagChapter5Regions"]]}

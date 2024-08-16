@@ -1,0 +1,1 @@
+{"referenced": [["Data.Action.Actions[0].m_SummonPool", "World/Cutscenes/LostChapel/ChurchDialogue/CommandAction"], ["Data.FinishActions.Actions[1].IfTrue.Actions[0].m_SummonPool", "World/Dialogs/c2_vs/LostChapel/Church/Church_Dialogue"], ["Data.FinishActions.Actions[2].IfTrue.Actions[0].m_SummonPool", "World/Dialogs/c2_vs/LostChapel/Church/Church_Dialogue"]]}

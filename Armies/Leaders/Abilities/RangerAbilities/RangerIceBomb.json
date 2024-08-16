@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Armies/Leaders/Abilities/RangerAbilities/RangerIceBombFact"], ["Data.Components[1].m_Ability", "Armies/Leaders/Abilities/RangerAbilities/RangerIceBombAbility"]], "referenced": [["Data.m_Skills[3]", "Armies/Leaders/Progression/AbilityRangerChoice1"], ["Data.m_baseSkills[14]", "Armies/Leaders/Warlords/Warlord_SwarmOmnipresent"]]}

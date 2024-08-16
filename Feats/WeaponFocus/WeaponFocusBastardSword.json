@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_WeaponType", "Weapons/Types/ExoticOneHanded/BastardSword"], ["Data.IsPrerequisiteFor[0]", "Feats/WeaponFocusGreater/WeaponFocusGreaterBastardSword"]], "referenced": [["Data.m_AddFacts[0]", "Armies/UnitBlueprints/ArmyPaidBlade"], ["Data.Components[2].m_Feature", "Feats/WeaponFocusGreater/WeaponFocusGreaterBastardSword"]]}

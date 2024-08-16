@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Actions.Actions[0].m_Buff", "Armies/Abilities/ArmyCultistCurseBuff"], ["Data.Components[2].m_RequiredResource", "Armies/Abilities/ArmyCultistCurseResource"]], "referenced": [["Data.Components[0].m_Facts[0]", "Armies/Abilities/ArmyCultistCurseFeature"], ["Data.m_Ability", "Armies/Brains/Actions/TacticalCombat_AIAction_CultistCurse"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Spells/Level1/BlessBuff"], ["Data.Action.Actions[1].m_Buff", "Spells/Level3/BestowCurseWeaknessBuff"]], "referenced": [["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/Kaylessa_DrowAmbush/PlayerVomit/gate"]]}

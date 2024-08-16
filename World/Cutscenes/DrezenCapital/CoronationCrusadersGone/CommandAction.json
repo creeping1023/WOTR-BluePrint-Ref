@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_SummonPool", "World/Encounters/DrezenCapital/SummonPools/Coronation_DefaultArmy"], ["Data.Action.Actions[0].Actions.Actions[0].m_Cutscene", "World/Cutscenes/LostChapel/UnitGoAwayParam/UnitGoAwayParam"]], "referenced": [["Data.m_Tracks[1].m_Commands[0]", "World/Cutscenes/DrezenCapital/CoronationCrusadersGone/gate"]]}

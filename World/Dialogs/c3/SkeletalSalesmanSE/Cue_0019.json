@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_2_SwordOfValor/SkeletonTrader/SkeletonTrader"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/SkeletalSalesmanSE/Cue_0020"]], "referenced": [["Data.CuesSeen[2731]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/SkeletalSalesmanSE/Cue_0017"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SpellsPerDay", "Classes/Paladin/PaladinSpellLevels"], ["Data.m_SpellList", "Classes/Paladin/PaladinSpellList"], ["Data.m_CharacterClass", "Classes/Paladin/PaladinClass"]], "referenced": [["Data.m_ReplaceSpellbook", "Classes/Paladin/Archetypes/TorturedCrusader/TorturedCrusader"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].Actions.Actions[0].m_Buff", "World/Encounters/ReligionReactivityBuffs/Sarenrae_Buff"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Wintersun/MarhevokAmbush/Cue_0035"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/Wintersun/MarhevokAmbush/Answer_0033"]]}

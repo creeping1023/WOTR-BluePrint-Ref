@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Objectives[0]", "World/Quests/Companions/Camellia/Q2_errand/Objective_0001"]], "referenced": [["Data.Actions.Actions[2].ConditionsChecker.Conditions[0].m_Quest", "World/Encounters/ReturnToDrezen/ActionsHolders/Locust_Camelia_FailAllQuests"], ["Data.m_Quest", "World/Quests/Companions/Camellia/Q2_errand/Objective_0001"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_ConditionFlag", "World/Encounters/AreeluLab/UnlockableFlags/AL_FirstTimeHologram"], ["Data.m_AreaEntrance", "World/Areas/Act_3_DemonsHerecy/AreeluLab/EnterPoints/AreeluLabOutside_Enter"]], "referenced": [["Data.LocationVariations[0]", "GlobalMaps/WorldWoundGM/Points/Location_AreeluLab"]]}

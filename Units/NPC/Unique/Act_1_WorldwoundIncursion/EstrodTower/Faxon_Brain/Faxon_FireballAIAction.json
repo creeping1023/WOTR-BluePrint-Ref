@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Brain/Considerations/AoE_AvoidFriends"], ["Data.m_TargetConsiderations[1]", "Brain/Considerations/AoE_ChooseMoreEnemies"], ["Data.m_Ability", "Spells/Level3/Fireball"]], "referenced": [["Data.m_Actions[5]", "Units/NPC/Unique/Act_1_WorldwoundIncursion/EstrodTower/Faxon_Brain/Faxon_Brain"]]}

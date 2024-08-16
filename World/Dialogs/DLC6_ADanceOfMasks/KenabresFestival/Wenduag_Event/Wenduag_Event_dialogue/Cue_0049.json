@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Wenduag/Wenduag_Companion"], ["Data.m_Listener", "Units/NPC/Commoners/DLC6_DanceOfMasks/UnitsForCompanionEvents/DLC6_KenabresGuardFemale"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/Wenduag_Event/Wenduag_Event_dialogue/Answer_0045"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/NoTentaclesSE/NoMoreTentacles/Cue_0045"], ["Data.OnSelect.Actions[0].m_flag", "World/Encounters/SE_NoMoreTentacles/UnlockableFlags/NoMoreTentacles_Flag"]], "referenced": [["Data.Answers[3]", "World/Dialogs/c3/NoTentaclesSE/NoMoreTentacles/AnswersList_0025"]]}

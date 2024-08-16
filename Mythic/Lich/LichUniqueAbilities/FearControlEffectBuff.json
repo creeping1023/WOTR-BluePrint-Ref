@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Buffs/Shaken"]], "referenced": [["Data.Components[0].UnitEnter.Actions[0].IfTrue.Actions[0].Actions.Actions[0].Failed.Actions[0].m_Buff", "Mythic/Lich/LichUniqueAbilities/FearControlAura"]]}

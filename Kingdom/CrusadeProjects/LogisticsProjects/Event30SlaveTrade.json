@@ -1,0 +1,1 @@
+{"referencing": [["Data.TriggerCondition.Conditions[0].m_ConditionFlag", "Kingdom/CrusadeProjects/LogisticsProjects/LogisticsProjectsFlags/Event30SlaveTrade"], ["Data.Solutions.Entries[2].Resolutions[2].Actions.Actions[0].m_ItemToGive", "Items/Utility/GoldCoins"]], "referenced": [["Data.m_KingdomProjectEvents[127]", "Root/Kingdom/KingdomRoot"]]}

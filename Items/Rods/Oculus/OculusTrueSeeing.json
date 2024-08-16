@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Actions.Actions[0].m_Buff", "Spells/Level6/TrueSeeingBuff"], ["Data.Components[1].Actions.Actions[1].Failure.Actions[0].m_Buff", "Spells/Level7/InsanityBuff"], ["Data.Components[3].m_TouchWeapon", "Weapons/Types/Special/TouchItem"]], "referenced": [["Data.m_Ability", "Items/Rods/Oculus/OculusItem"]]}

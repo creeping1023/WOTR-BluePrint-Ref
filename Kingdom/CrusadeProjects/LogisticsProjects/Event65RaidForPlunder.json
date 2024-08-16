@@ -1,0 +1,1 @@
+{"referencing": [["Data.TriggerCondition.Conditions[0].m_ConditionFlag", "Kingdom/CrusadeProjects/LogisticsProjects/LogisticsProjectsFlags/Event65RaidForPlunder"]], "referenced": [["Data.m_History[19].m_Event", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.m_KingdomProjectEvents[125]", "Root/Kingdom/KingdomRoot"]]}

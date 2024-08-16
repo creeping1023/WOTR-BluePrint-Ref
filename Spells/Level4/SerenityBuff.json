@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Action.Actions[0].ConditionsChecker.Conditions[0].m_Buff", "Spells/Level4/SerenityCooldownBuff"], ["Data.Components[0].Action.Actions[0].IfTrue.Actions[0].m_Buff", "Spells/Level4/SerenityCooldownBuff"]], "referenced": [["Data.Components[2].Actions.Actions[0].Failed.Actions[0].m_Buff", "Spells/Level4/Serenity"]]}

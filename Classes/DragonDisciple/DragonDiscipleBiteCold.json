@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Type", "Weapons/Types/NaturalWeapon/BiteDragonType"], ["Data.m_Enchantments[0]", "Weapons/Enchantments/Frost"]], "referenced": [["Data.Components[0].m_Weapon", "Classes/DragonDisciple/DragonDiscipleBiteFeatureCold"], ["Data.m_Items[1097]", "Dugeons/Loot/DungeonLootExclude"]]}

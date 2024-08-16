@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions[0]", "Units/Monsters/Vescavor/VescavorSwarmBrain/VescavorDamageAIAction"]], "referenced": [["Data.m_Brain", "Units/Monsters/DLC3_Mobs/DLC3_AnyTir_Abberation/DLC3_CR5_VescavorSwarm"], ["Data.m_Brain", "Units/Monsters/Vescavor/CR5_VescavorSwarm"], ["Data.m_Brain", "Units/Monsters/Vescavor/VescavorSwarmPassive"]]}

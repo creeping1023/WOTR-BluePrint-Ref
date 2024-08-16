@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_FestiveKenabres/CarnivalNPCs/DLC6_RazmirManager"], ["Data.Continue.Cues[0]", "World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/RazmEvent3_Cosplay/Cue_0018"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC6_ADanceOfMasks/KenabresFestival/RazmEvent3_Cosplay/Answer_0021"]]}

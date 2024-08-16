@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Quest", "World/Quests/Companions/Lann/Q3TheLastResort/Q3TheLastResort_quest"], ["Data.Conditions.Conditions[1].m_companion", "Units/Companions/Lann/Lann_Companion"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/Epilogues/Cue_71"]]}

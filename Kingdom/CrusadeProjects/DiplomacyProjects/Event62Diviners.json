@@ -1,0 +1,1 @@
+{"referencing": [["Data.TriggerCondition.Conditions[0].m_ConditionFlag", "Kingdom/CrusadeProjects/DiplomacyProjects/DiplomacyProjectsFlags/Event62Diviners"], ["Data.Solutions.Entries[2].Resolutions[2].Actions.Actions[0].m_Blueprint", "Armies/CrusadeGlobalBuffs/GrowthDiviners"]], "referenced": [["Data.m_KingdomProjectEvents[70]", "Root/Kingdom/KingdomRoot"]]}

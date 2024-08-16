@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Fact[0]", "Races/HumanRace"], ["Data.m_Fact[1]", "Races/ElfRace"], ["Data.m_Fact[2]", "Races/DwarfRace"]], "referenced": [["Data.m_TargetConsiderations[3]", "Units/NPC/Commoners/Zombie/SarkorianWedding/Ranger brain/SarkorianRanger_AiAction_Attack"]]}

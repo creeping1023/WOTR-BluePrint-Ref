@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Wenduag/Q2_CallOfBlood/KTC_ISmellHim/Cue_0002"], ["Data.OnSelect.Actions[0].m_flag", "World/Encounters/AlushinyrraHigherCity/UnlockableFlags/WenduagQ2_SavaInfo"]], "referenced": [["Data.Answers[0]", "World/Dialogs/Companions/CompanionQuests/Wenduag/Q2_CallOfBlood/KTC_ISmellHim/AnswersList_0003"]]}

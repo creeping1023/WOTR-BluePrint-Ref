@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_Objective", "World/Quests/Companions/Lann/Q1BackToTheRoots/Obj1_ReturnCaves"]], "referenced": [["Data.CuesSeen[4478]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Lann/Q1BackToTheRoots/LannComeNeathholm_KTC/Answer_0010"]]}

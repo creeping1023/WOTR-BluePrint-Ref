@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c1/KenabresBurning/Hurlun_Tavern/Cue_0017"], ["Data.NextCue.Cues[1]", "World/Dialogs/c1/KenabresBurning/Hurlun_Tavern/Cue_0016"]], "referenced": [["Data.AnswersSelected[605]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[9]", "World/Dialogs/c1/KenabresBurning/Hurlun_Tavern/AnswersList_0003"]]}

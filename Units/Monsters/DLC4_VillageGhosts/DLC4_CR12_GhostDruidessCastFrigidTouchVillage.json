@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Brain/Considerations/AttackTargetsPriority"], ["Data.m_Ability", "Spells/Level2/FrigidTouchCast"], ["Data.m_Variant", "Spells/Level2/FrigidTouch"]], "referenced": [["Data.m_Actions[2]", "Units/Monsters/DLC4_VillageGhosts/DLC4_CR12_GhostDruidessBrainVillage"]]}

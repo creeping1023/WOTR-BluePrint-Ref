@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/TheIvoryLabyrinth/MirrorDialogue/CommandStartDialog"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/TheIvoryLabyrinth/MirrorDialogue/MirrorDialogue"], ["Data.m_Tracks[1].m_EndGate", "World/Cutscenes/TheIvoryLabyrinth/MirrorDialogue/MirrorDialogue"]]}

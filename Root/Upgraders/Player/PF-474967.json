@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/AzataQuest_C4/NoDragon"], ["Data.m_Actions.Actions[0].IfTrue.Actions[0].Target.m_Companion", "Mythic/Azata/AzataDragon/AzataDragonUnit"]], "referenced": [["Data.m_Upgraders[615]", "Root/PlayerUpgradeActionsRoot"]]}

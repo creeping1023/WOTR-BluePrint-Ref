@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Act_2_SwordOfValor/WarCamp/WarCamp"], ["Data.m_AreaPart", "World/Areas/Act_2_SwordOfValor/WarCamp/WarCamp_HQ"]], "referenced": [["Data.Action.Actions[0].m_exitPositon", "World/Cutscenes/WarCamp/WarCamp_RestDefaultCutscene/CommandAction"]]}

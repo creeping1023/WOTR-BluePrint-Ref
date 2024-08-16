@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_SummonPool", "World/Encounters/DrezenCapital/SummonPools/MythicDevil_IomedaeServantsPool"], ["Data.Action.Actions[0].Actions.Actions[0].m_Buff", "Units/NPC/Commoners/Movanic Deva/DevilQuest/ProtectionOfInheritorBuff"]], "referenced": [["Data.m_Tracks[1].m_Commands[1]", "World/Cutscenes/DrezenCapital/DevilishTemptation_Turmoil/gate11"]]}

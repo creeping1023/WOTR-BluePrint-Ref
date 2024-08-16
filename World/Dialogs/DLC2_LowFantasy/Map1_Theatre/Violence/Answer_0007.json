@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC2_LowFantasy/Map1_Theatre/Violence/Cue_0008"]], "referenced": [["Data.Answers[2]", "World/Dialogs/DLC2_LowFantasy/Map1_Theatre/Violence/AnswersList_0002"], ["Data.Conditions.Conditions[1].m_Answer", "World/Dialogs/DLC2_LowFantasy/Map1_Theatre/Violence/Cue_0011"]]}

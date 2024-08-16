@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/Chapter05_Extra"], ["Data.m_Flag", "World/Encounters/Prologue_Kenabres/UnlockableFlags/PlayerDart_flag"]], "referenced": [["Data.m_Tracks[6].m_Commands[0]", "World/Cutscenes/Prologue_Kenabres/Darts_scene/Darts_scene"]]}

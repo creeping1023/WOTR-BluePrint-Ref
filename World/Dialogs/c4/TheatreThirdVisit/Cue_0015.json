@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_SpeakerPortrait", "Units/NPC/Unique/Act_1_WorldwoundIncursion/Theatre/Theatre_GnomeTwin1"], ["Data.Answers[0]", "World/Dialogs/c4/TheatreThirdVisit/AnswersList_0021"], ["Data.Continue.Cues[0]", "World/Dialogs/c4/TheatreThirdVisit/CueSequence_0037"]], "referenced": [["Data.Continue.Cues[1]", "World/Dialogs/c4/TheatreThirdVisit/Cue_0013"]]}

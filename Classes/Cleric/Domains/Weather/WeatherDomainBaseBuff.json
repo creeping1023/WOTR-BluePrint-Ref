@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level1/EnlargePersonBuff"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level1/EnlargePersonBuff"]], "referenced": [["Data.Components[1].Actions.Actions[1].m_Buff", "Classes/Cleric/Archetypes/Separatist/Domains/Weather/WeatherDomainBaseAbilitySeparatist"], ["Data.Components[1].Actions.Actions[1].m_Buff", "Classes/Cleric/Domains/Weather/WeatherDomainBaseAbility"]]}

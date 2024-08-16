@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Act_1_WorldwoundIncursion/HorgusManor/HorgusManor"], ["Data.m_AreaPart", "World/Areas/Act_1_WorldwoundIncursion/HorgusManor/HorgusManor2F"]], "referenced": [["Data.Action.Actions[0].m_exitPositon", "World/Cutscenes/HorgusManor/Q3_CamelliaGo2Horgus/CommandAction"]]}

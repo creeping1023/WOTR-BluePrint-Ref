@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "Factions/Player"]]}
+{"referencing": [["Data.PrototypeLink", "Factions/Player"], ["Data.m_AttackFactions[0]", "Factions/Mobs"]], "referenced": [["Data.Components[1].m_Faction", "Mythic/Devil/HellsDecree/HellsDecreeAbilityRageAllyBuff"], ["Data.Components[2].m_Faction", "Mythic/Devil/HellsDecree/HellsDecreeAbilityTargetedRageAllySelfBuff"], ["Data.m_AttackFactions[25]", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/PerpetuallyAnnoyedWizard/PerpetuallyAnnoyedFaction"]]}

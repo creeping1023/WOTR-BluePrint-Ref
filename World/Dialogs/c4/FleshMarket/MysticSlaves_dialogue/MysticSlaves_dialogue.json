@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c4/FleshMarket/MysticSlaves_dialogue/Cue_0015"], ["Data.FirstCue.Cues[1]", "World/Dialogs/c4/FleshMarket/MysticSlaves_dialogue/Cue_0013"]], "referenced": [["Data.Actions.Actions[0].IfTrue.Actions[0].m_Dialogue", "World/Encounters/AlushinyrraMediumCity/ActionsHolders/MysticSlave_Actions"]]}

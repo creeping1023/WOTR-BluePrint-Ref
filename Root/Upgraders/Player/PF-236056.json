@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[0].m_Cue", "World/Dialogs/NPC_Common/Nurah-Prison/Cue_0031"], ["Data.m_Actions.Actions[0].IfTrue.Actions[0].Etude", "World/Etudes/Common/WrathOfTheRighteous/Chapter03_Extra/MoltenScarQuest"]], "referenced": [["Data.m_Upgraders[130]", "Root/PlayerUpgradeActionsRoot"]]}

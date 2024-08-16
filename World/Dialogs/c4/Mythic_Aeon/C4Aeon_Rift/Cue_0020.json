@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[1].m_exitPositon", "World/Areas/Mythics/Aeon_MidnightFaneInThePast/EnterPoints/Aeon_MidnightFaneInThePast_Enter"], ["Data.OnStop.Actions[2].Etude", "World/Etudes/Common/WrathOfTheRighteous/MythicAeon/PlayerIsAeon/AfterCourtsRift"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/Mythic_Aeon/C4Aeon_Rift/Answer_0006"]]}

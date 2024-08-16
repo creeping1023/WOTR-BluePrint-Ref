@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_companion", "Units/Companions/Regill/Regill_Companion"], ["Data.Speaker.m_Blueprint", "Units/Companions/Regill/Regill_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c2_vs/LostChapel/Church/Cue_0027"]], "referenced": [["Data.Cues[0]", "World/Dialogs/c2_vs/LostChapel/Church/CueSequence_0024"]]}

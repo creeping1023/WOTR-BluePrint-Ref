@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/WoodShardItem"], ["Data.m_Ability", "Spells/Level2/MirrorImage"]], "referenced": [["Data.m_Items[2645]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Items[2].m_Item", "Loot/Good/CR10/RichHuman_GoodHidden"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_AreaEffect", "Mythic/Lich/LichSpells/EyesOfTheBodakArea"]], "referenced": [["Data.Components[0].Actions.Actions[0].m_Buff", "Mythic/Lich/LichSpells/EyesOfTheBodak"], ["Data.m_Buffs[0]", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/DeathEarth/FleshDeadGodBrain/Considerations/HasNoEyesOfTheBodakBuffConsideration"]]}

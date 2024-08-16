@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC4_Gundrun/DLC4_Sleeping_worm/CommandUnitPlayCutsceneAnimation1"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DLC4_Gundrun/DLC4_Sleeping_worm/DLC4_Sleeping_worm"], ["Data.m_Tracks[1].m_EndGate", "World/Cutscenes/DLC4_Gundrun/DLC4_Sleeping_worm/DLC4_Sleeping_worm"]]}

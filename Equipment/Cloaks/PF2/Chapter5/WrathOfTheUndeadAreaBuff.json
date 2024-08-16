@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_AreaEffect", "Equipment/Cloaks/PF2/Chapter5/WrathOfTheUndeadArea"]], "referenced": [["Data.Components[0].CombatStartActions.Actions[0].m_Buff", "Equipment/Cloaks/PF2/Chapter5/WrathOfTheUndeadFeature"], ["Data.Components[0].CombatEndActions.Actions[0].m_Buff", "Equipment/Cloaks/PF2/Chapter5/WrathOfTheUndeadFeature"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Continue.Cues[0]", "World/Dialogs/Epilogues/CueSequence_Special"], ["Data.Continue.Cues[1]", "World/Dialogs/Epilogues/CueSequence_Companions"], ["Data.Continue.Cues[2]", "World/Dialogs/Epilogues/CueSequence_CompanionsDub"]], "referenced": [["Data.m_Exit", "World/Dialogs/Epilogues/CueSequence_Abyss"]]}

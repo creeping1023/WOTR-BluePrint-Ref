@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Commoners/Act_5_HeraldOfTheIvoryLabyrinth/MythicLocust_Ch5/LocustKTCCultists/Locust_Cultist_DLC6_KTC"], ["Data.OnShow.Actions[1].m_Buff", "CreatureAbilities/Unlootable"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC6_ADanceOfMasks/DLC6_LocustStart_KTC/Answer_0002"]]}

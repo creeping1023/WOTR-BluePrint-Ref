@@ -1,0 +1,1 @@
+{"referencing": [["Data.Cues[0]", "World/Dialogs/c2_vs/LostChapel/Boss_Start/Cue_0026"], ["Data.Cues[1]", "World/Dialogs/c2_vs/LostChapel/Boss_Start/Cue_0030"], ["Data.m_Exit", "World/Dialogs/c2_vs/LostChapel/Boss_Start/SequenceExit_0028"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/c2_vs/LostChapel/Boss_Start/Cue_0001"]]}

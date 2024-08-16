@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/AreshkagalDungeon/CrossTheRift_well_scene/CommandMoveUnit 4"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/AreshkagalDungeon/CrossTheRift_well_scene/gate 9"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/AreshkagalDungeon/CrossTheRift_well_scene/gate 7"]]}

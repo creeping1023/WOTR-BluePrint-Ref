@@ -1,0 +1,1 @@
+{"referencing": [["Data.EnterActions.Actions[0].ConditionsChecker.Conditions[0].m_Buff", "Buffs/Areas/Act_4_MidnightIsles/AzataQuest/AzataTreeStrongBuff"], ["Data.EnterActions.Actions[0].IfTrue.Actions[0].Actions.Actions[0].m_Buff", "Buffs/Areas/Act_4_MidnightIsles/AzataQuest/AzataTreeStrongBuff"]]}

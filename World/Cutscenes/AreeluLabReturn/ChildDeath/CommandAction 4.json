@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_SummonPool", "World/Encounters/AreeluLabReturn/SummonPools/ChildDeath"], ["Data.Action.Actions[3].m_Objective", "World/Quests/c5/EmptyMemories/02_SearchMystery"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/AreeluLabReturn/ChildDeath/gate 5"]]}

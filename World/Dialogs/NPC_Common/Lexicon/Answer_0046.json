@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnSelect.Actions[0].ConditionsChecker.Conditions[0].m_Flag", "World/Encounters/AreeluLab/UnlockableFlags/LexiconTranslateTry"], ["Data.OnSelect.Actions[0].IfTrue.Actions[0].m_Flag", "World/Encounters/AreeluLab/UnlockableFlags/LexiconTranslateTry"]], "referenced": [["Data.Answers[5]", "World/Dialogs/NPC_Common/Lexicon/BookPage_0023"]]}

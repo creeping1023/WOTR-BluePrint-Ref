@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Classes/Shifter/ShifterAspects/ShifterAspectHorseAbility"], ["Data.Components[1].m_Resource", "Classes/Shifter/ShifterAspectResource"]], "referenced": [["Data.m_AllFeatures[4]", "Classes/Shifter/ShifterAspectSelectionFeature"], ["Data.Components[4].m_CheckedFact", "Classes/Shifter/ShifterMajorForms/MajorFormFeature"]]}

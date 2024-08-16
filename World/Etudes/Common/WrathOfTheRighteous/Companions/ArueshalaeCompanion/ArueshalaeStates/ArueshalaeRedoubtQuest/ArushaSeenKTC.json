@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Parent", "World/Etudes/Common/WrathOfTheRighteous/Companions/ArueshalaeCompanion/ArueshalaeStates"]], "referenced": [["Data.StartEtudesNonRecursively[2356]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.OnStop.Actions[1].Etude", "World/Dialogs/c3/Drezen_C3/KTC_Arueshalae_GotoRedoubt/Cue_0013"]]}

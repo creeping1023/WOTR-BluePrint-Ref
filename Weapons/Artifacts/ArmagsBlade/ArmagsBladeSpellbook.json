@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SpellsPerDay", "Classes/Bard/BardSpellSlotsTable"], ["Data.m_SpellList", "Weapons/Artifacts/ArmagsBlade/ArmagsBladeSpellList"], ["Data.m_CharacterClass", "Classes/Monster/Construct/ConstructClass"]], "referenced": [["Data.Components[0].m_Spellbook", "Weapons/Artifacts/ArmagsBlade/ArmagsBladeSpellsEnchant"]]}

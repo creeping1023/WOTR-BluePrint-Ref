@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_CheckedFact", "Traits/Races/Common/AnimalType"], ["Data.Components[1].m_CheckedFact", "Traits/Races/Common/MagicalBeastType"], ["Data.Components[2].m_CheckedFact", "Traits/Races/Common/DragonType"]], "referenced": [["Data.m_Enchantments[1]", "Equipment/Armor/Items/Unique/HideStandartPlus3"]]}

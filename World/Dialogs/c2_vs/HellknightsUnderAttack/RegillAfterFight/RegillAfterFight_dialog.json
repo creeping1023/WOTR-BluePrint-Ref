@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c2_vs/HellknightsUnderAttack/RegillAfterFight/Cue_0001"], ["Data.FinishActions.Actions[0].m_Objective", "World/Quests/c2_vs/HellknightsUnderAttack/Obj_03_TalkToRegill"], ["Data.FinishActions.Actions[1].m_flag", "World/Encounters/Regill_HellknightsVsGargoyles/UnlockableFlags/ConvenientExit"]]}

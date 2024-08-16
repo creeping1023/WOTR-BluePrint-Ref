@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].ConditionsChecker.Conditions[0].m_QuestObjective", "World/Quests/c4/ChampionOfTheArena/Add12_TalkWithZeklex"], ["Data.OnShow.Actions[0].IfTrue.Actions[0].m_Objective", "World/Quests/c4/ChampionOfTheArena/Add12_TalkWithZeklex"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/BattleBliss/Irmangaleth_dialogue/Answer_0173"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[2].m_flag", "World/Encounters/WintersunOutdoor/UnlockableFlags/MarhevokStandUp_flag"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Wintersun/JerribethReveal/Cue_0044"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/Wintersun/JerribethReveal/Answer_0027"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Squads[0].m_Unit", "Armies/UnitBlueprints/ArmyCultist_Baphomet_Melee"], ["Data.Squads[1].m_Unit", "Armies/UnitBlueprints/ArmyCultist_FighterTank"], ["Data.Squads[2].m_Unit", "Armies/UnitBlueprints/ArmyMinotaur"]], "referenced": [["Data.Components[0].Actions.Actions[1].IfTrue.Actions[8].Preset", "World/Etudes/Common/WrathOfTheRighteous/Chapter02"]]}

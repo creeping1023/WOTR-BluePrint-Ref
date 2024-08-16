@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_ItemToCheck", "Items/Archeology/Mementos/Cyclops/Memento_CyclopsCoin"], ["Data.OnShow.Actions[0].m_ItemToSell", "Items/Archeology/Mementos/Cyclops/Memento_CyclopsCoin"]], "referenced": [["Data.Cues[3]", "World/Dialogs/Test/Archeology/Collector/CueSequence_0025"]]}

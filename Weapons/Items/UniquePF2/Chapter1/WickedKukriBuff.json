@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level1/BlessBuff"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level1/BlessBuff"]], "referenced": [["Data.Components[0].Action.Actions[0].Actions.Actions[0].Failed.Actions[0].m_Buff", "Weapons/Items/UniquePF2/Chapter1/WickedKukriEnchantment"]]}

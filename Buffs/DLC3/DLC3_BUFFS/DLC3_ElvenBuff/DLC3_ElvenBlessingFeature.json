@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Activated.Actions[0].ConditionsChecker.Conditions[0].m_Fact", "Races/ElfRace"], ["Data.Components[0].Activated.Actions[0].IfTrue.Actions[0].m_Buff", "Buffs/DLC3/DLC3_BUFFS/DLC3_ElvenBuff/DLC3_ElvenBlessingBuff"]], "referenced": [["Data.Components[0].m_Feature", "Dugeons/Boons/DungeonBoon_Elven"]]}

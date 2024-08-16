@@ -1,0 +1,1 @@
+{"referencing": [["Data.EnterActions.Actions[0].m_Cutscene", "World/Cutscenes/AlushinyrraMediumCity/DragonKidnap1/DragonKidnap1"], ["Data.EnterActions.Actions[1].m_flag", "World/Encounters/AlushinyrraMediumCity/UnlockableFlags/DragonKidnap1"], ["Data.EnterActions.Actions[5].IfTrue.Actions[0].m_companion", "Mythic/Azata/AzataDragon/AzataDragonUnit"]]}

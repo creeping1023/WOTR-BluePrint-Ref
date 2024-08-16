@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Feature", "Feats/WeaponSpecialization/WeaponSpecializationLongbow"]], "referenced": [["Data.Components[3].m_Facts[1]", "CreatureAbilities/Templates/DLC1/Anomaly/AnomalyTemplateRangeFeature"], ["Data.IsPrerequisiteFor[0]", "Feats/WeaponSpecialization/WeaponSpecializationLongbow"]]}

@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "Brain/Actions/AlchemistBombAiAction"]]}
+{"referencing": [["Data.PrototypeLink", "Brain/Actions/AlchemistBombAiAction"], ["Data.m_TargetConsiderations[0]", "Brain/Considerations/AttackTargetsPriority"], ["Data.m_TargetConsiderations[1]", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Gundrun/DLC4_IsSwarmConsideration"], ["Data.m_Ability", "Items/Consumables/AlchemistsFireAbility"]], "referenced": [["Data.m_Actions[1]", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Gundrun/DLC4_AntiswarmDumbWarriorBrain"]]}

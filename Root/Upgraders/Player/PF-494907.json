@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions.Actions[0].m_Fact", "CreatureAbilities/Immunities/ImmunityToPolymorph"], ["Data.m_Actions.Actions[0].m_ExceptHasFact", "Traits/Races/Common/PlantType"]], "referenced": [["Data.m_Upgraders[658]", "Root/PlayerUpgradeActionsRoot"]]}

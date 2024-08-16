@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Armies/Leaders/Feats/RangerFeats/TrapMasteryRank1Fact"]], "referenced": [["Data.m_Prerequisites[0]", "Armies/Leaders/Feats/RangerFeats/TrapMasteryRank2"], ["Data.m_Skills[4]", "Armies/Leaders/Progression/FeatRangerPersonalChoice1"], ["Data.m_Skills[4]", "Armies/Leaders/Progression/FeatRangerPersonalChoice3"]]}

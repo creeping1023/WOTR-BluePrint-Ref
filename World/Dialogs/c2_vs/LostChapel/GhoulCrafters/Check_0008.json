@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Success", "World/Dialogs/c2_vs/LostChapel/GhoulCrafters/Cue_0009"], ["Data.m_Fail", "World/Dialogs/c2_vs/LostChapel/GhoulCrafters/Cue_0010"]], "referenced": [["Data.CuesSeen[2898]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/c2_vs/LostChapel/GhoulCrafters/Answer_0006"]]}

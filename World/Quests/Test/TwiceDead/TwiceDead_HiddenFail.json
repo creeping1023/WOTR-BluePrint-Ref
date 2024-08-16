@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Quest", "World/Quests/Test/TwiceDead/TwiceDead"]], "referenced": [["Data.Components[0].Actions.Actions[0].IfTrue.Actions[0].m_Objective", "World/Etudes/Common/WrathOfTheRighteous/Chapter04"], ["Data.m_Objectives[6]", "World/Quests/Test/TwiceDead/TwiceDead"]]}

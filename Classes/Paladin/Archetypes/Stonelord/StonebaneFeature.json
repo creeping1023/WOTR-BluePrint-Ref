@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_EnchantmentBlueprint", "Weapons/Enchantments/BaneConstruct"], ["Data.Components[1].m_EnchantmentBlueprint", "Weapons/Enchantments/BaneConstruct"]], "referenced": [["Data.AddFeatures[15].m_Features[0]", "Classes/Paladin/Archetypes/Stonelord/StonelordArchetype"]]}

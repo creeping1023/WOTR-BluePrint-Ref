@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon"], ["Data.EntryCondition.Conditions[2].m_companion", "Units/Companions/Arueshalae/Arueshalae_Companion"]], "referenced": [["Data.m_Tracks[2].m_Commands[0]", "World/Cutscenes/WintersunOutdoor/ChildrenRunAway/ChildrenRunAway"]]}

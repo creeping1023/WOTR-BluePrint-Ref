@@ -1,0 +1,1 @@
+{"referencing": [["Data.EnterActions.Actions[0].ConditionsChecker.Conditions[0].m_ConditionFlag", "World/Encounters/Woljif_Q1_ThieflingsHideout/UnlockableFlags/NearCommonFund"], ["Data.EnterActions.Actions[0].IfTrue.Actions[0].m_Cutscene", "World/Cutscenes/Woljif_Q1_ThieflingsHideout/CommonFundDontGo/CommonFundDontGo"]]}

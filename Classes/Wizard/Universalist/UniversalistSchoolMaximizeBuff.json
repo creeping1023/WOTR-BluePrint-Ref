@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Classes/Wizard/Transmutation/TransmutationSchoolDexterityBuff"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "Classes/Wizard/Transmutation/TransmutationSchoolDexterityBuff"]], "referenced": [["Data.Components[0].Actions.Actions[0].m_Buff", "Classes/Wizard/Universalist/UniversalistSchoolMaximizeAbility"]]}

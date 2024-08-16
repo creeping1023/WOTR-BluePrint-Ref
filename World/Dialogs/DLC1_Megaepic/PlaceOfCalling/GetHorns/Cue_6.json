@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].Etude", "World/Etudes/Common/DLC1_LichSecretExport"], ["Data.OnStop.Actions[1].m_Cutscene", "World/Cutscenes/DLC1_PlaceOfCalling/RevealHorns/RevealHorns"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC1_Megaepic/PlaceOfCalling/GetHorns/Answer_0004"]]}

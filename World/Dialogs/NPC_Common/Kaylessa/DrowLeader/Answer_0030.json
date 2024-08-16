@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/NPC_Common/Kaylessa/DrowLeader/Cue_0031"], ["Data.OnSelect.Actions[0].m_Cutscene", "World/Cutscenes/Kaylessa_DrowAmbush/PlayerSitsToTheFire/PlayerSitsToTheFire"]], "referenced": [["Data.Answers[4]", "World/Dialogs/NPC_Common/Kaylessa/DrowLeader/AnswersList_0002"]]}

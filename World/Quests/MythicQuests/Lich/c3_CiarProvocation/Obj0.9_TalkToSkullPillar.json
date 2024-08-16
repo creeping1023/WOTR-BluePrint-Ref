@@ -1,0 +1,1 @@
+{"referencing": [["Data.Locations[0]", "GlobalMaps/WorldWoundGM/Points/Point_Drezen"], ["Data.MultiEntranceEntries[0]", "MultiEntrance/Drezen/DrezenStreetMultiEntranceEntry"], ["Data.m_Quest", "World/Quests/MythicQuests/Lich/c3_CiarProvocation/Ciar_Provocation"]], "referenced": [["Data.m_Objectives[0]", "World/Quests/MythicQuests/Lich/c3_CiarProvocation/Ciar_Provocation"]]}

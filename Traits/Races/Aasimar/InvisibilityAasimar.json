@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Actions.Actions[0].m_Buff", "Spells/Level2/InvisibilityBuff"], ["Data.Components[3].m_RequiredResource", "Traits/Races/Aasimar/HaloAasimar/AasimarSpellLikeResource"]], "referenced": [["Data.Components[4].m_Facts[0]", "Traits/Races/Aasimar/GarudaHeritage"]]}

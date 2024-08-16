@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_Projectiles[0]", "FX/Spell Level 3/Fireball00"], ["Data.Components[2].Actions.Actions[2].Failed.Actions[0].m_Buff", "Spells/Level1/SnowballBuff"], ["Data.Components[8].m_SpellList", "Classes/Prototype/PrototypeSpellList"]], "referenced": [["Data.Components[0].Combinations[5].School1Saving2Target1", "Classes/Prototype/PrototypeSpellbook"]]}

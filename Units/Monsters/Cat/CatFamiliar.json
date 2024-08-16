@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_CharacterClass", "Classes/Monster/Dragon/DragonClass"], ["Data.m_Faction", "Factions/Neutrals"], ["Data.m_Brain", "Brain/Dumb Monster Brain"], ["Data.m_AddFacts[0]", "Feats/Dodge"], ["Data.m_AddFacts[1]", "CreatureAbilities/NaturalArmor/NaturalArmor2"], ["Data.m_AddFacts[2]", "CreatureAbilities/ImmunityToMagic/SpellResistance11plusCR"]]}

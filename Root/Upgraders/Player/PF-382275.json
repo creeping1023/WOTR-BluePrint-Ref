@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions.Actions[0].m_ToReplace", "Classes/Skald/SkaldDR"], ["Data.m_Actions.Actions[0].m_Replacement", "Classes/Skald/SkaldDR"], ["Data.m_Actions.Actions[0].m_FromProgression", "Classes/Skald/SkaldProgression"]], "referenced": [["Data.m_Upgraders[474]", "Root/PlayerUpgradeActionsRoot"]]}

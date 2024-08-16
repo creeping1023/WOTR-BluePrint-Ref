@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_companion", "Units/Companions/Wenduag/Wenduag_Companion"], ["Data.OnStop.Actions[0].m_Objective", "World/Quests/Companions/Wenduag/Q3_TraitorsBlood/Obj1_TalkToSull"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Lann/Q3The Last Resort/SullWeak/Answer_0006"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_IgnoreFeature", "Mythic/MythicAbilities/Corrupter"]], "referenced": [["Data.Components[2].m_Feature", "Classes/Shaman/Archetypes/ProphetOfPestilence/MutatingStrainFeature"], ["Data.Components[2].m_Fact", "Classes/Shaman/Archetypes/ProphetOfPestilence/PlagueHexFeatures/PlagueHexPhysicalWeaknesses/PlagueHexPhysicalImpairedProperty"]]}

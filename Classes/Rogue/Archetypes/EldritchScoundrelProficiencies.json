@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Classes/Basic/Proficiencies/SimpleWeaponProficiency"]], "referenced": [["Data.m_UIDeterminatorsGroup[1]", "Classes/Rogue/RogueProgression"], ["Data.AddFeatures[0].m_Features[1]", "Classes/Rogue/Archetypes/EldritchScoundrelArchetype"], ["Data.m_AllowedForRestoreFeatures[8]", "Root/PlayerUpgradeActionsRoot"]]}

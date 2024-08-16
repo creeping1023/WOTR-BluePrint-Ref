@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/DeadDruid/Cue_0001"], ["Data.FirstCue.Cues[1]", "World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/DeadDruid/Cue_3"]], "referenced": [["Data.ShowConditions.Conditions[0].m_Dialog", "World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/NymphDialog/Answer_0016"]]}

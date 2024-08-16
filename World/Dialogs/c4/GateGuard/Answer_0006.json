@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/GateGuard/Cue_0100"], ["Data.NextCue.Cues[1]", "World/Dialogs/c4/GateGuard/Cue_0007"]], "referenced": [["Data.AnswersSelected[2822]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[9]", "World/Dialogs/c4/GateGuard/AnswersList_0002"]]}

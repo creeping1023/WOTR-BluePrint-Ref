@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Value.m_CustomProperty", "Armies/Rituals/FalseGraceHPProperty"]], "referenced": [["Data.Components[1].Actions.Actions[0].IfTrue.Actions[0].m_Buff", "Armies/Rituals/Lich1FalseGraceAbility"]]}

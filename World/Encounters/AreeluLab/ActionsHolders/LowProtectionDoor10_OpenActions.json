@@ -1,0 +1,1 @@
+{"referencing": [["Data.Actions.Actions[0].ConditionsChecker.Conditions[0].m_ItemToCheck", "World/Encounters/AreeluLab/Items/AbyssalKey"], ["Data.Actions.Actions[0].ConditionsChecker.Conditions[1].m_ConditionFlag", "World/Encounters/AreeluLab/UnlockableFlags/AL_MagicBarrier2_Open"]]}

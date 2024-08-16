@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_Projectiles[0]", "FX/Creatures/LanternKing_FireCone60Feet00"]], "referenced": [["Data.m_AddFacts[5]", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/LanternKing/Wave2/LanternKing"], ["Data.m_Ability", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/LanternKing/Wave2/LanternKingBrain/LanternKingChaosFlare_AiAction"]]}

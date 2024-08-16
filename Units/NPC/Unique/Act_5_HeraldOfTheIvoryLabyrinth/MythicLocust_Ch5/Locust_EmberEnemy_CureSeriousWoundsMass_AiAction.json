@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Brain/Considerations/InjuryCritical"], ["Data.m_TargetConsiderations[1]", "Brain/Considerations/AoE_ChooseMoreFriends"], ["Data.m_Ability", "Spells/Level7/CureSeriousWoundsMass"]], "referenced": [["Data.m_Actions[2]", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/MythicLocust_Ch5/Locust_EmberEnemy_Brain"]]}

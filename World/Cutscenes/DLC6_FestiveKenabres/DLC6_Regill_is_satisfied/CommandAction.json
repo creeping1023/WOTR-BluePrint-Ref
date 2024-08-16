@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_HeavySuppressionBuff"], ["Data.Action.Actions[1].Etude", "World/Etudes/Common/DLC6_DanceOfMasks/DLC6_Companions/DLC6_RegillActivities/DLC6_RegillEventInKenabres"]], "referenced": [["Data.m_Tracks[0].m_Commands[2]", "World/Cutscenes/DLC6_FestiveKenabres/DLC6_Regill_is_satisfied/gate"]]}

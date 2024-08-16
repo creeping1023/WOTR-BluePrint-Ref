@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SpellsPerDay", "Mythic/Lich/LichSpellsPerDay"], ["Data.m_SpellList", "Mythic/Lich/LichWizardSpelllist"], ["Data.m_MythicSpellList", "Mythic/Lich/LichMythicSpelllist"], ["Data.m_CharacterClass", "Mythic/Lich/LichMythicClass"]], "referenced": [["Data.m_Spellbook", "Mythic/Lich/LichMythicClass"]]}

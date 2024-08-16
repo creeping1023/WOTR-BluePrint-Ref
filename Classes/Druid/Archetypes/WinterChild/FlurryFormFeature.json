@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_Facts[0]", "Traits/Races/Common/OutsiderType"], ["Data.Components[1].m_Facts[1]", "CreatureAbilities/Subtypes/SubtypeElemental"], ["Data.Components[1].m_Facts[2]", "CreatureAbilities/Subtypes/Airborne"]], "referenced": [["Data.AddFeatures[8].m_Features[0]", "Classes/Druid/Archetypes/WinterChild/WinterChildArchetype"]]}

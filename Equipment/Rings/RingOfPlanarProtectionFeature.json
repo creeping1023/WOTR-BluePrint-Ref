@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Equipment/Rings/ParagonOfWinterRingFeature"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "Equipment/Rings/ParagonOfWinterRingFeature"]], "referenced": [["Data.Components[1].m_Feature", "Equipment/Rings/RingOfPlanarProtectionEnchant"]]}

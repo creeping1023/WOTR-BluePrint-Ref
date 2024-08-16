@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/BattleBliss/MythicDemonFinishFight/CommandControlCamera 1"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/BattleBliss/MythicDemonFinishFight/gate 2"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/BattleBliss/MythicDemonFinishFight/gate"]]}

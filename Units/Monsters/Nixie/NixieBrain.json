@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions[0]", "Brain/Actions/AcidSplashAiAction"], ["Data.m_Actions[1]", "Brain/Actions/AttackAiAction"]], "referenced": [["Data.m_Brain", "Units/Monsters/DLC3_Mobs/DLC3_AnyTir_ElementalsFeyMagiccalBeasts/DLC3_CR1_Nixie"], ["Data.m_Brain", "Units/Monsters/Nixie/CR1_Nixie"]]}

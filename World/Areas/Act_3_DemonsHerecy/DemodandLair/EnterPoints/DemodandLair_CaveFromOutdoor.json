@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Act_3_DemonsHerecy/DemodandLair/DemodandLair"], ["Data.m_AreaPart", "World/Areas/Act_3_DemonsHerecy/DemodandLair/DemodandLair_Cave"]], "referenced": [["Data.Components[0].AreaParts.ElementList[1].EnterPoint", "QA/Arbiter/Scenario/Act_3_DemonHerecy/DemodandLair"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Actions.Actions[5].m_Cutscene", "World/Cutscenes/IvorySanctum/ShowSanctumPuzzleChest/ShowSanctumPuzzleChest"]], "referenced": [["Data.Actions.Actions[2].IfTrue.Actions[0].Holder", "World/Encounters/IvorySanctum/ActionsHolders/MainHallCipher_4_Actions"]]}

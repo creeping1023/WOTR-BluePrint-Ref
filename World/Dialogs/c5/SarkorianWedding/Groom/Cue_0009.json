@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Commoners/Wight/WightBoss/SarcorianWedding_WightBoss"], ["Data.OnShow.Actions[0].m_Objective", "World/Quests/c5/SarkorianWedding/Obj_01_TalkGroom"], ["Data.Continue.Cues[0]", "World/Dialogs/c5/SarkorianWedding/Groom/Cue_0010"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/c5/SarkorianWedding/Groom/Cue_0008"]]}

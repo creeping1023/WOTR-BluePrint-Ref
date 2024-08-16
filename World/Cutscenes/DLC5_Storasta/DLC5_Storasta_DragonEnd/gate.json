@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC5_Storasta/DLC5_Storasta_DragonEnd/CommandAction1"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DLC5_Storasta/DLC5_Storasta_DragonEnd/DLC5_Storasta_DragonEnd"], ["Data.m_Tracks[1].m_EndGate", "World/Cutscenes/DLC5_Storasta/DLC5_Storasta_DragonEnd/DLC5_Storasta_DragonEnd"]]}

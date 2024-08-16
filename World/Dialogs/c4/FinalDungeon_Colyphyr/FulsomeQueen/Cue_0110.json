@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Lann/Lann_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c4/FinalDungeon_Colyphyr/FulsomeQueen/Cue_0111"]], "referenced": [["Data.CuesSeen[8638]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Cues[1]", "World/Dialogs/c4/FinalDungeon_Colyphyr/FulsomeQueen/CueSequence_0108"]]}

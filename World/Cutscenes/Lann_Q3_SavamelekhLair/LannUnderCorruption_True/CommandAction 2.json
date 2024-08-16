@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_SummonPool", "World/Encounters/Lann_Q3_SavamelekhLair/SummonPools/RageMongrels"], ["Data.Action.Actions[0].Actions.Actions[0].m_Buff", "Spells/CutsceneSpells/CutsceneRageBuff"]], "referenced": [["Data.m_Tracks[1].m_Commands[1]", "World/Cutscenes/Lann_Q3_SavamelekhLair/LannUnderCorruption_True/gate 4"]]}

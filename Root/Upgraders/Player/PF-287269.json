@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SpecificArea", "World/Areas/Act_3_DemonsHerecy/DrezenCapital/DrezenCapital"], ["Data.m_Actions.Actions[0].m_Flag", "World/Encounters/DrezenCapital/UnlockableFlags/RestTime"], ["Data.m_Actions.Actions[1].m_Cutscene", "World/Cutscenes/DrezenCapital/RestCutscene/RestCutscene"]], "referenced": [["Data.m_Upgraders[224]", "Root/PlayerUpgradeActionsRoot"]]}

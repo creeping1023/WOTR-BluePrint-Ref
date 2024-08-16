@@ -1,0 +1,1 @@
+{"referencing": [["Data.SpecificCampaign", "DLC/MainGame/MainCampaign"], ["Data.m_Group", "Achievements/Groups/DLC4TrophyGroup"]], "referenced": [["Data.Achievements.m_List[114]", "Root/BlueprintRoot"], ["Data.Components[2].Actions.Actions[1].m_Achievement", "World/Etudes/Common/DLC4_Shifter/DLC4_Part_2/DLC4_Gundrun_Part_2/DLC4_SecondState_FinalBattle"]]}

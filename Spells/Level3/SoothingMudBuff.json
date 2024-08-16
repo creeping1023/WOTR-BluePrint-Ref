@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Deactivated.Actions[0].m_Buff", "Spells/Level3/SoothingMudCooldownBuff"]], "referenced": [["Data.Components[0].UnitEnter.Actions[0].ConditionsChecker.Conditions[0].m_Buff", "Spells/Level3/SoothingMudArea"], ["Data.Components[0].UnitEnter.Actions[0].IfTrue.Actions[0].m_Buff", "Spells/Level3/SoothingMudArea"]]}

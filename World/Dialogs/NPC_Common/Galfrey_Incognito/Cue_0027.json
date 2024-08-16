@@ -1,0 +1,1 @@
+{"referencing": [["Data.Answers[0]", "World/Dialogs/NPC_Common/Galfrey_Incognito/AnswersList_0005"]], "referenced": [["Data.CuesSeen[2154]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.ShowConditions.Conditions[0].m_Cue", "World/Dialogs/NPC_Common/Galfrey_Incognito/Answer_0014"], ["Data.Continue.Cues[0]", "World/Dialogs/NPC_Common/Galfrey_Incognito/Cue_0015"]]}

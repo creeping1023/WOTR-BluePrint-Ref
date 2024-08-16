@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Cutscene", "World/Cutscenes/Common/UnitDirtyDanceFemale/UnitDirtyDanceFemale"], ["Data.Action.Actions[1].m_Cutscene", "World/Cutscenes/Common/UnitDirtyDanceFemale/UnitDirtyDanceFemale"]], "referenced": [["Data.m_Tracks[0].m_Commands[2]", "World/Cutscenes/DLC6_FestiveKenabres/DLC6_Relax_CS/gate4"]]}

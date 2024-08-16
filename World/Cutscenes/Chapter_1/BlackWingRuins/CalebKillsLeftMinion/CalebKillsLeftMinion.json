@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Chapter_1/BlackWingRuins/CalebKillsLeftMinion/CommandDelay 4"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/Chapter_1/BlackWingRuins/CalebKillsLeftMinion/gate 2"]], "referenced": [["Data.OnShow.Actions[3].m_Cutscene", "World/Dialogs/c1/BlackWingRuins/Caleb_MainDialogue/Cue_0057"]]}

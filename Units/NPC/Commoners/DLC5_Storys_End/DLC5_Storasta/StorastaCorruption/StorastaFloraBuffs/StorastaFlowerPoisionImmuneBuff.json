@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_IgnoreFeature", "Mythic/MythicAbilities/Corrupter"]], "referenced": [["Data.Actions.Actions[1].m_Buff", "World/Encounters/DLC5_Storasta/ActionsHolders/DLC5_Storasta_PoisonBuff"], ["Data.Actions.Actions[1].m_Buff", "World/Encounters/DLC5_Storasta/ActionsHolders/DLC5_Storasta_PoisonBuff1"]]}

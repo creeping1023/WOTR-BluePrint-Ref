@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/AreeluLabAgain/AreeluCell/Cue_0023"], ["Data.ShowConditions.Conditions[0].m_ConditionFlag", "World/Encounters/AreeluLabReturn/UnlockableFlags/ALR_WitchunterFate"]], "referenced": [["Data.Answers[2]", "World/Dialogs/c5/AreeluLabAgain/AreeluCell/AnswersList_0019"]]}

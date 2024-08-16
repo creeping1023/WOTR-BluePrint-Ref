@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "Units/Monsters/Demon Omox/OmoxBrain/Omox_AiAction_CreepingDoom"]]}
+{"referencing": [["Data.PrototypeLink", "Units/Monsters/Demon Omox/OmoxBrain/Omox_AiAction_CreepingDoom"], ["Data.m_ActorConsiderations[0]", "Brain/Considerations/NoThreateningUnitsConsideration"], ["Data.m_Ability", "Units/Monsters/DLC5_Sithhud/DLC5_ImmortalIchorCreepingDoom"]], "referenced": [["Data.m_Actions[2]", "Units/Monsters/DLC5_Sithhud/CR17_ImmortalIchorBrain"]]}

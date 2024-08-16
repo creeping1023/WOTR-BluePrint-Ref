@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/AreeluLabAgain/AreeluCell/Cue_0036"], ["Data.OnSelect.Actions[0].m_Flag", "World/Encounters/AreeluLabReturn/UnlockableFlags/AreeluRebel"]], "referenced": [["Data.Answers[5]", "World/Dialogs/c5/AreeluLabAgain/AreeluCell/AnswersList_0026"]]}

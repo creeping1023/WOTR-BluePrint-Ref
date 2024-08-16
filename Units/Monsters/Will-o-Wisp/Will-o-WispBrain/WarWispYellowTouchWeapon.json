@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Type", "Units/Monsters/Will-o-Wisp/Will-o-WispBrain/WillOWispTouchType"]], "referenced": [["Data.m_Items[1323]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Body.m_AdditionalLimbs[0]", "QA/Unused/Units/Monsters/Will-o-Wisp/CR8_WarWispYellow"], ["Data.Body.m_AdditionalSecondaryLimbs[0]", "QA/Unused/Units/Monsters/Will-o-Wisp/CR8_WarWispYellow"]]}

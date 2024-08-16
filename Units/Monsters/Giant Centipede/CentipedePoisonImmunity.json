@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Buff", "Units/Monsters/Giant Centipede/GiantCentipedePoisonBuff"]], "referenced": [["Data.Components[2].m_Facts[0]", "Classes/Pets/GiantCentipedePoisonFeature"], ["Data.Components[2].m_Facts[0]", "Units/Monsters/Giant Centipede/GiantCentipedePoisonFeature"]]}

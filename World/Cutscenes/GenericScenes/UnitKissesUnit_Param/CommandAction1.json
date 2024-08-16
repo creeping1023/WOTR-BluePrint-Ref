@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[2].ConditionsChecker.Conditions[0].m_Class", "Mythic/GoldenDragon/GoldenDragonClass"], ["Data.Action.Actions[2].IfTrue.Actions[0].m_Fact", "Mythic/GoldenDragon/GoldenDragonTrueFeature"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/GenericScenes/UnitKissesUnit_Param/gate1"]]}

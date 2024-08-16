@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Brain/Considerations/AoE_ChooseMoreEnemies"], ["Data.m_Ability", "Spells/Level7/PrismaticSpray"]], "referenced": [["Data.m_Actions[2]", "Units/Monsters/Ankou/AnkouBrain/AnkouBrain"], ["Data.m_Actions[2]", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/BossFight/DLC4_Totem_Fey/AnkouBrain_Spirit"]]}

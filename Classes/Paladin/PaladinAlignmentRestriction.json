@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Spellbooks[0]", "Classes/Paladin/PaladinSpellbook"], ["Data.Components[0].m_IgnoreFact", "Mythic/MythicIgnoreAlignmentRestrictions"]], "referenced": [["Data.LevelEntries[0].m_Features[2]", "Classes/Paladin/PaladinProgression"], ["Data.m_UIDeterminatorsGroup[2]", "Classes/Paladin/PaladinProgression"]]}

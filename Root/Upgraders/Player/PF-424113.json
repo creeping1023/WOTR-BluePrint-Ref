@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SpecificArea", "World/Areas/Act_1_WorldwoundIncursion/GrayGarrison/GrayGarrison"], ["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[0].m_Area", "World/Areas/Act_1_WorldwoundIncursion/DefendersHeart/DefendersHeart"]], "referenced": [["Data.m_Upgraders[529]", "Root/PlayerUpgradeActionsRoot"]]}

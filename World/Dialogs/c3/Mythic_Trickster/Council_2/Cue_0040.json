@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/Socothbenoth"], ["Data.OnStop.Actions[0].m_Objective", "World/Quests/MythicQuests/Trickster/TricksterFixAlignment/Objective_01_ChangeAlign"]], "referenced": [["Data.Continue.Cues[1]", "World/Dialogs/c3/Mythic_Trickster/Council_2/Cue_0038"]]}

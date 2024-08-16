@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionRomances/Lann/Event1/LannWantsTraining_KTC/Cue_0009"]], "referenced": [["Data.DoNotUseAnswer[1]", "QA/Clockwork/Scenario/Exploration/ScenarioParts/CompanionsRomance/LannUnlockRomance"], ["Data.Answers[5]", "World/Dialogs/Companions/CompanionRomances/Lann/Event1/LannWantsTraining_KTC/AnswersList_0003"]]}

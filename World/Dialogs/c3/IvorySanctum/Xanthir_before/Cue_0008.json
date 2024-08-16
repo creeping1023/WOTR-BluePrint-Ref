@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Xantir"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/IvorySanctum/Xanthir_before/Cue_0007"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/IvorySanctum/Xanthir_before/Answer_0006"]]}

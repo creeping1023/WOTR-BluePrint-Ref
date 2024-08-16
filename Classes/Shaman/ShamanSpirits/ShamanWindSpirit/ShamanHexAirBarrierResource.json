@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_MaxAmount.m_Class[0]", "Classes/Shaman/ShamanClass"]], "referenced": [["Data.Components[1].m_RequiredResource", "Classes/Shaman/ShamanSpirits/ShamanWindSpirit/ShamanHexAirBarrierAbility"], ["Data.Components[2].m_Resource", "Classes/Shaman/ShamanSpirits/ShamanWindSpirit/ShamanHexAirBarrierFeature"]]}

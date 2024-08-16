@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Act_3_DemonsHerecy/DrezenCapital/DrezenCapital"], ["Data.m_AreaPart", "World/Areas/Act_3_DemonsHerecy/DrezenCapital/DrezenCapital_Outdoor"]], "referenced": [["Data.Action.Actions[0].m_exitPositon", "World/Cutscenes/DrezenCapital/MythicAngel_SecondAdvent/CommandAction"]]}

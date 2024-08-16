@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c1/EstrodTower/Teldon/Cue_0060"]], "referenced": [["Data.AnswersSelected[377]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[6]", "World/Dialogs/c1/EstrodTower/Teldon/AnswersList_0007"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/c1/EstrodTower/Teldon/Answer_0001"]]}

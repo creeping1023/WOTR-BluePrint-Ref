@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_WeaponType", "Weapons/Types/NaturalWeapon/TentacleType"], ["Data.IsPrerequisiteFor[0]", "Feats/WeaponFocusGreater/WeaponFocusGreaterTentacle"]], "referenced": [["Data.Components[1].m_Feature", "Feats/WeaponFocusGreater/WeaponFocusGreaterTentacle"]]}

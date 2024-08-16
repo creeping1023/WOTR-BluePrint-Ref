@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[1].m_Buff", "Spells/Level4/InvisibilityGreaterBuff"], ["Data.Answers[0]", "World/Dialogs/c4/Minagho_Desperation/Nezirrius/AnswersList_0002"]], "referenced": [["Data.CuesSeen[6684]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.FirstCue.Cues[0]", "World/Dialogs/c4/Minagho_Desperation/Nezirrius/Nezirrius_Dialogue"]]}

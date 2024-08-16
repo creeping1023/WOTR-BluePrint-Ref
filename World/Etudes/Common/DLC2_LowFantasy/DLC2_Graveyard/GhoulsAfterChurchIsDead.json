@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Parent", "World/Etudes/Common/DLC2_LowFantasy/DLC2_Graveyard/Graveyard_MobsSwitches"]], "referenced": [["Data.TriggerConditions.Conditions[0].m_Etude", "World/Encounters/DLC2_Graveyard/ScriptZones/Graveyard_AfterHealerExit_SZ"], ["Data.Components[4].Actions.Actions[0].Etude", "World/Etudes/Common/DLC2_LowFantasy/DLC2_Graveyard/Graveyard_MobsSwitches"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_Projectiles[0]", "FX/Spell Level 3/Fireball00"], ["Data.Components[7].m_RequiredResource", "Weapons/Enchantments/Unique/StaffResource"]], "referenced": [["Data.Components[0].m_Facts[0]", "Weapons/Enchantments/Unique/FireStaffFeature"], ["Data.Components[1].m_Abilities[0]", "Weapons/Enchantments/Unique/FireStaffFeature"]]}

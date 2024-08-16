@@ -1,0 +1,1 @@
+{"referencing": [["Data.Continue.Cues[0]", "World/Dialogs/Companions/CompanionDialogues/Seelah/Cue_0122"], ["Data.Continue.Cues[1]", "World/Dialogs/Companions/CompanionDialogues/Seelah/Cue_0123"]], "referenced": [["Data.CuesSeen[7483]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionDialogues/Seelah/Answer_0119"]]}

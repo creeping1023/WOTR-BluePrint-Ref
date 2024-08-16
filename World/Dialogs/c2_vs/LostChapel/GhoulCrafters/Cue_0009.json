@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_SummonPool", "World/Encounters/LostChapel/SummonPools/GhoulsAtWorkshop"], ["Data.OnStop.Actions[0].Actions.Actions[0].m_Faction", "Factions/TrueNeutrals"]], "referenced": [["Data.CuesSeen[2899]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.m_Success", "World/Dialogs/c2_vs/LostChapel/GhoulCrafters/Check_0008"]]}

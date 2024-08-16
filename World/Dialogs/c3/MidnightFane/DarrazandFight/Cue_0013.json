@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Greybor/Greybor_Companion"], ["Data.m_Listener", "Units/Monsters/Demon Balor/MidnightFane/Darrazand"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/MidnightFane/DarrazandFight/Cue_0015"]], "referenced": [["Data.Cues[0]", "World/Dialogs/c3/MidnightFane/DarrazandFight/CueSequence_0011"]]}

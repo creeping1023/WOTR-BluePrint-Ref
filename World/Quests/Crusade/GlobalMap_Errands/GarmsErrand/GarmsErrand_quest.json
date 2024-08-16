@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Objectives[0]", "World/Quests/Crusade/GlobalMap_Errands/GarmsErrand/Objective_0001"]], "referenced": [["Data.ShowConditions.Conditions[0].m_Quest", "World/Dialogs/NPC_Common/Vendor_Quartermaster/Answer_0100"], ["Data.m_Quest", "World/Quests/Crusade/GlobalMap_Errands/GarmsErrand/Objective_0001"]]}

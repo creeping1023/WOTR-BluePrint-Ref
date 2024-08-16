@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Action.Actions[0].Actions.Actions[0].Failed.Actions[0].m_Buff", "Buffs/Paralyzed"]], "referenced": [["Data.Actions.Actions[5].IfTrue.Actions[0].m_Fact", "World/Encounters/DLC1_ShamiraAmbush/ActionsHolders/DLC1_Yozz_SpawnActions"]]}

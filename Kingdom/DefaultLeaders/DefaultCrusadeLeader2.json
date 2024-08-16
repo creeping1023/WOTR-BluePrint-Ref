@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Type", "Units/Types/Bear"], ["Data.m_Race", "Races/AasimarRace"], ["Data.m_Portrait", "Units/Portraits/Player/Placeholder_Male_Portrait"], ["Data.m_Faction", "Factions/Friends"], ["Data.m_Brain", "Brain/Passive Monster Brain"]], "referenced": [["Data.m_StartingNPCLeaders[1]", "Root/Kingdom/KingdomRoot"]]}

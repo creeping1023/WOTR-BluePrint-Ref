@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Objective", "World/Quests/c3/VengeanceOfSarkoris/Obj3_KillMorveg"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Wintersun/Morveg_Dying/Cue_0005"]], "referenced": [["Data.CuesSeen[4450]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Wintersun/Morveg_Dying/Cue_0002"]]}

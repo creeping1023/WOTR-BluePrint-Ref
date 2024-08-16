@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_ConditionFlag", "World/Encounters/BattleBliss/UnlockableFlags/NoBackUpArena"], ["Data.Action.Actions[3].m_exitPositon", "World/Areas/Act_4_MidnightIsles/BattleBliss/EnterPoints/BattleBliss_Arena_Enter"]], "referenced": [["Data.m_Tracks[2].m_Commands[0]", "World/Cutscenes/BattleBliss/FinalFight_FirstWave/gate 3"]]}

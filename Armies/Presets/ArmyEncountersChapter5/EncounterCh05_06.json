@@ -1,0 +1,1 @@
+{"referencing": [["Data.Squads[0].m_Unit", "Armies/UnitBlueprints/ArmyAssassin"], ["Data.Squads[1].m_Unit", "Armies/UnitBlueprints/ArmyBandit"]], "referenced": [["Data.Components[0].m_DemonArmies[5]", "Kingdom/MoraleFlags/KingdomMoraleFlagChapter5"], ["Data.Components[1].Actions.Actions[6].Preset", "World/Etudes/Common/WrathOfTheRighteous/Chapter05"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Brain/Considerations/AttackTargetsPriority"], ["Data.m_TargetConsiderations[1]", "Brain/Considerations/AoE_ChooseMoreEnemies"], ["Data.m_Ability", "Spells/Level2/SickeningEntanglement"]], "referenced": [["Data.m_Actions[0]", "Units/NPC/Commoners/Spectre/Wintersun/Wintersun_SpectreDruid_OutOfCombatBrain 1"]]}

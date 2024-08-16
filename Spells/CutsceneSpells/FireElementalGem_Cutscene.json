@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Spells/CutsceneSpells/FireBomb_Cutscene"]]}
+{"referencing": [["Data.Components[0].m_Projectiles[0]", "FX/Creatures/FireElementalGem_FireBombStone00_Projectile"], ["Data.m_Description.m_OwnerString", "Spells/CutsceneSpells/FireBomb_Cutscene"]]}

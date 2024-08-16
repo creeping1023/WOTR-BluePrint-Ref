@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_SpeakerPortrait", "Units/NPC/Unique/Act_1_WorldwoundIncursion/Theatre/Theatre_GnomeTwin1"], ["Data.Continue.Cues[0]", "World/Dialogs/c1/KenabresBurning/Theatre_Trapped/Cue_0011"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c1/KenabresBurning/Theatre_Trapped/Answer_0009"]]}

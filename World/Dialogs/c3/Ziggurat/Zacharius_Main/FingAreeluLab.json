@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_QuestObjective", "World/Quests/MythicQuests/Lich/c3_SpiritualLinks/Obj0.9_TalkToZacharius"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Ziggurat/Zacharius_Main/Cue_0065"]], "referenced": [["Data.FirstCue.Cues[0]", "World/Dialogs/c3/Ziggurat/Zacharius_Main/Zacharius_main"]]}

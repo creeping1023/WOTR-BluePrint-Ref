@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DrezenCapital/CamelliaQ1After_NewMurder/CommandMoveUnit"], ["Data.m_Tracks[1].m_Commands[0]", "World/Cutscenes/DrezenCapital/CamelliaQ1After_NewMurder/CommandControlCamera"]], "referenced": [["Data.m_Tracks[3].m_EndGate", "World/Cutscenes/DrezenCapital/CamelliaQ1After_NewMurder/CamelliaQ1After_NewMurder"]]}

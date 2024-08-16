@@ -1,0 +1,1 @@
+{"referencing": [["Data.Actions.Actions[0].ConditionsChecker.Conditions[0].m_Flag", "World/Encounters/KenabresGraveyard/UnlockableFlags/DoorBreak"], ["Data.Actions.Actions[0].IfFalse.Actions[1].m_Flag", "World/Encounters/KenabresGraveyard/UnlockableFlags/DoorBreak"]]}

@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level4/FalseLifeGreaterBuff"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level4/FalseLifeGreaterBuff"]], "referenced": [["Data.Buff", "World/Cutscenes/DrezenCitadel_Level2/CultistMinibossCasting/CommandAttachBuffSpan 1"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Faction", "Factions/Neutrals"], ["Data.Action.Actions[1].m_Faction", "Factions/Neutrals"], ["Data.Action.Actions[2].m_Faction", "Factions/Neutrals"], ["Data.Action.Actions[3].m_Faction", "Factions/Neutrals"]], "referenced": [["Data.m_Tracks[3].m_Commands[0]", "World/Cutscenes/DLC2_RichQuarter/Militia_afterBattle2/gate3"]]}

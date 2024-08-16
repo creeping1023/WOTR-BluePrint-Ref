@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Quest", "World/Quests/Companions/Wenduag/Q3_TraitorsBlood/Q3_TraitorsBlood"], ["Data.Unit.m_Companion", "Units/Companions/Wenduag/Wenduag_Companion"]], "referenced": [["Data.m_Tracks[0].m_Commands[3]", "World/Cutscenes/Lann_Q3_SavamelekhLair/Lann_MongrelsFinalCorruption/gate 8"]]}

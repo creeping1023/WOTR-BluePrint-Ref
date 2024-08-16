@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Objective", "World/Quests/c5/DresenPartisans/Obj2_GoTavern"], ["Data.Continue.Cues[0]", "World/Dialogs/c5/Drezen_Under_Siedge/VendorDangerousTavern/CueSequence_0030"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/Drezen_Under_Siedge/VendorDangerousTavern/Answer_0008"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Buffs/NPC_Immortality"], ["Data.Action.Actions[1].m_Buff", "Buffs/NPC_Protection"], ["Data.Action.Actions[3].Etude", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/FornIsDead"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Kaylessa_FornAmbush/FornWoundedOnGround/gate2"]]}

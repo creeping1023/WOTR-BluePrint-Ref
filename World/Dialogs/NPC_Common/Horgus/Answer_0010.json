@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/NPC_Common/Horgus/Cue_0027"], ["Data.ShowConditions.Conditions[0].m_Cue", "World/Dialogs/NPC_Common/Horgus/Cue_0022"]], "referenced": [["Data.AnswersSelected[113]", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset"], ["Data.Answers[6]", "World/Dialogs/NPC_Common/Horgus/AnswersList_0003"]]}

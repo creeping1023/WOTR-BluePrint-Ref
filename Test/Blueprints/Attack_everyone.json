@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_AttackFactions[0]", "Factions/Bandits"], ["Data.m_AttackFactions[3]", "Factions/Mobs"], ["Data.m_AttackFactions[4]", "Factions/Neutrals"], ["Data.m_AttackFactions[5]", "Factions/Player"]], "referenced": [["Data.m_AttackFactions[10]", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicTrickster_Ch3/PerpetuallyAnnoyedWizard/PerpetuallyAnnoyedFaction"]]}

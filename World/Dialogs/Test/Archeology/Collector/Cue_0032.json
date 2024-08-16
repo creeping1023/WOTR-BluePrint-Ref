@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_ItemToCheck", "Items/Archeology/Mementos/Dwarf/Memento_ToragPendant"], ["Data.OnShow.Actions[0].m_ItemToSell", "Items/Archeology/Mementos/Dwarf/Memento_ToragPendant"]], "referenced": [["Data.Cues[1]", "World/Dialogs/Test/Archeology/Collector/CueSequence_0025"]]}

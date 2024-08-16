@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Brain/Considerations/AttackTargetsPriority"], ["Data.m_TargetConsiderations[1]", "Brain/Considerations/LongRange"], ["Data.m_Ability", "Mythic/Aeon/AeonBlackHoleAbility"]], "referenced": [["Data.m_Actions[2]", "Units/NPC/Unique/DLC1_Megaepic/Valmallos/Valmallos_Features/Valmallos_Brain"]]}

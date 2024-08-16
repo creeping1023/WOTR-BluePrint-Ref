@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[1].m_Buff", "Buffs/NPC_Untargetable"], ["Data.Action.Actions[2].m_Faction", "Factions/CutsceneNeutrals"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC5_FrozenTemple/DLC5_Unit_dismember/DLC5_Unit_dismember"]]}

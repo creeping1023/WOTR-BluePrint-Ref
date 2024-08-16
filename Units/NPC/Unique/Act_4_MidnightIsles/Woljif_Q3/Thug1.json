@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Race", "Races/HumanRace"], ["Data.m_Portrait", "Units/PortraitsGenerated/ac1a4f4d83ce72c4f807e8605cd53fc0_BCT_Peasant_Male_1"], ["Data.Visual.m_Barks", "Sound/Barks/NPC/Bandits/BanditCommon01_Barks"], ["Data.m_Faction", "Factions/CutsceneNeutrals"], ["Data.m_Brain", "Brain/Dumb Monster Brain"], ["Data.Body.m_EmptyHandWeapon", "WeaponEmptyHand"]]}

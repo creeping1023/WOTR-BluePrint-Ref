@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC2_RichQuarter/Fow_on_the_Wall/CommandAddFogOfWarRevealer"]], "referenced": [["Data.EnterActions.Actions[0].m_Cutscene", "World/Encounters/DLC2_RichQuarter/ScriptZones/Fow_on_the_Wall"], ["Data.ExitActions.Actions[0].m_Cutscene", "World/Encounters/DLC2_RichQuarter/ScriptZones/Fow_on_the_Wall"]]}

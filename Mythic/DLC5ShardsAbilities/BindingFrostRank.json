@@ -1,0 +1,1 @@
+{"referenced": [["Data.Components[0].Actions.Actions[0].ConditionsChecker.Conditions[0].Buff", "Mythic/DLC5ShardsAbilities/BindingFrost"], ["Data.Components[0].Actions.Actions[0].IfTrue.Actions[1].m_Buff", "Mythic/DLC5ShardsAbilities/BindingFrost"], ["Data.Components[0].Actions.Actions[0].IfFalse.Actions[0].m_Buff", "Mythic/DLC5ShardsAbilities/BindingFrost"]]}

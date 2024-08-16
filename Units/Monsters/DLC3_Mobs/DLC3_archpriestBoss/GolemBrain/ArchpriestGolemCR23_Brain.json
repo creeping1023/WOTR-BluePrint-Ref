@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions[0]", "Units/Monsters/DLC3_Mobs/DLC3_archpriestBoss/GolemBrain/Golem_AiPush"], ["Data.m_Actions[1]", "Units/Monsters/DLC3_Mobs/DLC3_archpriestBoss/GolemBrain/Golem_AiPull"], ["Data.m_Actions[2]", "Brain/Actions/AttackAiAction"]], "referenced": [["Data.m_Brain", "Units/Monsters/DLC3_Mobs/DLC3_archpriestBoss/ArchpriestGolemCR23"]]}

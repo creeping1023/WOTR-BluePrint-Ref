@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SpecificArea", "World/Areas/Act_3_DemonsHerecy/DrezenCapital/DrezenCapital"], ["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/Companions/SosielCompanion/SosielPlayCardsAtNight"]], "referenced": [["Data.m_Upgraders[315]", "Root/PlayerUpgradeActionsRoot"]]}

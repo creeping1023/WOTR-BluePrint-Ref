@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c3/Mythic_Aeon/AeonJudgment_c3/Q9AeonDrezenSadistic/Aeon_KTC_Sadistic/Cue_0001"]], "referenced": [["Data.Components[0].Actions.Actions[0].Parameters.Parameters[2].Evaluator.m_Value", "World/Etudes/Common/WrathOfTheRighteous/MythicAeon/PlayerIsAeon/AeonCapital/AeonCapitalMechanic/AeonQ9/AeonQ9_StartKTC"]]}

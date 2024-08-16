@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/BattleBliss/Zeklex_dialogue/Cue_0067"], ["Data.NextCue.Cues[1]", "World/Dialogs/c4/BattleBliss/Zeklex_dialogue/Cue_0025"]], "referenced": [["Data.AnswersSelected[2963]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[1]", "World/Dialogs/c4/BattleBliss/Zeklex_dialogue/AnswersList_0007"]]}

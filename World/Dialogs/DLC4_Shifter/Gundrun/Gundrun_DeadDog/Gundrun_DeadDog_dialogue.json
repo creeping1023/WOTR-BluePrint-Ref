@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_DeadDog/Cue_0001"], ["Data.Conditions.Conditions[0].m_Cue", "World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_DeadDog/Cue_0008"]], "referenced": [["Data.Conditions.Conditions[0].m_Dialog", "World/Encounters/DLC4_Gundrun/ConditionsHolders/DLC4_DeadDogBark_Conditions"]]}

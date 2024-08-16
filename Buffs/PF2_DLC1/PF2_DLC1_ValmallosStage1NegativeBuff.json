@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Feature", "CreatureAbilities/Immunities/ImmunityToMindAffecting"]], "referenced": [["Data.OnShow.Actions[0].m_Buff", "World/Dialogs/DLC1_Megaepic/Threshold/FinalBattle/Cue_0023"], ["Data.OnStop.Actions[0].m_Buff", "World/Dialogs/DLC1_Megaepic/Threshold/FinalBattle/Cue_27"]]}

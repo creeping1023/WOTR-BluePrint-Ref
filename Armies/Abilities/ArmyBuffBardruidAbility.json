@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[2].Actions.Actions[0].IfTrue.Actions[0].m_Buff", "Armies/Abilities/ArmyBuffBardruidBuff"], ["Data.Components[5].m_RequiredResource", "Armies/Abilities/ArmyBuffBardruidResource"]], "referenced": [["Data.Components[1].m_Facts[0]", "Armies/Abilities/ArmyBuffBardruid"]]}

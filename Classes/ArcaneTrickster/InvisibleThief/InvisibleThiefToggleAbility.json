@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_RequiredResource", "Classes/ArcaneTrickster/InvisibleThief/InvisibleThiefResource"], ["Data.m_Buff", "Spells/Level4/InvisibilityGreaterBuff"]], "referenced": [["Data.Components[0].m_Facts[0]", "Classes/ArcaneTrickster/InvisibleThief/InvisibleThiefFeature"]]}

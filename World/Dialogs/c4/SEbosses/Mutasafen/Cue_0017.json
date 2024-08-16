@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicAngel_Ch3/Berengar"], ["Data.m_Listener", "Units/NPC/Unique/Act_4_MidnightIsles/Mutasafen/Mutasafen"]], "referenced": [["Data.CuesSeen[6844]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Cues[2]", "World/Dialogs/c4/SEbosses/Mutasafen/CueSequence_0013"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/NPC_Common/Crinukh/Cue_0241"], ["Data.OnSelect.Actions[0].m_Flag", "World/Encounters/CrinukhCamp/UnlockableFlags/CrinukhCountFlag"]], "referenced": [["Data.Answers[3]", "World/Dialogs/NPC_Common/Crinukh/AnswersList_0103"]]}

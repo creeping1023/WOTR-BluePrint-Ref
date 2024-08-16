@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Classes/Alchemist/Discoveries/ExplosiveBombs/ExplosiveBombBuff"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "Classes/Alchemist/Discoveries/ExplosiveBombs/ExplosiveBombBuff"]], "referenced": [["Data.Components[1].Actions.Actions[1].m_Buff", "Classes/Alchemist/Discoveries/SpontaneousHealing/SpontaneousHealing"], ["Data.Components[2].m_Facts[0]", "Classes/Alchemist/Discoveries/SpontaneousHealing/SpontaneousHealing"]]}

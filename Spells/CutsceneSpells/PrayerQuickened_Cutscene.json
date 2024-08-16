@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[3].Actions.Actions[0].IfTrue.Actions[0].m_Buff", "Spells/Level3/PrayerDebuff"], ["Data.Components[3].Actions.Actions[0].IfFalse.Actions[0].m_Buff", "Spells/Level3/PrayerBuff"]]}

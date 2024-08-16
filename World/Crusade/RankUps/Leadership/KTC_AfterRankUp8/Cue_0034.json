@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/RankUpOfficer_Leadership"], ["Data.Continue.Cues[0]", "World/Crusade/RankUps/Leadership/KTC_AfterRankUp8/Cue_0045"]], "referenced": [["Data.NextCue.Cues[0]", "World/Crusade/RankUps/Leadership/KTC_AfterRankUp8/Answer_0012"]]}

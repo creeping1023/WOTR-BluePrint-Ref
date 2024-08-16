@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/Mythic_Dragon/HalDragonForm/Cue_0021"], ["Data.NextCue.Cues[1]", "World/Dialogs/c3/Mythic_Dragon/HalDragonForm/Cue_0022"]], "referenced": [["Data.AnswersSelected[2035]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[7]", "World/Dialogs/c3/Mythic_Dragon/HalDragonForm/AnswersList_0004"]]}

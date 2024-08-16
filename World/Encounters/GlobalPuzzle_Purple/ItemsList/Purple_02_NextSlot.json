@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Items[0]", "Items/Areas/GlobalPuzzle/DominoPurple1x2"], ["Data.m_Items[1]", "Items/Areas/GlobalPuzzle/DominoPurple2x2"]], "referenced": [["Data.Conditions.Conditions[2].ConditionsChecker.Conditions[1].List", "World/Encounters/GlobalPuzzle_Purple/ConditionsHolders/PurpleNextSlotChecker"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Actions.Actions[0].ConditionsChecker.Conditions[0].m_ItemToCheck", "World/Encounters/AreeluLab/Items/AbyssalKey"], ["Data.Actions.Actions[0].IfTrue.Actions[0].m_flag", "World/Encounters/AlushinyrraHigherCity/UnlockableFlags/MediumCityMagicBarrierOpened"]]}

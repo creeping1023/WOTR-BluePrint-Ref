@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_companion", "Units/Companions/Wenduag/Wenduag_Companion"], ["Data.Unit.m_Companion", "Units/Companions/Wenduag/Wenduag_Companion"]], "referenced": [["Data.m_Tracks[2].m_Commands[2]", "World/Cutscenes/ReturnToDrezen/WenduTraitor_DrezensStreet/WenduTraitor_DrezensStreet"]]}

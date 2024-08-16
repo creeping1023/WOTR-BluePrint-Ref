@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Regill/Q3_FinalTestament/Tribunal/Cue_0011"], ["Data.OnSelect.Actions[0].m_flag", "World/Encounters/HellknightsCamp/UnlockableFlags/TribunalFlag"]], "referenced": [["Data.Answers[2]", "World/Dialogs/Companions/CompanionQuests/Regill/Q3_FinalTestament/Tribunal/AnswersList_0003"]]}

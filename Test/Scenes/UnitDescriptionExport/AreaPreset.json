@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "Test/Scenes/UnitDescriptionExport/Area"], ["Data.m_EnterPoint", "Test/Scenes/UnitDescriptionExport/AreaEnterPart"], ["Data.m_PlayerCharacter", "Root/DefaultUnit"], ["Data.m_Campaign", "DLC/MainGame/MainCampaign"]], "referenced": [["Data.m_DefaultPreset", "Test/Scenes/UnitDescriptionExport/Area"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/TheIvoryLabyrinth/Ball3_Scene/CommandAction"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/TheIvoryLabyrinth/Ball3_Scene/gate"]], "referenced": [["Data.Components[14].Actions.Actions[2].m_Cutscene", "World/Etudes/Common/WrathOfTheRighteous/Chapter05_Extra/Chapter05_AreasDefault/TheIvoryLabyrinth_Default"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.ShowConditions.Conditions[0].m_ItemToCheck", "World/Encounters/AlushinyrraCity/Items/TeleportationMarks/NexusArk_Mark"], ["Data.OnSelect.Actions[0].m_exitPositon", "World/Areas/Act_4_MidnightIsles/Nexus/EnterPoints/NexusPortalArk"]], "referenced": [["Data.Answers[0]", "World/Dialogs/Test/AlushinyrraLowerCity/TemporaryPortalMapDialogue/Cue_0001"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/Lann_Q3_SavamelekhLair/WenduagRomance_HeroGetStabbed/WenduagRomance_HeroGetStabbed"], ["Data.Continue.Cues[0]", "World/Dialogs/Companions/CompanionRomances/Wenduag/ThatIsFinal/Cue_0028"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionRomances/Wenduag/ThatIsFinal/Answer_0024"]]}

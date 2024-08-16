@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/DustShardItem"]], "referenced": [["Data.m_Items[574]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Actions.Actions[0].ConditionsChecker.Conditions[0].m_ItemToCheck", "World/Encounters/DLC4_RuinedVillage/ActionsHolders/DLC4_HidenBasement"]]}

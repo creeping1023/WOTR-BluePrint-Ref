@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SpellsPerDay", "Classes/Inquisitor/InquisitorSpellSlotsTable"], ["Data.m_SpellList", "Classes/Inquisitor/InquisitorSpellList"], ["Data.m_CharacterClass", "Classes/Inquisitor/InquisitorClass"]], "referenced": [["Data.m_ReplaceSpellbook", "Classes/Inquisitor/Archetypes/LivingGrimoire/LivingGrimoireArchetype"]]}

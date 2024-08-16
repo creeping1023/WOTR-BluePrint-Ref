@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Point1", "GlobalMaps/WorldWoundGM/Points/Crossroads_2YellowPuzzle"], ["Data.m_Point2", "GlobalMaps/WorldWoundGM/Points/Chapter05_Army04"], ["Data.LockCondition.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/Chapter03"]], "referenced": [["Data.Edges[377]", "GlobalMaps/WorldWoundGM/WorldWoundGM"]]}

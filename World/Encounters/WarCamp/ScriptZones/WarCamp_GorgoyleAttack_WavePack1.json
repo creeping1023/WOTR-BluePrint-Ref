@@ -1,0 +1,1 @@
+{"referencing": [["Data.EnterActions.Actions[0].m_SummonPool", "World/Encounters/WarCamp/SummonPools/Wave_pack_1_pool"], ["Data.EnterActions.Actions[0].Actions.Actions[0].m_FactionToAttack", "Factions/Player"], ["Data.EnterActions.Actions[3].m_flag", "World/Encounters/WarCamp/UnlockableFlags/GargoyleAtack_Kidnap_2_flag"]]}

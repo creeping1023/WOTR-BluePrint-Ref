@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[1].m_Achievement", "Achievements/DLC2_04_Deadweight"], ["Data.Action.Actions[2].m_Objective", "World/Quests/DLC2_LowFantasy/Gravedigger_errand/Obj_01_FindScroll"]], "referenced": [["Data.m_Tracks[0].m_Commands[2]", "World/Cutscenes/DLC2_Graveyard/Gravedigger_transform/gate1"]]}

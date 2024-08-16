@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_exitPositon", "World/Areas/Act_4_MidnightIsles/BattleBliss/EnterPoints/BattleBliss_Arena_Enter"], ["Data.OnStop.Actions[0].AfterTeleport.Actions[0].Holder", "World/Encounters/BattleBliss/ActionsHolders/NormalFight"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/BattleBliss/Irmangaleth_dialogue/Answer_0115"]]}

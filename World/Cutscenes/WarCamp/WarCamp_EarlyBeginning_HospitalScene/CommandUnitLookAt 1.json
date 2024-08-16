@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_companion", "Units/Companions/Camelia/Camelia_Companion"], ["Data.m_Position.Unit.m_Companion", "Units/Companions/Camelia/Camelia_Companion"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/WarCamp/WarCamp_EarlyBeginning_HospitalScene/gate 1"]]}

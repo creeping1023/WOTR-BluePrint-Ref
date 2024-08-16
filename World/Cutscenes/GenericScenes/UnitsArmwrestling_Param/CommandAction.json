@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Flag", "World/Encounters/Legend_SoldiersParty/UnlockableFlags/ArmwrestlingUnitA_Wins"], ["Data.Action.Actions[1].m_Flag", "World/Encounters/Legend_SoldiersParty/UnlockableFlags/ArmwrestlingUnitB_Wins"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/GenericScenes/UnitsArmwrestling_Param/gate2"]]}

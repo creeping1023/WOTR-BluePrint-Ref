@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_CharacterClass", "Classes/Witch/WitchClass"], ["Data.Components[0].m_Spell", "Spells/Level4/IceStorm"]], "referenced": [["Data.LevelEntries[3].m_Features[0]", "Classes/Witch/WitchPatrons/PatronWinter/WitchWinterPatronProgression"]]}

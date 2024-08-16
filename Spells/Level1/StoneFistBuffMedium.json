@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Weapon", "Weapons/Items/Assorted/StoneFistMedium"]], "referenced": [["Data.Components[2].Actions.Actions[0].m_Buff", "Spells/Level1/StoneFist"], ["Data.Components[1].Actions.Actions[0].m_Buff", "Traits/Races/Oread/OreadSpellLikes/StoneFistOread"]]}

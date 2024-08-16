@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[2].m_Buff", "Buffs/FakeDeath"], ["Data.Action.Actions[3].m_Buff", "Root/SystemMechanics/Conditions/NegativeLevelsBuff"]], "referenced": [["Data.m_Tracks[1].m_Commands[1]", "World/Cutscenes/DLC5_FrozenTemple/DLC5_Sarenrae_sends_reinforcement/gate3"]]}

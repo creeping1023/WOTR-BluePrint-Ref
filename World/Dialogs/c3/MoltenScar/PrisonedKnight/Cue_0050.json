@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Wenduag/Wenduag_Companion"]], "referenced": [["Data.ShowConditions.Conditions[0].m_Cue", "World/Dialogs/c3/MoltenScar/PrisonedKnight/Answer_0057"], ["Data.Cues[3]", "World/Dialogs/c3/MoltenScar/PrisonedKnight/CueSequence_0041"]]}

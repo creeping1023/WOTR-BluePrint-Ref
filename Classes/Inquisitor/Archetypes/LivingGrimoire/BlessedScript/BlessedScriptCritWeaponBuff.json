@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_WeaponBlueprint", "Classes/Inquisitor/Archetypes/LivingGrimoire/HolyBook/LivingGrimoireHolyBookWeapon"]], "referenced": [["Data.Components[1].Action.Actions[1].IfTrue.Actions[0].m_Buff", "Classes/Inquisitor/Archetypes/LivingGrimoire/BlessedScript/BlessedScriptFeature"]]}

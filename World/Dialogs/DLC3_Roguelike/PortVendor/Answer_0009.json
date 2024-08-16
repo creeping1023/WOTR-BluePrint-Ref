@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC3_Roguelike/PortVendor/Cue_3"], ["Data.NextCue.Cues[1]", "World/Dialogs/DLC3_Roguelike/PortVendor/Cue_0011"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/DLC3_Roguelike/PortVendor/Answer_0003"]], "referenced": [["Data.Answers[1]", "World/Dialogs/DLC3_Roguelike/PortVendor/AnswersList_0007"]]}

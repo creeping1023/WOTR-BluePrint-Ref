@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_2_SwordOfValor/SinisterVillage/Markyll"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/SinisterVillage/Siblings_Main/Cue_0008"]], "referenced": [["Data.CuesSeen[6001]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/c3/SinisterVillage/Siblings_Main/Answer_0004"]]}

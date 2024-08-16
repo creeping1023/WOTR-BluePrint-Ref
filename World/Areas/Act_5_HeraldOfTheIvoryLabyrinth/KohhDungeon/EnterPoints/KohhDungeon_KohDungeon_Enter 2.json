@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/KohhDungeon/KohhDungeon"], ["Data.m_AreaPart", "World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/KohhDungeon/KohhDungeon"]], "referenced": [["Data.Actions.Actions[0].m_exitPositon", "World/Encounters/KohhDungeon/ActionsHolders/Ladder (1)_CheckPassedActions"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Type", "Weapons/Types/NaturalWeapon/BiteType"]], "referenced": [["Data.Components[0].m_Weapon[0]", "Classes/Barbarian/RagePowers/AnimalFuryRageBuff"], ["Data.m_Items[1102]", "Dugeons/Loot/DungeonLootExclude"]]}

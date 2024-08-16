@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Act_3_DemonsHerecy/IvorySanctum_OutdoorBalcony/IvorySanctum_OutdoorBalcony"], ["Data.m_AreaPart", "World/Areas/Act_3_DemonsHerecy/IvorySanctum_OutdoorBalcony/IvorySanctum_OutdoorBalcony"]], "referenced": [["Data.Components[0].AreaParts.ElementList[0].EnterPoint", "QA/Arbiter/Scenario/Act_3_DemonHerecy/IvorySanctum_OutdoorBalcony"]]}

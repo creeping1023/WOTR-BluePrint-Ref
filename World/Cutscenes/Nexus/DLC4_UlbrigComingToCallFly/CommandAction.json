@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[2].m_Buff", "Classes/Shifter/ShifterCutsceneBuff"], ["Data.Action.Actions[4].Target.m_Companion", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"]], "referenced": [["Data.m_Tracks[2].m_Commands[1]", "World/Cutscenes/Nexus/DLC4_UlbrigComingToCallFly/DLC4_UlbrigComingToCallFly"]]}

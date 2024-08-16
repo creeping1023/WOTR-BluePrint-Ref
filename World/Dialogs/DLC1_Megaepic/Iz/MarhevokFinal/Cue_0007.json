@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/DLC1_Megaepic/DLC1_Marhevok"], ["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/DLC1_Iz/Kill_Marhevok_Final/Kill_Marhevok_Final"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC1_Megaepic/Iz/MarhevokFinal/Answer_0006"]]}

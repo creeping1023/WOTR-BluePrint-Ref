@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_Buff", "Buffs/Prone"], ["Data.OnStop.Actions[0].m_Buff", "Buffs/Prone"], ["Data.Continue.Cues[0]", "World/Dialogs/DLC6_ADanceOfMasks/DLC6_TavernRebuilded/Tavern_Fun_Dance/CueSequence_0014"]], "referenced": [["Data.m_Fail", "World/Dialogs/DLC6_ADanceOfMasks/DLC6_TavernRebuilded/Tavern_Fun_Dance/Check_0001"]]}

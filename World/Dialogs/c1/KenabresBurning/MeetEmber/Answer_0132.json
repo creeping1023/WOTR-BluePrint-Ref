@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_0109"], ["Data.NextCue.Cues[1]", "World/Dialogs/c1/KenabresBurning/MeetEmber/Cue_0057"]], "referenced": [["Data.DoNotUseAnswer[1]", "QA/Clockwork/Scenario/Exploration/ScenarioParts/CompanionsQuest/EmberQ"], ["Data.Answers[2]", "World/Dialogs/c1/KenabresBurning/MeetEmber/AnswersList_0007"]]}

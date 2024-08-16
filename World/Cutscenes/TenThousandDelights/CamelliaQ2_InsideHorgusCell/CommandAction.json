@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[1].Unit.m_Companion", "Units/Companions/Camelia/Camelia_Companion"], ["Data.Action.Actions[2].m_flag", "World/Encounters/Common/Flags/NoMountsNoPets_OnFlag"]], "referenced": [["Data.m_Tracks[2].m_Commands[1]", "World/Cutscenes/TenThousandDelights/CamelliaQ2_InsideHorgusCell/CamelliaQ2_InsideHorgusCell"]]}

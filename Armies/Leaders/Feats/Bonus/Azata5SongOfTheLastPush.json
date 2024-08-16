@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Ability", "Armies/Leaders/Feats/Bonus/Azata5SongOfTheLastPushAbility"], ["Data.Components[1].m_Facts[0]", "Armies/Leaders/Feats/Bonus/Azata5SongOfTheLastPushLeaderBuff"]], "referenced": [["Data.Components[0].m_Skill", "Armies/CrusadeGlobalBuffs/FlagAzata5SongOfTheLastPush"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_SummonPool", "World/Encounters/AlushinyrraHigherCity/SummonPools/SuccubusSinners"], ["Data.OnStop.Actions[0].Actions.Actions[0].m_Faction", "Factions/Mobs"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/BattleBliss/HiringSuccubs_dialogue/Answer_0028"]]}

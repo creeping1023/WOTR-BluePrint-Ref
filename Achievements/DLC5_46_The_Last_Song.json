@@ -1,0 +1,1 @@
+{"referencing": [["Data.SpecificCampaign", "DLC/DLC5/Dlc5Campaign"], ["Data.m_Group", "Achievements/Groups/DLC5TrophyGroupPack2"]], "referenced": [["Data.Achievements.m_List[133]", "Root/BlueprintRoot"], ["Data.OnStop.Actions[0].m_Achievement", "World/Dialogs/DLC5_StoryEnds/AbyssHub/Sacrifice/Cue_23"]]}

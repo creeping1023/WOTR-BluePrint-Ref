@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC4_Shifter/DLC4_RuinedVillage/Stone_FirstTouch/Cue_0007"]], "referenced": [["Data.Answers[1]", "World/Dialogs/DLC4_Shifter/DLC4_RuinedVillage/Stone_FirstTouch/AnswersList_0002"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/DLC4_Shifter/DLC4_RuinedVillage/Stone_FirstTouch/Answer_0015"]]}

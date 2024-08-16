@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Action.Actions[0].ConditionsChecker.Conditions[0].m_Fact", "CreatureAbilities/Subtypes/Airborne"], ["Data.Components[0].Action.Actions[0].IfTrue.Actions[0].m_Buff", "Buffs/Stunned"]], "referenced": [["Data.m_Enchantments[2]", "Weapons/Items/UniquePF2/Chapter4/SkyScorcherItem"]]}

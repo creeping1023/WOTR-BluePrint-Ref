@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_WeaponType", "Weapons/Types/MartialOneHanded/Longsword"], ["Data.Components[2].m_Spellbooks[0]", "Classes/Monster/MonsterMythic/MonsterMythicSpellbook"]], "referenced": [["Data.m_AddFacts[16]", "Units/Monsters/DLC3_Mobs/DLC3_ShadowBalorNahindry"], ["Data.m_AddFacts[15]", "Units/Monsters/DLC3_Mobs/DLC3_ShadowBalorNahindry_MainGame"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c2_vs/GibberingSwarm/Phylactery/Cue_0012"], ["Data.OnSelect.Actions[0].m_ItemToGive", "World/Encounters/GibberingSwarm/Items/LichWand"]], "referenced": [["Data.AnswersSelected[1015]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[5]", "World/Dialogs/c2_vs/GibberingSwarm/Phylactery/AnswersList_0002"]]}

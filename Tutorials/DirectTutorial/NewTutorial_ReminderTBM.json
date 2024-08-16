@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_BlueprintTutorialConsoleRef", "Tutorials/DirectTutorial/NewTutorial_ReminderTBM_Gamepad"], ["Data.EncyclopediaReference", "Encyclopedia/Tutorial_11_Battle"]], "referenced": [["Data.Components[0].Deactivated.Actions[0].IfTrue.Actions[0].m_Tutorial", "Spells/CutsceneSpells/Tutor_TBM_DH_Buff"]]}

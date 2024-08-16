@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[1].ActionsOnSpawn.Actions[0].m_Buff", "World/Encounters/LostChapel/Buffs/CantMove"], ["Data.Action.Actions[1].ActionsOnSpawn.Actions[1].m_Buff", "Spells/CutsceneSpells/ProneBuff"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/LostChapel/GraveyardDialogue/GraveyardDialogue"]]}

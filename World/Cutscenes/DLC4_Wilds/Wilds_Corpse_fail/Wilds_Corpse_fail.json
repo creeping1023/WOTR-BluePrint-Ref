@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC4_Wilds/Wilds_Corpse_fail/CommandFadeout"], ["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/DLC4_Wilds/Wilds_Corpse_fail/CommandAction"]], "referenced": [["Data.Actions.Actions[0].m_Cutscene", "World/Encounters/DLC4_Wilds/ActionsHolders/WIlds_Coprse_fail"]]}

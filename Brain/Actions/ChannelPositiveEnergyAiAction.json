@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/InjuryAround"], ["Data.m_TargetConsiderations[0]", "Brain/Considerations/AoE_ChooseMoreFriends"], ["Data.m_Ability", "Classes/Cleric/ChannelEnergy"]], "referenced": [["Data.m_Actions[3]", "Brain/Companions/ClericPregenBrain"], ["Data.m_Actions[3]", "Brain/Companions/Harrim_Brain"]]}

@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "Brain/Actions/AttackAiAction"]]}
+{"referencing": [["Data.PrototypeLink", "Brain/Actions/AttackAiAction"], ["Data.m_TargetConsiderations[0]", "Units/Monsters/DLC6Mobs/Charon/DLC6_ReaperBossBrain/DLC6_ReaperBossTargetsPriority"], ["Data.m_TargetConsiderations[1]", "Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Inquisitor_Brain/NoSwarmDiminutiveConsideration"]]}

@@ -1,1 +1,1 @@
-{"referenced": [["Data.PrototypeLink", "Buffs/DLC3/DLC3_MODS/DLC3_ElementalAirMod/DLC3_ElementalAirSummonPoolHighTier"]]}
+{"referenced": [["Data.Components[1].NewRound.Actions[1].IfTrue.Actions[0].m_SummonPool", "Buffs/DLC3/DLC3_MODS/DLC3_ElementalAirMod/DLC3_ElementalAirBuff"], ["Data.PrototypeLink", "Buffs/DLC3/DLC3_MODS/DLC3_ElementalAirMod/DLC3_ElementalAirSummonPoolHighTier"], ["Data.Components[1].NewRound.Actions[1].IfTrue.Actions[0].m_SummonPool", "Buffs/DLC3/DLC3_MODS/DLC3_ElementalWaterMod/DLC3_ElementalWaterBuff"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/TempleOfDelamere/ZanedraInTemple/Cue_0011"], ["Data.ShowConditions.Conditions[0].m_Cue", "World/Dialogs/c3/TempleOfDelamere/ZanedraInTemple/Cue_0010"]], "referenced": [["Data.Answers[1]", "World/Dialogs/c3/TempleOfDelamere/ZanedraInTemple/AnswersList_0005"]]}

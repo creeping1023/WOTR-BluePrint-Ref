@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/BattleBliss/ArenaHealer_dialogue/Cue_0008_ArenaQuestGiver"], ["Data.ShowConditions.Conditions[0].m_Quest", "World/Quests/c4/ChampionOfTheArena/ChampionOfTheArena"]], "referenced": [["Data.Answers[3]", "World/Dialogs/c4/BattleBliss/ArenaHealer_dialogue/AnswersList_0002"]]}

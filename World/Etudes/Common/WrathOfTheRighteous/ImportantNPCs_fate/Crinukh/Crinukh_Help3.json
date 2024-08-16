@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Parent", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Crinukh"]], "referenced": [["Data.OnShow.Actions[0].Etude", "World/Dialogs/NPC_Common/Crinukh/Cue_0249_Help3"], ["Data.EnterActions.Actions[0].ConditionsChecker.Conditions[0].m_Etude", "World/Encounters/Iz/ScriptZones/Crinukh_cache_SZ"]]}

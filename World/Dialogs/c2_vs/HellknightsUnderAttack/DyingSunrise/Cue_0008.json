@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_2_SwordOfValor/HellknightVsGargoyles/Yaker_HellknightVsGargoyles"]], "referenced": [["Data.Continue.Cues[1]", "World/Dialogs/c2_vs/HellknightsUnderAttack/DyingSunrise/Cue_0017"], ["Data.Continue.Cues[0]", "World/Dialogs/c2_vs/HellknightsUnderAttack/DyingSunrise/SequenceExit_0040"]]}

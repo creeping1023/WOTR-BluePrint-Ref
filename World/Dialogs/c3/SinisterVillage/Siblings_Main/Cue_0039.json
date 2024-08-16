@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_2_SwordOfValor/SinisterVillage/Malessa"], ["Data.OnStop.Actions[0].Holder", "World/Encounters/SinisterVillage/ActionsHolders/AttackVillagers"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/c3/SinisterVillage/Siblings_Main/Cue_0038"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/DLC1_Megaepic/Irabeth_DLC1_IZ_Test"], ["Data.Answers[0]", "World/Dialogs/DLC1_Megaepic/Iz/Irabeth/AnswersList_0010"], ["Data.Continue.Cues[0]", "World/Dialogs/DLC1_Megaepic/Iz/Irabeth/CueSequence_0001"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/DLC1_Megaepic/Iz/Irabeth/Cue_7"]]}

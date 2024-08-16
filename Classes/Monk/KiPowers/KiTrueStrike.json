@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Actions.Actions[0].m_Buff", "Classes/Monk/KiPowers/KiTrueStrikeBuff"], ["Data.Components[2].m_RequiredResource", "Classes/Monk/KiPowers/KiPowerResource"]], "referenced": [["Data.Components[0].m_Facts[0]", "Classes/Monk/KiPowers/KiTrueStrikeFeature"]]}

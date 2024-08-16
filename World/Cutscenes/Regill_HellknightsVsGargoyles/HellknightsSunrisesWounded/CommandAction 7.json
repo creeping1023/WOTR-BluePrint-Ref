@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Objective", "World/Quests/c2_vs/HellknightsUnderAttack/Obj_01_MeetHellknights"], ["Data.Action.Actions[1].m_Objective", "World/Quests/c2_vs/HellknightsUnderAttack/Obj_02_ReachTheCave"]], "referenced": [["Data.m_Tracks[2].m_Commands[0]", "World/Cutscenes/Regill_HellknightsVsGargoyles/HellknightsSunrisesWounded/gate 9"]]}

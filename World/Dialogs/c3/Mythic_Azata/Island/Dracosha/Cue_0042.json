@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Mythic/Azata/AzataDragon/AzataDragonUnit"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Mythic_Azata/Island/Dracosha/CueSequence_0041"], ["Data.Continue.Cues[1]", "World/Dialogs/c3/Mythic_Azata/Island/Dracosha/Cue_0053"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/Mythic_Azata/Island/Dracosha/Answer_0032"]]}

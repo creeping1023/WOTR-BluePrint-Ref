@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_Spellbooks[0]", "Classes/Arcanist/ArcanistSpellbook"]], "referenced": [["Data.Components[0].m_Facts[1]", "Classes/Arcanist/Archetypes/BrownFurTransmuter/PowerfulChangeAbility"], ["Data.Components[2].Actions.Actions[0].IfTrue.Actions[0].m_Buff", "Classes/Arcanist/Archetypes/BrownFurTransmuter/PowerfulChangeAbility"]]}

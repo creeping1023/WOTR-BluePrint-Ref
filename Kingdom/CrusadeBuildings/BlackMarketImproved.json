@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_Flag", "Kingdom/CrusadeBuildings/CrusadeBuildingsFlags/FlagUnlockBlackMarketImproved"]], "referenced": [["Data.m_Buildings[55]", "Root/Kingdom/KingdomRoot"], ["Data.OnSelect.Actions[2].m_NewBuilding", "World/Crusade/RankUps/MythicRankUps/Legend/LegendRankUp_1/Answer_0009"]]}

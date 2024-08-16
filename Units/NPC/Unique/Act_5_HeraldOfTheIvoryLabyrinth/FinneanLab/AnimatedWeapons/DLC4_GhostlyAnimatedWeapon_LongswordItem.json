@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/FinneanLab/AnimatedWeapons/AnimatedWeapon_LongswordItem"]]}
+{"referencing": [["Data.PrototypeLink", "Units/NPC/Unique/Act_5_HeraldOfTheIvoryLabyrinth/FinneanLab/AnimatedWeapons/AnimatedWeapon_LongswordItem"], ["Data.m_Type", "Weapons/Types/MartialOneHanded/Longsword"], ["Data.m_Enchantments[0]", "Weapons/Enchantments/Enhancement3"], ["Data.m_Enchantments[1]", "Weapons/Enchantments/GhostTouch"]], "referenced": [["Data.m_Items[2088]", "Dugeons/Loot/DungeonLootExclude"]]}

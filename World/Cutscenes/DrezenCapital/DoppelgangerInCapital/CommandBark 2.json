@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon/DemonCh3/HepzamirahDoppelganger"], ["Data.Unit.m_SummonPool", "World/Encounters/DrezenCapital/SummonPools/DemonCh3_Doppel"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DrezenCapital/DoppelgangerInCapital/gate"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Actions.Actions[0].m_Flag", "World/Encounters/Common/Flags/NoMountsNoPets_OnFlag"]], "referenced": [["Data.Components[2].Actions.Actions[1].m_Buff", "World/Etudes/Common/NoMountsNoPets"], ["Data.Components[3].Actions.Actions[0].m_Buff", "World/Etudes/Common/NoMountsNoPets"]]}

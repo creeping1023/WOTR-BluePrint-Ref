@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionRomances/Camellia/TempleSexWhy/Cue_0051"]], "referenced": [["Data.Answers[0]", "World/Dialogs/Companions/CompanionRomances/Camellia/TempleSexWhy/AnswersList_0048"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/Companions/CompanionRomances/Camellia/TempleSexWhy/Answer_0052"]]}

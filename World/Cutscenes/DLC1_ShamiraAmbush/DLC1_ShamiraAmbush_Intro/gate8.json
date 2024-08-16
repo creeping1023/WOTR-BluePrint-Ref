@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC1_ShamiraAmbush/DLC1_ShamiraAmbush_Intro/CommandAction"]], "referenced": [["Data.m_Tracks[1].m_EndGate", "World/Cutscenes/DLC1_ShamiraAmbush/DLC1_ShamiraAmbush_Intro/gate2"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DLC1_ShamiraAmbush/DLC1_ShamiraAmbush_Intro/gate7"]]}

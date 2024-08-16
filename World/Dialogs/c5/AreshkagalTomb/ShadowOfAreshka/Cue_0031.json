@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_flag", "World/Encounters/AreshkagalDungeon/UnlockableFlags/AreshkaHitPlayerFlag_4"], ["Data.Continue.Cues[0]", "World/Dialogs/c5/AreshkagalTomb/ShadowOfAreshka/Cue_0032"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/AreshkagalTomb/ShadowOfAreshka/Answer_0030"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/MythicLocust/Ch5_QueenDevoured"], ["Data.m_Actions.Actions[0].IfTrue.Actions[0].m_Fact", "Kingdom/GlobalMapRituals/GlobalSpellLocustSummonSwarmFeature"]], "referenced": [["Data.m_Upgraders[577]", "Root/PlayerUpgradeActionsRoot"]]}

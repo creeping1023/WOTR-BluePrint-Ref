@@ -1,0 +1,1 @@
+{"referencing": [["Data.Actions.Actions[0].ConditionsChecker.Conditions[0].m_ConditionFlag", "World/Encounters/GrayGarrison/UnlockableFlags/BarracksPackKilled"], ["Data.Actions.Actions[0].IfTrue.Actions[0].m_Cutscene", "World/Cutscenes/GrayGarrison/Barracks_ambush/Barracks_ambush"]]}

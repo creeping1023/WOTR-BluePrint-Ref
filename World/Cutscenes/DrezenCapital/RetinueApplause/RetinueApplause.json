@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DrezenCapital/RetinueApplause/CommandDelay"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DrezenCapital/RetinueApplause/gate"]], "referenced": [["Data.OnShow.Actions[0].Actions.Actions[0].m_Cutscene", "World/Dialogs/c3/Mythic_Trickster/FoolKing_Coronation/Cue_0010"]]}

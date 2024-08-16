@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_SummonPool", "World/Encounters/LostChapel/SummonPools/CrusadersPlaza"], ["Data.OnStop.Actions[0].Actions.Actions[0].m_Buff", "Spells/Level1/ProtectionFromEvilBuff"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c2_vs/LostChapel/Boss_Middle/Answer_0011"]]}

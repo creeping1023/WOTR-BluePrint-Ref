@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Spells/Level1/EnlargePersonBuffSupressCutscene"], ["Data.Action.Actions[1].m_Buff", "Classes/Shifter/ShifterCutsceneBuff"]], "referenced": [["Data.m_Tracks[11].m_Commands[0]", "World/Cutscenes/FatefulNight1_Kenabres/FatefulNight1/FatefulNight1"]]}

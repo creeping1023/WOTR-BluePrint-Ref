@@ -1,0 +1,1 @@
+{"referencing": [["Data.Units[0].m_Companion", "Units/Companions/Daeran/Daeran_Companion"], ["Data.Units[1].m_Companion", "Units/Companions/Seelah/Seelah_Companion"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Daeran_Q2_HeavenDoorstep/Daeran_Q2_DaeranSeelah_Dance/Daeran_Q2_DaeranSeelah_Dance"]]}

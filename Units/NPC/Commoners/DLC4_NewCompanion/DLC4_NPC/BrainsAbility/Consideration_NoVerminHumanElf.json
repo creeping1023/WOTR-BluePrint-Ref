@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Fact[0]", "Races/HumanRace"], ["Data.m_Fact[1]", "Races/ElfRace"], ["Data.m_Fact[2]", "Traits/Races/Common/VerminType"]], "referenced": [["Data.m_TargetConsiderations[2]", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_NPC/BrainsAbility/DLC4_AdviserInstantEnemyAiAction"]]}

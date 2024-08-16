@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC6_KenabresGates/DLC6_Queue_Mythic_Lich/CommandAction2"]], "referenced": [["Data.m_Tracks[1].m_EndGate", "World/Cutscenes/DLC6_KenabresGates/DLC6_Queue_Mythic_Lich/DLC6_Queue_Mythic_Lich"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DLC6_KenabresGates/DLC6_Queue_Mythic_Lich/gate2"]]}

@@ -1,0 +1,1 @@
+{"referenced": [["Data.UnlockedFlags[267].m_Flag", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.EntryCondition.Conditions[0].m_ConditionFlag", "World/Cutscenes/SE_NoMoreTentacles/SquireTrap_scene/CommandDelay 6"], ["Data.OnStop.Actions[0].m_flag", "World/Dialogs/c3/NoTentaclesSE/NoMoreTentacles/Cue_0059"]]}

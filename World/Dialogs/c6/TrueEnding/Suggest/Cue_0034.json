@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Objective", "World/Quests/c6/TEmegaquest/01_KillBothLords"], ["Data.OnStop.Actions[1].m_Cutscene", "World/Cutscenes/ThresholdIndoor_SecondFloor/TE_DeskariAndBaphomet/TE_DeskariAndBaphomet"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/c6/TrueEnding/Suggest/Cue_0033"]]}

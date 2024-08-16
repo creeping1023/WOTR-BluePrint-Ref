@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_MaxAmount.m_Class[0]", "Classes/Oracle/OracleClass"], ["Data.m_MaxAmount.m_ClassDiv[0]", "Classes/Oracle/OracleClass"]], "referenced": [["Data.Components[3].m_RequiredResource", "Classes/Oracle/Archetypes/WindWhisperer/WindWhispererHasteAbility"], ["Data.Components[0].m_Resource", "Classes/Oracle/Archetypes/WindWhisperer/WindWhispererHasteFeature"]]}

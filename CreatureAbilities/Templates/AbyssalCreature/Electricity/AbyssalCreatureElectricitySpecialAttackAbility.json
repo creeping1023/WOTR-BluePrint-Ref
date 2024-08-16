@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[2].m_Projectiles[0]", "FX/Spell Level None/AirCone15Feet00"]], "referenced": [["Data.Components[0].Action.Actions[0].IfTrue.Actions[0].m_Spell", "CreatureAbilities/Templates/AbyssalCreature/AbyssalCreatureSpecialAttack"]]}

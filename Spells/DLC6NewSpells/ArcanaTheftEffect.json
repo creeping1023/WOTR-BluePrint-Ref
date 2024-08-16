@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_SpellList", "Classes/Magus/MagusSpellList"], ["Data.Components[2].m_TouchWeapon", "Weapons/Types/Special/TouchItem"], ["Data.Components[7].m_SpellList", "Classes/Arcanist/Archetypes/MagicDeceiver/MagicDeceiverSpellList"]], "referenced": [["Data.Components[2].m_TouchDeliveryAbility", "Spells/DLC6NewSpells/ArcanaTheft"]]}

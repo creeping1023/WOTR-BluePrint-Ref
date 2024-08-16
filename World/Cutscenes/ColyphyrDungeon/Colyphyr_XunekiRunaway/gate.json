@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/ColyphyrDungeon/Colyphyr_XunekiRunaway/CommandUnitCastSpell"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/ColyphyrDungeon/Colyphyr_XunekiRunaway/gate 1"]], "referenced": [["Data.m_Tracks[1].m_EndGate", "World/Cutscenes/ColyphyrDungeon/Colyphyr_XunekiRunaway/Colyphyr_XunekiRunaway"]]}

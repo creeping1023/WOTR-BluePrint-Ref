@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_DisplayName.m_OwnerString", "Equipment/Cloaks/CloakWyvernFeature"], ["Data.m_Description.m_OwnerString", "Equipment/Cloaks/CloakWyvernFeature"]]}
+{"referencing": [["Data.m_DisplayName.m_OwnerString", "Equipment/Cloaks/CloakWyvernFeature"], ["Data.m_Description.m_OwnerString", "Equipment/Cloaks/CloakWyvernFeature"]], "referenced": [["Data.Components[0].m_Blueprint", "Equipment/Headgear/Artisan/HeadbandOfFrozenShourEnchantment"]]}

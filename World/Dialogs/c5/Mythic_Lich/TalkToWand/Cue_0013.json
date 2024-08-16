@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_ItemToRemove", "Items/Wands/UniquePF2/ZachariusFallenWandItem"], ["Data.OnShow.Actions[1].m_ItemToGive", "World/Encounters/GibberingSwarm/Items/LichWandBroken"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/Mythic_Lich/TalkToWand/Answer_0010"]]}

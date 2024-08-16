@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Abilities[0]", "Spells/Level3/StinkingCloud"], ["Data.Components[0].Abilities[1]", "Spells/Level4/ThornBody"], ["Data.Components[0].Abilities[2]", "Spells/Level2/BullsStrength"]], "referenced": [["Data.m_AddFacts[13]", "Units/Monsters/Demon Nalfeshnee/AreeluLab/AreeluLab_Nalfeshnee"]]}

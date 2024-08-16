@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Cutscene", "World/Cutscenes/Prologue_Kenabres/Demons_VS_Crusaders/Demons_VS_Crusaders"], ["Data.Action.Actions[1].m_Cutscene", "World/Cutscenes/Prologue_Kenabres/Retriever_vs_Crusaders/Retriever_vs_Crusaders"]], "referenced": [["Data.m_Tracks[6].m_Commands[1]", "World/Cutscenes/Aeon_KenabresInThePast/FadeBeforeBattle/gate"]]}

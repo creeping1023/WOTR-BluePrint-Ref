@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level5/HoldMonsterBuff"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level5/HoldMonsterBuff"]], "referenced": [["Data.OnSelect.Actions[1].m_Buff", "World/Dialogs/c3/AreeluLaboratory/TargonaWings/Answer_0031"], ["Data.Actions.Actions[0].m_Buff", "World/Encounters/AreeluLab/ActionsHolders/AngelTargona_SpawnActions"]]}

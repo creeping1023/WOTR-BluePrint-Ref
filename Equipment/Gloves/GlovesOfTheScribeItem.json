@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/LeatherShardItem"], ["Data.m_Enchantments[0]", "Equipment/Gloves/GlovesOfTheScribeEnchant"]], "referenced": [["Data.m_Items[61]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Filter.m_ItemsInclude[61]", "Dugeons/Loot/DungeonLootExclude"]]}

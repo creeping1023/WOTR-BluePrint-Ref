@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Deactivated.Actions[0].m_Buff", "Units/Monsters/Carnivorous Crystal/CarnivorousCrystalBrain/CarnivorousCrystal_Buff_PolymorphPermanentGiant"]], "referenced": [["Data.Components[0].CombatStartActions.Actions[2].m_Buff", "Units/Monsters/Carnivorous Crystal/CarnivorousCrystalBrain/CarnivorousCrystal_Buff_FreezeGiant"]]}

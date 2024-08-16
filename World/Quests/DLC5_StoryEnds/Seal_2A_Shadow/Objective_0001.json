@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Quest", "World/Quests/DLC5_StoryEnds/Seal_2A_Shadow/Seal_2A_Shadow_quest"]], "referenced": [["Data.Components[0].Actions.Actions[0].m_Objective", "World/Etudes/Common/DLC5_LowFantasy2/DLC5_StandaloneCampaign/DLC5_PlaneOfShadow/DLC5_LC_Outdoor"], ["Data.m_Objectives[0]", "World/Quests/DLC5_StoryEnds/Seal_2A_Shadow/Seal_2A_Shadow_quest"]]}

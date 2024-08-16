@@ -1,0 +1,1 @@
+{"referencing": [["Data.SpecificCampaign", "DLC/DLC5/Dlc5Campaign"], ["Data.m_Group", "Achievements/Groups/DLC5TrophyGroupPack2"]], "referenced": [["Data.Achievements.m_List[139]", "Root/BlueprintRoot"], ["Data.Components[1].Actions.Actions[7].m_Achievement", "World/Etudes/Common/DLC5_LowFantasy2/DLC5_StandaloneCampaign/DLC5_FrozenTemple/DLC5_AdventuresCompleted"]]}

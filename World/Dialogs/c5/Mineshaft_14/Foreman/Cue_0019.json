@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Seilkind"], ["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/Mineshaft14_Indoor/Attack_Miners/Attack_Miners"]], "referenced": [["Data.Continue.Cues[1]", "World/Dialogs/c5/Mineshaft_14/Foreman/Cue_0018"], ["Data.Continue.Cues[0]", "World/Dialogs/c5/Mineshaft_14/Foreman/Cue_0079"]]}

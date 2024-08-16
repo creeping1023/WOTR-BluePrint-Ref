@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Commoners/Act_0_Prologue/Kenabres_Prologue/PeasantMale1"], ["Data.m_Listener", "Player Character"], ["Data.Continue.Cues[0]", "World/Dialogs/DLC6_ADanceOfMasks/KenabresGates/StandingInLine/Cue_13"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC6_ADanceOfMasks/KenabresGates/StandingInLine/Answer_0005"]]}

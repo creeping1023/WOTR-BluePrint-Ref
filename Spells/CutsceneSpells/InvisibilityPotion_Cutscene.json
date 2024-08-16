@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Actions.Actions[0].m_Buff", "Spells/CutsceneSpells/InvisibilityBuff_Cutscene"]], "referenced": [["Data.m_SpellBlueprint", "World/Cutscenes/DefendersHeart/DH_StartDemonAttack_Pack2/CommandUnitCastSpell"], ["Data.m_SpellBlueprint", "World/Cutscenes/MarodersLair/MarodersRun/CommandUnitCastSpell"]]}

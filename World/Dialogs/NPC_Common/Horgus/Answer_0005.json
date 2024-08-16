@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/NPC_Common/Horgus/Cue_0017"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/NPC_Common/Horgus/Answer_0004"]], "referenced": [["Data.AnswersSelected[177]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[1]", "World/Dialogs/NPC_Common/Horgus/AnswersList_0003"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Cutscene", "World/Cutscenes/GenericScenes/UnitKissesUnit_Param/UnitKissesUnit_Param"], ["Data.Action.Actions[0].Parameters.Parameters[1].Evaluator.m_Companion", "Units/Companions/Lann/Lann_Companion"]], "referenced": [["Data.m_Tracks[2].m_Commands[4]", "World/Cutscenes/DrezenCapital/LannRomance_Sex/LannRomance_Sex"]]}

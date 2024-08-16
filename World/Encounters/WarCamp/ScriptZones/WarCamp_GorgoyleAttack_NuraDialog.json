@@ -1,0 +1,1 @@
+{"referencing": [["Data.EnterActions.Actions[0].m_Cutscene", "World/Cutscenes/WarCamp/GorgoyleAttack_Nura_Idle/GorgoyleAttack_Nura_Idle"], ["Data.EnterActions.Actions[1].m_flag", "World/Encounters/WarCamp/UnlockableFlags/NuraIdle_flag"], ["Data.EnterActions.Actions[2].m_Cutscene", "World/Cutscenes/WarCamp/GorgoyleAttack_Nura_Cutscene/GorgoyleAttack_Nura_Cutscene"]]}

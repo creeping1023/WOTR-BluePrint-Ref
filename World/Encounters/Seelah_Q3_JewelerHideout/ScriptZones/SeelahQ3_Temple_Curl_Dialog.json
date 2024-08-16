@@ -1,0 +1,1 @@
+{"referencing": [["Data.EnterActions.Actions[0].ConditionsChecker.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/Companions/SeelahCompanion/SeelahInParty/SeelahQ3/VictimsRevived"], ["Data.EnterActions.Actions[0].IfTrue.Actions[0].m_Cutscene", "World/Cutscenes/Seelah_Q3_JewelerHideout/SeelahQ3_Temple_Curl/SeelahQ3_Temple_Curl"]]}

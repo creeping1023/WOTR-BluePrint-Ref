@@ -1,1 +1,1 @@
-{"referenced": [["Data.PrototypeLink", "Units/Monsters/DLC5_Sithhud/Ichor_InsectPlagueAIAction"]]}
+{"referencing": [["Data.m_TargetConsiderations[0]", "Brain/Considerations/AttackTargetsPriority"], ["Data.m_Ability", "Units/NPC/Unique/Act_1_WorldwoundIncursion/GrayGarrison/Jeslyn_Brain/Jeslyn_InsectPlagueAbility"]], "referenced": [["Data.PrototypeLink", "Units/Monsters/DLC5_Sithhud/Ichor_InsectPlagueAIAction"], ["Data.m_Actions[2]", "Units/NPC/Unique/Act_1_WorldwoundIncursion/GrayGarrison/Jeslyn_Brain/Jeslyn_Brain"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_companion", "Units/NPC/Commoners/DLC5_Storys_End/Penta_companion"], ["Data.Speaker.m_Blueprint", "Units/NPC/Commoners/DLC5_Storys_End/Penta_companion"]], "referenced": [["Data.NextCue.Cues[2]", "World/Dialogs/DLC5_StoryEnds/DLC5_GiantsOverseers/DLC5_2ndHaunt/Answer_0003"]]}

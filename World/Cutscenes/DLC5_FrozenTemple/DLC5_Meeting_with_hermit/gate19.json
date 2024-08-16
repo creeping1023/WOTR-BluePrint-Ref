@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC5_FrozenTemple/DLC5_Meeting_with_hermit/CommandMoveUnit12"], ["Data.m_Tracks[1].m_Commands[0]", "World/Cutscenes/DLC5_FrozenTemple/DLC5_Meeting_with_hermit/CommandUnitPlayCutsceneAnimation10"]], "referenced": [["Data.m_Tracks[9].m_EndGate", "World/Cutscenes/DLC5_FrozenTemple/DLC5_Meeting_with_hermit/gate7"]]}

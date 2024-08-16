@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[1].m_Objective", "World/Quests/c1/ProtectTavern/Objective_01_BeWary"], ["Data.Action.Actions[2].m_Objective", "World/Quests/c1/ProtectTavern/Objective_02_GetReady"]], "referenced": [["Data.m_Tracks[1].m_Commands[0]", "World/Cutscenes/DefendersHeart/AlarmCutScene/gate 2"]]}

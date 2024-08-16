@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].translocatePositionEvaluator.Unit.m_SummonPool", "World/Encounters/IvorySanctum/SummonPools/AllXantirSwarms"], ["Data.Action.Actions[1].Target.m_SummonPool", "World/Encounters/IvorySanctum/SummonPools/AllXantirSwarms"]], "referenced": [["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/IvorySanctum/XantirThirdPhase/XantirThirdPhase"]]}

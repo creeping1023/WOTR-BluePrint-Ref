@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Abilities[0]", "Spells/Level4/InvisibilityGreater"], ["Data.Components[0].Abilities[1]", "Spells/Level5/VampiricShadowShield"], ["Data.Components[0].Abilities[2]", "Spells/Level6/ChainLightning"]], "referenced": [["Data.m_AddFacts[5]", "Units/Monsters/Hag/SinisterVillage/Hag_Letinda"]]}

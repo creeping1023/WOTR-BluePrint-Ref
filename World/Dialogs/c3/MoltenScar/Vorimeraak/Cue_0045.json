@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_companion", "Units/Companions/Lann/Lann_Companion"], ["Data.Speaker.m_Blueprint", "Units/Companions/Daeran/Daeran_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/MoltenScar/Vorimeraak/Cue_0046"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/c3/MoltenScar/Vorimeraak/Cue_0043"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/NPC_Common/GemGolem/KTC_GolemArriving/Cue_0008"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/NPC_Common/GemGolem/KTC_GolemArriving/Answer_0002"]], "referenced": [["Data.Answers[1]", "World/Dialogs/NPC_Common/GemGolem/KTC_GolemArriving/AnswersList_0004"]]}

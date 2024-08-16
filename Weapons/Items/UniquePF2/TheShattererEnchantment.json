@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_WeaponType", "Weapons/Types/MartialTwoHanded/EarthBreaker"], ["Data.Components[0].Action.Actions[0].m_Spell", "Weapons/Items/UniquePF2/TheShattererAbility"], ["Data.Components[2].m_Blueprint", "Weapons/Items/UniquePF2/TheShattererBuff"]], "referenced": [["Data.m_Enchantments[2]", "Weapons/Items/UniquePF2/TheShattererItem"]]}

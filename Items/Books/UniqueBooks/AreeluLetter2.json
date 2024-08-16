@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Action.Actions[0].m_PermanentFeature", "Equipment/SpecialEditions/UniquePF2/BackersItems/BooksWithLoreBuffs/AreeluLetter2Feature"], ["Data.m_ShardItem", "Items/DestructibleItemsShards/PaperShardItem"]], "referenced": [["Data.m_Items[980]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Items[0].m_Item", "Loot/Quest/VaultOfGraves/AreeluLetter2"]]}

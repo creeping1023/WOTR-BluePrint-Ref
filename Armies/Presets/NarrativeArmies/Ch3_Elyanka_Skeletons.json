@@ -1,0 +1,1 @@
+{"referencing": [["Data.Squads[0].m_Unit", "Armies/UnitBlueprints/ArmySkeletalChampion"], ["Data.Squads[1].m_Unit", "Armies/UnitBlueprints/ArmySkeletonArcher"]], "referenced": [["Data.OnShow.Actions[0].Preset", "World/Dialogs/c3/Drezen_C3/MythicLich_Chapter3_InDrezen/KTC_ElyankaComing/Cue_0001"]]}

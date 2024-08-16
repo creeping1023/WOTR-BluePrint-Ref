@@ -1,0 +1,1 @@
+{"referencing": [["Data.Squads[0].m_Unit", "Armies/UnitBlueprints/ArmyChampion"], ["Data.Squads[1].m_Unit", "Armies/UnitBlueprints/ArmyMarksman"]], "referenced": [["Data.m_EventSolutions[0].m_SuccessEffects.Actions[0].Preset", "Kingdom/CrusadeProjects/CrusadeEvents/Ch5_Wardstoun_reinf_notif"]]}

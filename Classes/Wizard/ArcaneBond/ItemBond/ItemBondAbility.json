@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_RequiredResource", "Classes/Wizard/ArcaneBond/ItemBond/ItemBondResource"], ["Data.Components[1].SpellbooksReference[0]", "Classes/Wizard/WizardSpellbook"]], "referenced": [["Data.Components[0].m_Facts[0]", "Classes/Wizard/ArcaneBond/ItemBond/ItemBondFeature"]]}

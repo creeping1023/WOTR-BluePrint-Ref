@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/ChaoticBehaviour"], ["Data.m_ActorConsiderations[1]", "Brain/Considerations/NoThreateningUnitsConsideration"], ["Data.m_Ability", "Spells/Level5/WrackingRay"]], "referenced": [["Data.m_Actions[3]", "Units/NPC/Commoners/Act_3_DemonsHerecy/KohhDungeon/CR15_Cyborg_CrusaderCaster_Necromancy_Brain"]]}

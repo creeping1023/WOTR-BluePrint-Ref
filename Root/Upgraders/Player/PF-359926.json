@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SpecificArea", "World/Areas/Act_3_DemonsHerecy/DrezenCapital/DrezenCapital"], ["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[0].m_Cue", "World/Dialogs/c3/Mythic_Trickster/FoolKing_Tavern/Cue_0036"]], "referenced": [["Data.m_Upgraders[383]", "Root/PlayerUpgradeActionsRoot"]]}

@@ -1,0 +1,1 @@
+{"referenced": [["Data.Components[1].UnitExit.Actions[0].IfTrue.Actions[1].m_Buff", "Spells/Level3/StinkingCloudArea"], ["Data.Components[1].Round.Actions[0].ConditionsChecker.Conditions[1].m_Fact", "Spells/Level3/StinkingCloudArea"], ["Data.Action.Actions[0].Actions.Actions[4].m_Buff", "World/Cutscenes/DLC5_FrozenTemple/DLC5_Meeting_with_hermit/CommandAction3"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Actions.Actions[0].m_Buff", "Units/Monsters/Devourer/DevourSoulBuff"], ["Data.Components[2].m_TouchWeapon", "Weapons/Types/Special/TouchItem"]], "referenced": [["Data.Components[0].m_TouchDeliveryAbility", "Units/Monsters/Devourer/DevourSoulCast"]]}

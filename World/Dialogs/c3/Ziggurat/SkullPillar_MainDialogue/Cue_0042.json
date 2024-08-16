@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_ConditionFlag", "World/Encounters/DrezenCapital/UnlockableFlags/Ziggurat_PlacementElite"], ["Data.Speaker.m_SpeakerPortrait", "Units/Monsters/Invisible_Kitten/Ziggurat/SkullPillar"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/c3/Ziggurat/SkullPillar_MainDialogue/Cue_0037"]]}

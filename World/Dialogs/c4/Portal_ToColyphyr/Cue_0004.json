@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Quest", "World/Quests/MythicQuests/Angel/C4_Devastation/Devastation_MythAngel_c4_quest"], ["Data.Conditions.Conditions[1].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel/AngelPath"]], "referenced": [["Data.Cues[0]", "World/Dialogs/c4/Portal_ToColyphyr/CueSequence_0002"]]}

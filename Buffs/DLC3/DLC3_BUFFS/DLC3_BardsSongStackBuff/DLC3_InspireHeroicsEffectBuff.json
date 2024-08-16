@@ -1,0 +1,1 @@
+{"referenced": [["Data.Components[0].m_Buff", "Buffs/DLC3/DLC3_BUFFS/DLC3_BardsSongStackBuff/DLC3_InspireHeroicsArea"], ["Data.Components[0].UnitExit.Actions[0].IfTrue.Actions[0].m_Buff", "Classes/Bard/BardicPerformances/InspireHeroics/InspireHeroicsArea"], ["Data.Components[0].Conditions.Conditions[14].m_Buff", "Weapons/Items/Unique/LateChapters/SingingEdgeEnchantment"]]}

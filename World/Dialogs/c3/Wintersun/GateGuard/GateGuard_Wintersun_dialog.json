@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c3/Wintersun/GateGuard/Cue_0001"], ["Data.FirstCue.Cues[1]", "World/Dialogs/c3/Wintersun/GateGuard/Cue_0003"]], "referenced": [["Data.m_Dialog", "World/Cutscenes/WintersunOutdoor/GateGuards_Dialog/CommandStartDialog"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_QuestObjective", "World/Quests/MythicQuests/Angel/C3_PuluraFalls/C3_PuluraFalls_main/Obj0_GoToPulura"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Mythic_Angel/HeraldCalling/Cue_0049"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/Mythic_Angel/HeraldCalling/Answer_0004"]]}

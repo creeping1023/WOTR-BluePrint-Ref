@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/MetalShardItem"], ["Data.m_ArmorComponent", "Equipment/Shields/Items/TotalPlus4/Enhancement4/LightShieldArmorItemPlus4"]], "referenced": [["Data.m_Items[135]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Filter.m_ItemsInclude[137]", "Dugeons/Loot/DungeonLootExclude"]]}

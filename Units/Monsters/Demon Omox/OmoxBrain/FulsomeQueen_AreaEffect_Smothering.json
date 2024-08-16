@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Condition.Conditions[1].m_Fact", "Units/Monsters/Demon Omox/OmoxBrain/Omox_Buff_Smothering"], ["Data.Components[0].m_Buff", "Units/Monsters/Demon Omox/OmoxBrain/FulsomeQueen_Buff_SmotheringEffect"]], "referenced": [["Data.Components[0].m_AreaEffect", "Units/Monsters/Demon Omox/OmoxBrain/FulsomeQueen_Buff_Smothering"]]}

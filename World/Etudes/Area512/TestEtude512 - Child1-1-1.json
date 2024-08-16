@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Parent", "World/Etudes/Area512/TestEtude512"], ["Data.ActivationCondition.Conditions[0].m_ConditionFlag", "World/Encounters/WoundWormsLair/UnlockableFlags/DragonDead"]], "referenced": [["Data.m_StartsOnComplete[0]", "World/Etudes/Area512/TestEtude512 - Child1-1"]]}

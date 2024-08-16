@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Type", "Weapons/Types/NaturalWeapon/GoreTwoHandedType"], ["Data.m_Enchantments[0]", "Weapons/Enchantments/MagicWeapon"]], "referenced": [["Data.m_Items[1903]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Components[0].m_Weapon[0]", "Mythic/Demon/DemonicFirstAscensionBuff"]]}

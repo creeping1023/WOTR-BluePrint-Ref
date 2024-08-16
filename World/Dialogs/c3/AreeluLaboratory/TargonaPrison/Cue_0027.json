@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/AreeluLab/ScarredElf"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/AreeluLaboratory/TargonaPrison/Cue_0030"]], "referenced": [["Data.CuesSeen[5512]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/c3/AreeluLaboratory/TargonaPrison/Answer_0020"]]}

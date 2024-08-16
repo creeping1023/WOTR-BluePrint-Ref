@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_Wilds_GhostHunters_Found/Cue_0001"]], "referenced": [["Data.ShowConditions.Conditions[1].m_Dialog", "World/Dialogs/DLC4_Shifter/DLC4_Wilds/DLC4_GhostHunter_Dialog/Answer_0005"], ["Data.Actions.Actions[0].m_Dialogue", "World/Encounters/DLC4_Wilds/ActionsHolders/DLC4_DoorOpen "]]}

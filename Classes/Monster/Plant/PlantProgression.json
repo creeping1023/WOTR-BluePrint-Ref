@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Classes[0].m_Class", "Classes/Monster/Plant/PlantClass"], ["Data.LevelEntries[0].m_Features[0]", "Traits/Races/Common/PlantType"]], "referenced": [["Data.m_Progression", "Classes/Monster/Plant/PlantClass"], ["Data.Components[0].Round.Actions[0].ConditionsChecker.Conditions[6].m_Fact", "Units/Monsters/Nereid/NereidBrain/NereidBeguilingAuraAreaEffect"]]}

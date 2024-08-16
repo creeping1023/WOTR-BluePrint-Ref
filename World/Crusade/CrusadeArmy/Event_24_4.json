@@ -1,0 +1,1 @@
+{"referencing": [["Data.Squads[0].m_Unit", "Armies/UnitBlueprints/ArmyMarilithStandard"], ["Data.Squads[1].m_Unit", "Armies/UnitBlueprints/ArmyPainajaiRanged"], ["Data.Squads[2].m_Unit", "Armies/UnitBlueprints/ArmyGlabrezuStandard"]], "referenced": [["Data.m_EventSolutions[2].m_SuccessEffects.Actions[0].Preset", "World/Crusade/Events/CrusadeEvents/CrusadeEvent24"]]}

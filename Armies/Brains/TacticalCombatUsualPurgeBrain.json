@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TacticalActions[0]", "Armies/Brains/Actions/TacticalCombatAiAttackImportant"]], "referenced": [["Data.m_Brain", "Armies/UnitBlueprints/ArmyDragonDiscipleBard"], ["Data.m_Brain", "Armies/UnitBlueprints/ArmyDruids"], ["Data.m_Brain", "Armies/UnitBlueprints/ArmySupport"], ["Data.m_Brain", "Armies/UnitBlueprints/KTC_ArmyDragonDiscipleBard"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/MetalShardItem"], ["Data.m_EquipmentEntity", "EquipmentEntities/Helmet/KEE_Helmet_HelmetKettleHat"], ["Data.m_Enchantments[0]", "Equipment/Headgear/CrownOfFearEnchant"]], "referenced": [["Data.m_Items[2376]", "Dugeons/Loot/DungeonLootExclude"]]}

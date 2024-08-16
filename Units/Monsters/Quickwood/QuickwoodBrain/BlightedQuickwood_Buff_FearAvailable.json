@@ -1,0 +1,1 @@
+{"referenced": [["Data.Components[0].Actions.Actions[0].m_Buff", "Units/Monsters/Quickwood/QuickwoodBrain/BlightedQuickwood_Ability_FearAura"], ["Data.m_Buffs[0]", "Units/Monsters/Quickwood/QuickwoodBrain/BlightedQuickwood_Consideration_HasBuffFearAvailable"], ["Data.Components[0].Buffs[0].m_Buff", "Units/Monsters/Quickwood/QuickwoodBrain/BlightedQuickwood_Feature_Fear"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DrezenCapital/KlejmLeaveCapital_scene/CommandMoveUnit"], ["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/DrezenCapital/KlejmLeaveCapital_scene/CommandAction"]], "referenced": [["Data.OnStop.Actions[0].m_Cutscene", "World/Dialogs/NPC_Common/Flamelance_Leader_Klejm/Cue_0017"]]}

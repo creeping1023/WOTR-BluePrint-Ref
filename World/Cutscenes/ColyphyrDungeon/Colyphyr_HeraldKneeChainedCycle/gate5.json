@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/ColyphyrDungeon/Colyphyr_HeraldKneeChainedCycle/CommandAction9"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/ColyphyrDungeon/Colyphyr_HeraldKneeChainedCycle/gate3"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/ColyphyrDungeon/Colyphyr_HeraldKneeChainedCycle/gate4"]]}

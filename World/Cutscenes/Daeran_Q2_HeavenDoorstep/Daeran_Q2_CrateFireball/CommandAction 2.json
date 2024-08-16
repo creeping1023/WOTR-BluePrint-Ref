@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Unit", "Units/Monsters/Water Elemental/SummonedWaterElementalGreater"], ["Data.Action.Actions[0].m_SummonPool", "World/Encounters/Daeran_Q2_HeavenDoorstep/SummonPools/Daeran_Q2_Elemental_right"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Daeran_Q2_HeavenDoorstep/Daeran_Q2_CrateFireball/gate 2"]]}

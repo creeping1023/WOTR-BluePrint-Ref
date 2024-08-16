@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[2].Activated.Actions[0].m_Blueprint", "Units/NPC/Commoners/Skeleton/SummonedSkeletonChampion"], ["Data.Components[2].Activated.Actions[0].AfterSpawn.Actions[0].m_Buff", "Traits/Companions/JaethalSkeletonBuff"], ["Data.Components[2].Activated.Actions[0].AfterSpawn.Actions[1].m_Buff", "Buffs/SummonedCreatureSpawnAllyI-III"]]}

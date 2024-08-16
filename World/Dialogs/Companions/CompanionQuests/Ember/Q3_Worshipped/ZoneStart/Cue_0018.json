@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_flag", "World/UnlockableFlags/Companions/EmberEnding_Evil"], ["Data.Continue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Ember/Q3_Worshipped/ZoneStart/Cue_0019"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Ember/Q3_Worshipped/ZoneStart/Answer_0011"]]}

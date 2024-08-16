@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_CheckedBuff", "Mythic/Aeon/AeonBane/AeonBaneBuff"], ["Data.Components[0].m_ExtraEffectBuff", "Mythic/Aeon/AeonBane/AeonImprovedBaneBuff"], ["Data.Components[1].m_buff", "Mythic/Aeon/AeonBane/AeonBaneBuff"]], "referenced": [["Data.LevelEntries[3].m_Features[2]", "Mythic/Aeon/AeonProgression"]]}

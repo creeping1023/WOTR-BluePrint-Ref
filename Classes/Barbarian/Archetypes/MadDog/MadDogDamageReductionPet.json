@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_FeatureList[1]", "Classes/Barbarian/RagePowers/IncreasedDamageReductionFeature"], ["Data.Components[1].m_FeatureList[2]", "Classes/Barbarian/RagePowers/IncreasedDamageReductionFeature"]], "referenced": [["Data.Components[2].m_Feature", "Classes/Barbarian/Archetypes/MadDog/MadDogDamageReductionMaster"]]}

@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level2/AcidArrowBuff"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level2/AcidArrowBuff"]], "referenced": [["Data.Components[1].Actions.Actions[1].Failed.Actions[0].m_Buff", "Spells/CutsceneSpells/CastleOfKnives/CastleOfKnivesFireStorm"], ["Data.Components[2].Actions.Actions[1].Failed.Actions[0].m_Buff", "Spells/Level7/FireStorm"], ["Data.Components[1].Actions.Actions[2].Failed.Actions[0].m_Buff", "Units/Companions/Ember/EmberStormOfBurningRighteousnessSpell"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Actions.Actions[0].m_Buff", "Classes/Barbarian/Rage/StandartRageBuff"], ["Data.Components[0].Actions.Actions[1].m_SummonPool", "Spells/CutsceneSpells/SummonMonsterPool"]], "referenced": [["Data.m_Ability", "Equipment/Headgear/WarpaintedSkull/WarpaintedSkullItem"]]}

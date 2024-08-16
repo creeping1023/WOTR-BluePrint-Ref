@@ -1,0 +1,1 @@
+{"referencing": [["Data.Continue.Cues[0]", "World/Dialogs/c4/Mythic_Angel/Devastator/Cue_0019"], ["Data.Continue.Cues[1]", "World/Dialogs/c4/Mythic_Angel/Devastator/Cue_0020"]], "referenced": [["Data.CuesSeen[7915]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.FirstCue.Cues[2]", "World/Dialogs/c4/Mythic_Angel/Devastator/Devastator_EchoLair_MythAngel_dialog"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Buffs/Areas/Act_2_SwordOfValor/DrezenCitadel_Level1/VisionRange0"], ["Data.Action.Actions[1].m_Buff", "Buffs/NPC_Untargetable"]], "referenced": [["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/RuinsRaidPlace/Boss_waiting/Boss_waiting"]]}

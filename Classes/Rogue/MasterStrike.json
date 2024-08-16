@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Classes/Rogue/MasterStrikeToggleAbility"], ["Data.Components[1].m_Feature", "Classes/Rogue/SneakAttack"]], "referenced": [["Data.LevelEntries[19].m_Features[1]", "Classes/Rogue/RogueProgression"], ["Data.UIGroups[1].m_Features[1]", "Classes/Rogue/RogueProgression"], ["Data.IsPrerequisiteFor[0]", "Classes/Rogue/SneakAttack"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_WeaponType", "Weapons/Types/Special/TouchType"], ["Data.IsPrerequisiteFor[0]", "Feats/WeaponFocusGreater/WeaponFocusGreaterTouch"]], "referenced": [["Data.Components[1].m_Feature", "Feats/WeaponFocusGreater/WeaponFocusGreaterTouch"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_2_SwordOfValor/LostChapel/CrusadeSoldierNearIrabeth"], ["Data.OnStop.Actions[0].m_Faction", "Factions/Mobs"]], "referenced": [["Data.CuesSeen[2914]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Continue.Cues[0]", "World/Dialogs/c2_vs/LostChapel/IrabethSoldier/Cue_0005"]]}

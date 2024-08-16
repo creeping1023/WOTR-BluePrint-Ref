@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Type", "Weapons/Types/Special/BombType"]], "referenced": [["Data.Components[0].m_WeaponRef", "Classes/Alchemist/Discoveries/FastBombs/FastBombsBuff"], ["Data.m_Items[1591]", "Dugeons/Loot/DungeonLootExclude"]]}

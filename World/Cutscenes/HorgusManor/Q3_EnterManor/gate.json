@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/HorgusManor/Q3_EnterManor/CommandStartDialog"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/HorgusManor/Q3_EnterManor/Q3_EnterManor"], ["Data.m_Tracks[1].m_EndGate", "World/Cutscenes/HorgusManor/Q3_EnterManor/Q3_EnterManor"]]}

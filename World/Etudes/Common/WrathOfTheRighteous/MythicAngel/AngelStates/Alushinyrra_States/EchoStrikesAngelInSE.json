@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Parent", "World/Etudes/Common/WrathOfTheRighteous/MythicAngel/AngelStates/Alushinyrra_States"]], "referenced": [["Data.Components[1].Actions.Actions[1].IfTrue.Actions[0].IfTrue.Actions[1].Etude", "Spells/CutsceneSpells/Alushinyrra/InvisibleHeraldBuff"], ["Data.Conditions.Conditions[0].m_Etude", "World/Dialogs/c4/SEbosses/Echo/Cue_0009"]]}

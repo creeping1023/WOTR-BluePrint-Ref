@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionRomances/Daeran/NotADate_ktc/Cue_0005"], ["Data.OnSelect.Actions[0].m_flag", "World/Encounters/DrezenCapital/UnlockableFlags/DaeranRomance_RefuseDate"]], "referenced": [["Data.Answers[2]", "World/Dialogs/Companions/CompanionRomances/Daeran/NotADate_ktc/AnswersList_0002"]]}

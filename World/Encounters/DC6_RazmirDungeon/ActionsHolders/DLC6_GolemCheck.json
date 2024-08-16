@@ -1,0 +1,1 @@
+{"referencing": [["Data.Actions.Actions[0].OnSuccess.Actions[1].m_flag", "World/Encounters/DC6_RazmirDungeon/UnlockableFlags/DLC6_GolemCheckFlag"], ["Data.Actions.Actions[0].OnSuccess.Actions[2].Actions.Actions[0].m_Buff", "Buffs/NPC_Untargetable"], ["Data.Actions.Actions[0].OnSuccess.Actions[2].Actions.Actions[1].m_Faction", "Factions/TrueNeutrals"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Companion", "Units/Companions/Daeran/Daeran_Companion"], ["Data.m_Dialog", "World/Dialogs/Companions/CompanionRomances/Daeran/NotADate_ktc/InviteNotADate_ktc_dialog"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DrezenCapital/DrezenCapital_DaeranRomance_NotADate/gate 1"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Actions.Actions[0].m_Buff", "Classes/Kineticist/ElementalFocus/Fire/SearingFleshBuff"], ["Data.Components[1].m_RequiredResource", "Classes/Kineticist/ElementalFocus/Fire/SearingFleshResource"]], "referenced": [["Data.Components[0].m_Facts[0]", "Classes/Kineticist/ElementalFocus/Fire/SearingFlesh"]]}

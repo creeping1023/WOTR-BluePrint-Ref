@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Race", "Races/ElfRace"]], "referenced": [["Data.m_Portrait", "Armies/Leaders/Warlords/WarlordLeaderRanger3"], ["Data.m_Portrait", "Armies/Leaders/Warlords/WarlordUnits/Warlord_13_Ranger"], ["Data.CharGen.m_Portraits[11]", "Root/BlueprintRoot"], ["Data.m_Portrait", "Units/Pregens/Test_Pregens/PlayerTestLevel_Bard"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Buffs/Areas/Act_3_DemonsHerecy/GiantsLair/ProneSnoring"], ["Data.Action.Actions[1].m_Faction", "Factions/Mobs"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/GiantsLair/SwarmTimer/gate"]]}

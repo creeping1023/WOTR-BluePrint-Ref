@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/WarCamp/WarCamp_GenericHail/CommandUnitLookAt"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/WarCamp/WarCamp_GenericHail/gate 1"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/WarCamp/WarCamp_GenericHail/WarCamp_GenericHail"]]}

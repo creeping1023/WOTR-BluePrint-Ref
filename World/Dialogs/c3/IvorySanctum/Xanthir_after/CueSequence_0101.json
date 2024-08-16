@@ -1,0 +1,1 @@
+{"referencing": [["Data.Cues[0]", "World/Dialogs/c3/IvorySanctum/Xanthir_after/Cue_0103"], ["Data.m_Exit", "World/Dialogs/c3/IvorySanctum/Xanthir_after/SequenceExit_0102"]], "referenced": [["Data.CuesSeen[4824]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/IvorySanctum/Xanthir_after/Cue_0035"]]}

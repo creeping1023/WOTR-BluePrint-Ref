@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Cutscene", "World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_FakeKytonIdle/DLC5_LC_FakeKytonIdle"], ["Data.Action.Actions[1].m_Buff", "Spells/CutsceneSpells/DLC5/DLC5_LC_Polymorph"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC5_LostChapel_PlaneOfShadow/DLC5_LC_FakeKyton_Unhide/gate"]]}

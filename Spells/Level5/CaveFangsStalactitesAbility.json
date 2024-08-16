@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Actions.Actions[0].m_AreaEffect", "Spells/Level5/CaveFangsStalactitesArea"], ["Data.Components[3].Actions.Actions[0].m_TargetBuff", "Spells/Level5/CaveFangsStalactitesBuff"]], "referenced": [["Data.Components[0].m_Facts[0]", "Spells/Level5/CaveFangsStalactitesBuff"], ["Data.Components[1].m_Ability", "Spells/Level5/CaveFangsStalactitesBuff"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Units/Monsters/Hellhound/HellhoundBrain/AoE_ChooseMoreThen2Enemies"], ["Data.m_TargetConsiderations[1]", "Brain/Considerations/AoE_AvoidFriends"], ["Data.m_Ability", "Armies/Abilities/ArmyStinkingCloud"]], "referenced": [["Data.m_TacticalActions[1]", "Armies/Brains/TacticalCombatDretchBrain"]]}

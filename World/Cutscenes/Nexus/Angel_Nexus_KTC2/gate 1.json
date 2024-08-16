@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Nexus/Angel_Nexus_KTC2/CommandDelay 1"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/Nexus/Angel_Nexus_KTC2/gate 2"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/Nexus/Angel_Nexus_KTC2/gate"]]}

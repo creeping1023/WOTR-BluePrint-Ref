@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[2].Action.Actions[0].ConditionsChecker.Conditions[0].m_Buff", "Spells/Level4/SerenityCooldownBuff"], ["Data.Components[2].Action.Actions[0].IfTrue.Actions[0].m_Buff", "Spells/Level4/SerenityCooldownBuff"]], "referenced": [["Data.OnShow.Actions[0].Actions.Actions[0].m_Buff", "World/Dialogs/c4/AirAdventures/Cue_0021"]]}

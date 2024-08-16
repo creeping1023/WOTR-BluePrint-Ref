@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Actions.Actions[0].m_Buff", "Units/Companions/Seelah/SeelahShieldingFriendBuff"], ["Data.Components[3].m_RequiredResource", "Classes/Paladin/LayOnHands/LayOnHandsResource"]], "referenced": [["Data.Components[0].m_Facts[0]", "Units/Companions/Seelah/SeelahShieldingFriendFeature"]]}

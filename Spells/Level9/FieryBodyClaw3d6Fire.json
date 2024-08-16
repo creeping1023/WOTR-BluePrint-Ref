@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Type", "Weapons/Types/Special/Unarmed"], ["Data.m_Enchantments[0]", "Weapons/Enchantments/FieryBody"]], "referenced": [["Data.m_Items[1237]", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], ["Data.Components[4].m_Weapon", "Spells/Level9/FieryBodyBuff"]]}

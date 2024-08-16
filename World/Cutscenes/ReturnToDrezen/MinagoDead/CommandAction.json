@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[2].m_exitPositon", "World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/ReturnToDrezen/EnterPoints/ReturnToDrezen_DeadMinagoPlayerEnterPoint"], ["Data.Action.Actions[3].m_Faction", "Factions/CutsceneNeutrals"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/ReturnToDrezen/MinagoDead/gate"]]}

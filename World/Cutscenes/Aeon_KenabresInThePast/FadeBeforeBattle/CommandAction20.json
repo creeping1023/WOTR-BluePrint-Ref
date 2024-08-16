@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[1].m_Buff", "Buffs/NPC_Untargetable"], ["Data.Action.Actions[2].m_Buff", "Buffs/NPC_HealthGuard50"], ["Data.Action.Actions[3].m_Faction", "Factions/CutsceneNeutrals"]], "referenced": [["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/Aeon_KenabresInThePast/FadeBeforeBattle/gate20"]]}

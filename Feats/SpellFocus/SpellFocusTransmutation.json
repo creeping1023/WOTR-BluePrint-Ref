@@ -1,0 +1,1 @@
+{"referencing": [["Data.IsPrerequisiteFor[0]", "Feats/GreaterSpellFocus/GreaterSpellFocusTransmutation"]], "referenced": [["Data.Components[1].m_Feature", "Feats/GreaterSpellFocus/GreaterSpellFocusTransmutation"], ["Data.Components[0].Selections[0].m_Features[2]", "Test/Blueprints/PregenSorcererEarthFeatureList20"]]}

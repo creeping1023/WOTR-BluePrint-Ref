@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Objectives[0]", "World/Quests/MythicQuests/Lich/Errands/GoToZiggurat_Ch5/Objective_0001"]], "referenced": [["Data.Actions.Actions[15].ConditionsChecker.Conditions[0].m_Quest", "World/Encounters/ThresholdOutdoor/ActionsHolders/QuestsFail_Mythic"], ["Data.m_Quest", "World/Quests/MythicQuests/Lich/Errands/GoToZiggurat_Ch5/Objective_0001"]]}

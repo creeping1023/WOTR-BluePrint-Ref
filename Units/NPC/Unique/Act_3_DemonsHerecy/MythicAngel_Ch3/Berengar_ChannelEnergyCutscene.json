@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Condition.Conditions[0].m_Fact", "Traits/Races/Common/ConstructType"], ["Data.Components[1].Actions.Actions[0].ConditionsChecker.Conditions[0].m_Fact", "CreatureAbilities/NegativeEnergyAffinity"]], "referenced": [["Data.m_SpellBlueprint", "World/Cutscenes/RoguePaladin_SE2/RoguePaladin_SE2_BerengarRelax/CommandUnitCastSpell 1"]]}

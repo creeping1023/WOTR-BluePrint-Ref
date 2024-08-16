@@ -1,0 +1,1 @@
+{"referencing": [["Data.Squads[0].m_Unit", "Armies/UnitBlueprints/ArmyPaladinCavalry"], ["Data.Squads[1].m_Unit", "Armies/UnitBlueprints/ArmyConscript"], ["Data.Squads[2].m_Unit", "Armies/UnitBlueprints/ArmySlinger"]], "referenced": [["Data.FinishActions.Actions[0].Preset", "World/Crusade/RankUps/Leadership/KTC_AfterRankUp8/KTC_AfterRankUp8_dialogue"]]}

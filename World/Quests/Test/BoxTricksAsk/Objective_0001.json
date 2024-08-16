@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Quest", "World/Quests/Test/BoxTricksAsk/BoxTricksAsk"]], "referenced": [["Data.OnStop.Actions[0].m_Objective", "World/Dialogs/Test/BoxTrick_sideQuest/MusicBox_main/Cue_0008"], ["Data.m_Objectives[0]", "World/Quests/Test/BoxTricksAsk/BoxTricksAsk"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_RequiredResource", "Classes/ArcaneTrickster/ImpromptuSneakAttack/ImpromptuSneakAttackResource"], ["Data.m_Buff", "Classes/ArcaneTrickster/ImpromptuSneakAttack/ImpromptuSneakAttackBuff"]], "referenced": [["Data.Components[0].m_Facts[0]", "Classes/ArcaneTrickster/ImpromptuSneakAttack/ImpromptuSneakAttackFeature"]]}

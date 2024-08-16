@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/MythicAngel/PlayerIsAngel"], ["Data.Continue.Cues[0]", "World/Dialogs/NPC_Common/BartenderFye/Cue_0080"]], "referenced": [["Data.CuesSeen[3282]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[5]", "World/Dialogs/NPC_Common/BartenderFye/Answer_0044"]]}

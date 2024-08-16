@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/GalfreyRomance/TimeToLeave/Cue_0001"]], "referenced": [["Data.Action.Actions[1].Parameters.Parameters[1].Evaluator.m_Value", "World/Cutscenes/DLC6_TavernRebuilded/DLC6_ReviveGalfrey/CommandAction"]]}

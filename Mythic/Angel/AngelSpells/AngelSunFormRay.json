@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[3].m_Projectiles[0]", "FX/Spell Level 6/HellfireRay00"], ["Data.Components[3].m_Weapon", "Weapons/Types/Special/RayItem"]], "referenced": [["Data.Components[0].m_Facts[1]", "Mythic/Angel/AngelSpells/AngelSunFormBuff"], ["Data.Components[1].m_Ability", "Mythic/Angel/AngelSpells/AngelSunFormBuff"]]}

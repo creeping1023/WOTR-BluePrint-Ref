@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[1].Actions.Actions[0].m_Buff", "World/Encounters/ReligionReactivityBuffs/Cayden_Buff"], ["Data.Continue.Cues[0]", "World/Dialogs/c1/DefendersHeart/BeforeAttackIrabeth/Cue_0010"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c1/DefendersHeart/BeforeAttackIrabeth/Answer_0014"]]}

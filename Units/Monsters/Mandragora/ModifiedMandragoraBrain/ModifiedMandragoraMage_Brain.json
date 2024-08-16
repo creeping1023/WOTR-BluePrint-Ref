@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions[0]", "Brain/Actions/AttackAiAction"], ["Data.m_Actions[1]", "Units/Monsters/Mandragora/ModifiedMandragoraBrain/ModifiedMandragora_QuickDispMaAreaAiAction"]], "referenced": [["Data.m_Brain", "Units/Monsters/Mandragora/CR20_ModifiedMandragoraMagic"]]}

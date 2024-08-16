@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/Mythic_Devil/DevilishTemptation/AfterRaid/Cue_0012"], ["Data.OnSelect.Actions[0].m_Cutscene", "World/Cutscenes/RuinsRaidPlace/Player_bows/Player_bows"]], "referenced": [["Data.Answers[1]", "World/Dialogs/c5/Mythic_Devil/DevilishTemptation/AfterRaid/AnswersList_0004"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/FatefulNight1_Kenabres/FatefulNight1/CommandDelay 8"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/FatefulNight1_Kenabres/FatefulNight1/gate 9"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/FatefulNight1_Kenabres/FatefulNight1/gate 14"]]}

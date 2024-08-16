@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/BattleBliss/Gelderfang_dialogue/Cue_0027"], ["Data.NextCue.Cues[1]", "World/Dialogs/c4/BattleBliss/Gelderfang_dialogue/Cue_0019"]], "referenced": [["Data.AnswersSelected[3108]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[1]", "World/Dialogs/c4/BattleBliss/Gelderfang_dialogue/AnswersList_0003"]]}

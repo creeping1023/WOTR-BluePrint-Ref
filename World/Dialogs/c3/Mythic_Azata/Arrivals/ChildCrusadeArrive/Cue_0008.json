@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Commoners/Act_3_DemonsHerecy/MythicAzata_Ch3/KTCAzata_Child_gnome_male"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Mythic_Azata/Arrivals/ChildCrusadeArrive/Cue_3"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/Mythic_Azata/Arrivals/ChildCrusadeArrive/Answer_0004"]]}

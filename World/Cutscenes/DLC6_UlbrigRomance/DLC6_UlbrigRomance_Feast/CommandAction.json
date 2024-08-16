@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[1].Unit.m_Companion", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"], ["Data.Action.Actions[2].m_Cutscene", "World/Cutscenes/DLC6_UlbrigRomance/DLC6_UlbrigRomance_PlayInChess/DLC6_UlbrigRomance_PlayInChess"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC6_UlbrigRomance/DLC6_UlbrigRomance_Feast/gate1"]]}

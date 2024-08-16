@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/MidnightFane/MidnightFane_MinaghoRunawayFinal/MidnightFane_MinaghoRunawayFinal"], ["Data.OnStop.Actions[1].m_Cutscene", "World/Cutscenes/MidnightFane/MidnightFane_Final/MidnightFane_Final"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/MidnightFane/MinaghoAndAzata/Answer_0007"]]}

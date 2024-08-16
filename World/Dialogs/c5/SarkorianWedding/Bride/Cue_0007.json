@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Commoners/Wight/WightBoss/SarcorianWedding_WightBoss"], ["Data.OnStop.Actions[0].m_Objective", "World/Quests/c5/SarkorianWedding/Obj_02_KillDemon"], ["Data.Continue.Cues[0]", "World/Dialogs/c5/SarkorianWedding/Bride/Cue_2"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/SarkorianWedding/Bride/Answer_0004"]]}

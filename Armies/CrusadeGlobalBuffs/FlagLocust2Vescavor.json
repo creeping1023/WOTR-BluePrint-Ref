@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_ArmyUnits[0]", "Armies/UnitBlueprints/ArmyVescavorSwarmStandard"], ["Data.Components[0].m_Features[0]", "Armies/Abilities/BonusFactsForArmy/ArmyLocustAttackFeature"]], "referenced": [["Data.Components[0].Actions.Actions[0].m_Blueprint", "World/Etudes/Common/WrathOfTheRighteous/MythicLocust/LocustRangUps/MythicLocust_RankUp02_Option04"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[1].Unit.m_Companion", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level2/Sendri_companion"], ["Data.Action.Actions[2].Unit.m_Companion", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion"]], "referenced": [["Data.m_Tracks[2].m_Commands[4]", "World/Cutscenes/DLC2_ApproachesToTheTavern/DLC2_Ruins_dialog/gate5"]]}

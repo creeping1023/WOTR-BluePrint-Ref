@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].ActionOnTarget.Actions[0].m_Buff", "Armies/Abilities/ArmyAshLeprosy"]], "referenced": [["Data.m_AddFacts[5]", "Armies/UnitBlueprints/ArmyAshGiantNoRocks"], ["Data.m_AddFacts[11]", "Armies/UnitBlueprints/ArmyAshGiantStandart"], ["Data.m_AddFacts[7]", "Armies/UnitBlueprints/ArmyZagelforntzGiants"]]}

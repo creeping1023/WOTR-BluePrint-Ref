@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "CreatureAbilities/Immunities/ImmunityToCurseEffects"], ["Data.Components[0].m_Facts[1]", "CreatureAbilities/Immunities/ImmunityToDeathEffects"], ["Data.Components[0].m_Facts[2]", "CreatureAbilities/Immunities/ImmunityToEnergyDrain"]], "referenced": [["Data.LevelEntries[4].m_Features[2]", "Mythic/Aeon/AeonProgression"]]}

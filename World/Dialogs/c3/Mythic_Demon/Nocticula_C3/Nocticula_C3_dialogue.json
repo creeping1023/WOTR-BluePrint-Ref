@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c3/Mythic_Demon/Nocticula_C3/Cue_0001"], ["Data.FinishActions.Actions[2].Etude", "World/Etudes/Common/WrathOfTheRighteous/MythicDemon/PlayerIsDemon/DrezenCapital_MythicDemonPortal"]], "referenced": [["Data.m_Dialog", "World/Cutscenes/VaultOfGraves/DemonCh3TPPlayerToNoctaThrone/CommandStartDialog"]]}

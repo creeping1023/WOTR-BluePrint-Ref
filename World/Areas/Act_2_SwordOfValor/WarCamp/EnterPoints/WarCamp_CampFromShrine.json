@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Act_2_SwordOfValor/WarCamp/WarCamp"], ["Data.m_AreaPart", "World/Areas/Act_2_SwordOfValor/WarCamp/WarCamp"]], "referenced": [["Data.m_Actions[0].Actions.Actions[0].m_exitPositon", "World/Areas/Act_2_SwordOfValor/WarCamp/AreaTransitions/WarCamp_EarlyBeginning_fromShrine"]]}

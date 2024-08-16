@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/InjurySerious"], ["Data.m_TargetConsiderations[0]", "Brain/Considerations/TargetSelf"], ["Data.m_Ability", "Spells/Level3/CureSeriousWoundsCast"]], "referenced": [["Data.m_Actions[3]", "Units/NPC/Unique/Act_1_WorldwoundIncursion/KenabresBurning/Ramien_Brain/Ramien_Brain"]]}

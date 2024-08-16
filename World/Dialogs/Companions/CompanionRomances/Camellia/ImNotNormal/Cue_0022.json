@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].Etude", "World/Etudes/Common/WrathOfTheRighteous/Companions/CamelliaCompanion/CamelliaRomance"], ["Data.OnStop.Actions[1].m_Cutscene", "World/Cutscenes/DrezenCapital/CamelliaRomance_EarlyEnd/CamelliaRomance_EarlyEnd"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionRomances/Camellia/ImNotNormal/Answer_0021"]]}

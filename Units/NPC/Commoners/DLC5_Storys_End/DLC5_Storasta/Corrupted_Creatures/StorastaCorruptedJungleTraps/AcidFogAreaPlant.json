@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[2].Condition.Conditions[0].m_Fact", "Spells/Level4/FreedomOfMovementBuff"], ["Data.Components[2].m_Buff", "Spells/Level6/AcidFogBuff"]], "referenced": [["Data.Components[2].Actions.Actions[0].m_AreaEffect", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/Corrupted_Creatures/StorastaCorruptedJungleTraps/AcidFogPlant"]]}

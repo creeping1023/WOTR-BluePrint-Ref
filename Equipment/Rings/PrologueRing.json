@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/MetalShardItem"], ["Data.m_Enchantments[0]", "Equipment/CommonEnchantments/Deflection1"]], "referenced": [["Data.m_Items[106]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Filter.m_ItemsInclude[108]", "Dugeons/Loot/DungeonLootExclude"]]}

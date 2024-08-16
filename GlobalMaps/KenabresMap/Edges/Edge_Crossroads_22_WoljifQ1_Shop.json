@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Point1", "GlobalMaps/KenabresMap/Points/Location_Crossroads_28"], ["Data.m_Point2", "GlobalMaps/KenabresMap/Points/Location_WoljifQ1_Shop"]], "referenced": [["Data.Edges[41]", "GlobalMaps/KenabresMap/KenabresMap"], ["Data.OnShow.Actions[1].m_Edge", "World/Dialogs/NPC_Common/Irabeth/Cue_0134"]]}

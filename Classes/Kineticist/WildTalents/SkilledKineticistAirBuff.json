@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Class[0]", "Classes/Kineticist/KineticistClass"]], "referenced": [["Data.Components[0].Activated.Actions[0].IfTrue.Actions[0].m_Buff", "Classes/Kineticist/WildTalents/SkilledKineticistBuff"], ["Data.Components[2].m_Feature", "Classes/Kineticist/WildTalents/SkilledKineticistBuff"]]}

@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Classes/Cleric/Domains/Death/DeathDomainBaseBuff"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "Classes/Cleric/Domains/Death/DeathDomainBaseBuff"]], "referenced": [["Data.Components[0].Actions.Actions[0].m_Buff", "Classes/Cleric/Archetypes/Separatist/Domains/Knowledge/KnowledgeDomainGreaterAbilitySeparatist"], ["Data.Components[0].Actions.Actions[3].m_Buff", "Classes/Cleric/Domains/Knowledge/KnowledgeDomainGreaterAbility"]]}

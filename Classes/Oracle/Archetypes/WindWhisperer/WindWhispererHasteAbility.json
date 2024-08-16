@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Actions.Actions[0].m_Buff", "Spells/Level3/HasteBuff"], ["Data.Components[3].m_RequiredResource", "Classes/Oracle/Archetypes/WindWhisperer/WindWhispererHasteResource"]], "referenced": [["Data.Components[1].m_Facts[0]", "Classes/Oracle/Archetypes/WindWhisperer/WindWhispererHasteFeature"]]}

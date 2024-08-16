@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Actions.Actions[0].m_Buff", "Spells/Level4/CrusadersEdgeBuff"], ["Data.Components[3].m_TouchWeapon", "Weapons/Types/Special/TouchItem"]], "referenced": [["Data.Components[2].m_TouchDeliveryAbility", "Spells/Level4/CrusadersEdgeCast"]]}

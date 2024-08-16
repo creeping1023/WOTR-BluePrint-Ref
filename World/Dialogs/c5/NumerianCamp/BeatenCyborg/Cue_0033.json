@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Objective", "World/Quests/c5/NumerianCamp/Add6_FounClue_3"], ["Data.Continue.Cues[0]", "World/Dialogs/c5/NumerianCamp/BeatenCyborg/Cue_0034"]], "referenced": [["Data.CuesSeen[6059]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Continue.Cues[0]", "World/Dialogs/c5/NumerianCamp/BeatenCyborg/Cue_0029"]]}

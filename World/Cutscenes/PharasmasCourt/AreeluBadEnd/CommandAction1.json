@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].Target.m_SummonPool", "World/Encounters/PharasmasCourt/SummonPools/PC_Areelu"], ["Data.Action.Actions[0].Killer.m_SummonPool", "World/Encounters/PharasmasCourt/SummonPools/PC_Areelu"]], "referenced": [["Data.m_Tracks[2].m_Commands[3]", "World/Cutscenes/PharasmasCourt/AreeluBadEnd/AreeluBadEnd"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c0/CavesUnderKenabres/NeathholmVillage/Horgus_GetMeOut/Cue_0028"], ["Data.FirstCue.Cues[1]", "World/Dialogs/c0/CavesUnderKenabres/NeathholmVillage/Horgus_GetMeOut/Cue_0029"]], "referenced": [["Data.Action.Actions[0].m_Dialogue", "World/Cutscenes/Prologue_Neathholm/Horgus_Comes/CommandAction"]]}

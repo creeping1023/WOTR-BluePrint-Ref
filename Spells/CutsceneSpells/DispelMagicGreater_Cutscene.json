@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_Variants[0]", "Spells/CutsceneSpells/DispelMagicGreaterAreaAll_Cutscene"], ["Data.Components[1].m_Variants[1]", "Spells/Level6/DispelMagicGreaterTarget"]], "referenced": [["Data.m_Parent", "Spells/CutsceneSpells/DispelMagicGreaterAreaAll_Cutscene"]]}

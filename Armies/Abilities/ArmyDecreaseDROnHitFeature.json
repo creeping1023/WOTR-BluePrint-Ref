@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[2].ActionOnTarget.Actions[0].m_Buff", "Armies/Abilities/ArmyDecreaseDROnHitBuff"]], "referenced": [["Data.Components[0].m_Features[1]", "Armies/CrusadeGlobalBuffs/FlagTrickster6EquipmentBuff7"], ["Data.m_AddFacts[7]", "Armies/UnitBlueprints/ArmyVescavorSwarmStandard"]]}

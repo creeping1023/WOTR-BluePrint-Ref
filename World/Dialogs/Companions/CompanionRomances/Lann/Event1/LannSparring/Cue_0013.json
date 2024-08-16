@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].Target.m_Companion", "Units/Companions/Lann/Lann_Companion"], ["Data.OnStop.Actions[0].m_Faction", "Factions/Mobs"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionRomances/Lann/Event1/LannSparring/Answer_0007"]]}

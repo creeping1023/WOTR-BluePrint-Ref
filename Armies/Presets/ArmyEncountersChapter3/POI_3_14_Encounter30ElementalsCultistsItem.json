@@ -1,0 +1,1 @@
+{"referencing": [["Data.Squads[0].m_Unit", "Armies/UnitBlueprints/ArmyCultist_Baphomet_Melee"], ["Data.Squads[1].m_Unit", "Armies/UnitBlueprints/ArmyFireElementalMedium"], ["Data.Squads[2].m_Unit", "Armies/UnitBlueprints/ArmyEarthElementalMedium"]], "referenced": [["Data.Components[0].Actions.Actions[12].Preset", "World/Etudes/Common/WrathOfTheRighteous/Chapter03"]]}

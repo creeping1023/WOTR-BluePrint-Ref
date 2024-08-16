@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_ItemToCheck", "Items/Archeology/Mementos/Tech/Memento_TechGear_item"], ["Data.OnShow.Actions[0].m_ItemToSell", "Items/Archeology/Mementos/Tech/Memento_TechGear_item"]], "referenced": [["Data.Cues[6]", "World/Dialogs/Test/Archeology/Collector/CueSequence_0025"]]}

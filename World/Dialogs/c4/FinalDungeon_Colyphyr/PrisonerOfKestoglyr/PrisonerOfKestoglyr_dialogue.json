@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c4/FinalDungeon_Colyphyr/PrisonerOfKestoglyr/Cue_0013"], ["Data.FirstCue.Cues[1]", "World/Dialogs/c4/FinalDungeon_Colyphyr/PrisonerOfKestoglyr/Cue_0035"]], "referenced": [["Data.m_Dialog", "World/Cutscenes/ColyphyrDungeon/Colyphyr_PrisonersStart/CommandStartDialog"]]}

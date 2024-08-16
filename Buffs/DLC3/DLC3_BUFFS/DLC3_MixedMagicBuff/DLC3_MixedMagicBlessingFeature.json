@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Activated.Actions[0].m_Buff", "Buffs/DLC3/DLC3_BUFFS/DLC3_MixedMagicBuff/DLC3_MixedMagicBlessingBuff"], ["Data.Components[0].Deactivated.Actions[0].m_Buff", "Buffs/DLC3/DLC3_BUFFS/DLC3_MixedMagicBuff/DLC3_MixedMagicBlessingBuff"]], "referenced": [["Data.Components[0].m_Feature", "Dugeons/Boons/DungeonBoon_MixedMagic"]]}

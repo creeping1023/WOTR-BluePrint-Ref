@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[3].m_Class", "Classes/Shifter/ShifterClass"], ["Data.Components[3].m_Feature", "Classes/Shifter/Archetypes/GriffonheartShifter/ShifterGriffonRend"]], "referenced": [["Data.Components[0].Action.Actions[0].IfFalse.Actions[0].Success.Actions[0].m_CasterBuff", "Classes/Shifter/Archetypes/GriffonheartShifter/GriffonGrappleBuff"]]}

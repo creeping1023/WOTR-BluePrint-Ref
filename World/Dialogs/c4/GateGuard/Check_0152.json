@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Success", "World/Dialogs/c4/GateGuard/Cue_0155"], ["Data.m_Fail", "World/Dialogs/c4/GateGuard/Cue_0156"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/GateGuard/Answer_0148"], ["Data.Conditions.Conditions[1].m_Check", "World/Dialogs/c4/GateGuard/Cue_0135"]]}

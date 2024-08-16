@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions.Actions[0].m_Feature", "Classes/Inquisitor/SoloTactics"], ["Data.m_Actions.Actions[0].m_Progression", "Classes/Inquisitor/InquisitorProgression"], ["Data.m_Actions.Actions[0].m_Archetype", "Classes/Inquisitor/Archetypes/SacredHuntsmaster/SacredHuntsmasterArchetype"]], "referenced": [["Data.m_Upgraders[712]", "Root/PlayerUpgradeActionsRoot"]]}

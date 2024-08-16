@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Actions.Actions[0].Value.DiceCountValue.m_CustomProperty", "Armies/Leaders/Feats/Bonus/PropertyArmySpellPower"]], "referenced": [["Data.Components[0].ActionsOnInitiator.Actions[1].m_Spell", "Armies/Abilities/ArmyVampiricTouchOnHitNinjaPirates"]]}

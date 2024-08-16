@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Armies/Brains/Considerations/TacticalConsideration_HalfHealth"], ["Data.m_Ability", "Armies/Abilities/ArmyGreaterHealUndead"]], "referenced": [["Data.m_TacticalActions[1]", "Armies/Brains/TacticalCombatClericMummyBrain"]]}

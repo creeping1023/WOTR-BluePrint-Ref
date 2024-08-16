@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "Units/Monsters/DLC5_Sithhud/HeadOfSithhud/DLC5_SwiftFrostBreathOfSithhudAiAction"]]}
+{"referencing": [["Data.PrototypeLink", "Units/Monsters/DLC5_Sithhud/HeadOfSithhud/DLC5_SwiftFrostBreathOfSithhudAiAction"], ["Data.m_ActorConsiderations[0]", "Brain/Considerations/AoE_ChooseMoreEnemies"], ["Data.m_ActorConsiderations[1]", "Brain/Considerations/SwiftActionOffCooldown"], ["Data.m_Ability", "Units/Monsters/DLC5_Sithhud/HeadOfSithhud/DLC5_SwiftFrostBreathOfSithhudAbility"]]}

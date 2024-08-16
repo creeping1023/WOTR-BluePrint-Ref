@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Area", "World/Areas/DLC3_RogueLike/DLC3_SeaHub/DLC3_SeaHub"], ["Data.TargetPoint", "World/Areas/DLC3_RogueLike/DLC3_SeaHub/EnterPoints/DLC3_SeaHub_Rest"]], "referenced": [["Data.m_Tracks[1].m_Commands[0]", "World/Cutscenes/DLC3_AlushinyrraPort/Rest_cutscene/gate1"]]}

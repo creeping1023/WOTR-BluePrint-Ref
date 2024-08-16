@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/ClothShardItem"], ["Data.m_Enchantments[0]", "Equipment/Cloaks/LateChapters/CloakOfSharpFangsEnchantment"]], "referenced": [["Data.m_Items[51]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Filter.m_ItemsInclude[51]", "Dugeons/Loot/DungeonLootExclude"]]}

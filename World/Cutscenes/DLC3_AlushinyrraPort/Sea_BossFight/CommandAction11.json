@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].ActionsOnSpawn.Actions[1].m_SummonPool", "World/Encounters/DLC3_AlushinyrraPort/SummonPools/Deva"], ["Data.Action.Actions[0].ActionsOnSpawn.Actions[2].m_Buff", "Root/SystemMechanics/Conditions/SummonedUnitBuff"]], "referenced": [["Data.m_Tracks[2].m_Commands[1]", "World/Cutscenes/DLC3_AlushinyrraPort/Sea_BossFight/gate"]]}

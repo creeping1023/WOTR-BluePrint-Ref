@@ -1,0 +1,1 @@
+{"referencing": [["Data.TriggerCondition.Conditions[0].m_ConditionFlag", "Kingdom/CrusadeProjects/LogisticsProjects/LogisticsProjectsFlags/Event13HuntForTheKidnappers"]], "referenced": [["Data.m_History[80].m_Event", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.m_KingdomProjectEvents[115]", "Root/Kingdom/KingdomRoot"]]}

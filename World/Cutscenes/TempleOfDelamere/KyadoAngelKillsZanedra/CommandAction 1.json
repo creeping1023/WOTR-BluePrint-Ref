@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[1].m_flag", "World/Encounters/TempleOfDelamere/UnlockableFlags/ZanedraKilledByKyado"], ["Data.Action.Actions[2].Holder", "World/Encounters/TempleOfDelamere/ActionsHolders/SarcophagusCleaning"]], "referenced": [["Data.m_Tracks[0].m_Commands[4]", "World/Cutscenes/TempleOfDelamere/KyadoAngelKillsZanedra/gate 1"]]}

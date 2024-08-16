@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Actions.Actions[0].IfTrue.Actions[1].m_Buff", "Units/Monsters/Spider/HuntingSpiderPoisonBuff"], ["Data.Components[3].m_Projectiles[0]", "FX/Abilities/AlchemistAcidBomb00"], ["Data.Components[3].m_Weapon", "Weapons/Types/Special/BombItem"]]}

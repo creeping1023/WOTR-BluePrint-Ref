@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Actions.Actions[0].m_Buff", "Feats/PerfectStrike/PerfectStrikeOwnerBuff"], ["Data.Components[1].m_RequiredResource", "Feats/PerfectStrike/PerfectStrikeResource"], ["Data.Components[2].m_Facts[0]", "Feats/PerfectStrike/PerfectStrikeOwnerBuff"]], "referenced": [["Data.Components[1].m_Facts[0]", "Feats/PerfectStrike/PerfectStrikeFeature"]]}

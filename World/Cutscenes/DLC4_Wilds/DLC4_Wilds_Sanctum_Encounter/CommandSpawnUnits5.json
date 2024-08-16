@@ -1,0 +1,1 @@
+{"referencing": [["Data.ActionsOnSpawn.Actions[1].m_Fact", "Buffs/NPC_Immortality"], ["Data.ActionsOnSpawn.Actions[2].m_Buff", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Wildernes_NPC/Spirit_Animals/WolfsImmortal"]], "referenced": [["Data.m_Tracks[5].m_Commands[1]", "World/Cutscenes/DLC4_Wilds/DLC4_Wilds_Sanctum_Encounter/gate1"]]}

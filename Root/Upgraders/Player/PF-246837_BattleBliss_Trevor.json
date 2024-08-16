@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SpecificArea", "World/Areas/Act_4_MidnightIsles/BattleBliss/BattleBliss"], ["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[0].m_Cue", "World/Dialogs/c4/BattleBliss/Irmangaleth_dialogue/Cue_0160"]], "referenced": [["Data.m_Upgraders[151]", "Root/PlayerUpgradeActionsRoot"]]}

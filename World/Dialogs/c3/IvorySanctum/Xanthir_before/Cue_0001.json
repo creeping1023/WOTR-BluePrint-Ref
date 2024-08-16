@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/Xantir"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/IvorySanctum/Xanthir_before/Cue_0002"]], "referenced": [["Data.CuesSeen[4795]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.FirstCue.Cues[0]", "World/Dialogs/c3/IvorySanctum/Xanthir_before/Xanthir_before_dialogue"]]}

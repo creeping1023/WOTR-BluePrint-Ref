@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Success", "World/Dialogs/DLC4_Shifter/DLC4_RuinedVillage/DLC4_CowardlyThieves/Cue_0002"], ["Data.m_Fail", "World/Dialogs/DLC4_Shifter/DLC4_RuinedVillage/DLC4_CowardlyThieves/Cue_0003"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC4_Shifter/DLC4_RuinedVillage/DLC4_CowardlyThieves/Answer_0004"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Squads[0].m_Unit", "Armies/UnitBlueprints/ArmySpiderSwarmStandard"], ["Data.Squads[1].m_Unit", "Armies/UnitBlueprints/ArmyLocustSwarmStandard"], ["Data.Squads[2].m_Unit", "Armies/UnitBlueprints/ArmyVescavorSwarmStandard"]], "referenced": [["Data.OnShow.Actions[2].Preset", "World/Crusade/RankUps/MythicRankUps/Locust/LocustRankUp_3/Cue_0026"]]}

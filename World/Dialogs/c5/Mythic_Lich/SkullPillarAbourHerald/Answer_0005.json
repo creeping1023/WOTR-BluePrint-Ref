@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/Mythic_Lich/SkullPillarAbourHerald/Cue_0007"]], "referenced": [["Data.Answers[2]", "World/Dialogs/c5/Mythic_Lich/SkullPillarAbourHerald/AnswersList_0002"], ["Data.FinishActions.Actions[0].ConditionsChecker.Conditions[0].m_Answer", "World/Dialogs/c5/Mythic_Lich/SkullPillarAbourHerald/SkullPillarAbourHerald_dialogue"]]}

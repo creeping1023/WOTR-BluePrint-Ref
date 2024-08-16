@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "Brain/Actions/CrushingDespairAiAction"]]}
+{"referencing": [["Data.PrototypeLink", "Brain/Actions/CrushingDespairAiAction"], ["Data.m_TargetConsiderations[0]", "Brain/Considerations/AoE_ChooseMoreEnemies"], ["Data.m_TargetConsiderations[1]", "Brain/Considerations/NoBuffCrushingDespair"], ["Data.m_Ability", "Spells/Level3/CrushingDespair"]], "referenced": [["Data.m_Actions[0]", "Units/Monsters/RuinsRaidPlaceMobs/DLC5_CR20_RuinsRaidIncubusTankBrain"]]}

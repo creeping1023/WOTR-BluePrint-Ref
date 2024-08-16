@@ -1,0 +1,1 @@
+{"referencing": [["Data.TriggerConditions.Conditions[0].m_ItemToCheck", "Items/Areas/Act_3_DemonsHerecy/KohhDungeon/PsiBlocker"], ["Data.EnterActions.Actions[0].m_Buff", "Buffs/KohhPsiZoneBuff"], ["Data.ExitActions.Actions[0].m_Buff", "Buffs/KohhPsiZoneBuff"]]}

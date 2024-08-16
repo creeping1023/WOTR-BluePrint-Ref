@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/WarCamp/WarCamp_TravelFromKenabres/CommandAction"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/WarCamp/WarCamp_TravelFromKenabres/WarCamp_TravelFromKenabres"], ["Data.m_Tracks[1].m_EndGate", "World/Cutscenes/WarCamp/WarCamp_TravelFromKenabres/WarCamp_TravelFromKenabres"]]}

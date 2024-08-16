@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_ItemToRemove", "World/Encounters/HorgusManor/Items/HorgusWill"], ["Data.Continue.Cues[0]", "World/Dialogs/Companions/CompanionDialogues/Camelia/Cue_0175"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionDialogues/Camelia/Answer_0173"]]}

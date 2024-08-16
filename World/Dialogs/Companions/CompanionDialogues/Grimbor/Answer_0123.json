@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionDialogues/Grimbor/Cue_0126"], ["Data.OnSelect.Actions[0].m_Flag", "World/Encounters/DrezenCapital/UnlockableFlags/GrimborCounter"]], "referenced": [["Data.Answers[3]", "World/Dialogs/Companions/CompanionDialogues/Grimbor/AnswersList_0119"]]}

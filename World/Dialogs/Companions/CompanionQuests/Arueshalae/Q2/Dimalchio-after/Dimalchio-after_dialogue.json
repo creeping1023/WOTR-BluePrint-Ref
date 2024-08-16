@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Arueshalae/Q2/Dimalchio-after/Cue_0001"], ["Data.FinishActions.Actions[0].m_Flag", "World/Encounters/AlushinyrraCity/UnlockableFlags/GateRenown"]], "referenced": [["Data.Action.Actions[0].m_Dialogue", "World/Cutscenes/Arueshalae_Q2_DimalchioMansion/Dimalchio_Dialog_2/CommandAction 1"]]}

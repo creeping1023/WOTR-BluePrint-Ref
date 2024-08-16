@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_0_Prologue/Prologue_Neathholm/AneviaTirabade"], ["Data.Continue.Cues[0]", "World/Dialogs/NPC_Common/Kaylessa/Kaylessa_main/Cue_0093"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/NPC_Common/Kaylessa/Kaylessa_main/Answer_0086"]]}

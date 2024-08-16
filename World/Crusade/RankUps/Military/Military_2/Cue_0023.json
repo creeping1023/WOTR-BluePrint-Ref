@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Cue", "World/Crusade/RankUps/Military/Military_2/Cue_0005"], ["Data.Speaker.m_Blueprint", "Units/Companions/Seelah/Seelah_Companion"]], "referenced": [["Data.CuesSeen[3910]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Cues[0]", "World/Crusade/RankUps/Military/Military_2/CueSequence_0022"]]}

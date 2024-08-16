@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_AreaEffect", "Mythic/Azata/AzataSpells/UnbreakableBondArea"]], "referenced": [["Data.Components[1].Actions.Actions[0].IfTrue.Actions[0].m_Buff", "Mythic/Azata/AzataSpells/UnbreakableBond"]]}

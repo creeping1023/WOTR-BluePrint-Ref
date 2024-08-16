@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Parent", "World/Etudes/Common/DLC2_LowFantasy/PurpleBarrel_state"], ["Data.ActivationCondition.Conditions[0].m_Flag", "World/Encounters/DLC2_RichQuarter/UnlockableFlags/Purple"]], "referenced": [["Data.m_StartsWith[0]", "World/Etudes/Common/DLC2_LowFantasy/PurpleBarrel_state"]]}

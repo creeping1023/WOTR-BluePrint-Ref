@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Daeran/Daeran_Companion"], ["Data.Answers[0]", "World/Dialogs/c4/Nexus_Camp/HeraldIntro/AnswersList_0048"], ["Data.Continue.Cues[0]", "World/Dialogs/c4/Nexus_Camp/HeraldIntro/Cue_0057"]], "referenced": [["Data.Cues[27]", "World/Dialogs/c4/Nexus_Camp/HeraldIntro/CueSequence_0038"]]}

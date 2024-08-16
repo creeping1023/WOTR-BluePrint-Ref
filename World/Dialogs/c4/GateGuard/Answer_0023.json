@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/GateGuard/Cue_0045"], ["Data.ShowConditions.Conditions[0].m_Blueprint", "Units/NPC/Unique/Act_4_MidnightIsles/GateGuards/GateGuard_MediumToLower"]], "referenced": [["Data.AnswersSelected[2826]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[5]", "World/Dialogs/c4/GateGuard/AnswersList_0002"]]}

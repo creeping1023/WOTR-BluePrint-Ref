@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Classes/Barbarian/RagePowers/RecklessStancePowers/InspireFerocityBaseBuff"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "Classes/Barbarian/RagePowers/RecklessStancePowers/InspireFerocityBaseBuff"]], "referenced": [["Data.Components[3].m_ExtraEffectBuff", "Classes/Barbarian/RagePowers/SpiritTotem/SpiritTotemFeature"], ["Data.Components[0].Action.Actions[0].ConditionsChecker.Conditions[1].m_Fact", "Equipment/SpecialEditions/UniquePF2/BackersItems/HodosTorch/HodosTorchFeature"]]}

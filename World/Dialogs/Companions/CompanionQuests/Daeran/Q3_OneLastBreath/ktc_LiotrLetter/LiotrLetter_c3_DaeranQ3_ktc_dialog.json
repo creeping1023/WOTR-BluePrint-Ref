@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Daeran/Q3_OneLastBreath/ktc_LiotrLetter/Cue_0001"]], "referenced": [["Data.Components[0].Actions.Actions[0].Parameters.Parameters[1].Evaluator.m_Value", "World/Etudes/Common/WrathOfTheRighteous/Companions/DaeranCompanion/Daeran_Q3_KTC_LiotrLetter"]]}

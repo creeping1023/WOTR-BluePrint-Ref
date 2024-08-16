@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Conditions.Conditions[0].m_Fact", "Traits/Races/Common/ReptilianSubtype"], ["Data.Components[1].Conditions.Conditions[0].m_Fact", "Traits/Races/Common/ReptilianSubtype"]], "referenced": [["Data.Components[0].m_EnchantmentBlueprint", "Classes/Shaman/ShamanSpirits/ShamanBattleSpirit/ShamanBattleSpiritGreaterBuffHumanoidReptilian"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Value.m_CustomProperty", "Classes/Monk/Archetypes/ScaledFist/ScaledFistACBonusProperty2"]], "referenced": [["Data.Components[0].m_Facts[2]", "Classes/Monk/Archetypes/ScaledFist/ScaledFistACBonus"], ["Data.Components[0].m_Buffs[1]", "Classes/Monk/Archetypes/ScaledFist/ScaledFistSupressACBuff"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/DustShardItem"]], "referenced": [["Data.m_Items[678]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Items[5].m_Item", "Loot/Good/CR6/GrayGarrison_GoodLoot04_BulkyPickItem"], ["Data.Items[1].m_Item", "Loot/Good/CR6/PF2_OldCrusaders_GrayGarrison_GoodLoot02_TheMaladyItem"]]}

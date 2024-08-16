@@ -1,0 +1,1 @@
+{"referencing": [["Data.SpecificCampaign", "DLC/DLC5/Dlc5Campaign"], ["Data.m_Group", "Achievements/Groups/DLC5TrophyGroup"]], "referenced": [["Data.Achievements.m_List[122]", "Root/BlueprintRoot"], ["Data.OnShow.Actions[0].m_Achievement", "World/Dialogs/DLC5_StoryEnds/Seal_2A_Shadow/AngryKyton/Cue_16"]]}

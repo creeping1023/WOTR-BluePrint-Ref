@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Objective", "World/Quests/c5/Iz/Obj1_SeekGalfrey"], ["Data.Continue.Cues[0]", "World/Dialogs/c5/DrezenMain_C5/KTC_AneviaStart/Cue_0027"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/DrezenMain_C5/KTC_AneviaStart/Answer_0025"]]}

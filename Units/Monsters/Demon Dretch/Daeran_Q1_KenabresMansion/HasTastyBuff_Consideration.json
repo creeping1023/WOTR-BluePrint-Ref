@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Buffs[0]", "Units/Monsters/Demon Dretch/Daeran_Q1_KenabresMansion/TastyCivilians_Buff"]], "referenced": [["Data.m_TargetConsiderations[0]", "Armies/Brains/Actions/TacticalCombat_AIAction_Purge"], ["Data.m_TargetConsiderations[1]", "Units/Monsters/Demon Dretch/Daeran_Q1_KenabresMansion/KenabresMansion_AttackTastyCiviliansAiAction"]]}

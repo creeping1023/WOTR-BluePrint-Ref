@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c4/Mythic_Demon/ShamiraCourt/Cue_0001"]], "referenced": [["Data.m_Dialog", "World/Cutscenes/AlushinyrraMediumCity/ShamirasCourt/CommandStartDialog"], ["Data.ShowConditions.Conditions[0].m_Dialog", "World/Dialogs/c4/HaremOfArdentDream/Shamira_dialogue/Answer_0158"]]}

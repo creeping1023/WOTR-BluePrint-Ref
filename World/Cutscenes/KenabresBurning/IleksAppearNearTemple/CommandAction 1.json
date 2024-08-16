@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Dialogue", "World/Dialogs/c1/KenabresBurning/DesnaAdept1/DesnaAdept1_KenBur_dialog"]], "referenced": [["Data.m_Tracks[0].m_Commands[2]", "World/Cutscenes/KenabresBurning/IleksAppearNearTemple/gate"], ["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/KenabresBurning/IleksAppearNearTemple/gate3"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[1].m_Objective", "World/Quests/c3/UndeadRiot/Add1_GotoZiggurat"], ["Data.Action.Actions[2].m_Objective", "World/Quests/c3/UndeadRiot/Add2_DestroySkeletonsDemolishingSkullPillar"]], "referenced": [["Data.m_Tracks[6].m_Commands[0]", "World/Cutscenes/DrezenCapital/Ziggurat_Riot/Ziggurat_Riot"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[1].Loot[0].m_Item", "Items/Utility/GoldCoins"], ["Data.Continue.Cues[0]", "World/Dialogs/c4/FleshMarket/RabbleSlaver_dialogue/Cue_0042"]], "referenced": [["Data.CuesSeen[6918]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/c4/FleshMarket/RabbleSlaver_dialogue/Answer_0027"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_AreaEffect", "Mythic/Aeon/AeonGaze/AeonDCGazeArea"], ["Data.Components[1].DC.m_CustomProperty", "Mythic/Aeon/AeonGaze/AeonGazeDCProperty"]], "referenced": [["Data.m_Buff", "Mythic/Aeon/AeonGaze/AeonDCGazeAbility"]]}

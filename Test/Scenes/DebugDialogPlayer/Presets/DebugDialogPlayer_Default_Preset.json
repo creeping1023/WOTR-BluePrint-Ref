@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "Test/Scenes/DebugDialogPlayer/DebugDialogPlayer"], ["Data.m_EnterPoint", "Test/Scenes/DebugDialogPlayer/EnterPoints/DebugDialogPlayer_Enter"], ["Data.m_PlayerCharacter", "PlayerFighterPregen"], ["Data.m_Campaign", "DLC/MainGame/MainCampaign"]], "referenced": [["Data.m_DefaultPreset", "Test/Scenes/DebugDialogPlayer/DebugDialogPlayer"]]}

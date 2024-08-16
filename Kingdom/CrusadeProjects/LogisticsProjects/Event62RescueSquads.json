@@ -1,0 +1,1 @@
+{"referencing": [["Data.TriggerCondition.Conditions[0].m_ConditionFlag", "Kingdom/CrusadeProjects/LogisticsProjects/LogisticsProjectsFlags/Event62RescueSquads"], ["Data.Solutions.Entries[1].Resolutions[2].Actions.Actions[0].m_Blueprint", "Armies/CrusadeGlobalBuffs/FlagReductionOfLosses6"]], "referenced": [["Data.m_KingdomProjectEvents[126]", "Root/Kingdom/KingdomRoot"]]}

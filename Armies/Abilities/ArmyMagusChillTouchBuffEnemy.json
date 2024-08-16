@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].NewRoundActions.Actions[0].Actions.Actions[0].Failed.Actions[0].m_Buff", "Armies/Abilities/ArmyMagusChillTouchEnemyBuffStacking"]], "referenced": [["Data.Components[0].ActionOnTarget.Actions[0].m_Buff", "Armies/Abilities/ArmyMagusChillTouchBuff"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/Wintersun/BlindCarver_Wintersun"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Wintersun/PeacefulWintersun/PeacefulWoodCarver/CueSequence_0017"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/Wintersun/PeacefulWintersun/PeacefulWoodCarver/Answer_0009"]]}

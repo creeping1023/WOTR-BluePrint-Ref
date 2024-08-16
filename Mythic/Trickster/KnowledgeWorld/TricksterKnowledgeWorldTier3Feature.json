@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Feature", "Mythic/Trickster/KnowledgeWorld/TricksterKnowledgeWorldTier2Feature"]], "referenced": [["Data.m_AllFeatures[2]", "Mythic/Trickster/TricksterRank3Selection"], ["Data.IsPrerequisiteFor[0]", "Mythic/Trickster/KnowledgeWorld/TricksterKnowledgeWorldTier2Feature"]]}

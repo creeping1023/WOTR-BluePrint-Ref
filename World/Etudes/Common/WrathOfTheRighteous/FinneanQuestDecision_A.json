@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Parent", "World/Etudes/Common/WrathOfTheRighteous/FinneanQuestDecision"]], "referenced": [["Data.OnSelect.Actions[0].Etude", "World/Dialogs/Companions/CompanionQuests/Finnean/FinneanLab/Answer_0034"], ["Data.Components[4].Actions.Actions[3].ConditionsChecker.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/FInneanLab_Mechanics"]]}

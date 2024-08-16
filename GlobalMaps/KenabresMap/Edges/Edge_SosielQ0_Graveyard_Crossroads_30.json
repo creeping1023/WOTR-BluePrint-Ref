@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Point1", "GlobalMaps/KenabresMap/Points/Location_SosielQ0_Graveyard"], ["Data.m_Point2", "GlobalMaps/KenabresMap/Points/Location_Crossroads_30"]], "referenced": [["Data.StartGameActions.Actions[13].IfTrue.Actions[5].m_Edge", "GlobalMaps/KenabresMap/Area/KenabresMapRevealAllPreset"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/EstrodTower/MythicVisionsSpawnDemon/CommandAction 6"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/EstrodTower/MythicVisionsSpawnDemon/gate 10"], ["Data.m_Tracks[1].m_EndGate", "World/Cutscenes/EstrodTower/MythicVisionsSpawnDemon/MythicVisionsSpawnDemon"]]}

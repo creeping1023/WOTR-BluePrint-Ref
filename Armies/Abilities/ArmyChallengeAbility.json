@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_RequiredResource", "Armies/Abilities/ArmyChallengeResource"], ["Data.Components[1].Actions.Actions[0].m_Buff", "Armies/Abilities/ArmyChallengeBuff"]], "referenced": [["Data.Components[0].m_Facts[0]", "Armies/Abilities/ArmyChallengeFeature"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionDialogues/Regill/Cue_0100"], ["Data.ShowConditions.Conditions[0].m_Quest", "World/Quests/Companions/Regill/Q3_FinalTestament/FinalTestament_RegillQ3_quest"]], "referenced": [["Data.Answers[5]", "World/Dialogs/Companions/CompanionDialogues/Regill/AnswersList_0002"]]}

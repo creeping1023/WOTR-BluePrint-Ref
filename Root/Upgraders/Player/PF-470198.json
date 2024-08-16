@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SpecificArea", "World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/KohhDungeon/KohhDungeon"], ["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/Chapter03_Extra/LastBossIsDead"]], "referenced": [["Data.m_Upgraders[607]", "Root/PlayerUpgradeActionsRoot"]]}

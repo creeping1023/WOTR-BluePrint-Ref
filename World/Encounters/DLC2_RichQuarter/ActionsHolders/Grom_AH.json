@@ -1,0 +1,1 @@
+{"referencing": [["Data.Actions.Actions[0].ConditionsChecker.Conditions[0].m_Flag", "World/Encounters/DLC2_RichQuarter/UnlockableFlags/Bully_state_flag"], ["Data.Actions.Actions[0].IfFalse.Actions[0].m_Cutscene", "World/Cutscenes/DLC2_RichQuarter/Grom_help_cutscene/Grom_help_cutscene"]]}

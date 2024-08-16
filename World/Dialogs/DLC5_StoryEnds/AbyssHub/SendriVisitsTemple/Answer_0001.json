@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC5_StoryEnds/AbyssHub/SendriVisitsTemple/Cue_0002"]], "referenced": [["Data.Answers[2]", "World/Dialogs/DLC5_StoryEnds/AbyssHub/SendriVisitsTemple/AnswersList_0002"], ["Data.ShowConditions.Conditions[2].m_Answer", "World/Dialogs/DLC5_StoryEnds/AbyssHub/SendriVisitsTemple/Answer_4"]]}

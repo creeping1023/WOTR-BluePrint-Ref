@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Abilities[0]", "Spells/Level9/IcyPrisonMass"], ["Data.Components[0].Abilities[1]", "Spells/Level7/IceBody"]], "referenced": [["Data.m_AddFacts[5]", "Units/Monsters/Hag/SinisterVillage/Hag_Lavixia"], ["Data.m_AddFacts[5]", "Units/NPC/Commoners/DLC6_DanceOfMasks/Arena/Hags/Aslynn/DLC6_Aslynn"]]}

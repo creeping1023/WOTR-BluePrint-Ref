@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/DLC3_Roguelike/BookEvents/Songbird/BookPage_0001"]], "referenced": [["Data.ShowConditions.Conditions[2].m_Dialog", "World/Dialogs/DLC3_Roguelike/DarkBalor_main/Answer_21"], ["Data.OnStop.Actions[0].m_Dialogue", "World/Dialogs/DLC3_Roguelike/DarkBalor_main/Cue_18"]]}

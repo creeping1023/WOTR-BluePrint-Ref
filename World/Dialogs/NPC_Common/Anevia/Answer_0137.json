@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/NPC_Common/Anevia/Check_0104"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/NPC_Common/Anevia/Answer_0103"], ["Data.ShowConditions.Conditions[1].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/Chapter05_Extra"]], "referenced": [["Data.Answers[2]", "World/Dialogs/NPC_Common/Anevia/AnswersList_0006"]]}

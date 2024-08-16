@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Quest", "World/Quests/c5/PulurasFall/C5_MutasafenFall_quest"]], "referenced": [["Data.Actions.Actions[12].IfTrue.Actions[0].m_Objective", "World/Encounters/ThresholdOutdoor/ActionsHolders/QuestsFail_StoryAndCrusade"], ["Data.m_Objectives[6]", "World/Quests/c5/PulurasFall/C5_MutasafenFall_quest"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/MythicDemon_Ch3/Yozz"], ["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/AlushinyrraMediumCity/YozzTPout/YozzTPout"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/Mythic_Demon/Yozz_InTheGuild/Answer_0067"]]}

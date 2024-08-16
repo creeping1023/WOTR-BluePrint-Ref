@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_DisplayName.m_OwnerString", "Equipment/Headgear/CrownOfFearFeature"], ["Data.m_Description.m_OwnerString", "Equipment/Headgear/CrownOfFearFeature"]]}
+{"referencing": [["Data.m_DisplayName.m_OwnerString", "Equipment/Headgear/CrownOfFearFeature"], ["Data.m_Description.m_OwnerString", "Equipment/Headgear/CrownOfFearFeature"]], "referenced": [["Data.Components[0].m_Feature", "Equipment/Headgear/NokNokHelmet/StubbornHeadEnchant"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_companion", "Units/Companions/Nenio/Nenio_Companion"], ["Data.Speaker.m_Blueprint", "Units/Companions/Nenio/Nenio_Companion"]], "referenced": [["Data.CuesSeen[2947]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Cues[8]", "World/Dialogs/c2_vs/LostChapel/Boss_End/CueSequence_0006"]]}

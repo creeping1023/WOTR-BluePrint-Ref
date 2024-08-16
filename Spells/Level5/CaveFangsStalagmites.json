@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Actions.Actions[0].m_Buff", "Spells/Level5/CaveFangsStalagmitesBuff"], ["Data.m_Parent", "Spells/Level5/CaveFangs"]], "referenced": [["Data.m_Ability", "Items/Scrolls/Level5/ScrollOfCaveFangsStalagmites"], ["Data.Components[1].m_Variants[1]", "Spells/Level5/CaveFangs"]]}

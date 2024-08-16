@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Quest", "World/Quests/c5/SarkorianWedding/SarkorianWedding_Quest"]], "referenced": [["Data.OnStop.Actions[2].m_Objective", "World/Dialogs/c5/SarkorianWedding/Bride/Cue_0011"], ["Data.m_Addendums[0]", "World/Quests/c5/SarkorianWedding/Obj_01_TalkGroom"], ["Data.m_Objectives[3]", "World/Quests/c5/SarkorianWedding/SarkorianWedding_Quest"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/ColyphyrDungeon/Colyphyr_FulsomeQueen_onKnees/CommandDelay"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/ColyphyrDungeon/Colyphyr_FulsomeQueen_onKnees/gate"]], "referenced": [["Data.OnSelect.Actions[0].m_Cutscene", "World/Dialogs/c4/FinalDungeon_Colyphyr/FulsomeQueen/Answer_0090"]]}

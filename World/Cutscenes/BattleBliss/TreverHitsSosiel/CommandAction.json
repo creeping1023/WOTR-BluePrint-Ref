@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Cutscene", "World/Cutscenes/BattleBliss/SosielFelt/SosielFelt"], ["Data.Action.Actions[1].Target.m_Companion", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/BattleBliss/TreverHitsSosiel/gate1"]]}

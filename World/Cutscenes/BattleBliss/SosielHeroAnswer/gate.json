@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/BattleBliss/SosielHeroAnswer/CommandDelay3"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/BattleBliss/SosielHeroAnswer/gate1"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/BattleBliss/SosielHeroAnswer/SosielHeroAnswer"]]}

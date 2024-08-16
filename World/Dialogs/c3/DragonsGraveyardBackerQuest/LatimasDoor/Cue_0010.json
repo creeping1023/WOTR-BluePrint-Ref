@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Objective", "World/Quests/c3/DragonDusk/Obj2_GoToDoor"]], "referenced": [["Data.CuesSeen[5254]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/c3/DragonsGraveyardBackerQuest/LatimasDoor/Answer_0006"]]}

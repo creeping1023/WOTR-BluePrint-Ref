@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_flag", "World/Encounters/WintersunOutdoor/UnlockableFlags/NystraAnd_ExecutionMiammir"], ["Data.OnStop.Actions[0].m_Objective", "World/Quests/c3/FlamingLance/Obj_4_DoSomething"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/c3/Wintersun/Miammir_Siabrae/Cue_0059"]]}

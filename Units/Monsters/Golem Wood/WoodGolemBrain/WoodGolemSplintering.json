@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_CharacterClass", "Classes/Monster/Construct/ConstructClass"]], "referenced": [["Data.m_AddFacts[3]", "Units/Monsters/Golem Wood/CR6_GolemWood"], ["Data.m_AddFacts[3]", "Units/Monsters/Golem Wood/GolemWoodSummon"], ["Data.m_Ability", "Units/Monsters/Golem Wood/WoodGolemBrain/WoodGolem_SplinteringAiAction"]]}

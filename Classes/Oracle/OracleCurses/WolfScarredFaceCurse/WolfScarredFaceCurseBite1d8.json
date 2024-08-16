@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Weapon", "Weapons/Items/Standard/NaturalWeapon/Bite1d8"]], "referenced": [["Data.Components[1].m_Feature", "Classes/Oracle/OracleCurses/WolfScarredFaceCurse/WolfScarredFaceCurseFeatureLevel10"], ["Data.Components[1].m_Feature", "Classes/Oracle/OracleCurses/WolfScarredFaceCurse/WolfScarredFaceCurseNoPenaltyFeatureLevel10"]]}

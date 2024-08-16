@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/ThresholdIndoor_Aeon/OponAndSetrei/CommandDelay"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/ThresholdIndoor_Aeon/OponAndSetrei/gate1"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/ThresholdIndoor_Aeon/OponAndSetrei/gate"]]}

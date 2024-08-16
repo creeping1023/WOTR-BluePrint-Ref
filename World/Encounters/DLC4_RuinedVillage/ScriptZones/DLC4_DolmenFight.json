@@ -1,0 +1,1 @@
+{"referencing": [["Data.TriggerConditions.Conditions[0].m_Etude", "World/Etudes/Common/DLC4_Shifter/DLC4_Part_1/Dolmen_Open"], ["Data.EnterActions.Actions[0].TargetUnit.m_Companion", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"], ["Data.EnterActions.Actions[1].m_Cutscene", "World/Cutscenes/DLC4_RuinedVillage/DLC4_GhostWolfDolmen/DLC4_GhostWolfDolmen"]]}

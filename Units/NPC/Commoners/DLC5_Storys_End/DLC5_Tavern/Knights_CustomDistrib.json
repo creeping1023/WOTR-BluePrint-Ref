@@ -1,0 +1,1 @@
+{"referencing": [["Data.Races[0].m_Race", "Races/HumanRace"], ["Data.Races[1].m_Race", "Races/HalfOrcRace"], ["Data.Races[2].m_Race", "Races/OreadRace"], ["Data.Races[3].m_Race", "Races/AasimarRace"]], "referenced": [["Data.m_Distribution", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_Tavern/Knights_CustomizationPresetDLC5"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Continue.Cues[0]", "World/Dialogs/c3/IvorySanctum/JerribethGreetings/Cue_0021"]], "referenced": [["Data.NextCue.Cues[1]", "World/Dialogs/c3/IvorySanctum/JerribethGreetings/Answer_0012"], ["Data.ShowConditions.Conditions[0].m_Cue", "World/Dialogs/c3/IvorySanctum/JerribethGreetings/Answer_0030"]]}

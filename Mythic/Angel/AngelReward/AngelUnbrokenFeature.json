@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Resource", "Mythic/Angel/AngelSword/AngelSwordResource"], ["Data.Components[1].m_Facts[0]", "Mythic/Angel/AngelReward/AngelUnbrokenAreaBuff"]], "referenced": [["Data.OnShow.Actions[0].m_Fact", "World/Dialogs/c5/Mythic_Angel/IomedaeSecondVisit/Cue_0053"]]}

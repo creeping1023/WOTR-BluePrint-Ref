@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/DLC5_LowFantasy2/DLC5_Storasta/DLC5_Storasta"], ["Data.m_AreaPart", "World/Areas/DLC5_LowFantasy2/DLC5_Storasta/DLC5_Storasta_Dragon_Ruins"]], "referenced": [["Data.Components[0].AreaParts.ElementList[2].EnterPoint", "QA/Arbiter/Scenario/DLC5/DLC5_Storasta"]]}

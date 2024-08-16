@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c1/DefendersHeart/AfterAttackIrabeth/Cue_5"], ["Data.ShowConditions.Conditions[0].m_Cue", "World/Dialogs/c1/DefendersHeart/AfterAttackIrabeth/Cue_3"]], "referenced": [["Data.Answers[2]", "World/Dialogs/c1/DefendersHeart/AfterAttackIrabeth/AnswersList_0005"]]}

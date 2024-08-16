@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Ability", "Spells/Level9/HealMassDamage"]], "referenced": [["Data.Components[8].Actions.Actions[0].IfFalse.Actions[0].IfTrue.Actions[0].m_Buff", "Spells/Level9/HealMass"]]}

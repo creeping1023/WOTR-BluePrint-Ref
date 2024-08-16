@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/HellknightsCamp/HellknightsParaliktor_Aminas"], ["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/HellknightsCamp/RegillDuel/RegillDuel"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Regill/Q3_FinalTestament/Tribunal/Answer_0078"]]}

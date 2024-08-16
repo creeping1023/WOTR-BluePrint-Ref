@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionDialogues/Grimbor/Cue_0182"]], "referenced": [["Data.m_Actions.Actions[2].ConditionsChecker.Conditions[0].m_Answer", "Root/Upgraders/Player/PF-217557"], ["Data.Answers[1]", "World/Dialogs/Companions/CompanionDialogues/Grimbor/AnswersList_0263"]]}

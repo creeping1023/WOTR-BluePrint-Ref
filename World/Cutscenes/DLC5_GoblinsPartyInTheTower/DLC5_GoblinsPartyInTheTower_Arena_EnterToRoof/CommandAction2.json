@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "World/Encounters/LostChapel/Buffs/CantMove"], ["Data.Action.Actions[1].m_Buff", "World/Encounters/LostChapel/Buffs/CantMove"]], "referenced": [["Data.m_Tracks[2].m_Commands[2]", "World/Cutscenes/DLC5_GoblinsPartyInTheTower/DLC5_GoblinsPartyInTheTower_Arena_EnterToRoof/gate1"]]}

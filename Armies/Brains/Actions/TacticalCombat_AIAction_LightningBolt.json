@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration"], ["Data.m_Ability", "Armies/Abilities/ArmyLightningBolt"]], "referenced": [["Data.m_TacticalActions[3]", "Armies/Brains/TacticalCombat_NalfeshneeBrain"], ["Data.m_TacticalActions[3]", "Armies/Brains/TacticalCombat_WizardBrain"]]}

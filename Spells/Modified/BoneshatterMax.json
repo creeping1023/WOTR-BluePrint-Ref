@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Actions.Actions[1].Succeed.Actions[0].m_Buff", "Buffs/Fatigued"], ["Data.Components[1].Actions.Actions[1].Failed.Actions[0].m_Buff", "Buffs/Exhausted"]], "referenced": [["Data.Components[2].m_Exceptions[2]", "Classes/Cavalier/Archetypes/GhostRider/GhostRiderGhostMount"]]}

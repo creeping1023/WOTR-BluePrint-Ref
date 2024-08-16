@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "Brain/Actions/FingerOfDeathAiAction"]]}
+{"referencing": [["Data.PrototypeLink", "Brain/Actions/FingerOfDeathAiAction"], ["Data.m_TargetConsiderations[0]", "Brain/Considerations/AttackTargetsPriority"], ["Data.m_Ability", "Spells/Level7/FingerOfDeath"]], "referenced": [["Data.m_Actions[1]", "Units/Monsters/DLC6Mobs/Llamolaek/DLC6_LlamolaekBrain"]]}

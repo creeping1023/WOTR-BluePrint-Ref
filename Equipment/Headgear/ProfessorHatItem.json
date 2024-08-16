@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/MetalShardItem"], ["Data.m_Enchantments[0]", "Equipment/Headgear/ProfessorHatEnchant"]], "referenced": [["Data.m_Items[72]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Filter.m_ItemsInclude[73]", "Dugeons/Loot/DungeonLootExclude"]]}

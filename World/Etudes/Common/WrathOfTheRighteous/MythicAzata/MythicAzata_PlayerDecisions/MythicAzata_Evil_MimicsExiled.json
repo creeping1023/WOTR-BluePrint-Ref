@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Actions.Actions[0].m_Flag", "World/UnlockableFlags/MythicAzata/MythicAzata_OrangeEvilCounter"], ["Data.m_Parent", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/MythicAzata_PlayerDecisions"]], "referenced": [["Data.OnSelect.Actions[0].Etude", "World/Dialogs/c3/Mythic_Azata/Arrivals/MimicsArrive/Answer_0006"]]}

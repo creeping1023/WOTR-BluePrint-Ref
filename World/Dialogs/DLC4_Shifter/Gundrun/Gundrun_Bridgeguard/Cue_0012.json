@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Gundrun/CR6_GundrunMilitiaMale"], ["Data.OnShow.Actions[0].m_flag", "World/Encounters/DLC4_Gundrun/UnlockableFlags/DLC4_Gundrun_OpenedBridge"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Bridgeguard/Answer_0011"]]}

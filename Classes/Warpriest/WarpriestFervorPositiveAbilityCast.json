@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_TouchDeliveryAbility", "Classes/Warpriest/WarpriestFervorPositiveAbility"], ["Data.Components[1].m_RequiredResource", "Classes/Warpriest/WarpriestFervorResource"]], "referenced": [["Data.Components[1].m_Facts[0]", "Classes/Warpriest/WarpriestFervorPositiveFeature"]]}

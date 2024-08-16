@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_Cutscene", "World/Cutscenes/KenabresBurning/RemoveTheatreDebris/RemoveTheatreDebris"], ["Data.Continue.Cues[0]", "World/Dialogs/c1/KenabresBurning/Theatre_Trapped/Cue_0029"]], "referenced": [["Data.m_Fail", "World/Dialogs/c1/KenabresBurning/Theatre_Trapped/Check_0006"]]}

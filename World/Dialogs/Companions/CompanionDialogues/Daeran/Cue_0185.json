@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_flag", "World/UnlockableFlags/Companions/Daeran/DaeranRomance_BarksAfterSex"], ["Data.OnStop.Actions[1].m_exitPositon", "World/Areas/Act_3_DemonsHerecy/DrezenCapital/EnterPoints/DrezenRestPoint"]], "referenced": [["Data.NextCue.Cues[1]", "World/Dialogs/Companions/CompanionDialogues/Daeran/Answer_0180"]]}

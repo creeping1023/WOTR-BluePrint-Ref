@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_UnitEvaluator.m_Companion", "Units/Companions/Ember/Ember_Companion"], ["Data.m_SpellBlueprint", "Spells/Level1/CureLightWoundsCast"]], "referenced": [["Data.m_Tracks[1].m_Commands[1]", "World/Cutscenes/WarCamp/WarCamp_EmberWithSoldier_Heal/WarCamp_EmberWithSoldier_Heal"]]}

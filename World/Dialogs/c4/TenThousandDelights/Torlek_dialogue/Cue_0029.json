@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_SummonPool", "World/Encounters/AlushinyrraLowerCity/SummonPools/RottingGuttingMercenaries"], ["Data.OnStop.Actions[0].Actions.Actions[0].m_Cutscene", "World/Cutscenes/AlushinyrraLowerCity/MercsLeave/MercsLeave"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/TenThousandDelights/Torlek_dialogue/Answer_0027"]]}

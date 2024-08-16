@@ -1,0 +1,1 @@
+{"referencing": [["Data.Answers[0]", "World/Dialogs/c5/NumerianCamp/LabEquipment/AnswersList_0003"]], "referenced": [["Data.CuesSeen[6093]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.ShowConditions.Conditions[1].m_Cue", "World/Dialogs/c5/NumerianCamp/LabEquipment/Answer_0007"], ["Data.Continue.Cues[0]", "World/Dialogs/c5/NumerianCamp/LabEquipment/Cue_0013"]]}

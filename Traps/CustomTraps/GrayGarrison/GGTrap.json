@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actor", "Traps/TrapActor_Lvl10"], ["Data.TrapActions.Actions[0].m_Spell", "Spells/Level3/Fireball"], ["Data.DisableActions.Actions[4].m_flag", "World/Encounters/GrayGarrison/UnlockableFlags/SuperTrapDisarmed"]]}

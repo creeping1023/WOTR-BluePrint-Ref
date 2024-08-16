@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/NoBuffPrayer"], ["Data.m_Ability", "Spells/Level3/Prayer"]], "referenced": [["Data.m_Actions[5]", "Units/Monsters/Demon Nabasu/NabasuBrain/DLC3_Nabasu_Brain_Standard_Kabriri"], ["Data.m_Actions[5]", "Units/NPC/Commoners/Cultists/CultistsBrain/CultistKabririCaster_Brain_Prayer"]]}

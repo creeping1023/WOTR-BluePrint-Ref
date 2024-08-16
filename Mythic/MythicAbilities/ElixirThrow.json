@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_Feature", "Classes/Alchemist/Discoveries/Infusion"]], "referenced": [["Data.IsPrerequisiteFor[0]", "Classes/Alchemist/Discoveries/Infusion"], ["Data.m_AllFeatures[16]", "Mythic/MythicAbilitySelection"], ["Data.m_AllFeatures[22]", "Mythic/Feats/ExtraMythicAbilityMythicFeat"]]}

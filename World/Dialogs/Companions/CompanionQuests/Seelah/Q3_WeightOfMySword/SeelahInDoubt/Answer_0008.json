@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Seelah/Q3_WeightOfMySword/SeelahInDoubt/Cue_0011"], ["Data.OnSelect.Actions[0].m_Flag", "World/Encounters/DrezenCapital/UnlockableFlags/Seelah_Lawfulness"]], "referenced": [["Data.Answers[3]", "World/Dialogs/Companions/CompanionQuests/Seelah/Q3_WeightOfMySword/SeelahInDoubt/AnswersList_0007"]]}

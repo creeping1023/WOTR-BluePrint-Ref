@@ -1,0 +1,1 @@
+{"referencing": [["Data.SpecificCampaign", "DLC/DLC2/Dlc2Campaign"], ["Data.m_Group", "Achievements/Groups/DLC2TrophyGroup"]], "referenced": [["Data.Achievements.m_List[78]", "Root/BlueprintRoot"], ["Data.Actions.Actions[1].IfTrue.Actions[0].m_Achievement", "World/Encounters/DLC2_Tavern/ActionsHolders/CrusaderLetter_Action"]]}

@@ -1,1 +1,1 @@
-{"referenced": [["Data.m_Description.m_OwnerString", "Spells/CutsceneSpells/FireElementalGem_Cutscene"]]}
+{"referencing": [["Data.Components[0].m_Projectiles[0]", "FX/Abilities/AlchemistFireBomb00"]], "referenced": [["Data.m_Description.m_OwnerString", "Spells/CutsceneSpells/FireElementalGem_Cutscene"], ["Data.m_SpellBlueprint", "World/Cutscenes/DLC6_KenabresForSwarm/Hellknights_3ndWaveMoveIn/CommandUnitCastSpell1"]]}

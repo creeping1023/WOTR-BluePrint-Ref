@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions.Actions[0].m_Fact", "Traits/Races/Kitsune/ChangeShapeKitsune/KitsuneChangeShapeBiteBuff"], ["Data.m_Actions.Actions[0].m_ExceptHasFact", "Races/KitsuneRace"]], "referenced": [["Data.m_Upgraders[106]", "Root/PlayerUpgradeActionsRoot"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Check", "World/Dialogs/c3/TempleOfDelamere/TombOfDelamere_BookEvent/Check_0014"]], "referenced": [["Data.ShowConditions.Conditions[0].m_Cue", "World/Dialogs/c3/TempleOfDelamere/TombOfDelamere_BookEvent/Answer_0065"], ["Data.Cues[7]", "World/Dialogs/c3/TempleOfDelamere/TombOfDelamere_BookEvent/BookPage_0001"]]}

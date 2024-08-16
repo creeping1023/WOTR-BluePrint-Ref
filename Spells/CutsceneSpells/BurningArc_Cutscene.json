@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[5].m_ProjectileFirst", "FX/Spell Level 2/BurningArc00"], ["Data.Components[5].m_Projectile", "FX/Spell Level 2/BurningArc01"], ["Data.Components[5].m_Condition.Conditions[0].m_Fact", "Spells/CutsceneSpells/NonTargetBuff"]]}

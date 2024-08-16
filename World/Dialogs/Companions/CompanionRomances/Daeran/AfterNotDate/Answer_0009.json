@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionRomances/Daeran/AfterNotDate/Cue_0018"], ["Data.OnSelect.Actions[0].m_Flag", "World/UnlockableFlags/Companions/Daeran/DaeranTrust_Counter"]], "referenced": [["Data.Answers[1]", "World/Dialogs/Companions/CompanionRomances/Daeran/AfterNotDate/AnswersList_0007"]]}

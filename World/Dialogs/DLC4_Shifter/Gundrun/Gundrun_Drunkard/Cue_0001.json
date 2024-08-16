@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Commoners/DLC4_NewCompanion/DLC4_Gundrun/CR0_GundrunPeasantInvisibleDrunkard"], ["Data.Continue.Cues[0]", "World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Drunkard/Cue_0002"]], "referenced": [["Data.FirstCue.Cues[0]", "World/Dialogs/DLC4_Shifter/Gundrun/Gundrun_Drunkard/Gundrun_Drunkard_dialogue"]]}

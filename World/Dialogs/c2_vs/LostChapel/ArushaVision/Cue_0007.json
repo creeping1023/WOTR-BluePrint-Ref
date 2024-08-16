@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_SpeakerPortrait", "Units/NPC/Unique/Act_2_SwordOfValor/LostChapel/MysteriousArusha"], ["Data.Continue.Cues[0]", "World/Dialogs/c2_vs/LostChapel/ArushaVision/Cue_0010"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c2_vs/LostChapel/ArushaVision/Answer_0004"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/DLC6_ADanceOfMasks/RazmirPalace/TrueRazmirRevelation_2/Cue_0001"], ["Data.FinishActions.Actions[0].Etude", "World/Etudes/Common/DLC6_DanceOfMasks/DLC6_RazmirGolems"]], "referenced": [["Data.Action.Actions[0].m_Dialogue", "World/Cutscenes/DC6_RazmirDungeon/DLC6_SecondWaveDiaog/CommandAction"]]}

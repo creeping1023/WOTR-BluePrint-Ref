@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_SummonPool", "World/Encounters/DrezenCapital/SummonPools/Ziggurat_Zacharius"], ["Data.OnStop.Actions[0].Actions.Actions[0].Holder", "World/Encounters/Ziggurat/ActionsHolders/LichPromoCombat"]], "referenced": [["Data.NextCue.Cues[2]", "World/Dialogs/c3/Ziggurat/Zacharius_Main/AttackZacharius"]]}

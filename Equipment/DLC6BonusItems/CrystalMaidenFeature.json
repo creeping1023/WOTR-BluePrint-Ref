@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].ActionsOnAttacker.Actions[0].m_Buff", "Equipment/DLC6BonusItems/CrystalMaidenBuffFake"]], "referenced": [["Data.Components[0].Action.Actions[0].ConditionsChecker.Conditions[0].m_Fact", "Equipment/DLC6BonusItems/CrystalMaidenBuffFake"], ["Data.Components[0].m_Feature", "Equipment/DLC6BonusItems/CrystalMaidenEnchantment"]]}

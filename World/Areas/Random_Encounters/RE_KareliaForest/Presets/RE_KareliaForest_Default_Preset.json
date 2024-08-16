@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Random_Encounters/RE_KareliaForest/RE_KareliaForest"], ["Data.m_EnterPoint", "World/Areas/Random_Encounters/RE_KareliaForest/EnterPoints/RE_KareliaForest_Enter"], ["Data.m_Campaign", "DLC/MainGame/MainCampaign"]], "referenced": [["Data.m_DefaultPreset", "World/Areas/Random_Encounters/RE_KareliaForest/RE_KareliaForest"]]}

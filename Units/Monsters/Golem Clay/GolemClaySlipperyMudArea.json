@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_CharacterClass", "Classes/Monster/Construct/ConstructClass"], ["Data.Components[1].m_Buff", "Units/Monsters/Golem Clay/GolemClaySlipperyMudEffectBuff"]], "referenced": [["Data.Components[0].m_AreaEffect", "Units/Monsters/Golem Clay/GolemClaySlipperyMudBuff"]]}

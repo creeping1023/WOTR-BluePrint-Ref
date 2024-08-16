@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Actions.Actions[0].m_ItemToGive", "Items/Areas/Companions/Daeran/DaeranHead"], ["Data.m_Parent", "World/Etudes/Common/WrathOfTheRighteous/Companions/DaeranCompanion/DaeranNotInParty_KickedOut"]], "referenced": [["Data.m_StartsOnComplete[0]", "World/Etudes/Common/WrathOfTheRighteous/Companions/DaeranCompanion/DaeranKickedOutHeadTimer"]]}

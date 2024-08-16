@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c2_vs/LostChapel/Boss_End/Cue_0018"]], "referenced": [["Data.Components[0].CommandList.Commands[56].Answer", "QA/Clockwork/Scenario/Act_2_SwordOfValor/LostChapel_Simple"], ["Data.Answers[0]", "World/Dialogs/c2_vs/LostChapel/Boss_End/AnswersList_0008"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Cutscene", "World/Cutscenes/LostChapel/GhoulsPretending02/GhoulsPretending02"], ["Data.Action.Actions[1].m_SummonPool", "World/Encounters/LostChapel/SummonPools/BigGhoulAmbush01"]], "referenced": [["Data.m_Tracks[0].m_Commands[2]", "World/Cutscenes/LostChapel/BigGhoulAmbush/BigGhoulAmbush"]]}

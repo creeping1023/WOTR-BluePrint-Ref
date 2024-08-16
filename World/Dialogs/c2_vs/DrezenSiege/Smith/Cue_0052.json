@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Lann/Lann_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c2_vs/DrezenSiege/Smith/Cue_2"]], "referenced": [["Data.CuesSeen[3124]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Cues[0]", "World/Dialogs/c2_vs/DrezenSiege/Smith/CueSequence_0050"]]}

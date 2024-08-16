@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].Value.m_SummonPool", "World/Encounters/DrezenCitadel_Level1/SummonPools/GateEPaladins"], ["Data.Unit.m_SummonPool", "World/Encounters/DrezenCitadel_Level1/SummonPools/GateEPaladins"]], "referenced": [["Data.m_Tracks[2].m_Commands[0]", "World/Cutscenes/DrezenCitadel_Level1/GateE/GateEEnd/GateEEnd"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Act_3_DemonsHerecy/IvorySanctum_OutdoorBalcony/IvorySanctum_OutdoorBalcony"], ["Data.m_AreaPart", "World/Areas/Act_3_DemonsHerecy/IvorySanctum_OutdoorBalcony/IvorySanctum_OutdoorBalcony"]], "referenced": [["Data.Actions.Actions[0].m_exitPositon", "World/Encounters/IvorySanctum/ActionsHolders/FromVrockPlace_CheckActions"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_CompanionBlueprint", "Units/Companions/Arueshalae/Arueshalae_Companion"], ["Data.OnStop.Actions[0].OnUnrecruit.Actions[0].Target.m_Companion", "Units/Companions/Arueshalae/Arueshalae_Companion"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/CompanionsVSMythics/KTC_ArueshalaeVSDemon/Answer_0022"]]}

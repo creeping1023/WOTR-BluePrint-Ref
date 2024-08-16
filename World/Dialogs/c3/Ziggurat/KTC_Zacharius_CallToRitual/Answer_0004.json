@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/Ziggurat/KTC_Zacharius_CallToRitual/Cue_0008"]], "referenced": [["Data.Answers[1]", "World/Dialogs/c3/Ziggurat/KTC_Zacharius_CallToRitual/AnswersList_0002"], ["Data.ShowConditions.Conditions[1].m_Answer", "World/Dialogs/c3/Ziggurat/KTC_Zacharius_CallToRitual/Answer_0006"]]}

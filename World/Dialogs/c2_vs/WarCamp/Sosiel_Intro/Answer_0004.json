@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c2_vs/WarCamp/Sosiel_Intro/Cue_0039"], ["Data.ShowConditions.Conditions[0].m_Cue", "World/Dialogs/c2_vs/WarCamp/Sosiel_Intro/Cue_0040"]], "referenced": [["Data.AnswersSelected[769]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[3]", "World/Dialogs/c2_vs/WarCamp/Sosiel_Intro/AnswersList_0002"]]}

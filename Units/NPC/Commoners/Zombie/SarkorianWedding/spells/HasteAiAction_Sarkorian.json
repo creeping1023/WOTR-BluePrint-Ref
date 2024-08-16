@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/NoBuffHaste"], ["Data.m_TargetConsiderations[0]", "Brain/Considerations/TargetSelf"], ["Data.m_Ability", "Spells/Level3/Haste"]], "referenced": [["Data.m_Actions[6]", "Units/NPC/Commoners/Zombie/SarkorianWedding/Dumb_Zombie_SkiledCR18_Brain"]]}

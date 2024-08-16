@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Classes/Wizard/Transmutation/TransmutationSchoolDexterityBuff"]]}
+{"referencing": [["Data.Components[6].m_Class[0]", "Classes/Wizard/WizardClass"], ["Data.m_Description.m_OwnerString", "Classes/Wizard/Transmutation/TransmutationSchoolDexterityBuff"]], "referenced": [["Data.Components[2].Actions.Actions[0].m_Buff", "Classes/Wizard/Divination/DivinationSchoolBaseAbility"], ["Data.m_Buffs[0]", "Units/NPC/Commoners/DLC6_DanceOfMasks/DLC6_KenabresForSwarm/FalseCommander/Brain/HasNoBuffDivinersFortune_Consideration"]]}

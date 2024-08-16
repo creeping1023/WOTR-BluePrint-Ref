@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_ConditionFlag", "World/Encounters/VaultOfGraves/UnlockableFlags/YozzTeleportIntercept"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Mythic_Demon/Alushinyrra/Yozz/Cue_0074"]], "referenced": [["Data.FirstCue.Cues[0]", "World/Dialogs/c3/Mythic_Demon/Alushinyrra/Yozz/Yozz_dialogue"]]}

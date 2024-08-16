@@ -1,0 +1,1 @@
+{"referencing": [["Data.Squads[0].m_Unit", "Armies/UnitBlueprints/ArmyGiantFlyStandard"], ["Data.Squads[1].m_Unit", "Armies/UnitBlueprints/ArmyGiantFlyStandard"]], "referenced": [["Data.Components[0].Actions.Actions[1].IfTrue.Actions[2].Preset", "World/Etudes/Common/WrathOfTheRighteous/Chapter02"]]}

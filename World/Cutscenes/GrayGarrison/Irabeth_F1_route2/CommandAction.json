@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_SummonPool", "World/Encounters/GrayGarrison/SummonPools/IrabethSquad"], ["Data.Action.Actions[0].Actions.Actions[0].m_Cutscene", "World/Cutscenes/GrayGarrison/IrabethSquadMovesTo2ndFloor/IrabethSquadMovesTo2ndFloor"]], "referenced": [["Data.m_Tracks[0].m_Commands[2]", "World/Cutscenes/GrayGarrison/Irabeth_F1_route2/gate"]]}

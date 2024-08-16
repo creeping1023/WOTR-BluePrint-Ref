@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/GlassShardItem"], ["Data.m_Ability", "Spells/Level4/InvisibilityGreater"]], "referenced": [["Data.m_Items[2597]", "Dugeons/Loot/DungeonLootExclude"], ["Data.m_PotionsItems[2]", "Root/CraftRoot"]]}

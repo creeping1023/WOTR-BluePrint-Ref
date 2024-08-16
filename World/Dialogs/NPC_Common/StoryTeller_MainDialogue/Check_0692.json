@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Success", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0693"], ["Data.m_Fail", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0694"]], "referenced": [["Data.CuesSeen[8187]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Continue.Cues[1]", "World/Dialogs/NPC_Common/StoryTeller_MainDialogue/Cue_0691"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Quest", "World/Quests/c4/SilkTrack/SilkTrack"], ["Data.Answers[0]", "World/Dialogs/c4/GateGuard/AnswersList_0002"], ["Data.Continue.Cues[0]", "World/Dialogs/c4/GateGuard/CueSequence_0109"]], "referenced": [["Data.FirstCue.Cues[11]", "World/Dialogs/c4/GateGuard/GateGuard_dialogue"]]}

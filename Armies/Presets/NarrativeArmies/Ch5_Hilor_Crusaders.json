@@ -1,0 +1,1 @@
+{"referencing": [["Data.Squads[0].m_Unit", "Armies/UnitBlueprints/ArmyRanger"], ["Data.Squads[1].m_Unit", "Armies/UnitBlueprints/ArmyChampion"], ["Data.Squads[2].m_Unit", "Armies/UnitBlueprints/ArmyHonorGuard"]], "referenced": [["Data.Components[0].Actions.Actions[0].Preset", "World/Quests/c5/DresenPartisans/Obj3_GoPrison"]]}

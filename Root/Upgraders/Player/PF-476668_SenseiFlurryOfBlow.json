@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions.Actions[0].m_Feature", "Classes/Monk/MonkFeatureNoArmorUnlocks/MonkFlurryOfBlowstLevel11Unlock"], ["Data.m_Actions.Actions[0].m_Progression", "Classes/Monk/MonkProgression"], ["Data.m_Actions.Actions[0].m_Archetype", "Classes/Monk/Archetypes/Sensei/SenseiArchetype"]], "referenced": [["Data.m_Upgraders[616]", "Root/PlayerUpgradeActionsRoot"]]}

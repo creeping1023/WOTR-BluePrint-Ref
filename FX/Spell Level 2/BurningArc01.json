@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Trajectory", "FX/Spell Level 2/Scorching Ray00_Trajectory"]], "referenced": [["Data.Components[5].m_Projectile", "Spells/CutsceneSpells/BurningArc_Cutscene"], ["Data.Components[5].m_Projectile", "Spells/Level2/BurningArc"], ["Data.Components[4].m_Projectile", "Traits/Races/Aasimar/BurningArcAasimar"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Woljif/Woljif_Companion"], ["Data.Answers[0]", "World/Crusade/RankUps/Diplomacy/Diplomacy_7/AnswersList_0018"], ["Data.Continue.Cues[0]", "World/Crusade/RankUps/Diplomacy/Diplomacy_7/CueSequence_0097"]], "referenced": [["Data.NextCue.Cues[0]", "World/Crusade/RankUps/Diplomacy/Diplomacy_7/Answer_0093"]]}

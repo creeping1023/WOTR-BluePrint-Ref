@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Units/Monsters/Nymph/NymphBrain/StunningGlanceBuff"], ["Data.Action.Actions[1].m_Cutscene", "World/Cutscenes/Prologue_Labyrinth/Mongrels_Eat_Corpse/Mongrels_Eat_Corpse"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Prologue_Labyrinth/CorruptedHitByDemon/CorruptedHitByDemon"]]}

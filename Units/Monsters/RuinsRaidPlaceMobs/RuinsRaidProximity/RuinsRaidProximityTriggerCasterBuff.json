@@ -1,1 +1,1 @@
-{"referenced": [["Data.PrototypeLink", "Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidProximity/RuinsRaidProximityTriggerSelfConciderationBuff"]]}
+{"referencing": [["Data.Components[0].m_AreaEffect", "Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidProximity/RuinsRaidProximityTriggerMainAreaEffect"]], "referenced": [["Data.Components[0].UnitEnter.Actions[0].m_Buff", "Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidProximity/RuinsRaidProximityTriggerAreaEffect"], ["Data.PrototypeLink", "Units/Monsters/RuinsRaidPlaceMobs/RuinsRaidProximity/RuinsRaidProximityTriggerSelfConciderationBuff"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Buff", "Items/Rods/PF2DLC2/SithhudsRodBuff"]], "referenced": [["Data.Components[1].m_RodAbility", "Items/Rods/PF2DLC2/SithhudsRodBuff"], ["Data.m_ActivatableAbility", "Items/Rods/PF2DLC2/SithhudsRodItem"], ["Data.Components[1].m_RodAbility", "Units/Monsters/DLC5_Sithhud/TrueSithhud/DLC5_UpgradedSithhudRodBuff"]]}

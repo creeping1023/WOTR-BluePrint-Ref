@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/Nexus/WenduagRomance_Hit/WenduagRomance_Hit"], ["Data.Continue.Cues[0]", "World/Dialogs/Companions/CompanionRomances/Wenduag/TooMuchStress/Cue_0093"]], "referenced": [["Data.m_Fail", "World/Dialogs/Companions/CompanionRomances/Wenduag/TooMuchStress/Check_0091"]]}

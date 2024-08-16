@@ -1,0 +1,1 @@
+{"referencing": [["Data.EnterActions.Actions[0].IfTrue.Actions[0].m_Dialogue", "World/Dialogs/c0/CavesUnderKenabres/MeetSeelahAnevia/MeetSeelahAnevia_Dialogue"], ["Data.EnterActions.Actions[0].IfFalse.Actions[0].m_Cutscene", "World/Cutscenes/Prologue_Caves_1/PlayerApproachesSeelah/PlayerApproachesSeelah"]]}

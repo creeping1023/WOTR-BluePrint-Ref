@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].ActionOnTarget.Actions[0].m_Buff", "Armies/Abilities/ArmyEnervationOnHitBuff"]], "referenced": [["Data.m_AddFacts[8]", "Armies/UnitBlueprints/ArmyVrolikai"], ["Data.m_AddFacts[4]", "Armies/UnitBlueprints/ArmyWightStandard"]]}

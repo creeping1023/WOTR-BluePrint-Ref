@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_RodAbility", "Items/Rods/MetamagicRodMasterpiece/MetamagicRodMasterpieceToggleAbility"]], "referenced": [["Data.m_Buff", "Items/Rods/MetamagicRodMasterpiece/MetamagicRodMasterpieceToggleAbility"], ["Data.Components[0].m_Facts[0]", "Units/NPC/Unique/Act_3_DemonsHerecy/Seelah_Q2/DarekBrain/Darek_Feature_Special"]]}

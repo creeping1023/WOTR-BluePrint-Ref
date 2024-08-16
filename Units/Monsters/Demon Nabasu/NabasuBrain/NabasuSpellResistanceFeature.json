@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_DisplayName.m_OwnerString", "CreatureAbilities/ImmunityToMagic/SpellResistance11plusCR"], ["Data.m_Description.m_OwnerString", "CreatureAbilities/ImmunityToMagic/SpellResistance11plusCR"]]}
+{"referencing": [["Data.Components[1].m_Feature", "Units/Monsters/Demon Nabasu/NabasuBrain/NabasuGrowthPoint"], ["Data.m_DisplayName.m_OwnerString", "CreatureAbilities/ImmunityToMagic/SpellResistance11plusCR"], ["Data.m_Description.m_OwnerString", "CreatureAbilities/ImmunityToMagic/SpellResistance11plusCR"]]}

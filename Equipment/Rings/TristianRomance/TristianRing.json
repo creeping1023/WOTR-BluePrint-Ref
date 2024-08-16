@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/MetalShardItem"], ["Data.m_ActivatableAbility", "Equipment/Rings/TristianRomance/TristanRingActivatableAbility"], ["Data.m_Enchantments[0]", "Equipment/CommonEnchantments/Deflection4"]], "referenced": [["Data.m_Items[2501]", "Dugeons/Loot/DungeonLootExclude"]]}

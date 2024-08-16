@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_TouchWeapon", "Weapons/Types/Special/TouchItem"]], "referenced": [["Data.Components[0].m_TouchDeliveryAbility", "Test/Blueprints/TestTouchSpell"]]}

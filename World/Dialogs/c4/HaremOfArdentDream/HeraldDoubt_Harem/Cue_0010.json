@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_SpeakerPortrait", "Units/NPC/Unique/Act_4_MidnightIsles/Herald/AlushinyrraHerald"], ["Data.OnStop.Actions[0].m_Flag", "World/Encounters/AlushinyrraLowerCity/UnlockableFlags/HeroldRespect"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/HaremOfArdentDream/HeraldDoubt_Harem/Answer_0005"]]}

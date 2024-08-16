@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Parent", "World/Etudes/Common/WrathOfTheRighteous/MythicAeon/AeonStates/StauntonAnswers"]], "referenced": [["Data.OnSelect.Actions[0].Etude", "World/Dialogs/c3/Mythic_Aeon/Staunton_In_Past/Answer_0028"], ["Data.Conditions.Conditions[0].m_Etude", "World/Dialogs/c3/Mythic_Aeon/Staunton_In_Present_Welcome/Cue_0004"]]}

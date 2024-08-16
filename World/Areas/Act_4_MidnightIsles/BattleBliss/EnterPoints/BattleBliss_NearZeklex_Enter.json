@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Act_4_MidnightIsles/BattleBliss/BattleBliss"], ["Data.m_AreaPart", "World/Areas/Act_4_MidnightIsles/BattleBliss/BattleBliss"]], "referenced": [["Data.Action.Actions[0].m_exitPositon", "World/Cutscenes/BattleBliss/ZeklexKillsThief/CommandAction"]]}

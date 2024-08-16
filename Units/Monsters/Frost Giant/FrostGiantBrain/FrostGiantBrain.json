@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions[0]", "Brain/Actions/GreatCleaveAiAction"], ["Data.m_Actions[1]", "Brain/Actions/AttackAiAction"]], "referenced": [["Data.m_Brain", "Units/Monsters/DLC5Mobs/SecondHub/DLC5_cr19_FrostGiantMercUnit"], ["Data.m_Brain", "Units/Monsters/Frost Giant/CR9_FrostGiantStandard"], ["Data.m_Brain", "Units/Monsters/Frost Giant/FrostGiantSummoned"]]}

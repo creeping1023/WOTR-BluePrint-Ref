@@ -1,0 +1,1 @@
+{"referencing": [["Data.Actions.Actions[0].ConditionsChecker.Conditions[0].m_QuestObjective", "World/Quests/c5/LiberationOfWrath/Obj1_FindScroll"], ["Data.Actions.Actions[0].IfTrue.Actions[0].m_Objective", "World/Quests/c5/LiberationOfWrath/Add1_GiveScrollToAlderpash"]]}

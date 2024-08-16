@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Feat", "Feats/Teamwork/PreciseStrike"]], "referenced": [["Data.Components[0].UnitEnter.Actions[0].m_Buff", "Classes/Barbarian/Archetypes/PackRager/RagingTactician/PackRagerPreciseStrikeArea"], ["Data.Components[0].UnitExit.Actions[0].m_Buff", "Classes/Barbarian/Archetypes/PackRager/RagingTactician/PackRagerPreciseStrikeArea"]]}

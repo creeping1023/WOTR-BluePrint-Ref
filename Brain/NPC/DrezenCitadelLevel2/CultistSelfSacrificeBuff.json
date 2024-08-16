@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level3/HeroismBuff"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level3/HeroismBuff"]], "referenced": [["Data.Components[2].Actions.Actions[0].m_Buff", "Spells/CutsceneSpells/DrezenCitadelLevel2/CultistSelfSacrifice"]]}

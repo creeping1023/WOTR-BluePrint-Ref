@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].NewRoundActions.Actions[0].Value.DiceCountValue.m_CustomProperty", "Armies/Leaders/Feats/Bonus/PropertyArmySpellPower"]], "referenced": [["Data.Components[0].ActionOnTarget.Actions[0].m_Buff", "Armies/Abilities/ArmyMagusTouchOfCombustionBuff"]]}

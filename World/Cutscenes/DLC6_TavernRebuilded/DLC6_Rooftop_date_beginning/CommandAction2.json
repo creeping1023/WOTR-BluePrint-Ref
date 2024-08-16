@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[1].m_Cutscene", "World/Cutscenes/LostChapel/FOWRevealParam/FOWRevealParam"], ["Data.Action.Actions[2].m_Buff", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_HeavySuppressionBuff"]], "referenced": [["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/DLC6_TavernRebuilded/DLC6_Rooftop_date_beginning/gate3"]]}

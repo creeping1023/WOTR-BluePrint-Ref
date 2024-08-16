@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[0].m_QuestObjective", "World/Quests/MythicQuests/Azata/C3_AboveClouds/05_GoToIslandAlch"], ["Data.m_Actions.Actions[0].IfTrue.Actions[0].m_flag", "World/Encounters/AzataIsland/UnlockableFlags/SpringVsSpring_DialogFlag"]], "referenced": [["Data.m_Upgraders[201]", "Root/PlayerUpgradeActionsRoot"]]}

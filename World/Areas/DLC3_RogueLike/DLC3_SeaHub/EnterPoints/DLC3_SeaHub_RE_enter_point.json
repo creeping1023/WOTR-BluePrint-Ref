@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/DLC3_RogueLike/DLC3_SeaHub/DLC3_SeaHub"], ["Data.m_AreaPart", "World/Areas/DLC3_RogueLike/DLC3_SeaHub/DLC3_SeaHub"]], "referenced": [["Data.ActionsOnRandomEncounter.Actions[0].m_exitPositon", "Root/DungeonRoot"]]}

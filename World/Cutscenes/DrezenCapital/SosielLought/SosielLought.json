@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DrezenCapital/SosielLought/CommandUnitPlayCutsceneAnimation"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DrezenCapital/SosielLought/gate"]], "referenced": [["Data.OnShow.Actions[0].m_Cutscene", "World/Dialogs/Companions/CompanionRomances/Sosiel/Main_C5/Portrait/Cue_0059"]]}

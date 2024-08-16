@@ -1,0 +1,1 @@
+{"referencing": [["Data.SpecificCampaign", "DLC/MainGame/MainCampaign"], ["Data.m_Group", "Achievements/Groups/DLC4TrophyGroup"]], "referenced": [["Data.Achievements.m_List[119]", "Root/BlueprintRoot"], ["Data.Actions.Actions[5].IfFalse.Actions[0].m_Achievement", "World/Encounters/DLC4_RuinedVillage/ActionsHolders/DLC4_OffCursedTotem_Action"]]}

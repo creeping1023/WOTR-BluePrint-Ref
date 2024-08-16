@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level5/HoldMonsterBuff"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level5/HoldMonsterBuff"]], "referenced": [["Data.Action.Actions[0].m_Buff", "World/Cutscenes/Ziggurat/FuryOfPharasma_UrgathoaComing/CommandAction 2"], ["Data.Action.Actions[0].m_Buff", "World/Cutscenes/Ziggurat/FuryOfPharasma_UrgathoaComing/CommandAction 3"]]}

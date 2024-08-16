@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Feature", "Buffs/DLC3/DLC3_BUFFS/DLC3_ShieldsAttackDamageBuff/DLC3_ShieldAAttackBlueprintFeature"]], "referenced": [["Data.m_Boons[16]", "Root/DungeonRoot"], ["Data.Components[0].m_Actions.Actions[18].ConditionsChecker.Conditions[0].m_Boon", "World/Etudes/Common/DLC3_Roguelike/DLC3_Standalone/DLC3_AlushinyrraPort/CheckBoonFlags"]]}

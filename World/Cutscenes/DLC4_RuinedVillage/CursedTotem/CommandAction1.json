@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Faction", "Factions/DLC4_CursedTotem"], ["Data.Action.Actions[2].m_Buff", "Classes/Barbarian/Rage/StandartRageBuff"]], "referenced": [["Data.m_Tracks[0].m_Commands[7]", "World/Cutscenes/DLC4_RuinedVillage/CursedTotem/CursedTotem"]]}

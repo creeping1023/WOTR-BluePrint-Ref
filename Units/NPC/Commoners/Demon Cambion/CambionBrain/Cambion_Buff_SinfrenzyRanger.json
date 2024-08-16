@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_CheckedFact", "Classes/Ranger/FavoriteEnemy/FavoriteEnemyHuman"], ["Data.Components[0].m_Feature", "Classes/Ranger/FavoriteEnemy/FavoriteEnemyHuman"]], "referenced": [["Data.Components[3].Activated.Actions[3].IfTrue.Actions[0].m_Buff", "Units/NPC/Commoners/Demon Cambion/CambionBrain/Cambion_Buff_SinfrenzyBasic"]]}

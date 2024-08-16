@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[1].m_Buff", "Buffs/FakeDeath"], ["Data.Action.Actions[2].m_Buff", "Units/Monsters/Demon Kakuen-taka/DLC4_KakuenTakaFX"]], "referenced": [["Data.m_Tracks[0].m_Commands[2]", "World/Cutscenes/DLC4_Gundrun/DLC4_SwarmCorpseRevive_Param/DLC4_SwarmCorpseRevive_Param"]]}

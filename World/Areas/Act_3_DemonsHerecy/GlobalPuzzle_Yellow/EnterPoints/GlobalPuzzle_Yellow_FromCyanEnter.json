@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Act_3_DemonsHerecy/GlobalPuzzle_Yellow/GlobalPuzzle_Yellow"], ["Data.m_AreaPart", "World/Areas/Act_3_DemonsHerecy/GlobalPuzzle_Yellow/GlobalPuzzle_Yellow_Cave"]], "referenced": [["Data.m_Actions[0].Actions.Actions[1].m_exitPositon", "World/Areas/Act_3_DemonsHerecy/GlobalPuzzle_Cyan/ToYellowFromCyanExit"]]}

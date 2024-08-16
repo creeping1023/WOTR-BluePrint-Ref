@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_Fact", "Mythic/SwarmThatWalks/LocustNPCBonuses/LocustNPCMartialBonus"], ["Data.OnShow.Actions[1].Holder", "World/Encounters/DrezenCapital/ActionsHolders/Coronation_KillAllNPCInMythicWay"]], "referenced": [["Data.Cues[14]", "World/Dialogs/c5/DrezenMain_C5/Coronation/CueSequence_0057"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Action.Actions[0].IfTrue.Actions[0].m_Buff", "Units/Monsters/DLC3_Mobs/DLC3_CasterArcherBuff"], ["Data.Components[1].Actions.Actions[0].m_Buff", "Units/Monsters/DLC3_Mobs/DLC3_CasterArcherBuff"]], "referenced": [["Data.m_AddFacts[9]", "Units/Monsters/DLC3_Mobs/DLC3_Nahyndri_FinalBoss"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/MidnightFane/DarrazandFight/Cue_0020"], ["Data.ShowConditions.Conditions[0].m_Fact", "Classes/Basic/Deities/IomedaeFeature"]], "referenced": [["Data.AnswersSelected[2648]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[1]", "World/Dialogs/c3/MidnightFane/DarrazandFight/AnswersList_0004"]]}

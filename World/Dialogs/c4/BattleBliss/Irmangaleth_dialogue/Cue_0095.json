@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnShow.Actions[0].m_Cutscene", "World/Cutscenes/GibberingSwarm/ShortFadeoutLockControls/ShortFadeoutLockControls"], ["Data.Continue.Cues[0]", "World/Dialogs/c4/BattleBliss/Irmangaleth_dialogue/Cue_0124"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/BattleBliss/Irmangaleth_dialogue/Answer_0094"]]}

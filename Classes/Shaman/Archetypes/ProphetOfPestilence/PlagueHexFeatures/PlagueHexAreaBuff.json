@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_AreaEffect", "Classes/Shaman/Archetypes/ProphetOfPestilence/PlagueHexFeatures/PlagueHexAreaEffect"]], "referenced": [["Data.Components[0].Activated.Actions[11].IfTrue.Actions[0].m_Buff", "Classes/Shaman/Archetypes/ProphetOfPestilence/PlagueHexBuff"]]}

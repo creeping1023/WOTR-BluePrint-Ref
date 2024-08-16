@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_MaxAmount.m_ClassDiv[0]", "Classes/Warpriest/WarpriestClass"]], "referenced": [["Data.Components[0].m_RequiredResource", "Classes/Warpriest/Archetypes/ChampionOfTheFaith/ChampionOfTheFaithEnchantWeaponAbility"], ["Data.Components[0].m_Resource", "Classes/Warpriest/Archetypes/ChampionOfTheFaith/ChampionOfTheFaithEnchantWeaponFeature"]]}

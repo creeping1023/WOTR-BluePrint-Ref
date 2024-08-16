@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Test/BoxTrick_sideQuest/MusicBox_main/Cue_0010"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/Test/BoxTrick_sideQuest/MusicBox_main/Answer_0003"]], "referenced": [["Data.Answers[1]", "World/Dialogs/Test/BoxTrick_sideQuest/MusicBox_main/AnswersList_0002"]]}

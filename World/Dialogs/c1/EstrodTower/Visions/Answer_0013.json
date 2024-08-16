@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c1/EstrodTower/Visions/Cue_0014"], ["Data.OnSelect.Actions[0].m_Cutscene", "World/Cutscenes/EstrodTower/AttackTargonaGhost/AttackTargonaGhost"]], "referenced": [["Data.AnswersSelected[329]", "QA/Clockwork/Scenario/Draft/Chapter2_tst_preset"], ["Data.Answers[4]", "World/Dialogs/c1/EstrodTower/Visions/AnswersList_0003"]]}

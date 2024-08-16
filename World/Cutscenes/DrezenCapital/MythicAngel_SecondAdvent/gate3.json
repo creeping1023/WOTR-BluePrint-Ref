@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DrezenCapital/MythicAngel_SecondAdvent/CommandAction2"]], "referenced": [["Data.m_Tracks[2].m_EndGate", "World/Cutscenes/DrezenCapital/MythicAngel_SecondAdvent/gate"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DrezenCapital/MythicAngel_SecondAdvent/gate2"]]}

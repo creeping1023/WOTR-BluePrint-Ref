@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Woljif/Q3WoljifAbyssMoonRising/Q3WoljifSmall/Cue_0001"]], "referenced": [["Data.FinishActions.Actions[0].AfterDetach.Actions[2].AfterTeleport.Actions[0].m_Dialogue", "World/Dialogs/Companions/CompanionQuests/Woljif/Q3WoljifAbyssMoonRising/Q3WoljifYgefeles/Q3WoljifYgefeles_dialogue"]]}

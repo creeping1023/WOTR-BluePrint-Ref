@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level1/BlessBuff"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "Spells/Level1/BlessBuff"]], "referenced": [["Data.Components[1].Activated.Actions[0].m_Buff", "Weapons/Items/UniquePF2/Chapter3/SecondChanceEnchantment"], ["Data.Components[1].Deactivated.Actions[0].m_Buff", "Weapons/Items/UniquePF2/Chapter3/SecondChanceEnchantment"]]}

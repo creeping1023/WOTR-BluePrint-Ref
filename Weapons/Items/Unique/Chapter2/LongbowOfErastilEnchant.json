@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Conditions.Conditions[0].m_Fact", "Traits/Races/Common/UndeadType"], ["Data.Components[0].Conditions.Conditions[1].m_Fact", "Traits/Races/Common/AnimalType"]], "referenced": [["Data.m_Enchantments[1]", "Weapons/Items/Unique/Chapter2/LongbowOfErastilItem"]]}

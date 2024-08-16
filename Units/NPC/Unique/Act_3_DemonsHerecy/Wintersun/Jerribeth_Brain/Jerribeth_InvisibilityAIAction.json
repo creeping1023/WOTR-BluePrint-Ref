@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/SwiftActionOffCooldown"], ["Data.m_ActorConsiderations[1]", "Brain/Considerations/NoBuffInvisibility"], ["Data.m_Ability", "Spells/Level2/Invisibility"]], "referenced": [["Data.m_Actions[13]", "Units/NPC/Unique/Act_3_DemonsHerecy/Wintersun/Jerribeth_Brain/Jerribeth_Brain"]]}

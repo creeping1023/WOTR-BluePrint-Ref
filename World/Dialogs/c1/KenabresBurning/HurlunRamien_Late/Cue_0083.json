@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Cue", "World/Dialogs/c1/KenabresBurning/HurlunRamien_Late/Cue_0079"], ["Data.OnStop.Actions[0].Actions.Actions[0].m_FactionToAttack", "Factions/Player"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c1/KenabresBurning/HurlunRamien_Late/Answer_0022"]]}

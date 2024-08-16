@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].ActionsOnSpawn.Actions[0].m_Buff", "World/Areas/Act_3_DemonsHerecy/IvorySanctum/Buffs/InspiredByDialogue"], ["Data.OnStop.Actions[1].m_Buff", "World/Areas/Act_3_DemonsHerecy/IvorySanctum/Buffs/InspiredByDialogue"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/IvorySanctum/Vrock/Answer_0023"]]}

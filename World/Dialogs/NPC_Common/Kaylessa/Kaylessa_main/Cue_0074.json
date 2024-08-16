@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_SummonPool", "World/Encounters/WarCamp/SummonPools/Kaylessa_Warcamp"], ["Data.OnStop.Actions[0].Actions.Actions[0].m_Cutscene", "World/Cutscenes/WarCamp/FadeAndHide(CurrentSpeaker)/FadeAndHide"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/NPC_Common/Kaylessa/Kaylessa_main/Answer_0058"]]}

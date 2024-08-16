@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_ConditionFlag", "World/Encounters/SinisterVillage/UnlockableFlags/GarlandGiven2Hags"], ["Data.Cues[0]", "World/Dialogs/Epilogues/Cue_0329"], ["Data.Answers[0]", "World/Dialogs/Epilogues/Answer_0330"]], "referenced": [["Data.Cues[8]", "World/Dialogs/Epilogues/CueSequence_Special"]]}

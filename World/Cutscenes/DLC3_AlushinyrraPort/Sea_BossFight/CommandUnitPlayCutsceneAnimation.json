@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Unit.m_Units[0].Condition.Conditions[0].m_Etude", "World/Etudes/Common/DLC3_Roguelike/DLC3_Standalone"], ["Data.m_Unit.m_Units[1].Condition.Conditions[0].m_Etude", "World/Etudes/Common/DLC3_Roguelike/DLC3_Integration"]], "referenced": [["Data.m_Tracks[3].m_Commands[2]", "World/Cutscenes/DLC3_AlushinyrraPort/Sea_BossFight/Sea_BossFight"]]}

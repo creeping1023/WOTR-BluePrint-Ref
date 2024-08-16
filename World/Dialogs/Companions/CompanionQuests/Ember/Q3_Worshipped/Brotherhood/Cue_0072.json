@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_SummonPool", "World/Encounters/Ember_Q3_Brotherhood/SummonPools/EmberQ3_Brotherhood"], ["Data.OnStop.Actions[0].Actions.Actions[0].m_Faction", "Factions/Mobs"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Ember/Q3_Worshipped/Brotherhood/Answer_0070"]]}

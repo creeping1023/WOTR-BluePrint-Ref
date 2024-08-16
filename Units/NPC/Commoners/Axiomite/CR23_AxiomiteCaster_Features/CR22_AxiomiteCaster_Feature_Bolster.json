@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Abilities[0]", "Spells/Level1/MagicMissile"], ["Data.Components[0].Abilities[1]", "Spells/Level2/ScorchingRay"], ["Data.Components[0].Abilities[2]", "Spells/Level6/ChainLightning"]], "referenced": [["Data.Components[0].m_Facts[0]", "Units/NPC/Commoners/Axiomite/CR23_AxiomiteCaster_Features/CR22_AxiomiteCaster_Feature_Metamagic"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Nenio/Nenio_Companion"], ["Data.m_Listener", "Units/NPC/Unique/Areelu/Areelu"]], "referenced": [["Data.CuesSeen[8234]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Cues[1]", "World/Dialogs/c4/Palace/Audience_Areelu/CueSequence_0003"]]}

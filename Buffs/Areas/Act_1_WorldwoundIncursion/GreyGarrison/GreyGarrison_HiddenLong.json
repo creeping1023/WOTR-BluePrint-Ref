@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_Projectiles[0]", "FX/Creatures/LanternKing_FireLine00"]], "referenced": [["Data.Components[16].Action.Actions[0].IfTrue.Actions[0].m_Spell", "Buffs/Areas/Act_1_WorldwoundIncursion/GreyGarrison/GreyGarrison_SuperMythicBuff"]]}

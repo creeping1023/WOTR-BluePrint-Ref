@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Act_2_SwordOfValor/LostChapel/LostChapel"], ["Data.m_AreaPart", "World/Areas/Act_2_SwordOfValor/LostChapel/LostChapetSmallCave_AreaPart"]], "referenced": [["Data.m_Actions[0].Actions.Actions[0].m_exitPositon", "World/Encounters/LostChapel/AreaTransitionsWithMusic/LostChapel_CustomMusicCave_WellToCave_Enable"]]}

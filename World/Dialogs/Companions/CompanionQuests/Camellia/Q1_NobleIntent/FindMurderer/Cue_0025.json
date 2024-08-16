@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Objective", "World/Quests/Companions/Camellia/Q1_ANobleIntent/Obj01_WaitForCrime"], ["Data.OnStop.Actions[1].m_Objective", "World/Quests/Companions/Camellia/Q1_ANobleIntent/Obj02_FindMurderer"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Camellia/Q1_NobleIntent/FindMurderer/Answer_0024"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Race", "Races/HumanRace"]], "referenced": [["Data.m_Portrait", "Armies/Leaders/Warlords/WarlordLeaderWarrior4"], ["Data.m_Portrait", "Armies/Leaders/Warlords/WarlordUnits/Warlord_15_Fighter"], ["Data.CharGen.m_Portraits[62]", "Root/BlueprintRoot"], ["Data.m_Portrait", "Units/NPC/Commoners/DLC5_Storys_End/DLC5TestSkaldUnitLevel11"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_WeaponType", "Weapons/Types/NaturalWeapon/BiteType"], ["Data.Components[0].Action.Actions[0].Actions.Actions[0].Failed.Actions[0].m_Buff", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/HodagPoison_Buff"]], "referenced": [["Data.m_AddFacts[5]", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_GiantsOverseers/DLC5_CR7_HodagVenomous"]]}

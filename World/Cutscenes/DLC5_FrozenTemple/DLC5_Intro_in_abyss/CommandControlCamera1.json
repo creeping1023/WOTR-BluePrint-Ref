@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_ConditionFlag", "World/Encounters/DLC2_Abyss/UnlockableFlags/DLC2_LeftInAbyss"], ["Data.MoveTarget.Unit.m_Companion", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC5_FrozenTemple/DLC5_Intro_in_abyss/gate"]]}

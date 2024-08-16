@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Woljif/Woljif_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c1/KenabresBurning/Thieflings_Early/Cue_0070"]], "referenced": [["Data.CuesSeen[1096]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Cues[1]", "World/Dialogs/c1/KenabresBurning/Thieflings_Early/CueSequence_0068"]]}

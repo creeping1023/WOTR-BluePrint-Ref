@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Action.Actions[0].m_Buff", "Feats/DLC5/FlayingCriticalTargetBuff"]], "referenced": [["Data.m_Buff", "Classes/Bloodrager/Archetypes/Hag-Riven/HexingClaws/ClawFlayingCriticalToggleAbility"], ["Data.Components[1].m_Buffs[0]", "Feats/DLC5/FlayingCriticalBuff"]]}

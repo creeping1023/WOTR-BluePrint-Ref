@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_RequiredResource", "Classes/Paladin/SmiteEvil/SmiteEvilResource"], ["Data.Components[1].Actions.Actions[1].m_Buff", "Equipment/Cloaks/DLC2/CloakOfTheLionAbilityBuff"], ["Data.Components[3].m_Class[0]", "Classes/Paladin/PaladinClass"]], "referenced": [["Data.Components[0].m_Facts[0]", "Equipment/Cloaks/DLC2/CloakOfTheLionSmiteBuff"]]}

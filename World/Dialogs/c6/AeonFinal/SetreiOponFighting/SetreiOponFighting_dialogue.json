@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c6/AeonFinal/SetreiOponFighting/Cue_0001"], ["Data.FinishActions.Actions[0].m_Buff", "Buffs/NPC_Immortality"], ["Data.FinishActions.Actions[1].m_Buff", "Buffs/NPC_Immortality"]], "referenced": [["Data.m_Dialog", "World/Cutscenes/ThresholdIndoor_Aeon/OponAndSetrei/CommandStartDialog"]]}

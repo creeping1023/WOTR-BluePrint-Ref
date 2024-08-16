@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Prologue_Labyrinth/Venduag_StepUp/CommandUnitPlayCutsceneAnimation"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/Prologue_Labyrinth/Venduag_StepUp/Venduag_StepUp"], ["Data.m_Tracks[1].m_EndGate", "World/Cutscenes/Prologue_Labyrinth/Venduag_StepUp/Venduag_StepUp"]]}

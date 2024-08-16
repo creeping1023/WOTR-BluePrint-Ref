@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions[0]", "Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/MaskSwarm/MaskSwarmDamageAbilityAiAction"], ["Data.m_Actions[1]", "Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/MaskSwarm/FollowEnemyAbility_AiAction"]], "referenced": [["Data.m_Brain", "Units/NPC/Commoners/DLC6_DanceOfMasks/MaskGolem/MaskSwarm/CR16_MaskSwarm"]]}

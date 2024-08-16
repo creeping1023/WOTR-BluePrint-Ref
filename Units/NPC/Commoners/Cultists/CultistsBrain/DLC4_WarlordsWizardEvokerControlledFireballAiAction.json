@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "Units/NPC/Commoners/Cultists/CultistsBrain/CultistEvokerControlledFireballAiAction"]]}
+{"referencing": [["Data.PrototypeLink", "Units/NPC/Commoners/Cultists/CultistsBrain/CultistEvokerControlledFireballAiAction"], ["Data.m_TargetConsiderations[0]", "Brain/Considerations/AoE_ChooseMoreEnemies"], ["Data.m_Ability", "Spells/Level4/ControlledFireball"]], "referenced": [["Data.m_Actions[7]", "Units/NPC/Commoners/Cultists/CultistsBrain/DLC4_WarlordsWizardEvokerStandardBrain"]]}

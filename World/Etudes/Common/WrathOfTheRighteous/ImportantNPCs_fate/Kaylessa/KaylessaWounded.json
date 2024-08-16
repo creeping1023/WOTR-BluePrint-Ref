@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Parent", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Kaylessa"]], "referenced": [["Data.Action.Actions[0].Etude", "World/Cutscenes/Kaylessa_FornAmbush/KaylessaRunsToForn/CommandAction"], ["Data.OnStop.Actions[6].ConditionsChecker.Conditions[0].m_Etude", "World/Dialogs/NPC_Common/Kaylessa/Forn_Ambush/Cue_0040"]]}

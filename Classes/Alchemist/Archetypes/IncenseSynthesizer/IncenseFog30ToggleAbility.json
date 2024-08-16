@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_RequiredResource", "Classes/Alchemist/Archetypes/IncenseSynthesizer/IncenseFogResource"], ["Data.m_Buff", "Classes/Alchemist/Archetypes/IncenseSynthesizer/IncenseFog30Buff"]], "referenced": [["Data.Components[0].m_Facts[0]", "Classes/Alchemist/Archetypes/IncenseSynthesizer/IncenseFog30Feature"]]}

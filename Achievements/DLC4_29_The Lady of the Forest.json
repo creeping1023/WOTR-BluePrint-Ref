@@ -1,0 +1,1 @@
+{"referencing": [["Data.SpecificCampaign", "DLC/MainGame/MainCampaign"], ["Data.m_Group", "Achievements/Groups/DLC4TrophyGroup"]], "referenced": [["Data.Achievements.m_List[117]", "Root/BlueprintRoot"], ["Data.Actions.Actions[1].m_Achievement", "World/Encounters/DLC4_Wilds/ActionsHolders/DLC4_Wilds_Wolf"]]}

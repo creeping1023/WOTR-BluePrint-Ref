@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/MythicDragon/PlayerIsDragon"], ["Data.Cues[0]", "World/Dialogs/Epilogues/Cue_0195"], ["Data.Cues[1]", "World/Dialogs/Epilogues/Cue_0533"], ["Data.Answers[0]", "World/Dialogs/Epilogues/Answer_0196"]], "referenced": [["Data.Cues[1]", "World/Dialogs/Epilogues/CueSequence_Mythics"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[2].Actions.Actions[0].Failed.Actions[0].m_Buff", "Armies/Abilities/ArmyInfectedWoundsBuff"]], "referenced": [["Data.m_Ability", "Armies/Brains/Actions/TacticalCombat_AIAction_InfectedWounds"], ["Data.m_AddFacts[3]", "Armies/UnitBlueprints/ArmyWitch"]]}

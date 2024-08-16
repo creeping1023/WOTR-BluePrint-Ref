@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_SummonPool", "World/Encounters/ThresholdOutdoor/SummonPools/ThresholdOutdoor_Pack02"], ["Data.Action.Actions[0].Actions.Actions[0].m_Faction", "Factions/Mobs"]], "referenced": [["Data.m_Tracks[5].m_Commands[0]", "World/Cutscenes/ThresholdOutdoor/ThresholdOutdoor_Encounter02/ThresholdOutdoor_Encounter02"]]}

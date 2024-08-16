@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_CheckedBuff", "Classes/Bloodrager/BloodragerRage/BloodragerStandartRageBuff"], ["Data.Components[0].m_ExtraEffectBuff", "Classes/Bloodrager/Archetypes/Primalist/PrimalistRagePowersBuff"]], "referenced": [["Data.AddFeatures[1].m_Features[0]", "Classes/Bloodrager/Archetypes/Primalist/PrimalistArchetype"]]}

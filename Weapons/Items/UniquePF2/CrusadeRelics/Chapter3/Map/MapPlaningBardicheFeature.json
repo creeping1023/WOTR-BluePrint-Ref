@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_WeaponTypes[0]", "Weapons/Types/MartialTwoHanded/Bardiche"], ["Data.Components[0].m_WeaponTypes[1]", "Weapons/Types/MartialOneHanded/HeavyPick"]], "referenced": [["Data.Components[1].m_Blueprint", "Weapons/Items/UniquePF2/CrusadeRelics/Chapter3/Map/MapPlaningBardicheEnchantment"]]}

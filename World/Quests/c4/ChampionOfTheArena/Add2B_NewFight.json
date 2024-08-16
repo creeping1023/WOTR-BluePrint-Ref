@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Quest", "World/Quests/c4/ChampionOfTheArena/ChampionOfTheArena"]], "referenced": [["Data.OnSelect.Actions[0].m_Objective", "World/Dialogs/c4/BattleBliss/Zeklex_dialogue/Answer_0089"], ["Data.m_Objectives[8]", "World/Quests/c4/ChampionOfTheArena/ChampionOfTheArena"], ["Data.m_Addendums[2]", "World/Quests/c4/ChampionOfTheArena/Obj2_JoinToFirstFight"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_CharacterClass", "Classes/Witch/WitchClass"], ["Data.Components[0].m_Spell", "Spells/Level9/Weird"]], "referenced": [["Data.LevelEntries[8].m_Features[0]", "Classes/Witch/WitchPatrons/PatronDeception/WitchDeceptionPatronProgression"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "CreatureAbilities/Incorporeal"], ["Data.Components[1].m_EnchantmentBlueprint", "Weapons/Enchantments/GhostTouch"], ["Data.Components[2].m_EnchantmentBlueprint", "Weapons/Enchantments/GhostTouch"]], "referenced": [["Data.m_Buff", "Classes/Shaman/ShamanSpirits/ShamanBonesSpirit/ShamanBoneSpiritTrueAbility"]]}

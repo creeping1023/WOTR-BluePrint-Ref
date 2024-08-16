@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Objective", "World/Quests/MythicQuests/Trickster/C3_CouncilErrand_1/Objective_0001"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Mythic_Trickster/Council_1/Cue_0002"]], "referenced": [["Data.FirstCue.Cues[0]", "World/Dialogs/c3/Mythic_Trickster/Council_1/Council_1_Dialogue"]]}

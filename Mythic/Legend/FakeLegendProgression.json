@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Feature", "Mythic/Aeon/AeonDemythication"], ["Data.m_Classes[0].m_Class", "Mythic/Legend/FakeLegendClass"], ["Data.LevelEntries[0].m_Features[0]", "Mythic/Legend/FakeLegendFeature"], ["Data.LevelEntries[0].m_Features[1]", "Mythic/Legend/FakeLegend_UniqueRestFeature"]], "referenced": [["Data.m_Progression", "Mythic/Legend/FakeLegendClass"]]}

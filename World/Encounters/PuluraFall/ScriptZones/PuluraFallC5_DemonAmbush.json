@@ -1,0 +1,1 @@
+{"referencing": [["Data.EnterActions.Actions[0].ActionsOnSpawn.Actions[0].m_Fact", "Spells/Level3/HasteBuff"], ["Data.EnterActions.Actions[0].ActionsOnSpawn.Actions[1].m_Fact", "Spells/Level3/HeroismBuff"], ["Data.EnterActions.Actions[0].ActionsOnSpawn.Actions[3].m_SummonPool", "World/Encounters/PuluraFall/SummonPools/PuluraFall_DemonGuardsBackup_c5"]]}

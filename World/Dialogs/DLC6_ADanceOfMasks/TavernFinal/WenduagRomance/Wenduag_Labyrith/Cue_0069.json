@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Wenduag/Wenduag_NPC_Level1_Cutscene"], ["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/DLC6_WenduagRomance/WenduagRomance_cutscene/WenduagRomance_cutscene"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC6_ADanceOfMasks/TavernFinal/WenduagRomance/Wenduag_Labyrith/Answer_0067"]]}

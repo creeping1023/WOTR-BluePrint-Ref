@@ -1,1 +1,1 @@
-{"referenced": [["Data.PrototypeLink", "Items/Artefacts/VS/Golem Gem"]]}
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/DustShardItem"]], "referenced": [["Data.m_Items[538]", "Dugeons/Loot/DungeonLootExclude"], ["Data.PrototypeLink", "Items/Artefacts/VS/Golem Gem"]]}

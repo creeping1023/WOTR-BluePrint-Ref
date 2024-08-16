@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Equipment/Bracers/DLC2/CharonsTouchFalseLifeAbility"], ["Data.Components[1].m_Resource", "Equipment/Bracers/DLC2/CharonsTouchFalseLifeResource"]], "referenced": [["Data.Components[0].m_Fact", "Equipment/Bracers/DLC2/CharonsTouch"], ["Data.Components[0].m_Feature", "Equipment/Bracers/DLC2/CharonsTouchEnchantment"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "CreatureAbilities/Immunities/ImmunityToDeathEffects"], ["Data.Components[0].m_Facts[1]", "CreatureAbilities/Immunities/ImmunityToFear"]], "referenced": [["Data.OnStop.Actions[2].m_Fact", "World/Dialogs/c5/LabyrinthOfBaphometh/Herald/Cue_0004"]]}

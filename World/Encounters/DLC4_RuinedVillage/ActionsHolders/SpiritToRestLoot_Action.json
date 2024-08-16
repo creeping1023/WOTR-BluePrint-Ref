@@ -1,0 +1,1 @@
+{"referencing": [["Data.Actions.Actions[0].m_Faction", "Factions/Mobs"], ["Data.Actions.Actions[2].ConditionsChecker.Conditions[0].m_Quest", "World/Quests/DLC4_Shifter/SpiritToRest/SpiritToRest"], ["Data.Actions.Actions[2].IfTrue.Actions[0].m_Objective", "World/Quests/DLC4_Shifter/SpiritToRest/Obj_FailSpiritToRest"]]}

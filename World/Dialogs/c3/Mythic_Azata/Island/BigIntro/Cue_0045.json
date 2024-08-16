@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Mythic/Azata/AzataDragon/AzataDragonUnit"], ["Data.OnStop.Actions[0].m_Location", "GlobalMaps/WorldWoundGM/Points/Location_AzataIsland"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/c3/Mythic_Azata/Island/BigIntro/Cue_0046"]]}

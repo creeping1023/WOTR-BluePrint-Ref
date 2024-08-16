@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Feature", "Races/DwarfRace"], ["Data.Components[1].m_Feature", "Races/HalfOrcRace"]], "referenced": [["Data.m_AllFeatures[64]", "Classes/Basic/BasicFeatSelection"], ["Data.m_AllFeatures[64]", "Mythic/Feats/ExtraFeatMythicFeat"], ["Data.m_AllFeatures[64]", "Mythic/GoldenDragon/DragonLevel2FeatSelection"]]}

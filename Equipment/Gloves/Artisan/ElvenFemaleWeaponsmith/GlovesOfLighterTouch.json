@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/LeatherShardItem"], ["Data.m_Ability", "Spells/Level1/ReducePerson"], ["Data.m_Enchantments[0]", "Equipment/CommonEnchantments/Dexterity6"], ["Data.m_Enchantments[1]", "Equipment/CommonEnchantments/Reflex3"]], "referenced": [["Data.m_Items[2357]", "Dugeons/Loot/DungeonLootExclude"]]}

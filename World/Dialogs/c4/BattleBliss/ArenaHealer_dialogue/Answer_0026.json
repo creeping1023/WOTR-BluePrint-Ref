@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/BattleBliss/ArenaHealer_dialogue/Cue_0028"]], "referenced": [["Data.Conditions.Conditions[1].m_Answer", "World/Dialogs/c4/BattleBliss/ArenaHealer_dialogue/AnswersList_0024"], ["Data.Answers[1]", "World/Dialogs/c4/BattleBliss/ArenaHealer_dialogue/AnswersList_0024"]]}

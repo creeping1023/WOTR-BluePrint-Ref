@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Crusade/RankUps/Military/Military_2/Cue_0017"], ["Data.ShowConditions.Conditions[0].m_Cue", "World/Crusade/RankUps/Military/Military_2/Cue_0007"]], "referenced": [["Data.AnswersSelected[1559]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[2]", "World/Crusade/RankUps/Military/Military_2/AnswersList_0064"]]}

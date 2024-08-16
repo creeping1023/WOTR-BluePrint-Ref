@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Feats/MountedCombat/TrampleAbility"], ["Data.Components[1].m_Facts[0]", "Feats/MountedCombat/TrampleAbility"]], "referenced": [["Data.Components[1].m_ExtraEffectBuff", "Feats/MountedCombat/Trample"], ["Data.Components[0].Actions.Actions[0].ConditionsChecker.Conditions[0].m_Fact", "Feats/MountedCombat/TrampleAbility"]]}

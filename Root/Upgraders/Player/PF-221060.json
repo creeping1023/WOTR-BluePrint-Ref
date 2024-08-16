@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions.Actions[0].m_Feature", "Classes/Witch/WitchCantripsFeature"], ["Data.m_Actions.Actions[0].m_Progression", "Classes/Witch/WitchProgression"], ["Data.m_Actions.Actions[0].m_Archetype", "Classes/Witch/Archetypes/AccursedWitch/AccursedWitchArchetype"]], "referenced": [["Data.m_Upgraders[102]", "Root/PlayerUpgradeActionsRoot"]]}

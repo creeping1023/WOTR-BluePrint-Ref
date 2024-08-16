@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Activated.Actions[0].ConditionsChecker.Conditions[0].m_Fact", "Classes/Kineticist/KineticistProgression"], ["Data.Components[0].Activated.Actions[0].IfTrue.Actions[0].m_Buff", "Buffs/DLC3/DLC3_BUFFS/DLC3_KineticRicochetBuff/DLC3_KineticRicochetBuff"]], "referenced": [["Data.Components[0].m_Feature", "Dugeons/Boons/DungeonBoon_Kinetic"]]}

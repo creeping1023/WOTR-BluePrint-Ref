@@ -1,0 +1,1 @@
+{"referencing": [["Data.SpecificCampaign", "DLC/DLC1/Dlc1Campaign"], ["Data.m_Group", "Achievements/Groups/DLC1TrophyGroup"]], "referenced": [["Data.Achievements.m_List[70]", "Root/BlueprintRoot"], ["Data.Components[0].Actions.Actions[0].m_Achievement", "World/Etudes/Common/Disillusioned"]]}

@@ -1,1 +1,1 @@
-{"referenced": [["Data.m_Description.m_OwnerString", "Spells/Level6/OverwhelmingPresenceBuff"]]}
+{"referenced": [["Data.m_Buffs[0]", "Brain/Considerations/NoBuffOverwhelmingGrief"], ["Data.Components[2].Actions.Actions[0].Failed.Actions[0].m_Buff", "Spells/Level3/OverwhelmingGrief"], ["Data.m_Description.m_OwnerString", "Spells/Level6/OverwhelmingPresenceBuff"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_TouchWeapon", "Weapons/Types/Special/TouchItem"], ["Data.Components[3].Actions.Actions[0].Failed.Actions[0].m_Buff", "Spells/Level8/BestowCurseGreater/BestowCurseGreaterIdiocyBuff"]], "referenced": [["Data.Components[0].m_TouchDeliveryAbility", "Spells/Level8/BestowCurseGreater/BestowCurseGreaterIdiocyCast"]]}

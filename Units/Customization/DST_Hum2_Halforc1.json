@@ -1,0 +1,1 @@
+{"referencing": [["Data.Races[0].m_Race", "Races/HumanRace"], ["Data.Races[1].m_Race", "Races/HalfOrcRace"]], "referenced": [["Data.m_Distribution", "Units/Customization/CP_Bandit_Melee"], ["Data.m_Distribution", "Units/Customization/CP_CultistBarbarian"], ["Data.m_Distribution", "Units/Customization/CP_CultistMelee6-8"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/DLC4_Shifter/KTC_ShifterQuest3/Cue_0001"]], "referenced": [["Data.Components[0].Actions.Actions[0].Parameters.Parameters[1].Evaluator.m_Value", "World/Etudes/Common/WrathOfTheRighteous/Companions/UlbrigCompanion/UlbrigStates/Ulbrig_KTC_BackToGundrun"]]}

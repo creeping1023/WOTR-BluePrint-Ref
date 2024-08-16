@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/Muse_friend_02/Cue_0006"], ["Data.ShowConditions.Conditions[0].m_ConditionFlag", "World/Encounters/DLC2_RichQuarter/UnlockableFlags/Muse_help_flag"]], "referenced": [["Data.Answers[0]", "World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/Muse_friend_02/AnswersList_0002"]]}

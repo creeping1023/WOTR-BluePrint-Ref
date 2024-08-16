@@ -1,0 +1,1 @@
+{"referencing": [["Data.SpecificCampaign", "DLC/DLC2/Dlc2Campaign"], ["Data.m_Group", "Achievements/Groups/DLC2TrophyGroup"]], "referenced": [["Data.Achievements.m_List[84]", "Root/BlueprintRoot"], ["Data.OnShow.Actions[1].m_Achievement", "World/Dialogs/DLC2_LowFantasy/Map3_RichQuarters/RQ_Inquisitors/Cue_0019"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Wenduag/Wenduag_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c1/AlarmSE/Dialogue/Cue_0038"], ["Data.Continue.Cues[1]", "World/Dialogs/c1/AlarmSE/Dialogue/Cue_0021"]], "referenced": [["Data.Cues[1]", "World/Dialogs/c1/AlarmSE/Dialogue/CueSequence_0018"]]}

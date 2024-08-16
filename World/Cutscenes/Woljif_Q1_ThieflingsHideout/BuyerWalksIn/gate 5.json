@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Woljif_Q1_ThieflingsHideout/BuyerWalksIn/CommandUnitPlayCutsceneAnimation 8"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/Woljif_Q1_ThieflingsHideout/BuyerWalksIn/gate 9"]], "referenced": [["Data.m_Tracks[3].m_EndGate", "World/Cutscenes/Woljif_Q1_ThieflingsHideout/BuyerWalksIn/gate"]]}

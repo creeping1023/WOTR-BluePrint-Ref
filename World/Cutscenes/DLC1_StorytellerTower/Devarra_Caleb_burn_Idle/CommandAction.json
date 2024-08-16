@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Faction", "Factions/CutsceneNeutrals"], ["Data.Action.Actions[1].m_Faction", "Factions/CutsceneNeutrals"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC1_StorytellerTower/Devarra_Caleb_burn_Idle/Devarra_Caleb_burn_Idle"]]}

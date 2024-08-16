@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/NPC_Common/Flamelance_Leader_Nystra/Cue_0013"]], "referenced": [["Data.Answers[3]", "World/Dialogs/NPC_Common/Flamelance_Leader_Nystra/AnswersList_0003"], ["Data.ShowConditions.Conditions[1].m_Answer", "World/Dialogs/NPC_Common/Flamelance_Leader_Nystra/Answer_0022"]]}

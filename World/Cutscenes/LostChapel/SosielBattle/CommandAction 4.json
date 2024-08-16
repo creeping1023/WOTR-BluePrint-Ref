@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Cutscene", "World/Cutscenes/WarCamp/WarCamp_Ambience_Hunt/WarCamp_Ambience_Hunt"], ["Data.Action.Actions[1].Unit.m_Companion", "Units/Companions/SosielVaenic/SosielVaenic_Companion"]], "referenced": [["Data.m_Tracks[2].m_Commands[0]", "World/Cutscenes/LostChapel/SosielBattle/gate 2"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Buff", "Spells/CutsceneSpells/TreverOnArenaPolymorphBuff"], ["Data.Action.Actions[0].Target.m_Companion", "Units/Companions/Trever/Trever_Companion"]], "referenced": [["Data.m_Tracks[0].m_Commands[2]", "World/Cutscenes/BattleBliss/TreverRemovePolymoprh/TreverRemovePolymoprh"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_RequiredResource", "Classes/Shaman/Archetypes/SpiritHunter/ShamanItemBond/ShamanItemBondResource"], ["Data.Components[1].SpellbooksReference[0]", "Classes/Shaman/ShamanSpellbook"]], "referenced": [["Data.Components[0].m_Facts[0]", "Classes/Shaman/Archetypes/SpiritHunter/ShamanItemBond/ShamanItemBondFeature"]]}

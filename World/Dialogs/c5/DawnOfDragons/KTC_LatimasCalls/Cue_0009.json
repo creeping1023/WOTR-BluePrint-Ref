@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/Drezen/Latimas"], ["Data.OnStop.Actions[0].m_Objective", "World/Quests/c5/DawnOfDragons/Obj1_GoLatimas"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/DawnOfDragons/KTC_LatimasCalls/Answer_0005"]]}

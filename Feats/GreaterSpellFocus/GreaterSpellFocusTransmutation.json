@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_Feature", "Feats/SpellFocus/SpellFocusTransmutation"]], "referenced": [["Data.IsPrerequisiteFor[0]", "Feats/SpellFocus/SpellFocusTransmutation"], ["Data.Components[0].Selections[0].m_Features[3]", "Test/Blueprints/PregenSorcererEarthFeatureList20"]]}

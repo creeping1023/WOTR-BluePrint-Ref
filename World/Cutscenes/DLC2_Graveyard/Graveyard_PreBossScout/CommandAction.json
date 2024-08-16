@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_CompanionBlueprint", "Units/NPC/Commoners/DLC2_LowFantasy/Companions/Level1/Rekarth_companion"], ["Data.Action.Actions[1].Etude", "World/Etudes/Common/DLC2_LowFantasy/DLC2_Graveyard/Graveyard_ScoutTrap"]], "referenced": [["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/DLC2_Graveyard/Graveyard_PreBossScout/Graveyard_PreBossScout"]]}

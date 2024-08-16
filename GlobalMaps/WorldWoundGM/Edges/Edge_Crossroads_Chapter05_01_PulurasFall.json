@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Point1", "GlobalMaps/WorldWoundGM/Points/Chapter05_Army02_Garrison"], ["Data.m_Point2", "GlobalMaps/WorldWoundGM/Points/Location_PuluraFall"], ["Data.LockCondition.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/Chapter03"]], "referenced": [["Data.Edges[143]", "GlobalMaps/WorldWoundGM/WorldWoundGM"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_SummonPool", "World/Encounters/DLC5_GiantsOverseers/SummonPools/DLC5_Prisoners_pool"], ["Data.Action.Actions[0].Actions.Actions[0].m_Cutscene", "World/Cutscenes/GenericScenes/UnitRun_Param/UnitRun_Param"]], "referenced": [["Data.m_Tracks[2].m_Commands[1]", "World/Cutscenes/DLC5_GiantsOverseers/DLC5_Ritual_is_completed/gate3"]]}

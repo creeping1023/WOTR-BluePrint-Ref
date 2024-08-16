@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Quest", "World/Quests/c4/Colyphyr/Colyphyr_quest"]], "referenced": [["Data.StartedQuests[66]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.m_Objectives[1]", "World/Quests/c4/Colyphyr/Colyphyr_quest"], ["Data.m_Addendums[4]", "World/Quests/c4/Colyphyr/Obj1_DestroyMines"]]}

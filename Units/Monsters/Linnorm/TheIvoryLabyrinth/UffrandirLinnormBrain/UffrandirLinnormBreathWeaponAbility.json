@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_Projectiles[0]", "FX/Creatures/LanternKing_FireCone60Feet00"]], "referenced": [["Data.m_AddFacts[8]", "Units/Monsters/Linnorm/TheIvoryLabyrinth/UffrandirLinnorm22"], ["Data.m_Ability", "Units/Monsters/Linnorm/TheIvoryLabyrinth/UffrandirLinnormBrain/UffrandirLinnorm_BreathWeapon_AiAction"]]}

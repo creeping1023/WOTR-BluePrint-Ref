@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c4/TavernBadLuck/Tumberd/Cue_0033"], ["Data.FirstCue.Cues[1]", "World/Dialogs/c4/TavernBadLuck/Tumberd/Cue_0001"], ["Data.FirstCue.Cues[2]", "World/Dialogs/c4/TavernBadLuck/Tumberd/Cue_0002"]], "referenced": [["Data.ShowConditions.Conditions[0].m_Dialog", "World/Dialogs/c4/FleshMarket/Kerz/Answer_0005"]]}

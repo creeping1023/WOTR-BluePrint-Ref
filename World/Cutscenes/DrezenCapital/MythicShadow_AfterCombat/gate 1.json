@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DrezenCapital/MythicShadow_AfterCombat/CommandAction 3"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DrezenCapital/MythicShadow_AfterCombat/gate"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DrezenCapital/MythicShadow_AfterCombat/MythicShadow_AfterCombat"]]}

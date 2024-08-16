@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Enchant", "Weapons/Enchantments/BaneEverything"]], "referenced": [["Data.Components[0].Activated.Actions[14].IfTrue.Actions[0].m_Buff", "Classes/Inquisitor/Archetypes/LivingGrimoire/SacredWord/Enchantments/HolyBookMagusEnhancementDurationBuff"]]}

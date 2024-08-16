@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[3].ActionsOnAttacker.Actions[0].IfTrue.Actions[0].m_Spell", "Spells/Level5/SacredNimbusDamage"], ["Data.Components[4].m_Ability", "Spells/Level5/SacredNimbusDamage"]], "referenced": [["Data.Components[1].Actions.Actions[0].m_Buff", "Spells/Level5/SacredNimbus"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Action.Actions[0].m_Buff", "Equipment/DLC6BonusItems/RobeOfRunesBuff"], ["Data.Components[0].m_Ability", "Equipment/DLC6BonusItems/RobeOfRunesAbility"], ["Data.Components[1].m_Ability", "Equipment/DLC6BonusItems/RobeOfRunesAbility"]], "referenced": [["Data.Components[0].m_Feature", "Equipment/DLC6BonusItems/RobeOfRunesEnchantment"]]}

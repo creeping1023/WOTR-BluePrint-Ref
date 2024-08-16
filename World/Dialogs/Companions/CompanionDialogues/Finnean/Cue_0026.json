@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_SpeakerPortrait", "Units/Companions/Finnean/Finnean_Companion"], ["Data.Answers[0]", "World/Dialogs/Companions/CompanionDialogues/Finnean/AnswersList_0003"]], "referenced": [["Data.CuesSeen[743]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Continue.Cues[0]", "World/Dialogs/Companions/CompanionDialogues/Finnean/Cue_0025"]]}

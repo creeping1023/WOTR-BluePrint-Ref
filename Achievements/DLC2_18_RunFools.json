@@ -1,0 +1,1 @@
+{"referencing": [["Data.SpecificCampaign", "DLC/DLC2/Dlc2Campaign"], ["Data.m_Group", "Achievements/Groups/DLC2TrophyGroup"]], "referenced": [["Data.Achievements.m_List[82]", "Root/BlueprintRoot"], ["Data.OnStop.Actions[0].m_Achievement", "World/Dialogs/DLC2_LowFantasy/Map6_Abyss/Abducted/Cue_0009"]]}

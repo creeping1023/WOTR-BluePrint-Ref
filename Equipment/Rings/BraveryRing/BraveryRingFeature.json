@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[7].ActionOnSelf.Actions[0].m_Buff", "Buffs/Confusion"], ["Data.Components[9].m_CheckedFact", "Traps/TrapActorFeature"]], "referenced": [["Data.Components[0].m_Feature", "Equipment/Rings/BraveryRing/BraveryRingEnchant"]]}

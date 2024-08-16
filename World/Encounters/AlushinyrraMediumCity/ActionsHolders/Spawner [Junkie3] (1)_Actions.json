@@ -1,0 +1,1 @@
+{"referencing": [["Data.Actions.Actions[0].ConditionsChecker.Conditions[0].m_QuestObjective", "World/Quests/c4/SilkTrack/Add3_TalkWithHouseOfSweetTerrorGuests"], ["Data.Actions.Actions[0].IfTrue.Actions[0].m_Dialogue", "World/Dialogs/NPC_Common/Venture_Captain_Hilor/SilkShadow_PalaceOfPleasure/Junkie_SearchingSilkShadow/Junkie_SearchingSilkShadow"]]}

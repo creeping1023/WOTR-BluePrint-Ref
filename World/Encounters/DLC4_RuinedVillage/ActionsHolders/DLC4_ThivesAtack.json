@@ -1,0 +1,1 @@
+{"referencing": [["Data.Actions.Actions[0].ConditionsChecker.Conditions[0].m_ConditionFlag", "World/Encounters/DLC4_RuinedVillage/UnlockableFlags/DLC4_ThievesOut"], ["Data.Actions.Actions[0].IfFalse.Actions[0].Actions.Actions[0].m_Faction", "Factions/Mobs"]]}

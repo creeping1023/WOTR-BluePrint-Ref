@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c2_vs/GibberingSwarm/Phylactery/Cue_0001"], ["Data.StartActions.Actions[0].Actions.Actions[0].m_Buff", "Buffs/NPC_Immortality"]], "referenced": [["Data.m_Dialog", "World/Cutscenes/GibberingSwarm/LichWandTaken/CommandStartDialog"]]}

@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "CreatureAbilities/DamageReduction/DRSlashing10"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "CreatureAbilities/DamageReduction/DRSlashing10"]], "referenced": [["Data.m_AddFacts[0]", "QA/Unused/Units/Monsters/Giant Slug/CR8_GiantSlug"], ["Data.m_AddFacts[0]", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/DLC5_CR8_GiantSlugStorasta"], ["Data.m_AddFacts[0]", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_Storasta/Corrupted_Creatures/DLC5_CR9_GiantSlugStorasta"]]}

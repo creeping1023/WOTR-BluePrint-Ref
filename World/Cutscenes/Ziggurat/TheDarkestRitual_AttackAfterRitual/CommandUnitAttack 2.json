@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/MythicLich/MythicLich_ElyankaIsEnemy"], ["Data.m_TargetEvaluator.m_SummonPool", "World/Encounters/DrezenCapital/SummonPools/Ziggurat_GuardSkeleton01"]], "referenced": [["Data.m_Tracks[3].m_Commands[0]", "World/Cutscenes/Ziggurat/TheDarkestRitual_AttackAfterRitual/gate"]]}

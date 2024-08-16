@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Parent", "World/Etudes/Common/WrathOfTheRighteous/Chapter04_Extra/Chapter04_AreasDefault/BattleBlissAdditionalStates"]], "referenced": [["Data.Conditions.Conditions[0].m_Etude", "World/Dialogs/c4/BattleBliss/ArenaHealer_dialogue/Cue_0023"], ["Data.OnStop.Actions[2].Etude", "World/Dialogs/c4/BattleBliss/ArenaHealer_dialogue/Cue_0033"]]}

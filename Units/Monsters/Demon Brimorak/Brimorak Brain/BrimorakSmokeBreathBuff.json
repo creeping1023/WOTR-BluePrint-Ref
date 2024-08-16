@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_AreaEffect", "Units/Monsters/Demon Brimorak/Brimorak Brain/BrimorakSmokeBreathAreaEffect"]], "referenced": [["Data.Components[0].m_Facts[0]", "Units/Monsters/Demon Brimorak/Brimorak Brain/BrimorakSmokeBreathFeature"], ["Data.m_Buff", "Units/Monsters/Demon Brimorak/Brimorak Brain/BrimorakSmokeBreathToggleAbility"]]}

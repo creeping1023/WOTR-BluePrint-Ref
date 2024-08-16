@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/ColyphyrDungeon/ColyphyrDungeon_Lift/CommandDelay"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/ColyphyrDungeon/ColyphyrDungeon_Lift/gate"]], "referenced": [["Data.Actions.Actions[0].m_Cutscene", "World/Encounters/ColyphyrDungeon/ActionsHolders/LiftGoDown"]]}

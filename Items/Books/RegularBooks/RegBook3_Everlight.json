@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/PaperShardItem"]], "referenced": [["Data.m_Items[959]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Components[13].m_Item.m_Item", "Items/Vendors/LinziQ_BookPeddler"], ["Data.Items[0].m_Item", "Loot/Quest/LostChapel/BookLoot02"], ["Data.Items[0].m_Item", "Loot/Quest/LostChapel/BookLoot_2"]]}

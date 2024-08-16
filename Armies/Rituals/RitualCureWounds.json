@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Ability", "Armies/Rituals/RitualCureWoundsAbility"]], "referenced": [["Data.m_Skills[3]", "Armies/Leaders/Progression/RitualMageChoice2"], ["Data.m_Skills[2]", "Armies/Leaders/Progression/RitualWarriorChoice2"], ["Data.m_Levels[1].m_GuaranteedSkill", "Armies/Leaders/Progression/WarlordRangerProgression"]]}

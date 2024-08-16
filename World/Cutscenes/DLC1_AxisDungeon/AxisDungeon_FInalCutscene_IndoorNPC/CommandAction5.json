@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_SummonPool", "World/Encounters/DLC1_Threshold_IndoorStart/SummonPools/StartOriginalParty"], ["Data.Action.Actions[0].Actions.Actions[1].m_Buff", "Buffs/Paralyzed"]], "referenced": [["Data.m_Tracks[7].m_Commands[0]", "World/Cutscenes/DLC1_AxisDungeon/AxisDungeon_FInalCutscene_IndoorNPC/AxisDungeon_FInalCutscene_IndoorNPC"]]}

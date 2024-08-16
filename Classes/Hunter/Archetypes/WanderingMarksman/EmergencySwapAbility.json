@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_DisappearProjectile", "FX/Spell Level 4/DimensionDoor00_CasterDisappear"], ["Data.Components[0].m_AppearProjectile", "FX/Spell Level 4/DimensionDoor00_CasterAppear"]], "referenced": [["Data.Components[0].m_Facts[0]", "Classes/Hunter/Archetypes/WanderingMarksman/EmergencySwapFeature"]]}

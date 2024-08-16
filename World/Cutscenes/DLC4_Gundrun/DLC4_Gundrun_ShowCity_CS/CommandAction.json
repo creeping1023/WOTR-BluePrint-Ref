@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Objective", "World/Quests/DLC4_Shifter/Shifter_Q2/Obj_03_SeeGundrun"], ["Data.Action.Actions[1].m_flag", "World/Encounters/DLC4_Gundrun/UnlockableFlags/DLC4_DolmenUnlocked"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC4_Gundrun/DLC4_Gundrun_ShowCity_CS/gate"]]}

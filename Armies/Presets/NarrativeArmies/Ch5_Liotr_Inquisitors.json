@@ -1,0 +1,1 @@
+{"referencing": [["Data.Squads[0].m_Unit", "Armies/UnitBlueprints/ArmyWarpriest"], ["Data.Squads[1].m_Unit", "Armies/UnitBlueprints/ArmyInquisitor"]], "referenced": [["Data.Components[0].Actions.Actions[0].Preset", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/LiotrFriend"]]}

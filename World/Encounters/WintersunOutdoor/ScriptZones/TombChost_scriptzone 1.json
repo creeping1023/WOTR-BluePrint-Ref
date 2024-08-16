@@ -1,0 +1,1 @@
+{"referencing": [["Data.EnterActions.Actions[0].ConditionsChecker.Conditions[0].m_ConditionFlag", "World/Encounters/WintersunOutdoor/UnlockableFlags/ScriptZoneFightTombFlag 1"], ["Data.EnterActions.Actions[0].ConditionsChecker.Conditions[1].m_ConditionFlag", "World/Encounters/WintersunOutdoor/UnlockableFlags/TombFlag"]]}

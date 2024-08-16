@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Point1", "GlobalMaps/WorldWoundGM/Points/Chapter05_Army45_Garrison"], ["Data.m_Point2", "GlobalMaps/WorldWoundGM/Points/Location_Threshold"], ["Data.LockCondition.Conditions[0].m_QuestObjective", "World/Quests/c5/LastSteps/02_DrezenTreshold"]], "referenced": [["Data.Edges[191]", "GlobalMaps/WorldWoundGM/WorldWoundGM"]]}

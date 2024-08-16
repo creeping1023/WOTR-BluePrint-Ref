@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/Mineshaft_14/Foreman/Cue_0042"]], "referenced": [["Data.Answers[1]", "World/Dialogs/c5/Mineshaft_14/Foreman/AnswersList_0036"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/c5/Mineshaft_14/Foreman/Answer_0038"]]}

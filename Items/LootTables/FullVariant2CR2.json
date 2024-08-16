@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Item.m_Loot", "Items/LootTables/JewelryCR1"], ["Data.Components[1].m_Item.m_Loot", "Items/LootTables/JewelryCR0"]], "referenced": [["Data.Components[0].m_Items[0].Item.m_Loot", "Items/LootTables/FullCR2"], ["Data.Components[0].m_Items[1].Item.m_Loot", "Items/LootTables/FullCR2"]]}

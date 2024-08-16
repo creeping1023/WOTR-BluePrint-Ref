@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Objective", "World/Quests/Companions/Sosiel/03_Prisoner/Obj_00a_TalkBlackmask"]], "referenced": [["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[0].m_Cue", "Root/Upgraders/Player/PF-243463"], ["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Sosiel/Q03_Prisoner/KTC/Answer_0017"]]}

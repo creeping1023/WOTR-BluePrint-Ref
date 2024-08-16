@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/GlobalPuzzle_AreshkaArena/MaskdGhostSpawn/CommandStartDialog"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/GlobalPuzzle_AreshkaArena/MaskdGhostSpawn/MaskdGhostSpawn"], ["Data.m_Tracks[1].m_EndGate", "World/Cutscenes/GlobalPuzzle_AreshkaArena/MaskdGhostSpawn/MaskdGhostSpawn"]]}

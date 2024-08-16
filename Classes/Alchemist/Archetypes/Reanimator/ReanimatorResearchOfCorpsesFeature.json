@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Classes/Alchemist/Archetypes/Reanimator/ReanimatorBombsFeature"], ["Data.Components[1].Actions.Actions[0].m_Buff", "Classes/Alchemist/Archetypes/Reanimator/ReanimatorResearchOfCorpsesBuff"]], "referenced": [["Data.AddFeatures[0].m_Features[0]", "Classes/Alchemist/Archetypes/Reanimator/ReanimatorArchetype"]]}

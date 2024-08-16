@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Actions.Actions[0].m_Buff", "Units/Monsters/Mandragora/ModifiedMandragoraSuicideBuff"]], "referenced": [["Data.Components[2].m_Facts[1]", "Units/Monsters/Mandragora/CR20_ModifiedMandragoraSuicide"], ["Data.m_Ability", "Units/Monsters/Mandragora/ModifiedMandragoraBrain/ModifiedMandragora_SuicideActivateAiAction"]]}

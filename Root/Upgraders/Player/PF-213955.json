@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_SpecificArea", "World/Areas/Act_2_SwordOfValor/CrinukhCamp/CrinukhCamp"], ["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/ImportantNPCs_fate/Crinukh/Crinukh_to_Drezen"]], "referenced": [["Data.m_Upgraders[26]", "Root/PlayerUpgradeActionsRoot"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Feature", "Equipment/Armor/Enchantments/FireResistance20Feature"]], "referenced": [["Data.Components[0].m_Enchant", "Classes/Magus/Archetypes/ArmoredBattlemage/ArmoredBattlemageArcanePool/ArcaneArmorEnchantFireResist20Buff"], ["Data.Components[0].m_Enchant", "Classes/Warpriest/SacredArmorEnchant/SacredArmorEnchantFireResist20Buff"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/Wintersun/SoanaBeforeBear/Cue_0029"], ["Data.ShowConditions.Conditions[0].m_Cue", "World/Dialogs/c3/Wintersun/SoanaBeforeBear/Cue_0027"]], "referenced": [["Data.AnswersSelected[1767]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.Answers[5]", "World/Dialogs/c3/Wintersun/SoanaBeforeBear/AnswersList_0003"]]}

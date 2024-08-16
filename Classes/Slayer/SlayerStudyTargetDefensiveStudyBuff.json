@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Feature", "Classes/Slayer/SlayerStudyTargetFeature"], ["Data.Components[0].m_Class[0]", "Classes/Ranger/RangerClass"]], "referenced": [["Data.Components[4].Activated.Actions[2].IfTrue.Actions[0].m_Buff", "Classes/Slayer/SlayerStudyTargetBuff"], ["Data.Components[4].Deactivated.Actions[0].m_Buff", "Classes/Slayer/SlayerStudyTargetBuff"]]}

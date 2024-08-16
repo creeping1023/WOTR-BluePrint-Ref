@@ -1,1 +1,1 @@
-{"referencing": [["Data.PrototypeLink", "Weapons/Items/Standard/MartialLight/StandardWeaponLightShield"]]}
+{"referencing": [["Data.PrototypeLink", "Weapons/Items/Standard/MartialLight/StandardWeaponLightShield"], ["Data.m_Type", "Weapons/Types/MartialLight/WeaponLightShield"]], "referenced": [["Data.m_WeaponComponent", "Units/NPC/Commoners/Fallen/FallenShield"]]}

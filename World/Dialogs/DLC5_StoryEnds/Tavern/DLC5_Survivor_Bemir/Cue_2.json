@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Commoners/DLC2_LowFantasy/NPC/DLC2_NPC_Bully"], ["Data.OnShow.Actions[0].m_ItemToGive", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_BemirFamiliyBrew"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC5_StoryEnds/Tavern/DLC5_Survivor_Bemir/Answer_0005"]]}

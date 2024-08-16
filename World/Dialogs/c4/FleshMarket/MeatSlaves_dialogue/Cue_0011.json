@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].Actions.Actions[1].m_Buff", "Spells/Level4/FearBuff_NoFX_SilverstepViilagers"]], "referenced": [["Data.NextCue.Cues[1]", "World/Dialogs/c4/FleshMarket/MeatSlaves_dialogue/Answer_0009"], ["Data.Continue.Cues[0]", "World/Dialogs/c4/FleshMarket/MeatSlaves_dialogue/Cue_0023"]]}

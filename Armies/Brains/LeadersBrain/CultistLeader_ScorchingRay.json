@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Armies/Brains/Considerations/TacticalConsideration_ImportantTargetConsideration"], ["Data.m_Ability", "Armies/Rituals/RitualScorchingRayAbility"]], "referenced": [["Data.m_TacticalActions[1]", "Armies/Brains/LeadersBrain/BaseLeaderBrain"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_0_Prologue/Prologue_Neathholm/Dyra_Trader_Neathholm"]], "referenced": [["Data.CuesSeen[194]", "QA/Clockwork/Scenario/Draft/Chapter1_tst_preset"], ["Data.NextCue.Cues[1]", "World/Dialogs/c0/CavesUnderKenabres/NeathholmVillage/Dyra_Vendor/Answer_0013"]]}

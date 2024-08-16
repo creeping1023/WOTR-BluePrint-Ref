@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c5/Drezen_Under_Siedge/AneviaDrezenPartisans/Cue_0001"], ["Data.FirstCue.Cues[1]", "World/Dialogs/c5/Drezen_Under_Siedge/AneviaDrezenPartisans/Cue_0039"]], "referenced": [["Data.FinishActions.Actions[2].m_Dialogue", "World/Dialogs/c5/Drezen_Under_Siedge/AneviaStopYou/AneviaStopYou_dialogue"]]}

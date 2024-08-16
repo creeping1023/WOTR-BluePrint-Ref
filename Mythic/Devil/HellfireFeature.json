@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Spells/Level6/HellfireRay"], ["Data.Components[0].m_Facts[1]", "Spells/Level8/PowerWordStun"], ["Data.Components[0].m_Facts[2]", "CreatureAbilities/EnergyImmunity/FireImmunity"]], "referenced": [["Data.LevelEntries[1].m_Features[1]", "Mythic/Devil/DevilProgression"]]}

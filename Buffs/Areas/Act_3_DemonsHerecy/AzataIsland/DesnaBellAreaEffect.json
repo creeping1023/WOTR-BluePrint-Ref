@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Activated.Actions[0].IfTrue.Actions[1].Actions.Actions[0].Failed.Actions[0].m_Buff", "Buffs/Stunned"]], "referenced": [["Data.Components[0].m_AreaEffect", "Buffs/Areas/Act_3_DemonsHerecy/AzataIsland/DesnaBellAreaBuff"], ["Data.Components[0].m_AreaEffect", "Buffs/Areas/Act_3_DemonsHerecy/AzataIsland/DesnaBellAreaBuffEnergized"]]}

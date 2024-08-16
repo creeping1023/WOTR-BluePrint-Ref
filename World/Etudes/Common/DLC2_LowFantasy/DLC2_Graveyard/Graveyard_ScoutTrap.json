@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Actions.Actions[0].m_Cutscene", "World/Cutscenes/DLC2_Graveyard/Graveyard_AfterBossScoutReturn/Graveyard_AfterBossScoutReturn"], ["Data.m_Parent", "World/Etudes/Common/DLC2_LowFantasy/DLC2_Graveyard/Graveyard_BossFight"]], "referenced": [["Data.Action.Actions[1].Etude", "World/Cutscenes/DLC2_Graveyard/Graveyard_PreBossScout/CommandAction"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_CharacterClass", "Classes/Witch/WitchClass"], ["Data.Components[0].m_Spell", "Spells/Level1/Vanish"]], "referenced": [["Data.LevelEntries[0].m_Features[0]", "Classes/Witch/WitchPatrons/PatronShadow/WitchShadowPatronProgression"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DLC4_Gundrun/DLC4_SecondState_TwoGuards/CommandAction"]], "referenced": [["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DLC4_Gundrun/DLC4_SecondState_TwoGuards/DLC4_SecondState_TwoGuards"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/DLC4_Gundrun/DLC4_SecondState_TwoGuards/gate"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_FakeClass", "Classes/Oracle/OracleClass"], ["Data.Components[1].m_ActualClass", "Classes/Arcanist/ArcanistClass"], ["Data.Components[1].m_ForSelection", "Classes/Oracle/OracleRevelationSelection"]], "referenced": [["Data.LevelEntries[0].m_Features[0]", "Classes/Arcanist/Archetypes/MagicDeceiver/MagicDeceiverWayOfLivingGodProgression"]]}

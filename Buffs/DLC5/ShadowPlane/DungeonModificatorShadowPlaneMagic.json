@@ -1,0 +1,1 @@
+{"referenced": [["Data.Components[6].Activated.Actions[0].m_Modificators[0]", "Buffs/DLC5/ShadowPlane/ShadowPlaneMagicBuff"], ["Data.Components[0].Activated.Actions[2].m_Modificators[0]", "Buffs/DLC5/ShadowPlane/ShadowVeilBuff"], ["Data.Components[0].Deactivated.Actions[0].IfFalse.Actions[1].m_Modificators[0]", "Buffs/DLC5/ShadowPlane/ShadowVeilBuff"]]}

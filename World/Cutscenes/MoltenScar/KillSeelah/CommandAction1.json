@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].Target.Master.m_Companion", "Units/Companions/Seelah/Seelah_Companion"], ["Data.Action.Actions[0].m_Faction", "Factions/Mobs"], ["Data.Action.Actions[1].Unit2.Master.m_Companion", "Units/Companions/Seelah/Seelah_Companion"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/MoltenScar/KillSeelah/gate"]]}

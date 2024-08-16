@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_GreaterPowerAttackBlueprint", "Classes/Fighter/Archetypes/TwoHandedFighter/TwoHandedFighterGreaterPowerAttack"], ["Data.Components[1].m_MythicBlueprint", "Mythic/Feats/PowerAttackMythicFeat"]], "referenced": [["Data.Components[0].Action.Actions[0].m_Buff", "Feats/PowerAttack/PowerAttackBuff"]]}

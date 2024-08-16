@@ -1,1 +1,1 @@
-{"referenced": [["Data.PrototypeLink", "Test/Blueprints/Testing troll Attacks all"]]}
+{"referencing": [["Data.m_Faction", "Factions/Neutrals"], ["Data.m_Brain", "Passive Monster Brain"], ["Data.Body.m_EmptyHandWeapon", "CreatureWeapons/TrollClaw"], ["Data.Body.m_PrimaryHand", "CreatureWeapons/TrollClaw"], ["Data.Body.m_SecondaryHand", "CreatureWeapons/TrollClaw"]], "referenced": [["Data.PrototypeLink", "Test/Blueprints/Testing troll Attacks all"]]}

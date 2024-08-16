@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Trajectory", "FX/Abilities/AlchemistFireBomb00_Trajectory"]], "referenced": [["Data.Components[1].m_Projectiles[0]", "Classes/Alchemist/Discoveries/ForceBombs/ForceBomb"], ["Data.Components[4].m_Projectiles[0]", "Items/Consumables/HolyWaterAbility"], ["Data.Components[0].m_Projectiles[0]", "Spells/CutsceneSpells/ForceBomb_Cutscene"]]}

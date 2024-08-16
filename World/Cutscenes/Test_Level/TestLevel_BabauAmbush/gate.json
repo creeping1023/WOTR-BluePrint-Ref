@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Test_Level/TestLevel_BabauAmbush/CommandControlCamera"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/Test_Level/TestLevel_BabauAmbush/gate1"]], "referenced": [["Data.m_Tracks[1].m_EndGate", "World/Cutscenes/Test_Level/TestLevel_BabauAmbush/TestLevel_BabauAmbush"]]}

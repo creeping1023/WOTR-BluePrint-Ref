@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_ItemToCheck", "Items/Archeology/Artifacts/Taldan/Artifact_BraveryRing-shard"], ["Data.Conditions.Conditions[1].m_Cue", "World/Dialogs/Test/Archeology/Collector/Cue_0202"]], "referenced": [["Data.Cues[7]", "World/Dialogs/Test/Archeology/Collector/CueSequence_0044"]]}

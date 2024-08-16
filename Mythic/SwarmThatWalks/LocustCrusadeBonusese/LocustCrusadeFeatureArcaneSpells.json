@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Spells/Level7/PoisonBreath"], ["Data.Components[0].m_Facts[1]", "Spells/Level7/CreepingDoom"], ["Data.Components[0].m_Facts[2]", "Spells/Level4/CapeOfWasps"]], "referenced": [["Data.Components[0].Actions.Actions[0].m_Fact", "World/Etudes/Common/WrathOfTheRighteous/MythicLocust/LocustRangUps/MythicLocust_RankUp03_Option05"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Action.Actions[0].m_Spell", "Weapons/Items/UniquePF2/CeremonialFalcataAbility"], ["Data.Components[0].m_Ability", "Feats/ActionFeats/DazzlingDisplayAction"]], "referenced": [["Data.Components[1].m_Feature", "Weapons/Items/UniquePF2/CeremonialFalcataEnchantment"]]}

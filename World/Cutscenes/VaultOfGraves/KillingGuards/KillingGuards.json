@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/VaultOfGraves/KillingGuards/CommandSetCombatMode"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/VaultOfGraves/KillingGuards/gate"]], "referenced": [["Data.Action.Actions[0].m_Cutscene", "World/Cutscenes/VaultOfGraves/CameraMoveThroughPalace/CommandAction1"]]}

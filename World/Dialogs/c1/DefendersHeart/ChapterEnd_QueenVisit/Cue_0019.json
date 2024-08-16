@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_1_WorldwoundIncursion/DefendersHeart/AneviaTirabade_DH"], ["Data.Continue.Cues[0]", "World/Dialogs/c1/DefendersHeart/ChapterEnd_QueenVisit/Cue_0022"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c1/DefendersHeart/ChapterEnd_QueenVisit/Answer_0018"]]}

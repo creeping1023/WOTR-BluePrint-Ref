@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Monsters/Bear/Wintersun/WintersunBear"], ["Data.Answers[0]", "World/Dialogs/c3/Wintersun/SoanaBear/AnswersList_0003"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/Wintersun/SoanaBear/Answer_0019"], ["Data.ShowConditions.Conditions[1].m_Cue", "World/Dialogs/c3/Wintersun/SoanaBear/Answer_0022"]]}

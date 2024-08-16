@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_TargetConsiderations[0]", "Brain/Considerations/AoE_ChooseMoreEnemies"], ["Data.m_Ability", "Units/Monsters/Demon Coloxus/ColoxusBrain/Coloxus_Ability_DroningWings"]], "referenced": [["Data.m_Actions[1]", "Units/Monsters/Demon Coloxus/ColoxusBrain/Coloxus_Brain_Slow"]]}

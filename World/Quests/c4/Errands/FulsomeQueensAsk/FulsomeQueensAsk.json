@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Objectives[0]", "World/Quests/c4/Errands/FulsomeQueensAsk/Objective_0001"]], "referenced": [["Data.Actions.Actions[0].ConditionsChecker.Conditions[0].m_Quest", "World/Encounters/ColyphyrDungeon/ActionsHolders/Colyphyr_InterchapterQuestFail"], ["Data.m_Quest", "World/Quests/c4/Errands/FulsomeQueensAsk/Objective_0001"]]}

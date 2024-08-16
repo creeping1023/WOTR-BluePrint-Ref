@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Quest", "World/Quests/MythicQuests/Lich/c5_FuryOfPharasma/c5_FuryOfPharasma"]], "referenced": [["Data.Actions.Actions[18].IfTrue.Actions[0].m_Objective", "World/Encounters/ThresholdOutdoor/ActionsHolders/QuestsFail_Mythic"], ["Data.m_Objectives[5]", "World/Quests/MythicQuests/Lich/c5_FuryOfPharasma/c5_FuryOfPharasma"]]}

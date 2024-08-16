@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Dialogue", "World/Dialogs/c4/Mythic_Azata/MarketSearch/MarketSearch_azata_c4_dialog"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/Mythic_Azata/MarketSearch/Answer_0028"], ["Data.Continue.Cues[0]", "World/Dialogs/c4/Mythic_Azata/MarketSearch/Cue_0039"]]}

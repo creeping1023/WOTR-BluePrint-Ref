@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].Actions.Actions[0].m_Buff", "Buffs/Nauseated"], ["Data.Action.Actions[0].Actions.Actions[1].m_Buff", "Spells/Level2/BlindnessBuff"]], "referenced": [["Data.m_Tracks[1].m_Commands[2]", "World/Cutscenes/DLC4_Gundrun/DLC4_Welcome_to_Gundrun/gate1"]]}

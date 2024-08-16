@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/WoodShardItem"], ["Data.m_Ability", "Spells/Level4/Shout"]], "referenced": [["Data.m_Items[909]", "Dugeons/Loot/DungeonLootPotionsAndScrolls"], ["Data.m_Items[839]", "Dugeons/Loot/DungeonLootScrollsAndWands"], ["Data.Types[4].Items[189]", "World/Areas/Random_Encounters/RE_TrashLootSettings"]]}

@@ -1,1 +1,1 @@
-{"referenced": [["Data.PrototypeLink", "Units/Monsters/RuinsRaidPlaceMobs/RuinsRaid_SummonMediumFireElementalAction"]]}
+{"referencing": [["Data.m_TargetConsiderations[0]", "Brain/Considerations/AttackTargetsPriority"], ["Data.m_Ability", "Spells/Level9/SummonMonsterIXBase"], ["Data.m_Variant", "Spells/Level9/SummonMonsterIXd3"]], "referenced": [["Data.m_Actions[5]", "Units/Monsters/DLC3_Mobs/DLC3_archpriestBoss/Cultist_Brain/Cultist_FullCasterSummonerBrain"], ["Data.PrototypeLink", "Units/Monsters/RuinsRaidPlaceMobs/RuinsRaid_SummonMediumFireElementalAction"]]}

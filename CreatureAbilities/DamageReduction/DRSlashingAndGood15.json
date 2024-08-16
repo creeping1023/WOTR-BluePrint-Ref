@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "CreatureAbilities/DamageReduction/DRSlashingAndGood10"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "CreatureAbilities/DamageReduction/DRSlashingAndGood10"]], "referenced": [["Data.m_AddFacts[2]", "Units/Monsters/Mandragora/CR20_ModifiedMandragoraKiller"], ["Data.m_AddFacts[2]", "Units/Monsters/Mandragora/CR20_ModifiedMandragoraMagic"], ["Data.m_AddFacts[2]", "Units/Monsters/Mandragora/CR20_ModifiedMandragoraSuicide"]]}

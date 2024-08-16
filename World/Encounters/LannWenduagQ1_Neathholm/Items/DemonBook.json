@@ -1,0 +1,1 @@
+{"referenced": [["Data.m_Items[856]", "Dugeons/Loot/DungeonLootExclude"], ["Data.Items[0].m_Item", "Loot/Quest/DrezenCapital/DeadDyraLoot"], ["Data.ShowConditions.Conditions[0].m_ItemToCheck", "World/Dialogs/Companions/CompanionDialogues/Wenduag/Answer_0108"], ["Data.OnShow.Actions[0].m_ItemToRemove", "World/Dialogs/Companions/CompanionDialogues/Wenduag/Cue_0117"]]}

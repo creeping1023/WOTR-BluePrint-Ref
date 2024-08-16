@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_WeaponType", "Weapons/Types/SimpleTwoHanded/Spear"], ["Data.Components[1].m_CharacterClass", "Classes/Fighter/FighterClass"], ["Data.Components[2].m_Feature", "Feats/WeaponSpecialization/WeaponSpecializationSpear"]], "referenced": [["Data.IsPrerequisiteFor[0]", "Feats/WeaponSpecialization/WeaponSpecializationSpear"]]}

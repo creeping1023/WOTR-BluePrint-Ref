@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_BlueprintCampaign", "DLC/DLC2/Dlc2Campaign"], ["Data.OnShow.Actions[0].m_ItemToGive", "Items/Rods/PF2DLC2/SithhudsRodItem"], ["Data.Continue.Cues[0]", "World/Dialogs/NPC_Common/Irabeth/Cue_0199"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/NPC_Common/Irabeth/Cue_0198"]]}

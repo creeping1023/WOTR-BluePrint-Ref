@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].Actions.Actions[0].m_Buff", "Units/Monsters/DLC5Mobs/WizardsTower/FermentedBeerElemental/FermentedMediumBeerBuff"], ["Data.Components[1].m_CharacterClass", "Classes/Monster/Outsider/OutsiderClass"]], "referenced": [["Data.m_AddFacts[7]", "Units/Monsters/DLC5Mobs/WizardsTower/FermentedBeerElemental/DLC5_CR4_BeerElementalMedium"]]}

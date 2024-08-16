@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Parent", "World/Etudes/Common/DLC1_Megaepic/DLC1_IZ/DLC1_IZ_AnomalyTower_State"], ["Data.ActivationCondition.Conditions[0].m_Flag", "World/Encounters/DLC1_Iz/UnlockableFlags/AnomalyTower_SwitchActive"]], "referenced": [["Data.m_StartsWith[0]", "World/Etudes/Common/DLC1_Megaepic/DLC1_IZ/DLC1_IZ_AnomalyTower_State"]]}

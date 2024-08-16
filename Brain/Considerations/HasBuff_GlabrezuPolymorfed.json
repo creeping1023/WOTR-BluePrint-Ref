@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Buffs[0]", "Spells/CutsceneSpells/IvorySanctum/Glabrezu_PolymorfDeskariMelee"], ["Data.m_Buffs[1]", "Spells/CutsceneSpells/IvorySanctum/Glabrezu_PolymorfBaphometMelee"]], "referenced": [["Data.m_ActorConsiderations[0]", "Units/Monsters/Demon Glabrezu/GlabrezuBrain/Glabrezu_RemoveSelfPolymorfOnTouch_AiAction"]]}

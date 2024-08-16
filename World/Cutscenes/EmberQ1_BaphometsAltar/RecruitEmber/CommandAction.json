@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_Cutscene", "World/Cutscenes/EmberQ1_BaphometsAltar/EmberCrying/EmberCrying"], ["Data.Action.Actions[1].Recruited[0].m_CompanionBlueprint", "Units/Companions/Ember/Ember_Companion"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/EmberQ1_BaphometsAltar/RecruitEmber/gate"]]}

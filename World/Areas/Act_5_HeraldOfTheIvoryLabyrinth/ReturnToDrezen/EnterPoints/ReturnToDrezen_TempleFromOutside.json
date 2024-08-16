@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/ReturnToDrezen/ReturnToDrezen"], ["Data.m_AreaPart", "World/Areas/Act_5_HeraldOfTheIvoryLabyrinth/ReturnToDrezen/ReturnToDrezen_Temple"]], "referenced": [["Data.Components[0].AreaParts.ElementList[0].EnterPoint", "QA/Arbiter/Scenario/Act_5_HeraldOfTheIvoryLabyrinth/Act5_ReturnToDrezen_Tavern"]]}

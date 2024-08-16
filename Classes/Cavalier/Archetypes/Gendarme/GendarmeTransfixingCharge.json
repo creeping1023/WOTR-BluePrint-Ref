@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_CheckedBuff", "Units/Abilities/Mounts/MountedBuff"], ["Data.Components[0].m_ExtraEffectBuff", "Classes/Cavalier/Archetypes/Gendarme/GendarmeTransfixingCheckBuff"]], "referenced": [["Data.AddFeatures[7].m_Features[1]", "Classes/Cavalier/Archetypes/Gendarme/GendarmeArchetype"]]}

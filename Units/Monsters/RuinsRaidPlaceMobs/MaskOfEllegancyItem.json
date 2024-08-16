@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_EquipmentEntity", "EquipmentEntities/Goggles/KEE_Goggles_GogglesMaskCommon"], ["Data.m_Enchantments[0]", "Units/Monsters/RuinsRaidPlaceMobs/MaskOfEllegancyEnchantment"]], "referenced": [["Data.m_Items[2331]", "Dugeons/Loot/DungeonLootExclude"], ["Data.m_StartingInventory[4]", "Units/Pregens/PartyPregenTests/Player/PlayerTestLevel17RuinsRaid"]]}

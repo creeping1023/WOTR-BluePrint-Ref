@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c5/Mythic_Lich/TalkToWand/Cue_0017"]], "referenced": [["Data.Answers[2]", "World/Dialogs/c5/Mythic_Lich/TalkToWand/AnswersList_0003"], ["Data.ShowConditions.Conditions[0].m_Answer", "World/Dialogs/c5/Mythic_Lich/TalkToWand/Answer_0007"]]}

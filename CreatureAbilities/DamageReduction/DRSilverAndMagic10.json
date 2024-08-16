@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "CreatureAbilities/DamageReduction/DRSilverAndGood10"]]}
+{"referencing": [["Data.m_Description.m_OwnerString", "CreatureAbilities/DamageReduction/DRSilverAndGood10"]], "referenced": [["Data.Components[0].m_Facts[2]", "CreatureAbilities/Templates/Vampire/VampireTemplate"]]}

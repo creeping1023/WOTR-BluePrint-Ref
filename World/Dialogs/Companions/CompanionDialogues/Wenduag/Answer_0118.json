@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionDialogues/Wenduag/Cue_0119"], ["Data.OnSelect.Actions[0].m_flag", "World/Encounters/LannWenduagQ1_Neathholm/UnlockableFlags/DeadDyraIgnored"]], "referenced": [["Data.Answers[3]", "World/Dialogs/Companions/CompanionDialogues/Wenduag/AnswersList_0111"]]}

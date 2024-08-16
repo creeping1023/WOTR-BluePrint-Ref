@@ -1,0 +1,1 @@
+{"referencing": [["Data.Ingredients[0].m_Item", "Items/Ingredients/PurifyingSolutionItem"], ["Data.m_PartyBuffs[0]", "Items/Cooking/BuffsParty/MagicalSoups/CommonSeroburomalineSoupBuff"]], "referenced": [["Data.Components[0].m_Recipe", "Items/Cooking/Recipes/CommonSeroburomalineSoup_item"], ["Data.Camping.m_DefaultRecipes[0]", "Root/BlueprintRoot"]]}

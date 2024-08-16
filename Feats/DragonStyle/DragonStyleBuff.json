@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[2].Activated.Actions[0].ConditionsChecker.Conditions[0].m_Fact", "Feats/DragonStyle/DragonFerocity"], ["Data.Components[2].Activated.Actions[0].IfTrue.Actions[0].m_Buff", "Feats/DragonStyle/DragonFerocityBuff"]], "referenced": [["Data.m_Buff", "Feats/DragonStyle/DragonStyleToggleAbility"]]}

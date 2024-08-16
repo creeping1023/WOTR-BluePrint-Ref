@@ -1,0 +1,1 @@
+{"referencing": [["Data.Answers[0]", "World/Dialogs/c4/Nexus_FinalOfChapter/Companions_NoCamp/AnswersList_0003"]], "referenced": [["Data.FirstCue.Cues[0]", "World/Dialogs/c4/Nexus_FinalOfChapter/Companions_NoCamp/Companions_NoCamp_dialogue"], ["Data.Conditions.Conditions[0].m_Cue", "World/Encounters/Nexus/ConditionsHolders/NexusFailureDialogueConditions"]]}

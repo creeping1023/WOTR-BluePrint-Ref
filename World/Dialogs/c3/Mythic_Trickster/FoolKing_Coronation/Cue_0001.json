@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Objective", "World/Quests/MythicQuests/Trickster/C3_FoolKing/Obj_03_Coronation"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Mythic_Trickster/FoolKing_Coronation/Cue_0002"]], "referenced": [["Data.FirstCue.Cues[0]", "World/Dialogs/c3/Mythic_Trickster/FoolKing_Coronation/FoolKing_Coronation_Dialogue"]]}

@@ -1,0 +1,1 @@
+{"referenced": [["Data.Components[1].m_Abilities[24]", "Mythic/MythicAbilities/BoundlessHealing"], ["Data.Components[8].Actions.Actions[0].IfFalse.Actions[0].IfTrue.Actions[1].m_Spell", "Spells/Level9/HealMass"], ["Data.Components[0].m_Ability", "Spells/Level9/HealMassCasterBuff"]]}

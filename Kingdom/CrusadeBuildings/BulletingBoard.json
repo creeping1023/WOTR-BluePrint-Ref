@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_Flag", "Kingdom/CrusadeBuildings/CrusadeBuildingsFlags/FlagLeadership5BulletinBoard"], ["Data.Components[2].m_Buff", "Armies/CrusadeGlobalBuffs/BuildingBuffs/BuildingBulletingBoard"]], "referenced": [["Data.m_Buildings[13]", "Root/Kingdom/KingdomRoot"]]}

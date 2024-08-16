@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/SwiftActionOffCooldown"], ["Data.m_ActorConsiderations[1]", "Brain/Considerations/NoBuffVampiricShadowShield"], ["Data.m_Ability", "Spells/Level5/VampiricShadowShield"]], "referenced": [["Data.m_Actions[2]", "Units/Monsters/Hag/SinisterVillage/HagsBrain/Hag_LetindaBrain"]]}

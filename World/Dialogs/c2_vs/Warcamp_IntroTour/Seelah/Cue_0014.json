@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_2_SwordOfValor/Warcamp/IrabethTirabade"], ["Data.m_Listener", "Units/Companions/Seelah/Seelah_Companion"], ["Data.Continue.Cues[0]", "World/Dialogs/c2_vs/Warcamp_IntroTour/Seelah/Cue_0015"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c2_vs/Warcamp_IntroTour/Seelah/Answer_0011"]]}

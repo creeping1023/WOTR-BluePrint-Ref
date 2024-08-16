@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "Test/Blueprints/Area 52"], ["Data.m_EnterPoint", "Test/Blueprints/Area52EnterPoint"], ["Data.m_PlayerCharacter", "PlayerFighterPregen"], ["Data.m_Campaign", "DLC/MainGame/MainCampaign"]], "referenced": [["Data.m_DefaultPreset", "Test/Blueprints/Area 52"]]}

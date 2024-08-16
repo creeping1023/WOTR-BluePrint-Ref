@@ -1,0 +1,1 @@
+{"referencing": [["Data.TriggerConditions.Conditions[1].m_ConditionFlag", "World/Encounters/DefendersHeart/UnlockableFlags/SE_Alarm_on"], ["Data.EnterActions.Actions[0].m_Cutscene", "World/Cutscenes/DefendersHeart/AlarmCutScene/AlarmCutScene"]]}

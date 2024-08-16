@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Weapon", "Weapons/Items/Standard/NaturalWeapon/Claw2d8"]], "referenced": [["Data.AddFeatures[9].m_Features[0]", "Classes/Warpriest/Archetypes/FeralChampion/FeralChampionArchetype"], ["Data.Components[4].m_Feature", "Classes/Warpriest/Archetypes/FeralChampion/FeralChampionClawsFeature"]]}

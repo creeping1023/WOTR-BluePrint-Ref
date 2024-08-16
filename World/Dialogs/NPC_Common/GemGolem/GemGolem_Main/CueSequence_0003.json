@@ -1,0 +1,1 @@
+{"referencing": [["Data.Cues[0]", "World/Dialogs/NPC_Common/GemGolem/GemGolem_Main/Cue_0026"], ["Data.Cues[1]", "World/Dialogs/NPC_Common/GemGolem/GemGolem_Main/Cue_5"], ["Data.m_Exit", "World/Dialogs/NPC_Common/GemGolem/GemGolem_Main/SequenceExit_0005"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/NPC_Common/GemGolem/GemGolem_Main/Cue_14"]]}

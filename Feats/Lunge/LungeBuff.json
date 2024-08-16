@@ -1,1 +1,1 @@
-{"referenced": [["Data.m_Description.m_OwnerString", "Items/Rods/Artisan/RodOfUndead/RodOfUndeadBuff"]]}
+{"referenced": [["Data.m_Buff", "Feats/Lunge/LungeToggleAbility"], ["Data.m_Description.m_OwnerString", "Items/Rods/Artisan/RodOfUndead/RodOfUndeadBuff"]]}

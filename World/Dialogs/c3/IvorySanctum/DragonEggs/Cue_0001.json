@@ -1,0 +1,1 @@
+{"referencing": [["Data.Answers[0]", "World/Dialogs/c3/IvorySanctum/DragonEggs/AnswersList_0002"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/IvorySanctum/DragonEggs/CueSequence_0010"]], "referenced": [["Data.CuesSeen[4768]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.FirstCue.Cues[0]", "World/Dialogs/c3/IvorySanctum/DragonEggs/DragonEggs_Dialogue"]]}

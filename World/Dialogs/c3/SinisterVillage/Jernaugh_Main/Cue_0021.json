@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].Holder", "World/Encounters/SinisterVillage/ActionsHolders/AttackVillagers"]], "referenced": [["Data.NextCue.Cues[1]", "World/Dialogs/c3/SinisterVillage/Jernaugh_Main/Answer_0020"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/SinisterVillage/Jernaugh_Main/Cue_0027"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Armies/Leaders/Abilities/RangerAbilities/RangerLethargyTrapFact"], ["Data.Components[1].m_Ability", "Armies/Leaders/Abilities/RangerAbilities/RangerLethargyTrapAbility"]], "referenced": [["Data.Components[0].m_PossibleTrapSkills[4]", "Armies/Leaders/Feats/RangerFeats/Preparation"]]}

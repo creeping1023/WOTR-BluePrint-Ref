@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/WarCamp/KTC2_HellknightsYakerInWarCamp_Drink/CommandMoveUnit"], ["Data.m_Tracks[0].m_EndGate", "World/Cutscenes/WarCamp/KTC2_HellknightsYakerInWarCamp_Drink/gate1"]], "referenced": [["Data.OnShow.Actions[0].m_Cutscene", "World/Dialogs/c2_vs/HellknightsUnderAttack/Warcamp_Yaker_Start/Cue_0010"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Answers[0]", "World/Dialogs/DLC1_Megaepic/Iz/Targona/AnswersList_0003"], ["Data.Continue.Cues[0]", "World/Dialogs/DLC1_Megaepic/Iz/Targona/CueSequence_0001"]], "referenced": [["Data.ShowConditions.Conditions[0].m_Cue", "World/Dialogs/DLC1_Megaepic/Iz/Targona/Answer_11"], ["Data.m_Success", "World/Dialogs/DLC1_Megaepic/Iz/Targona/Check_0005"]]}

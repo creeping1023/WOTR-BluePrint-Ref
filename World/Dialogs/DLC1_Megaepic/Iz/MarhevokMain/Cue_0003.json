@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/DLC1_Megaepic/DLC1_Marhevok_Main"], ["Data.Answers[0]", "World/Dialogs/DLC1_Megaepic/Iz/MarhevokMain/AnswersList_0004"], ["Data.Continue.Cues[0]", "World/Dialogs/DLC1_Megaepic/Iz/MarhevokMain/CueSequence_0005"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/DLC1_Megaepic/Iz/MarhevokMain/Answer_0002"]]}

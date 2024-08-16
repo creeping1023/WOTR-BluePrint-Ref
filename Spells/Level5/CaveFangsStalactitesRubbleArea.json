@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Buff", "Spells/Level5/CaveFangsStalactitesRubbleBuff"]], "referenced": [["Data.Components[0].UnitEnter.Actions[0].IfTrue.Actions[2].m_AreaEffect", "Spells/Level5/CaveFangsStalactitesArea"]]}

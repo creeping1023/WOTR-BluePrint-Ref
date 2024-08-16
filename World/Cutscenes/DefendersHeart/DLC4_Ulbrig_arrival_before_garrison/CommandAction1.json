@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[1].Unit.m_Companion", "Units/Companions/DLC4ShifterCompanion/Ulbrig_Companion"], ["Data.Action.Actions[2].m_Cutscene", "World/Cutscenes/DefendersHeart/AneviaIdleCutscene/AneviaIdleCutscene"]], "referenced": [["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/DefendersHeart/DLC4_Ulbrig_arrival_before_garrison/gate1"]]}

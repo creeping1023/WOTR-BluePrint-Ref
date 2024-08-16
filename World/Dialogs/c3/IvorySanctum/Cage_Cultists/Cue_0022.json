@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Unique/Act_3_DemonsHerecy/IvorySanctum/BlackFireAdeptLeader_Cage"], ["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/IvorySanctum/CultistOpensCages/CultistOpensCages"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/c3/IvorySanctum/Cage_Cultists/Cue_0020"]]}

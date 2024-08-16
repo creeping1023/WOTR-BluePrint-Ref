@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Camellia/Q3_TheFinalDrop/MiscObjects/CamelliaRoom/Cue_0001"]], "referenced": [["Data.EnterActions.Actions[0].m_Dialogue", "World/Encounters/HorgusManor/ScriptZones/Q3_NearCamelliaRoomBark_ScriptZone"]]}

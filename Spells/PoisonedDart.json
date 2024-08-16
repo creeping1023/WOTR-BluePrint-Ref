@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].m_Projectiles[0]", "Dart_projectile"], ["Data.Components[1].m_Weapon", "Weapons/Items/Standard/SimpleRanged/StandardDart"], ["Data.Components[2].Actions.Actions[1].Actions.Actions[0].Failed.Actions[0].m_Buff", "Units/Monsters/Manticore/ManticorePoisonBuff"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/BattleBliss/VellexiaSitting/CommandUnitPlayCutsceneAnimation"]], "referenced": [["Data.Action.Actions[1].m_Cutscene", "World/Cutscenes/Nexus/TeleportToVIP/CommandAction"], ["Data.OnShow.Actions[1].m_Cutscene", "World/Dialogs/c4/RaptureOfRupture/Velexia_First_Date/Cue_0077"]]}

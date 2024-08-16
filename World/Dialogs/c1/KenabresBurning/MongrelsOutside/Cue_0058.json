@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Commoners/Mongrelman/KenabresBurning/MongrelmanMelee_Talking1"]], "referenced": [["Data.NextCue.Cues[1]", "World/Dialogs/c1/KenabresBurning/MongrelsOutside/Answer_0021"], ["Data.Continue.Cues[0]", "World/Dialogs/c1/KenabresBurning/MongrelsOutside/SequenceExit_0048"]]}

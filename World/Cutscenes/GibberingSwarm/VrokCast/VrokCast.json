@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/GibberingSwarm/VrokCast/CommandUnitPlayCutsceneAnimation"], ["Data.m_Tracks[0].m_Commands[1]", "World/Cutscenes/GibberingSwarm/VrokCast/CommandUnitPlayCutsceneAnimation 1"]], "referenced": [["Data.Components[6].Actions.Actions[0].m_Cutscene", "World/Encounters/GibberingSwarm/ComponentLists/GS_Cave"]]}

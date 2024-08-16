@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_flag", "World/Encounters/BattleBliss/UnlockableFlags/Irmangaleth_C3_teleport"], ["Data.OnStop.Actions[1].m_exitPositon", "World/Areas/Act_4_MidnightIsles/BattleBliss/EnterPoints/BattleBliss_Arena_Enter"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/c3/Mythic_Demon/Alushinyrra/Irmangaleth_C3/Cue_0039"]]}

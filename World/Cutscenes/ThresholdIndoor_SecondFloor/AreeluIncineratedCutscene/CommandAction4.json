@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[2].m_Buff", "Spells/Level2/MirrorImageBuff"], ["Data.Action.Actions[3].m_Buff", "Spells/Level3/DisplacementBuff"]], "referenced": [["Data.m_Tracks[2].m_Commands[0]", "World/Cutscenes/ThresholdIndoor_SecondFloor/AreeluIncineratedCutscene/AreeluIncineratedCutscene"]]}

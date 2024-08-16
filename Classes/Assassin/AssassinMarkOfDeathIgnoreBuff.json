@@ -1,0 +1,1 @@
+{"referenced": [["Data.Components[2].ActionsOnAttacker.Actions[0].m_Buff", "Classes/Assassin/AssassinMarkOfDeathBuff"], ["Data.Components[2].Action.Actions[0].IfTrue.Actions[0].m_Buff", "Classes/Assassin/AssassinMarkOfDeathCasterBuff"], ["Data.Components[2].Action.Actions[0].IfFalse.Actions[0].m_Buff", "Classes/Assassin/AssassinMarkOfDeathCasterBuff"]]}

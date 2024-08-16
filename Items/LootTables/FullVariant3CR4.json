@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Item.m_Loot", "Items/LootTables/JewelryCR2"]], "referenced": [["Data.Components[0].m_Items[2].Item.m_Loot", "Items/LootTables/FullCR4"], ["Data.Components[2].m_Loot", "Units/NPC/Commoners/DLC5_Storys_End/DLC5_FrozenTemple/DLC5_CR4_Cultist_HeavyFighterMelee"]]}

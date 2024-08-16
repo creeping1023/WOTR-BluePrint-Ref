@@ -1,0 +1,1 @@
+{"referencing": [["Data.EnterActions.Actions[0].m_Dialogue", "World/Dialogs/DLC6_ADanceOfMasks/RazmirPalace/ChoirDialog/DLC6_ChoirDialog"], ["Data.EnterActions.Actions[1].m_SummonPool", "World/Encounters/DC6_RazmirDungeon/SummonPools/DLC6_ChoirPool"], ["Data.EnterActions.Actions[2].m_SummonPool", "World/Encounters/DC6_RazmirDungeon/SummonPools/DLC6_ChoirCutscene"]]}

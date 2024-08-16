@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].Etude", "World/Etudes/Common/WrathOfTheRighteous/MythicAzata/PlayerIsAzata/AzataRankUp_06"], ["Data.Action.Actions[1].m_SummonPool", "World/Encounters/AzataIsland/SummonPools/Azata_RankUp6"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/AzataIsland/AzataRankUp6_scene/gate4"]]}

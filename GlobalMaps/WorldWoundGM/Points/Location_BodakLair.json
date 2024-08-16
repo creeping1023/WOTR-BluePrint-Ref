@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_GlobalMap", "GlobalMaps/WorldWoundGM/WorldWoundGM"], ["Data.m_AreaEntrance", "World/Areas/Act_3_DemonsHerecy/BodakLair/EnterPoints/BodakLair_Enter"]], "referenced": [["Data.Points[265]", "GlobalMaps/WorldWoundGM/WorldWoundGM"], ["Data.m_Point1", "GlobalMaps/WorldWoundGM/Edges/Edge_BodakLair_Crossroads_NearNothernWW21"]]}

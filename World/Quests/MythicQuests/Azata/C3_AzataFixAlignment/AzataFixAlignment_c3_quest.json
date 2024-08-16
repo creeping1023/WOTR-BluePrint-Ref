@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Objectives[0]", "World/Quests/MythicQuests/Azata/C3_AzataFixAlignment/01_AzataFix"]], "referenced": [["Data.Actions.Actions[13].ConditionsChecker.Conditions[0].m_Quest", "World/Encounters/MidnightFane/ActionsHolders/MidnightFane_InterchapterQuestFail"], ["Data.m_Quest", "World/Quests/MythicQuests/Azata/C3_AzataFixAlignment/01_AzataFix"]]}

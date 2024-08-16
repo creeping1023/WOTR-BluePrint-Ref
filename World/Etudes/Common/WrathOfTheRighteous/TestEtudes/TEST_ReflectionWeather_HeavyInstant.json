@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Parent", "World/Etudes/Common/WrathOfTheRighteous/TestEtudes/TEST_Reflection_Base"], ["Data.ActivationCondition.Conditions[0].m_Flag", "World/Encounters/TestArea1/UnlockableFlags/TEST_ReflectionWeatherChange"]], "referenced": [["Data.m_StartsWith[3]", "World/Etudes/Common/WrathOfTheRighteous/TestEtudes/TEST_Reflection_Base"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Actions.Actions[0].ConditionsChecker.Conditions[0].m_Cue", "World/Dialogs/c5/Mythic_Trickster/Debrief_Nocta/Cue_0010"], ["Data.m_Actions.Actions[0].IfTrue.Actions[0].m_ItemToGive", "Weapons/Items/UniquePF2/Chapter5/HeartbreakerItem"]], "referenced": [["Data.m_Upgraders[506]", "Root/PlayerUpgradeActionsRoot"]]}

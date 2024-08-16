@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ShardItem", "Items/DestructibleItemsShards/MetalShardItem"]], "referenced": [["Data.m_Type", "Units/NPC/Commoners/Spectre/CorpulentSpectreTouch"], ["Data.Components[4].m_WeaponType", "Units/NPC/Commoners/Spectre/SpectreEnergyDrainFeature"]]}

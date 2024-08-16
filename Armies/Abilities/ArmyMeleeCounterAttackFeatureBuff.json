@@ -1,0 +1,1 @@
+{"referenced": [["Data.Components[0].ActionsOnInitiator.Actions[0].IfTrue.Actions[0].ConditionsChecker.Conditions[0].m_Fact", "Armies/Abilities/ArmyMeleeCounterAttackFeature"], ["Data.Components[0].ActionsOnInitiator.Actions[0].IfTrue.Actions[0].IfFalse.Actions[1].Actions.Actions[0].m_Buff", "Armies/Abilities/ArmyMeleeCounterAttackFeature"]]}

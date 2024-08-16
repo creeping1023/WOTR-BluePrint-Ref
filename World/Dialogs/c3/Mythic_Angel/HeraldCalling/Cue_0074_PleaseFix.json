@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].m_Objective", "World/Quests/MythicQuests/Angel/C3_AngelAlignment/01_AngelFix"], ["Data.Continue.Cues[0]", "World/Dialogs/c3/Mythic_Angel/HeraldCalling/Cue_0007Pul"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/c3/Mythic_Angel/HeraldCalling/Answer_0012Pul"]]}

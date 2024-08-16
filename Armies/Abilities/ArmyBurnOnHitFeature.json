@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[2].ActionOnTarget.Actions[0].m_Buff", "Armies/Abilities/ArmyBurnOnHitBuff"]], "referenced": [["Data.m_AddFacts[8]", "Armies/UnitBlueprints/ArmyFireElementalMedium"], ["Data.m_AddFacts[6]", "Armies/UnitBlueprints/ArmyGiantSalamander"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Action.Actions[0].m_SummonPool", "World/Encounters/ThresholdIndoor_SecondFloor/SummonPools/Threshold_AngelEchoAllies"], ["Data.Action.Actions[0].Actions.Actions[0].m_Faction", "Factions/AngelTeam"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/ThresholdIndoor_SecondFloor/Threshold_AngelEchoAlliesArrival/gate17"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/Test/AreeluWelcome_FN/Cue_0001"], ["Data.FinishActions.Actions[0].OnClose.Actions[0].m_Dialogue", "World/Dialogs/c1/GreyGarrison_ChapterEnd/Minagho_Awakening/Minagho_Awakening_dialogue"], ["Data.FinishActions.Actions[1].ActionsOnSpawn.Actions[0].m_Buff", "Buffs/NPC_HealthGuard10"]]}

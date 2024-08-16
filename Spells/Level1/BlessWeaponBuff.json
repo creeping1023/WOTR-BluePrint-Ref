@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_EnchantmentBlueprint", "Weapons/Enchantments/MagicWeapon"], ["Data.Components[1].m_EnchantmentBlueprint", "Weapons/Enchantments/GoodAligned"], ["Data.Components[2].m_EnchantmentBlueprint", "Weapons/Enchantments/CritAutoconfirmAgainstEvil"]], "referenced": [["Data.Components[1].Actions.Actions[0].m_Buff", "Spells/Level1/BlessWeapon"]]}

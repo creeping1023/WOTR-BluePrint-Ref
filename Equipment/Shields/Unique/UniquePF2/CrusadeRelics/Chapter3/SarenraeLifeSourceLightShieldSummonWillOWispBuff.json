@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Activated.Actions[0].Actions.Actions[0].m_Spell", "Equipment/Shields/Unique/UniquePF2/CrusadeRelics/Chapter3/SarenraeLifeSourceLightShieldSummonAbility"]], "referenced": [["Data.Components[0].Actions.Actions[0].IfTrue.Actions[0].m_Buff", "Equipment/Shields/Unique/UniquePF2/CrusadeRelics/Chapter3/SarenraeLifeSourceLightShieldAbility"]]}

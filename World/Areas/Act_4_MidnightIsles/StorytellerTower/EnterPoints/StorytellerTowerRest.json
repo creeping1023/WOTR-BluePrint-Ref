@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Act_4_MidnightIsles/StorytellerTower/StorytellerTower"], ["Data.m_AreaPart", "World/Areas/Act_4_MidnightIsles/StorytellerTower/StorytellerTowerF3"]], "referenced": [["Data.Action.Actions[0].m_exitPositon", "World/Cutscenes/StorytellerTower/StorytellerTowerRest/CommandAction"]]}

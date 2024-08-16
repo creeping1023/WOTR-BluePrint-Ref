@@ -1,0 +1,1 @@
+{"referenced": [["Data.Components[0].Action.Actions[0].ConditionsChecker.Conditions[0].Buff", "Mythic/MythicAbilities/RangingShots"], ["Data.Components[0].Action.Actions[0].IfTrue.Actions[0].m_Buff", "Mythic/MythicAbilities/RangingShots"], ["Data.Components[2].Action.Actions[0].m_Buff", "Mythic/MythicAbilities/RangingShots"]]}

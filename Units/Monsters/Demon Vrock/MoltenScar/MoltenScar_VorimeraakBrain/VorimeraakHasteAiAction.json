@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/NoThreateningUnitsConsideration"], ["Data.m_ActorConsiderations[1]", "Brain/Considerations/NoBuffHaste"], ["Data.m_Ability", "Spells/Level3/Haste"]], "referenced": [["Data.m_Actions[5]", "Units/Monsters/Demon Vrock/MoltenScar/MoltenScar_VorimeraakBrain/MoltenScar_VorimeraakBrain"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.FirstCue.Cues[0]", "World/Dialogs/c0/CavesUnderKenabres/MeetSeelahAnevia/Cue_0001"]], "referenced": [["Data.Action.Actions[0].m_Dialogue", "World/Cutscenes/Prologue_Caves_1/PlayerApproachesSeelah/CommandAction"], ["Data.EnterActions.Actions[0].IfTrue.Actions[0].m_Dialogue", "World/Encounters/Prologue_Caves_1/ScriptZones/AneviaDialogueTrigger"]]}

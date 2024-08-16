@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].m_Etude", "World/Etudes/Common/WrathOfTheRighteous/Chapter03/CapitalMechanic/Ch5_KTC_and_Timeline/GreyborOnWatch"], ["Data.Unit.m_SummonPool", "World/Encounters/GreyborQ3_DryCrossroads/SummonPools/GreyborCopy"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/DrezenCapital/BedroomAssassination/gate1"]]}

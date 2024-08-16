@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[1].Actions.Actions[0].m_Buff", "Spells/Level2/AnimalAspectGorillaBuff"], ["Data.m_Parent", "Spells/Level2/AnimalAspectBase"]], "referenced": [["Data.m_Ability", "Items/Scrolls/Level2/ScrollOfAnimalAspectGorilla"], ["Data.Components[0].m_Variants[0]", "Spells/Level2/AnimalAspectBase"]]}

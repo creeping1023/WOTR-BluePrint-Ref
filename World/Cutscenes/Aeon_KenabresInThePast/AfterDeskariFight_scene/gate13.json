@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/Aeon_KenabresInThePast/AfterDeskariFight_scene/CommandAction8"], ["Data.m_Tracks[1].m_Commands[0]", "World/Cutscenes/Aeon_KenabresInThePast/AfterDeskariFight_scene/CommandBark2"]], "referenced": [["Data.m_Tracks[5].m_EndGate", "World/Cutscenes/Aeon_KenabresInThePast/AfterDeskariFight_scene/gate9"]]}

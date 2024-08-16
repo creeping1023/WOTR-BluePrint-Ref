@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_Quest", "World/Quests/Companions/Daeran/Q3_OneFinalBreath/OneFinalBreath_DaeranQ3_quest"], ["Data.Answers[0]", "World/Dialogs/c6/ThresholdExterior/CompanionFarewells/DaeranFarewell/AnswersList_0005"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/c6/ThresholdExterior/CompanionFarewells/DaeranFarewell/Cue_0002"]]}

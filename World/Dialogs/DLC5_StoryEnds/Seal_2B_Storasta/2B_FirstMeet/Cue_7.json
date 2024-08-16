@@ -1,0 +1,1 @@
+{"referencing": [["Data.Continue.Cues[0]", "World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/2B_FirstMeet/Cue_0009"]], "referenced": [["Data.ShowConditions.Conditions[0].m_Cue", "World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/2B_FirstMeet/Answer_0008"], ["Data.m_Success", "World/Dialogs/DLC5_StoryEnds/Seal_2B_Storasta/2B_FirstMeet/Check_0005"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.Answers[0]", "World/Dialogs/c3/TempleOfDelamere/KyadoDrezen/AnswersList_0003"]], "referenced": [["Data.ShowConditions.Conditions[0].m_Cue", "World/Dialogs/c3/TempleOfDelamere/KyadoDrezen/Answer_0004"], ["Data.NextCue.Cues[0]", "World/Dialogs/c3/TempleOfDelamere/KyadoDrezen/Answer_0007"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_ActorConsiderations[0]", "Brain/Considerations/SwiftActionOffCooldown"], ["Data.m_Ability", "Spells/Level4/DivinePower"]], "referenced": [["Data.m_Actions[1]", "Units/NPC/Unique/Act_2_SwordOfValor/DrezenCitadelLevel2/StauntonVaneBrain/StauntonVaneBrain"], ["Data.m_Actions[1]", "Units/NPC/Unique/DLC1_Megaepic/Brains/DLC1_Staunton_Brain"]]}

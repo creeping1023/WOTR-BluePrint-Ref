@@ -1,0 +1,1 @@
+{"referencing": [["Data.NextCue.Cues[0]", "World/Dialogs/c4/Mythic_Trickster/Council_Lexicon2/Cue_0014"], ["Data.OnSelect.Actions[0].m_flag", "World/Encounters/TricksterCouncil/UnlockableFlags/ApplauseEnd"]], "referenced": [["Data.Answers[2]", "World/Dialogs/c4/Mythic_Trickster/Council_Lexicon2/AnswersList_0006"]]}

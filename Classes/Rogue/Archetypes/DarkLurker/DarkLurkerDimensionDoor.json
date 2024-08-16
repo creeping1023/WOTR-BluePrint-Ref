@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Parent", "Spells/Level4/DimensionDoorBase"]], "referenced": [["Data.Components[1].Action.Actions[2].m_Spell", "Classes/Rogue/Archetypes/DarkLurker/DarkLurkerBladeFromShadowsAbility"], ["Data.Components[1].Action.Actions[2].m_Spell", "Classes/Rogue/Archetypes/DarkLurker/DarkLurkerBladeFromShadowsFullAttackAbility"]]}

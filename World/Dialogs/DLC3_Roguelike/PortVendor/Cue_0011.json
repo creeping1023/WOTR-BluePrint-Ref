@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_BlueprintCampaign", "DLC/DLC3/Dlc3Campaign"], ["Data.Speaker.m_Blueprint", "Units/NPC/Commoners/DLC3_RogueLike/DLC3_VendorInPort_tier1_original"], ["Data.Answers[0]", "World/Dialogs/DLC3_Roguelike/PortVendor/AnswersList_0007"]], "referenced": [["Data.NextCue.Cues[1]", "World/Dialogs/DLC3_Roguelike/PortVendor/Answer_0009"]]}

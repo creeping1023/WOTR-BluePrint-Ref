@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnStop.Actions[0].Recruited[0].m_CompanionBlueprint", "Units/Companions/Daeran/Daeran_Companion"]], "referenced": [["Data.CuesSeen[1503]", "QA/Clockwork/Scenario/Act_1/Efimov_Summit_preset"], ["Data.NextCue.Cues[0]", "World/Dialogs/c1/KenabresBurning/OraclePartyHouse/Daeran_FirstMeet/Answer_0031"]]}

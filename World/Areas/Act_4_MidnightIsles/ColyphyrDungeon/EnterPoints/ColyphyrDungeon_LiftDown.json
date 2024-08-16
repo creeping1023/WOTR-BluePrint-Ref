@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Area", "World/Areas/Act_4_MidnightIsles/ColyphyrDungeon/ColyphyrDungeon"], ["Data.m_AreaPart", "World/Areas/Act_4_MidnightIsles/ColyphyrDungeon/ColyphyrDungeon_LowerLevels"]], "referenced": [["Data.Action.Actions[0].m_exitPositon", "World/Cutscenes/ColyphyrDungeon/ColyphyrDungeon_Lift/CommandAction 4"]]}

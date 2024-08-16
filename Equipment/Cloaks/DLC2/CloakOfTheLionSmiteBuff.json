@@ -1,0 +1,1 @@
+{"referencing": [["Data.Components[0].m_Facts[0]", "Equipment/Cloaks/DLC2/CloakOfTheLionAbility"]], "referenced": [["Data.Components[0].Activated.Actions[0].IfTrue.Actions[1].IfTrue.Actions[0].m_Buff", "Equipment/Cloaks/DLC2/CloakOfTheLionFeature"], ["Data.Components[0].Deactivated.Actions[0].m_Buff", "Equipment/Cloaks/DLC2/CloakOfTheLionFeature"]]}

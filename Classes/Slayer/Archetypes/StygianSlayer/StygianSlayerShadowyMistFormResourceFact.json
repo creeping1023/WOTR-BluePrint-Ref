@@ -1,1 +1,1 @@
-{"referencing": [["Data.m_Description.m_OwnerString", "Classes/Bard/BardicPerformances/BardicPerformanceResourceFact"]]}
+{"referencing": [["Data.Components[0].m_Resource", "Classes/Slayer/Archetypes/StygianSlayer/StygianSlayerShadowyMistFormResource"], ["Data.m_Description.m_OwnerString", "Classes/Bard/BardicPerformances/BardicPerformanceResourceFact"]], "referenced": [["Data.AddFeatures[3].m_Features[0]", "Classes/Slayer/Archetypes/StygianSlayer/StygianSlayerArchetype"]]}

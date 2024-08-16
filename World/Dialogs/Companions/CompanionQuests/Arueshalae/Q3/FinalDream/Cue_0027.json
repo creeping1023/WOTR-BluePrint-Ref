@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/NPC/Commoners/Shadow/CR0_ArueshalaeNightmare"], ["Data.OnStop.Actions[0].m_Cutscene", "World/Cutscenes/Arueshalae_Q3_WhatYouDreamOf/Shadows_Phase_2/Shadows_Phase_2"]], "referenced": [["Data.Continue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Arueshalae/Q3/FinalDream/Cue_0026"]]}

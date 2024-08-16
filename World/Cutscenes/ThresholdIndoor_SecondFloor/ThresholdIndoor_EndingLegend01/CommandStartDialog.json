@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_SummonPool", "World/Encounters/ThresholdIndoor_SecondFloor/SummonPools/Threshold_LegendShadowCutscene"], ["Data.m_Dialog", "World/Dialogs/c6/SecondFloor/InTheWound/InTheWound_Legend_dialog"]], "referenced": [["Data.m_Tracks[0].m_Commands[0]", "World/Cutscenes/ThresholdIndoor_SecondFloor/ThresholdIndoor_EndingLegend01/gate1"]]}

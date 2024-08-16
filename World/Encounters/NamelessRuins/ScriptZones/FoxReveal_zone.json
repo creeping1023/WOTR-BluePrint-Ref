@@ -1,0 +1,1 @@
+{"referencing": [["Data.TriggerConditions.Conditions[0].m_companion", "Units/Companions/Nenio/Nenio_Companion"], ["Data.TriggerConditions.Conditions[1].m_QuestObjective", "World/Quests/Companions/Nenio/MoreThanNothing/obj2_BringNenioToPortal"], ["Data.EnterActions.Actions[1].m_Cutscene", "World/Cutscenes/NamelessRuins/FoxRevealZone_scene/FoxRevealZone_scene"]]}

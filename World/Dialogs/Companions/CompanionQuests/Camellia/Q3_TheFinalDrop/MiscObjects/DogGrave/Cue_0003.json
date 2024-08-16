@@ -1,0 +1,1 @@
+{"referencing": [["Data.Speaker.m_Blueprint", "Units/Companions/Camelia/Camelia_Companion"]], "referenced": [["Data.NextCue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Camellia/Q3_TheFinalDrop/MiscObjects/DogGrave/Answer_0006"], ["Data.Continue.Cues[0]", "World/Dialogs/Companions/CompanionQuests/Camellia/Q3_TheFinalDrop/MiscObjects/DogGrave/Cue_0007"]]}

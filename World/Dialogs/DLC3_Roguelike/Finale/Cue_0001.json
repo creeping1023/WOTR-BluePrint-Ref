@@ -1,0 +1,1 @@
+{"referencing": [["Data.Conditions.Conditions[0].m_ConditionFlag", "World/Encounters/DLC3_DemonsHeart/UnlockableFlags/DLC3_EndingSelection"], ["Data.Continue.Cues[0]", "World/Dialogs/DLC3_Roguelike/Finale/Cue_2"]], "referenced": [["Data.FirstCue.Cues[0]", "World/Dialogs/DLC3_Roguelike/Finale/DLC3_Finale_dialogue"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.m_Objectives[0]", "World/Quests/DLC4_Shifter/Errand_Shifter_AfterQ2/Objective_0001"]], "referenced": [["Data.Components[1].Actions.Actions[4].ConditionsChecker.Conditions[0].m_Quest", "World/Etudes/Common/DLC4_Shifter"], ["Data.m_Quest", "World/Quests/DLC4_Shifter/Errand_Shifter_AfterQ2/Objective_0001"]]}

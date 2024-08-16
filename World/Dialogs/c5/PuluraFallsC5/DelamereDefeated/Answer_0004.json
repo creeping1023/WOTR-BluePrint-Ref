@@ -1,0 +1,1 @@
+{"referencing": [["Data.OnSelect.Actions[0].m_SummonPool", "World/Encounters/PuluraFall/SummonPools/PuluraFall_DelamereAll"], ["Data.OnSelect.Actions[0].Actions.Actions[0].m_Faction", "Factions/Mobs"]], "referenced": [["Data.Answers[3]", "World/Dialogs/c5/PuluraFallsC5/DelamereDefeated/AnswersList_0002"]]}

@@ -1,0 +1,1 @@
+{"referencing": [["Data.EntryCondition.Conditions[0].Unit.m_Companion", "Units/Companions/Seelah/Seelah_Companion"], ["Data.Action.Actions[0].Unit.m_Companion", "Units/Companions/Seelah/Seelah_Companion"]], "referenced": [["Data.m_Tracks[4].m_Commands[0]", "World/Cutscenes/Prologue_Caves_1/Meet_Camelia/Meet_Camelia"]]}
